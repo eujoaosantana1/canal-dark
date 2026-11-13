@@ -1,0 +1,609 @@
+{
+ "001": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "420 bilhões de reais. Foi que os brasileiros compraram no cartão em só três meses, no famoso parcelado sem juros.",
+  "dur": 9.34,
+  "tent": 1
+ },
+ "002": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Quase metade de tudo o que passa no cartão de crédito no Brasil é dividido em vezes.",
+  "dur": 4.59,
+  "tent": 1
+ },
+ "004": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o Cauã assinou 14 vezes, em 14 lojas diferentes.",
+  "dur": 4.92,
+  "tent": 1
+ },
+ "006": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hoje a gente vai descobrir se os sem-juros é mesmo sem-juros e o que acontece quando o universo deixa o Kauan parcelar tudo. Tudo mesmo.",
+  "dur": 8.95,
+  "tent": 1
+ },
+ "007": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você, quantas parcelas têm abertas agora? Guarda esse número. Fica até o fim, porque o universo atendeu o pedido do Kawa, do jeito dele.",
+  "dur": 9.04,
+  "tent": 1
+ },
+ "008": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O Kaohan tem 24 anos, trabalha num call center em Belo Horizonte e ganha R$ 2.200 por mês.",
+  "dur": 6.84,
+  "tent": 1
+ },
+ "009": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mora com a mãe, a dona socorro, que anota tudo num caderno. Menos as parcelas do filho, porque ele não conta.",
+  "dur": 6.82,
+  "tent": 1
+ },
+ "012": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E é verdade, uma parcela sozinha ninguém sente, o problema é quando elas se encontram.",
+  "dur": 5.1,
+  "tent": 1
+ },
+ "013": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O celular 12 de 250, o videogame 10 de 220, o sofá 10 de 160, a viagem para a praia 10 de 150.",
+  "dur": 11.47,
+  "tent": 1
+ },
+ "014": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A geladeira da mãe, o concerto da moto, o curso, a academia, o presente da namorada, a jaqueta, o perfume, o tênis, o óculos e o fone.",
+  "dur": 11.11,
+  "tent": 1
+ },
+ "015": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "14 parcelas, somadas R$ 1.540 por mês, 70% do salário, antes de ele comprar um pão.",
+  "dur": 8.85,
+  "tent": 1
+ },
+ "016": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas era tudo sem juros? Então, qual é o problema?",
+  "dur": 2.63,
+  "tent": 1
+ },
+ "017": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Volta lá na loja do celular, na vitrine, 3 mil reais em 12 de 250.",
+  "dur": 6.04,
+  "tent": 1
+ },
+ "021": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Não é bem promoção. Quando você parcela, a loja recebe aos poucos. Se ela quer o dinheiro antes, paga uma taxa para antecipar, mais a taxa da maquininha.",
+  "dur": 9.27,
+  "tent": 1
+ },
+ "022": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Muita loja coloca esse custo no preço, e desde 2017, a lei deixa a loja dar desconto para quem paga a vista.",
+  "dur": 6.62,
+  "tent": 1
+ },
+ "023": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No celular do Kauan, os 300 reais de diferença são os juros, só que escondidos no preço.",
+  "dur": 6.23,
+  "tent": 1
+ },
+ "024": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dia 10. Chega a fatura.",
+  "dur": 2.1,
+  "tent": 1
+ },
+ "025": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "As 14 parcelas, 1.540. Mais o mercado, o aplicativo de comida e a recarga do celular, tudo no cartão, 600.",
+  "dur": 9.06,
+  "tent": 1
+ },
+ "026": {
+  "status": "ERRO",
+  "problemas": [
+   "sobrando: reais"
+  ],
+  "ouvido": "total R$ 2.140. O salário é R$ 2.200.",
+  "dur": 4.94,
+  "tent": 2
+ },
+ "030": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Então o Kaohan fez o que muita gente faz, pagou mil reais da fatura e deixou o resto para depois.",
+  "dur": 6.41,
+  "tent": 1
+ },
+ "031": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O resto, R$1140, caiu no rotativo do cartão. Um dos juros mais caros do país, mais de 15% ao mês.",
+  "dur": 8.57,
+  "tent": 1
+ },
+ "032": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No mês seguinte, além das 14 parcelas, vieram mais 170 reais, só de juros.",
+  "dur": 5.82,
+  "tent": 1
+ },
+ "033": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e foi nesta noite com a fatura aberta no celular que o Kaohan fez um pedido.",
+  "dur": 5.07,
+  "tent": 1
+ },
+ "035": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o pedido subiu, direto para a repartição do universo.",
+  "dur": 4.29,
+  "tent": 1
+ },
+ "041": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No dia seguinte, tudo no Brasil passou a ser em 12 vezes.",
+  "dur": 3.88,
+  "tent": 1
+ },
+ "042": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A coxinha da padaria, 12 de 50 centavos.",
+  "dur": 3.46,
+  "tent": 1
+ },
+ "044": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O corte de cabelo 12 de 3 reais, o cafezinho 12 de 25 centavos, a passagem de ônibus também em 12 vezes.",
+  "dur": 10.01,
+  "tent": 1
+ },
+ "045": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o Kauan, que nunca tinha dinheiro para nada, de repente podia tudo. Tenis novo, almoço para os amigos, táxi.",
+  "dur": 8.64,
+  "tent": 1
+ },
+ "048": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "porque cada coxinha voltava no mês seguinte, e no outro, e no outro.",
+  "dur": 5.18,
+  "tent": 2
+ },
+ "049": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: nao"
+  ],
+  "ouvido": "Três meses depois, o Kawano tinha mais 14 parcelas. Tinha 382.",
+  "dur": 6.53,
+  "tent": 1
+ },
+ "050": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A fatura chegou num rolo de papel do tamanho do corredor.",
+  "dur": 3.73,
+  "tent": 1
+ },
+ "051": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E aí chegou o dia do pagamento.",
+  "dur": 2.23,
+  "tent": 1
+ },
+ "053": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O aplicativo do banco apitua. Depósito. 183 reais e 33 centavos.",
+  "dur": 6.11,
+  "tent": 1
+ },
+ "055": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "primeira parcela de 12, do salário dele, sem juros.",
+  "dur": 3.98,
+  "tent": 1
+ },
+ "056": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A empresa também tinha recebido o pedido, tudo em 12 vezes, inclusive o que ela pagava.",
+  "dur": 6.24,
+  "tent": 1
+ },
+ "064": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o Brasil voltou ao normal, até porque o parcelado sem juros é muito brasileiro.",
+  "dur": 5.49,
+  "tent": 1
+ },
+ "065": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No terceiro trimestre deste ano, 43% de tudo que se comprou no cartão de crédito foi no parcelado sem juros. O dado é da ABEX, a Associação das Empresas de Cartão.",
+  "dur": 10.76,
+  "tent": 1
+ },
+ "066": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E aqui tem dois lados.",
+  "dur": 1.39,
+  "tent": 1
+ },
+ "067": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "De um lado, quando o preço à vista é igual o parcelado, parcelar sem juros é um bom negócio, o dinheiro fica com você a mais tempo. E a maioria paga a fatura certinho, 85% numa pesquisa da ABEX com o Data Folha.",
+  "dur": 13.43,
+  "tent": 1
+ },
+ "068": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Do outro lado, os 100 juros, muitas vezes tem juros dentro do preço. E parcela pequena engana, cada uma parece leve, somadas viram um segundo aluguel.",
+  "dur": 11.37,
+  "tent": 1
+ },
+ "075": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Desde 2024, uma lei limita isso. Os juros e encargos do rotativo não podem passar do valor da dívida original. Uma dívida de 1000 pode virar no máximo 2000.",
+  "dur": 11.33,
+  "tent": 1
+ },
+ "077": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o Cauã pegou o caderno da mãe emprestado.",
+  "dur": 3.37,
+  "tent": 1
+ },
+ "078": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "escreveu as 14 parcelas, uma embaixo da outra. Como conta fixa, igual luz e água.",
+  "dur": 5.8,
+  "tent": 1
+ },
+ "080": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e passou a fazer uma pergunta antes de qualquer compra.",
+  "dur": 2.78,
+  "tent": 1
+ },
+ "085": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você, quantas parcelas têm abertas agora? Somadas, quanto dão por mês? Conta aqui embaixo, a gente lê tudo.",
+  "dur": 7.31,
+  "tent": 1
+ },
+ "003": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Doze vezes sem juros. Sem entrada, é só assinar aqui.",
+  "dur": 3.64,
+  "tent": 1
+ },
+ "018": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas se for no PIX, a vista sai por 2700.",
+  "dur": 3.62,
+  "tent": 1
+ },
+ "020": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Porque é promoção!",
+  "dur": 0.77,
+  "tent": 1
+ },
+ "082": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A vista, 10% de desconto.",
+  "dur": 2.08,
+  "tent": 1
+ },
+ "005": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas é sem juros, gente. Sem juros não é dívida, é organização.",
+  "dur": 4.23,
+  "tent": 1
+ },
+ "011": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "É um fone, mãe, seis vezes de trinta e cinco, nem sente.",
+  "dur": 3.1,
+  "tent": 1
+ },
+ "019": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ué, se o parcelado é 100 juros porque o avista é mais barato.",
+  "dur": 3.06,
+  "tent": 1
+ },
+ "027": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Sobram 60 reais para o mês inteiro.",
+  "dur": 2.95,
+  "tent": 1
+ },
+ "029": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mãe, dá pra parcelar a luz.",
+  "dur": 1.53,
+  "tent": 1
+ },
+ "034": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Querido universo, o problema é que as coisas custam muito de uma vez só. Deixa eu parcelar tudo, tudo mesmo, em 12 vezes sem juros. Valeu. Cauã.",
+  "dur": 9.91,
+  "tent": 1
+ },
+ "043": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso! Comi uma coxinha e paguei 50 centavos!",
+  "dur": 3.54,
+  "tent": 1
+ },
+ "046": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mãe, eu tô rico em 12 vezes, mas tô rico!",
+  "dur": 3.16,
+  "tent": 1
+ },
+ "052": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "dia 5, salário",
+  "dur": 2.14,
+  "tent": 1
+ },
+ "054": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: cento oitenta",
+   "início diferente",
+   "sobrando: cintiritinti"
+  ],
+  "ouvido": "CINTIRITINTI 3",
+  "dur": 1.53,
+  "tent": 1
+ },
+ "057": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Universo! Meu salário não é coxinha!",
+  "dur": 2.44,
+  "tent": 1
+ },
+ "060": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Desfaz, pelo amor de Deus, desfaz!",
+  "dur": 3.15,
+  "tent": 1
+ },
+ "079": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "mil quinhentos e quarenta. Tá, agora eu tô vendo.",
+  "dur": 3.09,
+  "tent": 1
+ },
+ "081": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Moço, o quanto fica no Pix?",
+  "dur": 1.31,
+  "tent": 1
+ },
+ "083": {
+  "status": "ERRO",
+  "problemas": [
+   "rápido demais (25 car/s)"
+  ],
+  "ouvido": "Então eu volto quando tiver o PIX.",
+  "dur": 1.34,
+  "tent": 1
+ },
+ "010": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Kawan, chegou mais uma caixa no seu nome.",
+  "dur": 2.33,
+  "tent": 1
+ },
+ "028": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E a conta de luz que você prometeu dividir comigo?",
+  "dur": 2.2,
+  "tent": 1
+ },
+ "047": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Filho, rico em 12 vezes é pobre por um ano.",
+  "dur": 3.02,
+  "tent": 1
+ },
+ "069": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Parcela é igual formiga, uma não faz nada, mil levam o açúcar.",
+  "dur": 4.37,
+  "tent": 1
+ },
+ "084": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esse é o meu filho, em uma vez só.",
+  "dur": 2.46,
+  "tent": 1
+ },
+ "036": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hmm, pedido número 2026, barra 12, parcelar tudo.",
+  "dur": 5.62,
+  "tent": 2
+ },
+ "038": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "tudo. Ele escreveu tudo mesmo, sublinhado duas vezes.",
+  "dur": 3.56,
+  "tent": 1
+ },
+ "040": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "12 vezes sem juros. Deferido.",
+  "dur": 2.42,
+  "tent": 1
+ },
+ "058": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O pedido dizia tudo. Tudo inclui o salário.",
+  "dur": 3.01,
+  "tent": 1
+ },
+ "061": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Desfazer também é em 12 vezes.",
+  "dur": 2.1,
+  "tent": 1
+ },
+ "063": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tá bom. Desfaz tudo. A vista.",
+  "dur": 2.75,
+  "tent": 1
+ },
+ "070": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e a repartição fez a conta do Brasil.",
+  "dur": 2.07,
+  "tent": 1
+ },
+ "071": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: virgula"
+  ],
+  "ouvido": "Em outubro, 81,6% das famílias tinham alguma dívida para pagar. Cartão, carne, empréstimo, financiamento, 8 em cada 10.",
+  "dur": 9.48,
+  "tent": 1
+ },
+ "072": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Em setembro, 84 milhões e 200 mil pessoas estavam com o nome negativado, recorde, com uma dívida média de 7 mil reais.",
+  "dur": 8.54,
+  "tent": 1
+ },
+ "073": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e bancos e cartões estão em primeiro lugar na lista de quem cobra.",
+  "dur": 3.49,
+  "tent": 1
+ },
+ "074": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O rotativo do cartão, aquele de quando você paga só uma parte da fatura, chegou a 451% ao ano.",
+  "dur": 6.95,
+  "tent": 1
+ },
+ "076": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No máximo, a repartição acha que dobrar já é bastante.",
+  "dur": 3.32,
+  "tent": 1
+ },
+ "037": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tudo que é.",
+  "dur": 0.62,
+  "tent": 1
+ },
+ "039": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso não vai dar certo.",
+  "dur": 1.45,
+  "tent": 1
+ },
+ "059": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Eu avisei.",
+  "dur": 1.18,
+  "tent": 1
+ },
+ "062": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "contador.",
+  "dur": 0.65,
+  "tent": 1
+ }
+}

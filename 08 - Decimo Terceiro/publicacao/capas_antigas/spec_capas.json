@@ -1,0 +1,56 @@
+[
+    {
+        "nome":  "A",
+        "img":  "C:\\Users\\JCS\\Downloads\\Canal Dark\\viralstick\\projects\\decimo-terceiro\\build\\stills\\295.74s_295.74.png",
+        "zoom":  1.05,
+        "foco":  [
+                     0.5,
+                     0.45
+                 ],
+        "textos":  [
+                       {
+                           "txt":  "UM ANO SEM 13º",
+                           "x":  0.5,
+                           "y":  0.87,
+                           "tam":  104,
+                           "cor":  "#FFFFFF",
+                           "fundo":  "#E62B2B"
+                       }
+                   ]
+    },
+    {
+        "nome":  "B",
+        "img":  "C:\\Users\\JCS\\Downloads\\Canal Dark\\viralstick\\projects\\decimo-terceiro\\build\\stills\\330.35s_330.35.png",
+        "textos":  [
+                       {
+                           "txt":  "SEM 13º,",
+                           "x":  0.19,
+                           "y":  0.36,
+                           "tam":  100,
+                           "cor":  "#FFE14D"
+                       },
+                       {
+                           "txt":  "SEM NATAL",
+                           "x":  0.19,
+                           "y":  0.56,
+                           "tam":  84,
+                           "cor":  "#FFFFFF",
+                           "fundo":  "#E62B2B"
+                       }
+                   ]
+    },
+    {
+        "nome":  "C",
+        "img":  "C:\\Users\\JCS\\Downloads\\Canal Dark\\viralstick\\projects\\decimo-terceiro\\build\\stills\\29.43s_29.43.png",
+        "textos":  [
+                       {
+                           "txt":  "ACABOU O 13º?!",
+                           "x":  0.5,
+                           "y":  0.12,
+                           "tam":  100,
+                           "cor":  "#FFFFFF",
+                           "fundo":  "#E62B2B"
+                       }
+                   ]
+    }
+]

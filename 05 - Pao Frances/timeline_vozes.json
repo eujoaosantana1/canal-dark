@@ -1,0 +1,661 @@
+{
+ "total": 478.587,
+ "lines": [
+  {
+   "clip": "001",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 0.4,
+   "end": 11.197,
+   "text": "Seis da manhã. Paris. Uma padaria pequena numa esquina. E um senhor de chapéu de padeiro, com uma cesta de pão debaixo do braço, falando português."
+  },
+  {
+   "clip": "002",
+   "who": "SEU NENÊ",
+   "sec": 1,
+   "start": 11.647,
+   "end": 14.889,
+   "text": "Bom dia! Eu vim trazer o pão de vocês de volta!"
+  },
+  {
+   "clip": "003",
+   "who": "LUC",
+   "sec": 1,
+   "start": 15.339,
+   "end": 17.027,
+   "text": "Pardon. Que pão é este?"
+  },
+  {
+   "clip": "004",
+   "who": "SEU NENÊ",
+   "sec": 1,
+   "start": 17.477,
+   "end": 19.994,
+   "text": "Como assim, que pão? É o pão francês!"
+  },
+  {
+   "clip": "005",
+   "who": "LUC",
+   "sec": 1,
+   "start": 20.444,
+   "end": 24.772,
+   "text": "Monsieur, eu sou padeiro em Paris há quarenta anos. Este pão eu nunca vi na vida."
+  },
+  {
+   "clip": "006",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 25.222,
+   "end": 35.775,
+   "text": "O Brasil vende mais de dois milhões de toneladas de pão francês por ano. É o pão mais vendido das padarias do país. E na França ninguém nunca ouviu falar dele."
+  },
+  {
+   "clip": "007",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 36.125,
+   "end": 44.831,
+   "text": "E você? Já sabia disso? Fica até o fim. Porque o que aconteceu com a cesta do Seu Nenê em Paris ninguém esperava. Nem os franceses."
+  },
+  {
+   "clip": "008",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 45.731,
+   "end": 52.967,
+   "text": "Você talvez lembre dele. Seu Nenê. Sessenta e sete anos. Dono da Padaria do Nenê, em Guarulhos."
+  },
+  {
+   "clip": "009",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 53.317,
+   "end": 61.834,
+   "text": "Acorda às três e quarenta há quarenta e cinco anos. A primeira fornada sai às seis em ponto. Nunca atrasou. Nem no dia do casamento."
+  },
+  {
+   "clip": "010",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 62.184,
+   "end": 70.976,
+   "text": "Casca fina, que estala quando aperta. Miolo branquinho. Um pão de cinquenta gramas, quentinho, com manteiga derretendo."
+  },
+  {
+   "clip": "011",
+   "who": "SEU NENÊ",
+   "sec": 2,
+   "start": 71.426,
+   "end": 76.316,
+   "text": "Pão francês bom a gente conhece pelo barulho. Escuta. Craque."
+  },
+  {
+   "clip": "012",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 76.766,
+   "end": 82.431,
+   "text": "E todo dia, às seis e cinco, entra o Valdir. Pede um pingado. Agora vem cheio."
+  },
+  {
+   "clip": "013",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 83.331,
+   "end": 93.533,
+   "text": "Até que um dia, do outro lado da rua, abriu uma padaria nova. Maison Gabriel. Fermentação natural. Pão de quarenta reais. Fila na porta."
+  },
+  {
+   "clip": "014",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 93.883,
+   "end": 101.675,
+   "text": "E o dono, Gabriel. Vinte e nove anos. Avental de linho, bigode encerado, cento e oitenta mil seguidores."
+  },
+  {
+   "clip": "015",
+   "who": "GABRIEL",
+   "sec": 3,
+   "start": 102.125,
+   "end": 107.551,
+   "text": "Seu Nenê, com todo respeito. Esse pão aí nem é francês. Na França ninguém come isso."
+  },
+  {
+   "clip": "016",
+   "who": "SEU NENÊ",
+   "sec": 3,
+   "start": 108.001,
+   "end": 111.731,
+   "text": "Como não? Tá no nome, menino. Pão francês."
+  },
+  {
+   "clip": "017",
+   "who": "GABRIEL",
+   "sec": 3,
+   "start": 112.181,
+   "end": 116.646,
+   "text": "O nome engana. É pão de mentira. Pão de verdade leva três dias pra ficar pronto."
+  },
+  {
+   "clip": "018",
+   "who": "SEU NENÊ",
+   "sec": 3,
+   "start": 117.096,
+   "end": 120.814,
+   "text": "O meu leva três horas. E o povo come no mesmo dia."
+  },
+  {
+   "clip": "019",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 121.264,
+   "end": 125.83,
+   "text": "A clientela riu. Mas naquela semana metade dela atravessou a rua."
+  },
+  {
+   "clip": "020",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 126.18,
+   "end": 131.555,
+   "text": "E o Seu Nenê, pela primeira vez em quarenta e cinco anos, ficou com pão sobrando no balcão."
+  },
+  {
+   "clip": "021",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 132.455,
+   "end": 138.457,
+   "text": "Naquela madrugada, enquanto a massa crescia, o Seu Nenê escreveu num papel de embrulhar pão."
+  },
+  {
+   "clip": "022",
+   "who": "SEU NENÊ",
+   "sec": 4,
+   "start": 138.907,
+   "end": 142.046,
+   "text": "Pedido: provar que o meu pão é francês."
+  },
+  {
+   "clip": "023",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 142.496,
+   "end": 151.283,
+   "text": "E, como já aconteceu com o Valdir, com a Dona Neide e com o Doutor Fábio, o papel foi parar num lugar que não devia. Na Repartição do Universo."
+  },
+  {
+   "clip": "024",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 151.733,
+   "end": 158.262,
+   "text": "Ora, ora. Seu Nenê. A gente já se conhece. O senhor era o da padaria do meio copo."
+  },
+  {
+   "clip": "025",
+   "who": "SEU NENÊ",
+   "sec": 4,
+   "start": 158.712,
+   "end": 159.461,
+   "text": "O próprio."
+  },
+  {
+   "clip": "026",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 159.911,
+   "end": 164.477,
+   "text": "Pedido de origem. Esse é rápido. O senhor vai até lá e pergunta."
+  },
+  {
+   "clip": "027",
+   "who": "SEU NENÊ",
+   "sec": 4,
+   "start": 164.927,
+   "end": 165.932,
+   "text": "Até lá onde?"
+  },
+  {
+   "clip": "028",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 166.382,
+   "end": 169.552,
+   "text": "Paris. Uma manhã só. Leva a cesta."
+  },
+  {
+   "clip": "029",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 170.002,
+   "end": 171.106,
+   "text": "E o carimbo desceu."
+  },
+  {
+   "clip": "030",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 171.556,
+   "end": 173.261,
+   "text": "Deferido. Boa viagem."
+  },
+  {
+   "clip": "031",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 174.161,
+   "end": 181.589,
+   "text": "E foi assim que o Seu Nenê foi parar numa esquina de Paris, às seis da manhã, com quarenta pãezinhos quentes debaixo do braço."
+  },
+  {
+   "clip": "032",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 181.939,
+   "end": 186.942,
+   "text": "E foi assim que ele ouviu, de um padeiro francês de verdade, a frase que você viu no começo."
+  },
+  {
+   "clip": "033",
+   "who": "LUC",
+   "sec": 5,
+   "start": 187.392,
+   "end": 189.171,
+   "text": "Este pão eu nunca vi na vida."
+  },
+  {
+   "clip": "034",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 189.621,
+   "end": 193.056,
+   "text": "O Monsieur Luc pegou um. Apertou. Craque."
+  },
+  {
+   "clip": "035",
+   "who": "LUC",
+   "sec": 5,
+   "start": 193.506,
+   "end": 203.204,
+   "text": "Hm. A casca é fina demais pra ser baguete. O miolo é macio demais. E é pequeno. Parece um pão que pediram pra ser francês… mas que nasceu em outro lugar."
+  },
+  {
+   "clip": "036",
+   "who": "SEU NENÊ",
+   "sec": 5,
+   "start": 203.654,
+   "end": 204.823,
+   "text": "Nasceu em Guarulhos."
+  },
+  {
+   "clip": "037",
+   "who": "LUC",
+   "sec": 5,
+   "start": 205.273,
+   "end": 206.797,
+   "text": "Ah. Isto explica."
+  },
+  {
+   "clip": "038",
+   "who": "CONTADOR",
+   "sec": 6,
+   "start": 207.697,
+   "end": 211.201,
+   "text": "Senta, Seu Nenê. Deixa eu te contar de onde veio o seu pão."
+  },
+  {
+   "clip": "039",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 211.651,
+   "end": 222.136,
+   "text": "Começo do século vinte. Quem tinha dinheiro no Brasil viajava pra Paris. E voltava apaixonado por um pão comprido, de casca dourada e miolo branco. A baguete."
+  },
+  {
+   "clip": "040",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 222.486,
+   "end": 226.474,
+   "text": "Chegando aqui, essa gente pedia pros padeiros: faz igual o de Paris."
+  },
+  {
+   "clip": "041",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 226.824,
+   "end": 237.886,
+   "text": "Só que o trigo era outro. O forno era outro. O clima era outro. E muitos padeiros eram imigrantes, portugueses, italianos, que nunca tinham visto uma baguete na vida."
+  },
+  {
+   "clip": "042",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 238.236,
+   "end": 249.144,
+   "text": "Cada padaria foi adaptando do seu jeito. Encurtou, amaciou, fez a casca mais fina. E o que saiu do forno não era francês. Era outra coisa. Mas o nome pegou."
+  },
+  {
+   "clip": "043",
+   "who": "CONTADOR",
+   "sec": 6,
+   "start": 249.594,
+   "end": 254.558,
+   "text": "O seu pão é filho de uma imitação que deu errado. E por isso deu tão certo."
+  },
+  {
+   "clip": "044",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 255.008,
+   "end": 265.639,
+   "text": "E nem o nome é o mesmo no país inteiro. No Rio Grande do Sul é cacetinho. Em Minas, pão de sal. No Ceará, carioquinha. E em São Paulo, pãozinho."
+  },
+  {
+   "clip": "045",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 265.989,
+   "end": 270.187,
+   "text": "Hoje ele é mais de um terço de tudo que as padarias do Brasil vendem."
+  },
+  {
+   "clip": "046",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 271.087,
+   "end": 274.741,
+   "text": "E aí aconteceu uma coisa que nenhum livro de história previa."
+  },
+  {
+   "clip": "047",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 275.091,
+   "end": 282.452,
+   "text": "O Monsieur Luc comeu o primeiro pão. Depois o segundo. Depois chamou a mulher. A mulher chamou a vizinha."
+  },
+  {
+   "clip": "048",
+   "who": "LUC",
+   "sec": 7,
+   "start": 282.902,
+   "end": 284.9,
+   "text": "Monsieur Nenê. Quanto custa um?"
+  },
+  {
+   "clip": "049",
+   "who": "SEU NENÊ",
+   "sec": 7,
+   "start": 285.35,
+   "end": 287.479,
+   "text": "Lá em casa, um real e vinte."
+  },
+  {
+   "clip": "050",
+   "who": "LUC",
+   "sec": 7,
+   "start": 287.929,
+   "end": 289.896,
+   "text": "Aqui o senhor vende por dois euros."
+  },
+  {
+   "clip": "051",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 290.346,
+   "end": 295.274,
+   "text": "Às oito da manhã tinha fila na esquina. Às nove, acabou a cesta."
+  },
+  {
+   "clip": "052",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 295.624,
+   "end": 299.261,
+   "text": "O pão que não existe na França fez fila em Paris."
+  },
+  {
+   "clip": "053",
+   "who": "LUC",
+   "sec": 7,
+   "start": 299.711,
+   "end": 305.07,
+   "text": "Fica, Monsieur. Abre uma padaria aqui. Le Pain Brésilien. Vai ficar rico."
+  },
+  {
+   "clip": "054",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 305.97,
+   "end": 316.314,
+   "text": "Enquanto isso, em Guarulhos, a Padaria do Nenê estava fechada pela primeira vez em quarenta e cinco anos. E o Valdir estava parado na porta, sem pingado."
+  },
+  {
+   "clip": "055",
+   "who": "CONTADOR",
+   "sec": 8,
+   "start": 316.764,
+   "end": 320.315,
+   "text": "Seu Nenê, antes de decidir, olha a conta da sua padaria."
+  },
+  {
+   "clip": "056",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 320.765,
+   "end": 332.668,
+   "text": "Numa pesquisa do Procon de São Paulo esse ano, o quilo do pão francês na capital saiu em média por vinte e quatro reais e sessenta e nove centavos. Quatro vírgula quatro por cento mais caro que no ano anterior."
+  },
+  {
+   "clip": "057",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 333.018,
+   "end": 341.031,
+   "text": "E sabe o que pesa no preço? A energia elétrica. Ela é quase trinta por cento do custo de produção das padarias. Forno é luz."
+  },
+  {
+   "clip": "058",
+   "who": "SEU NENÊ",
+   "sec": 8,
+   "start": 341.481,
+   "end": 344.774,
+   "text": "A conta de luz. Igual a da Dona Neide."
+  },
+  {
+   "clip": "059",
+   "who": "CONTADOR",
+   "sec": 8,
+   "start": 345.224,
+   "end": 346.26,
+   "text": "Igualzinha."
+  },
+  {
+   "clip": "060",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 346.71,
+   "end": 351.717,
+   "text": "Desde o Plano Real, o pãozinho subiu mais que a inflação. Uns quarenta e três por cento acima."
+  },
+  {
+   "clip": "061",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 352.067,
+   "end": 360.887,
+   "text": "E mesmo assim continua sendo o pão de quem acorda cedo. As padarias do Brasil atendem perto de quarenta e sete milhões de pessoas por dia."
+  },
+  {
+   "clip": "062",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 361.787,
+   "end": 369.978,
+   "text": "Então, Seu Nenê. Paris, dois euros o pão, fila na porta. Ou Guarulhos, um real e vinte, três e quarenta da manhã."
+  },
+  {
+   "clip": "063",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 370.428,
+   "end": 376.727,
+   "text": "E o Seu Nenê olhou a esquina de Paris. Bonita. Fila. Gente elogiando."
+  },
+  {
+   "clip": "064",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 377.077,
+   "end": 380.73,
+   "text": "Depois lembrou do Valdir parado na porta, sem pingado."
+  },
+  {
+   "clip": "065",
+   "who": "SEU NENÊ",
+   "sec": 9,
+   "start": 381.18,
+   "end": 383.889,
+   "text": "Monsieur Luc, obrigado. Mas eu tenho uma fornada às seis."
+  },
+  {
+   "clip": "066",
+   "who": "LUC",
+   "sec": 9,
+   "start": 384.339,
+   "end": 386.273,
+   "text": "Mas em Paris o senhor seria famoso!"
+  },
+  {
+   "clip": "067",
+   "who": "SEU NENÊ",
+   "sec": 9,
+   "start": 386.723,
+   "end": 392.18,
+   "text": "Em Guarulhos eu já sou. Pra umas trezentas pessoas. Dá e sobra."
+  },
+  {
+   "clip": "068",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 392.63,
+   "end": 397.761,
+   "text": "Antes de ir embora, ele deixou a receita num papel de pão, em cima do balcão do Monsieur Luc."
+  },
+  {
+   "clip": "069",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 398.211,
+   "end": 402.872,
+   "text": "Pedido encerrado. Resultado: o pão não é francês."
+  },
+  {
+   "clip": "070",
+   "who": "SEU NENÊ",
+   "sec": 9,
+   "start": 403.322,
+   "end": 405.132,
+   "text": "É de Guarulhos."
+  },
+  {
+   "clip": "071",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 405.582,
+   "end": 406.575,
+   "text": "É do Brasil."
+  },
+  {
+   "clip": "072",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 407.025,
+   "end": 408.775,
+   "text": "E o carimbo desceu."
+  },
+  {
+   "clip": "073",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 409.675,
+   "end": 416.778,
+   "text": "No dia seguinte, três e quarenta. A massa crescendo. E às seis em ponto, a fornada saiu."
+  },
+  {
+   "clip": "074",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 417.128,
+   "end": 422.003,
+   "text": "Às seis e cinco, entrou o Valdir. Pediu um pingado. Veio cheio."
+  },
+  {
+   "clip": "075",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 422.353,
+   "end": 428.56,
+   "text": "E às seis e dez, entrou mais alguém. Avental de linho. Bigode encerado."
+  },
+  {
+   "clip": "076",
+   "who": "GABRIEL",
+   "sec": 10,
+   "start": 429.01,
+   "end": 431.802,
+   "text": "Seu Nenê… me vê dois pãezinhos?"
+  },
+  {
+   "clip": "077",
+   "who": "SEU NENÊ",
+   "sec": 10,
+   "start": 432.252,
+   "end": 434.534,
+   "text": "Pão de mentira, menino?"
+  },
+  {
+   "clip": "078",
+   "who": "GABRIEL",
+   "sec": 10,
+   "start": 434.984,
+   "end": 439.084,
+   "text": "Pão de verdade leva três dias, mas… fome a gente tem todo dia."
+  },
+  {
+   "clip": "079",
+   "who": "SEU NENÊ",
+   "sec": 10,
+   "start": 439.534,
+   "end": 445.958,
+   "text": "Leva quatro. O quarto é de graça. E amanhã, três e quarenta, vem aprender a fazer."
+  },
+  {
+   "clip": "080",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 446.408,
+   "end": 455.564,
+   "text": "Lá em cima, na Repartição do Universo, o Contador abriu um pacote de papel. Dentro, um pãozinho ainda quente. Craque."
+  },
+  {
+   "clip": "081",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 455.914,
+   "end": 463.666,
+   "text": "E em Paris, numa esquina, uma plaquinha nova apareceu na vitrine do Monsieur Luc. Pain Brésilien. Dois euros."
+  },
+  {
+   "clip": "082",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 464.016,
+   "end": 477.387,
+   "text": "E você? Na sua cidade, esse pão chama como? Pãozinho, cacetinho, pão de sal, carioquinha? Conta aqui embaixo. Vamos ver qual nome ganha."
+  }
+ ]
+}

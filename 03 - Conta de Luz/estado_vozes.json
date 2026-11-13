@@ -1,0 +1,815 @@
+{
+ "001": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Onze da noite. A casa inteira e escura. Só uma luizinha vermelha e acesa. A da televisão.",
+  "dur": 6.0,
+  "tent": 1
+ },
+ "003": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e tirou da tomada.",
+  "dur": 1.49,
+  "tent": 1
+ },
+ "006": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No ano passado, nesse mesmo mês, a dona Neide gastou 200 kilowatts hora, pagou 182 reais.",
+  "dur": 7.78,
+  "tent": 2
+ },
+ "007": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esse ano ela apagou luz, cortou banho, tirou tudo da tomada, gastou 180, 10% a menos.",
+  "dur": 7.97,
+  "tent": 1
+ },
+ "008": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e a conta veio 186.",
+  "dur": 2.48,
+  "tent": 1
+ },
+ "011": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você? A sua conta também subiu mesmo você economizando? Fica até o fim, porque um pedaço da conta da dona Neide nem era dela. E ela descobriu de quem era.",
+  "dur": 10.76,
+  "tent": 1
+ },
+ "012": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Neide, 63 anos, costureira em Mauá, faz barra de calça pra metade do bairro numa máquina de 1979.",
+  "dur": 9.02,
+  "tent": 1
+ },
+ "013": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Banho, 5 minutos, tem uma ampulheta grudada no azulejo.",
+  "dur": 4.12,
+  "tent": 1
+ },
+ "014": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E todo dia, às 7 da manhã, ela vai até o relógio de luz e anota o número num caderno. Faz isso há 11 anos.",
+  "dur": 7.4,
+  "tent": 1
+ },
+ "019": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Do outro lado do muro, mora o marcão.",
+  "dur": 2.0,
+  "tent": 1
+ },
+ "020": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "ar-condicionado ligado desde março, piscina de plástico com bomba, luz da garagem acesa de dia que é para ladrão ver que tem gente.",
+  "dur": 8.02,
+  "tent": 1
+ },
+ "024": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A dona Nade ficou olhando para o ar-condicionado, depois para a piscina, depois para o marcão.",
+  "dur": 5.1,
+  "tent": 1
+ },
+ "027": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ninguém percebeu um fio meio torto saindo do poste, ainda.",
+  "dur": 4.16,
+  "tent": 1
+ },
+ "028": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Naquela noite, a dona Nade ligou para a central de atendimento. Ficou 40 minutos na espera. Em algum momento da música de espera, a ligação caiu no lugar que não devia.",
+  "dur": 10.62,
+  "tent": 1
+ },
+ "029": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "no suporte técnico do universo.",
+  "dur": 2.0,
+  "tent": 1
+ },
+ "033": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E, do outro lado, atender um senhor de aurela, óculos na ponta do nariz e um carimbo na mão, o contador do universo.",
+  "dur": 7.85,
+  "tent": 1
+ },
+ "038": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A dona Nade abriu a porta e a conta de luz saiu de dentro da bolsa, desdobrou sozinha e virou uma fila.",
+  "dur": 6.44,
+  "tent": 1
+ },
+ "039": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "cinco cobradores de crachar dentro da sala dela, cada um com um pedaço dos R$ 186.",
+  "dur": 6.8,
+  "tent": 2
+ },
+ "041": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O primeiro da fila é a energia, ele mesmo, o que acende a lâmpada.",
+  "dur": 4.83,
+  "tent": 1
+ },
+ "044": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O segundo, a distribuição. O poste, o fio, o relógio, o caminhão que vem quando o transformador estoura.",
+  "dur": 6.97,
+  "tent": 1
+ },
+ "046": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O terceiro, a transmissão. Teio de longe, cansado, trouxe a energia da usina por centenas de quilômetros de torre.",
+  "dur": 8.05,
+  "tent": 1
+ },
+ "048": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O quarto não falou nada, só entregou um envelope.",
+  "dur": 2.85,
+  "tent": 1
+ },
+ "052": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esse fundo tem nome, Conta de Desenvolvimento Energético. Em 2026, são 52 bilhões e meio de reais. 47 bilhões e 800 milhões saem direto da conta de luz, 15% a mais que no ano anterior.",
+  "dur": 15.92,
+  "tent": 2
+ },
+ "055": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o quinto, o imposto, nem esperou a vez, já foi sentando no sofá.",
+  "dur": 4.36,
+  "tent": 1
+ },
+ "059": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e ainda tinha uma coisa pendurada na parede, uma bandeirinha.",
+  "dur": 3.46,
+  "tent": 1
+ },
+ "061": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esse ano ficou verde até abril, de maio a setembro amarela, um real e oitenta e oito a mais a cada cem quilowatts hora. Na vermelha mais forte são sete e oitenta e sete.",
+  "dur": 10.54,
+  "tent": 2
+ },
+ "064": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: virgula"
+  ],
+  "ouvido": "e por cima de tudo, o preço do kilowatt sobe todo ano, no aniversário de contrato da distribuidora. Para 2026, a Anel projeta alta média de 9,4% nas tarifas, quase o dobro da inflação.",
+  "dur": 14.87,
+  "tent": 2
+ },
+ "065": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Em 15 anos, a conta de luz residencial subiu 177%. A inflação, 122.",
+  "dur": 7.32,
+  "tent": 2
+ },
+ "069": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Daí a dona Nade contou de novo 5 cobradores de crachar, mas tinha um sexto lá no fim da fila, sem crachar, de boné, tentando não ser visto.",
+  "dur": 11.46,
+  "tent": 1
+ },
+ "072": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Gato é como o Brasil chama a ligação com a Andestina, o fio puxado direto do post, sem passar pelo relógio.",
+  "dur": 6.1,
+  "tent": 1
+ },
+ "074": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: virgula"
+  ],
+  "ouvido": "As perdas comerciais, que incluem furto de energia, têm média de 14,3% no país. E esse custo é repassado nos reajustes das distribuidoras.",
+  "dur": 9.78,
+  "tent": 2
+ },
+ "076": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O gato apontou pro muro.",
+  "dur": 1.31,
+  "tent": 1
+ },
+ "077": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "para o ar condicionado, ligado desde março.",
+  "dur": 2.43,
+  "tent": 1
+ },
+ "079": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "38 reais. Econômico.",
+  "dur": 2.33,
+  "tent": 1
+ },
+ "082": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E a dona Neide olhou a fila.",
+  "dur": 1.93,
+  "tent": 1
+ },
+ "083": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O imposto, esparramado no sofá, tirando ele, a conta caía 18%.",
+  "dur": 6.84,
+  "tent": 1
+ },
+ "084": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O encargo com o envelope, mas dentro do envelope, tinha a luz da dona Lourdes, da casa da frente, que vive com um salário mínimo e paga zero até 80 kilowatts.",
+  "dur": 10.93,
+  "tent": 1
+ },
+ "085": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "a bandeira, a distribuição, a energia, que era a única coisa que ela usava de verdade.",
+  "dur": 6.59,
+  "tent": 1
+ },
+ "091": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o carimbo desceu.",
+  "dur": 1.45,
+  "tent": 1
+ },
+ "093": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No dia seguinte, um caminhão da distribuidora parou na rua, dois homens subiram no poste e o fio torto não estava mais lá.",
+  "dur": 7.81,
+  "tent": 1
+ },
+ "094": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Meio dia. O ar condicionado do marcão parou. A piscina parou. A luz da garagem, que era para a ladrão ver que tinha gente, apagou.",
+  "dur": 8.28,
+  "tent": 1
+ },
+ "099": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o marcão descobriu o preço da luz.",
+  "dur": 2.16,
+  "tent": 1
+ },
+ "102": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Um mês depois chegou a conta nova, a dona Nade abriu devagar.",
+  "dur": 3.75,
+  "tent": 1
+ },
+ "103": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E dessa vez, antes de olhar o valor, ela olhou outra linha, a dos kilowatts hora.",
+  "dur": 5.69,
+  "tent": 2
+ },
+ "107": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Porque essa é a parte da conta que é só sua. O preço, a bandeira, o encargo e o imposto vêm de fora. O quilovatso fora sai da sua casa.",
+  "dur": 8.81,
+  "tent": 1
+ },
+ "108": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E a dona Nade tinha razão sobre a luzinha vermelha. Somados, os aparelhos em modo de espera podem chegar a 12% do consumo de uma casa.",
+  "dur": 8.27,
+  "tent": 1
+ },
+ "111": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A dona Neide não consegue mudar o processo da luz. Ninguém consegue sozinho. Mas a parte dela, ela paga. Só a dela.",
+  "dur": 6.78,
+  "tent": 1
+ },
+ "112": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Lá em cima, na repartição do universo, o contador arquivou o protocolo e puxou o próximo.",
+  "dur": 5.76,
+  "tent": 1
+ },
+ "114": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: hora",
+   "sobrando: valzora"
+  ],
+  "ouvido": "E você? Pega a sua última conta de luz. Quantos quilos a válzora você gastou? E quanto pagou? Conta aqui embaixo. E se tiver um marcão na sua rua, não precisa dizer o nome.",
+  "dur": 9.84,
+  "tent": 1
+ },
+ "002": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Te peguei!",
+  "dur": 0.76,
+  "tent": 1
+ },
+ "005": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A geladeira eu deixo, por enquanto.",
+  "dur": 2.06,
+  "tent": 1
+ },
+ "009": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Gui, me explica isso.",
+  "dur": 1.52,
+  "tent": 1
+ },
+ "016": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Aplicativo gasta a bateria. Bateria gasta a luz.",
+  "dur": 2.96,
+  "tent": 1
+ },
+ "018": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Gui, tiro o carregador da tomada.",
+  "dur": 2.08,
+  "tent": 1
+ },
+ "022": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Barata? Quanto veio a sua?",
+  "dur": 1.84,
+  "tent": 1
+ },
+ "025": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "38.",
+  "dur": 0.96,
+  "tent": 2
+ },
+ "031": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Moço, eu desliguei tudo. Esse é o problema.",
+  "dur": 3.72,
+  "tent": 1
+ },
+ "036": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Quero!",
+  "dur": 0.91,
+  "tent": 1
+ },
+ "043": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "menos da metade",
+  "dur": 1.43,
+  "tent": 1
+ },
+ "050": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Como assim dos outros?",
+  "dur": 1.39,
+  "tent": 1
+ },
+ "053": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tá, ajudar quem precisa, eu entendo, mas ninguém me perguntou.",
+  "dur": 4.42,
+  "tent": 1
+ },
+ "057": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "imposto em cima de encargo.",
+  "dur": 1.78,
+  "tent": 1
+ },
+ "062": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Então eu pago pela chuva?",
+  "dur": 1.69,
+  "tent": 1
+ },
+ "067": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Então eu economizei a toa.",
+  "dur": 1.47,
+  "tent": 1
+ },
+ "070": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: esse",
+   "início diferente",
+   "final diferente",
+   "sobrando: ate proxima"
+  ],
+  "ouvido": "e até a próxima!",
+  "dur": 0.62,
+  "tent": 2
+ },
+ "075": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E esse gato aí, mora onde?",
+  "dur": 1.61,
+  "tent": 1
+ },
+ "078": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Marcão.",
+  "dur": 0.67,
+  "tent": 1
+ },
+ "086": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Pode tirar qualquer um.",
+  "dur": 0.96,
+  "tent": 1
+ },
+ "088": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Então, tira o gato.",
+  "dur": 1.34,
+  "tent": 1
+ },
+ "090": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Imposto a gente briga na eleição, encargo a gente briga no jornal. Mas o gato, moço, o gato é o único que está pendurado no meu muro?",
+  "dur": 8.55,
+  "tent": 1
+ },
+ "096": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Aqui não acabou não.",
+  "dur": 1.03,
+  "tent": 1
+ },
+ "098": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Impresso, mas aqui é no relógio. Eu anoto.",
+  "dur": 2.94,
+  "tent": 1
+ },
+ "101": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Bem-vindo, Marcão. Agora você também paga a sua.",
+  "dur": 3.02,
+  "tent": 1
+ },
+ "104": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "172.",
+  "dur": 1.59,
+  "tent": 1
+ },
+ "106": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O valor eu não mando, Gui. Esse número aqui eu mando.",
+  "dur": 3.49,
+  "tent": 2
+ },
+ "110": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tá, tira o carregador também.",
+  "dur": 1.24,
+  "tent": 1
+ },
+ "004": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Vó, geladeira, não!",
+  "dur": 2.33,
+  "tent": 1
+ },
+ "010": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Vó, eu sou de humanas.",
+  "dur": 1.43,
+  "tent": 1
+ },
+ "015": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Vó, isso aparece no aplicativo.",
+  "dur": 2.16,
+  "tent": 1
+ },
+ "017": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Não é bem assim que...",
+  "dur": 1.13,
+  "tent": 1
+ },
+ "105": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Vó, o valor é ali embaixo.",
+  "dur": 1.98,
+  "tent": 1
+ },
+ "109": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Vó, a TV tá fora da tomada de novo.",
+  "dur": 2.8,
+  "tent": 1
+ },
+ "021": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Neide, relaxa, energia é barata.",
+  "dur": 2.51,
+  "tent": 1
+ },
+ "023": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "38 reais.",
+  "dur": 1.18,
+  "tent": 1
+ },
+ "026": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "É que eu sou econômico.",
+  "dur": 1.43,
+  "tent": 2
+ },
+ "095": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Neide! Neide! Acabou a luz aqui!",
+  "dur": 2.23,
+  "tent": 1
+ },
+ "097": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Me empreste uma tomada só pra carregar o celular.",
+  "dur": 2.11,
+  "tent": 1
+ },
+ "100": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "R$240.",
+  "dur": 1.81,
+  "tent": 1
+ },
+ "030": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "suporte técnico do universo boa noite já tentou desligar e ligar de novo",
+  "dur": 4.5,
+  "tent": 1
+ },
+ "032": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso não é comigo. Vou transferir para a repartição.",
+  "dur": 3.92,
+  "tent": 1
+ },
+ "034": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "protocolo recebido, reclamação, economizei e a conta subiu.",
+  "dur": 4.31,
+  "tent": 1
+ },
+ "035": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "é a reclamação mais repetida desse ano. A senhora quer saber para onde vai cada centavo?",
+  "dur": 5.45,
+  "tent": 1
+ },
+ "037": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Então, abre a porta.",
+  "dur": 1.38,
+  "tent": 1
+ },
+ "040": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "De cada 100 reais da sua conta, uns 18 são imposto. O resto a gente divide entre os outros quatro.",
+  "dur": 6.6,
+  "tent": 1
+ },
+ "049": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esse é o encargo. É o pedaço da conta que não paga a sua luz, paga a luz dos outros.",
+  "dur": 5.85,
+  "tent": 1
+ },
+ "051": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: quilowatts",
+   "sobrando: kw"
+  ],
+  "ouvido": "Programas e descontos que o governo decidiu pagar pela conta de luz e não pelo orçamento. A família de Baixa-Renda, que tem luz de graça até 80 kW, a luz que chega em comunidade isolada na Amazônia, o desconto de quem tem painel solar no telhado, incentivo para a usina, tudo dividido entre todo mundo que paga.",
+  "dur": 18.97,
+  "tent": 2
+ },
+ "054": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ninguém pergunta, dona Neide. Vem tudo junto no boleto.",
+  "dur": 3.04,
+  "tent": 1
+ },
+ "060": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Essa aqui muda de cor todo mês. Choveu, as hidrelétricas enchem, a bandeira fica verde. Não choveu, liga a usina térmica, que é mais cara. Aí fica amarela ou vermelha.",
+  "dur": 9.78,
+  "tent": 1
+ },
+ "063": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "a senhora paga pela falta dela.",
+  "dur": 2.09,
+  "tent": 1
+ },
+ "066": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ou seja, a senhora economizou 10% de luz, mas o preço de cada pedacinho subiu mais que isso.",
+  "dur": 6.56,
+  "tent": 1
+ },
+ "068": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Não! Sem economizar, a sua conta vinha mais de 200. A senhora correu para ficar no mesmo lugar.",
+  "dur": 7.23,
+  "tent": 1
+ },
+ "071": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e esse é o gato.",
+  "dur": 0.79,
+  "tent": 1
+ },
+ "073": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A luz que ele usa ninguém paga, então ela entra como perda, e a perda volta no reajuste, na conta de quem paga certo.",
+  "dur": 8.17,
+  "tent": 1
+ },
+ "080": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dona Nade, a repartição tem uma regra. Toda reclamação aceita ganha um carimbo.",
+  "dur": 5.7,
+  "tent": 1
+ },
+ "081": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A senhora pode tirar um da fila, um só, esse sai da sua conta para sempre.",
+  "dur": 4.88,
+  "tent": 1
+ },
+ "087": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Qual que é um?",
+  "dur": 0.69,
+  "tent": 1
+ },
+ "089": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A senhora tem certeza, o imposto é 18%.",
+  "dur": 3.03,
+  "tent": 1
+ },
+ "092": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Deferido.",
+  "dur": 0.71,
+  "tent": 1
+ },
+ "113": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Meu vizinho tem 38 reais de conta e ar-condicionado ligado, esse eu já conheço.",
+  "dur": 5.67,
+  "tent": 1
+ },
+ "042": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Eu sou o que a senhora usou de verdade e eu sou menos da metade da conta.",
+  "dur": 5.02,
+  "tent": 1
+ },
+ "045": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Eu trago a luz da rua até a sua tomada. De cada 100 reais, uns 25 são meus.",
+  "dur": 6.54,
+  "tent": 1
+ },
+ "047": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "6 de cada 100 e vim a pé.",
+  "dur": 2.4,
+  "tent": 1
+ },
+ "056": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "ICMS, PES e COFINS. O ICMS é a maior parte. E eu cobro em cima de todos eles. Até em cima do encargo.",
+  "dur": 8.83,
+  "tent": 1
+ },
+ "058": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "imposto em cima de tudo, minha senhora.",
+  "dur": 2.48,
+  "tent": 1
+ }
+}

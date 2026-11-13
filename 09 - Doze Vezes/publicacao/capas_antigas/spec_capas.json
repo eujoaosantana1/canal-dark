@@ -1,0 +1,57 @@
+[
+ {
+  "nome": "A",
+  "img": "C:\\Users\\JCS\\Downloads\\Canal Dark\\viralstick\\projects\\doze-vezes\\build\\stills\\289.25s_289.25.png",
+  "textos": [
+   {
+    "txt": "A FATURA",
+    "x": 0.36,
+    "y": 0.4,
+    "tam": 110,
+    "cor": "#FFFFFF"
+   },
+   {
+    "txt": "CHEGOU",
+    "x": 0.36,
+    "y": 0.6,
+    "tam": 110,
+    "cor": "#FFE14D"
+   }
+  ]
+ },
+ {
+  "nome": "B",
+  "img": "C:\\Users\\JCS\\Downloads\\Canal Dark\\viralstick\\projects\\doze-vezes\\build\\stills\\303.46s_303.46.png",
+  "textos": [
+   {
+    "txt": "SALÁRIO",
+    "x": 0.15,
+    "y": 0.42,
+    "tam": 84,
+    "cor": "#FFE14D"
+   },
+   {
+    "txt": "EM 12x",
+    "x": 0.15,
+    "y": 0.6,
+    "tam": 84,
+    "cor": "#FFFFFF",
+    "fundo": "#E62B2B"
+   }
+  ]
+ },
+ {
+  "nome": "C",
+  "img": "C:\\Users\\JCS\\Downloads\\Canal Dark\\viralstick\\projects\\doze-vezes\\build\\stills\\241.81s_241.81.png",
+  "textos": [
+   {
+    "txt": "ATÉ A COXINHA",
+    "x": 0.66,
+    "y": 0.86,
+    "tam": 80,
+    "cor": "#FFFFFF",
+    "fundo": "#E62B2B"
+   }
+  ]
+ }
+]

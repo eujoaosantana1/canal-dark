@@ -1,0 +1,63 @@
+[
+ {
+  "nome": "A",
+  "textos": [
+   {
+    "txt": "NÃO EXISTE",
+    "x": 0.5,
+    "y": 0.12,
+    "tam": 116,
+    "cor": "#FFE14D"
+   },
+   {
+    "txt": "NA FRANÇA",
+    "x": 0.5,
+    "y": 0.88,
+    "tam": 116,
+    "cor": "#FFFFFF",
+    "fundo": "#E62B2B"
+   }
+  ],
+  "img": "/tmp/vs/viralstick/projects/pao-frances/build/stills/2.96s_2.96.png"
+ },
+ {
+  "nome": "B",
+  "textos": [
+   {
+    "txt": "QUE PÃO",
+    "x": 0.2,
+    "y": 0.42,
+    "tam": 110,
+    "cor": "#FFE14D"
+   },
+   {
+    "txt": "É ESTE?",
+    "x": 0.2,
+    "y": 0.62,
+    "tam": 110,
+    "cor": "#FFFFFF"
+   }
+  ],
+  "img": "/tmp/vs/viralstick/projects/pao-frances/build/stills/16.3s_16.30.png"
+ },
+ {
+  "nome": "C",
+  "textos": [
+   {
+    "txt": "DE GUARULHOS",
+    "x": 0.5,
+    "y": 0.12,
+    "tam": 100,
+    "cor": "#FFFFFF"
+   },
+   {
+    "txt": "PRA PARIS",
+    "x": 0.5,
+    "y": 0.88,
+    "tam": 110,
+    "cor": "#FFE14D"
+   }
+  ],
+  "img": "/tmp/vs/viralstick/projects/pao-frances/build/stills/181.4s_181.40.png"
+ }
+]

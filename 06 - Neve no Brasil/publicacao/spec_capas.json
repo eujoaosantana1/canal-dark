@@ -1,0 +1,70 @@
+[
+ {
+  "nome": "A",
+  "textos": [
+   {
+    "txt": "NEVE NO",
+    "x": 0.17,
+    "y": 0.45,
+    "tam": 96,
+    "cor": "#FFE14D"
+   },
+   {
+    "txt": "BRASIL",
+    "x": 0.17,
+    "y": 0.62,
+    "tam": 96,
+    "cor": "#FFFFFF"
+   },
+   {
+    "txt": "INTEIRO",
+    "x": 0.84,
+    "y": 0.62,
+    "tam": 96,
+    "cor": "#FFE14D"
+   }
+  ],
+  "img": "/tmp/vs/viralstick/projects/neve-brasil/build/stills/34.5s_34.50.png"
+ },
+ {
+  "nome": "B",
+  "textos": [
+   {
+    "txt": "NEVOU EM",
+    "x": 0.5,
+    "y": 0.12,
+    "tam": 104,
+    "cor": "#FFFFFF"
+   },
+   {
+    "txt": "TERESINA",
+    "x": 0.5,
+    "y": 0.88,
+    "tam": 120,
+    "cor": "#FFE14D"
+   }
+  ],
+  "img": "/tmp/vs/viralstick/projects/neve-brasil/build/stills/359.4s_359.40.png"
+ },
+ {
+  "nome": "C",
+  "textos": [
+   {
+    "txt": "−3°C",
+    "x": 0.17,
+    "y": 0.3,
+    "tam": 130,
+    "cor": "#FFE14D"
+   },
+   {
+    "txt": "NO PIAUÍ",
+    "x": 0.17,
+    "y": 0.52,
+    "tam": 78,
+    "cor": "#FFFFFF",
+    "fundo": "#E62B2B"
+   }
+  ],
+  "img": "/tmp/vs/viralstick/projects/neve-brasil/build/stills/269.2s_269.20.png"
+ }
+]

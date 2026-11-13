@@ -1,0 +1,39 @@
+# ===== SEGREDOS (nunca sobem) =====
+chave_gemini.txt/
+chave_gemini*
+*.key
+.env
+
+# ===== Gerados pela esteira =====
+logs/
+envio_github_log.txt
+**/node_modules/
+**/__pycache__/
+tools/node/
+viralstick/projects/*/build/
+viralstick/projects/*/out/
+viralstick/projects/*/input/
+viralstick/projects/*/story/
+viralstick/projects/*/timeline/
+viralstick/projects/*_zerado/
+
+# ===== Arquivos pesados (ficam no Google Drive) =====
+**/vozes/
+**/vozes_brutas/
+**/teste_modelos/
+**/teste_voicestudio/
+**/teste_kokoro/
+**/teste_vozes_prontas/
+*.mp4
+*.wav
+*.mp3
+*.jpg
+*.jpeg
+*.png
+*.exe
+*.msi
+
+# Zips: so sobem os de cenas e o kit
+*.zip
+!**/cenas_*.zip
+!viralstick-kit.zip

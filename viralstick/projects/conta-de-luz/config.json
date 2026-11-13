@@ -1,0 +1,23 @@
+{
+ "title": "Por que a conta de luz sobe mesmo quando você economiza",
+ "aspect": "16:9",
+ "resolution": "1080p",
+ "fps": 24,
+ "style": "toon",
+ "voiceover": "input/voiceover.wav",
+ "script": null,
+ "duration": 585.898,
+ "captions": false,
+ "bars": "none",
+ "fadeIn": 0.3,
+ "fadeOut": 1.0,
+ "music": {
+  "enabled": true,
+  "gainDb": -19
+ },
+ "sfx": {
+  "enabled": true,
+  "gainDb": -8
+ },
+ "loudness": -14
+}

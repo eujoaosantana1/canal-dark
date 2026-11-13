@@ -1,0 +1,83 @@
+﻿clipe;personagem;status;problemas;texto do roteiro;o que foi ouvido;duração (s);tentativas
+001;NARRADOR;OK;;Primeiro de janeiro. Um calendário novinho pendurado na parede. E uma caneta vermelha.;Primeiro de janeiro, um calendário novinho pendurado na parede e uma caneta vermelha.;5.51;1
+002;NARRADOR;OK;;Tiradentes. Riscado. Dia do Trabalho. Riscado. Sete de Setembro. Riscado.;Tira dentes, riscado. Dia do trabalho, riscado. Sete de setembro, riscado.;6.91;1
+003;NARRADOR;OK;;Doze de Outubro, Finados, Consciência Negra. Riscado, riscado, riscado.;12 de outubro, finados, consciência negra, riscado, riscado, riscado.;5.39;1
+004;ROSE;OK;;Moço, para! Esse de novembro é o meu feriadão!;Moço! Para! Esse de novembro é o meu feriadão!;3.99;1
+005;NARRADOR;OK;;Esse ano o Brasil teve dez feriados nacionais. Nove deles caíram em dia útil. O maior número da última década.;Esse ano, o Brasil teve dez feriados nacionais. Nove deles caíram em dia útil, o maior número da última década.;6.98;1
+006;NARRADOR;OK;;No ano da Rose, sobrou um. Só um.;No ano da rose, sobre um, só um.;3.1;1
+007;NARRADOR;OK;;E você? Se só pudesse ficar um feriado, qual você salvava? Fica até o fim. Porque quem pediu pra acabar com os feriados foi o primeiro a se arrepender.;E você, se só pudesse ficar um feriado, qual você salvava? Fica até o fim, porque quem pediu para acabar com os feriados foi o primeiro a se arrepender.;9.02;1
+008;NARRADOR;OK;;Rose. Trinta e oito anos. Vendedora da Fábio Móveis, em Santo André.;Rose, 38 anos, vendedora da Fabio Móveis em Santo André.;5.41;1
+009;NARRADOR;OK;;Trabalha de sábado. Folga na quarta. A filha estuda de segunda a sexta. Faz a conta: o único dia inteiro que a Rose passa com a Lara é feriado.;Trabalha de sábado, folga na quarta, a filha estuda de segunda a sexta. Faz a conta. O único dia inteiro que a Rose passa com a Lara é feriado.;10.32;1
+010;NARRADOR;OK;;Na estante tem um pote de vidro escrito PRAIA. Dez reais por semana, desde janeiro.;Na estante tem um pote de vidro escrito Praia, 10 reais por semana, desde janeiro.;6.17;1
+011;LARA;OK;;Mãe, falta quanto pro mar?;Mãe, volta quanto pro mar?;2.67;1
+012;ROSE;OK;;Falta o feriadão de novembro, filha. Sexta, sábado e domingo.;Falta o feriadão de novembro filha sexta sábado e domingo.;3.7;1
+013;LARA;OK;;Três dias de mar?;Três dias de mar?;1.44;1
+014;ROSE;OK;;Três dias de mar.;Três dias de mar.;1.43;1
+015;NARRADOR;OK;;E aí tem o chefe. Doutor Fábio. Dono da rede Fábio Móveis. A própria cara no outdoor, segurando um sofá.;E aí tem o chefe, Doutor Fábio, dono da rede Fábio Móveis, a própria cara no Outdoor segurando um sofá.;8.67;2
+016;FÁBIO;OK;;Feriado é coisa de país preguiçoso. Loja fechada, funcionário em casa, e o aluguel correndo.;Feriado é coisa de país preguiçoso, loja fechada, funcionar em casa e o aluguel correndo.;6.02;1
+017;FÁBIO;OK;;Sabe quanto cada feriado me custa? Um caminhão de sofá parado no estoque.;Sabe quanto cada feriado me custa? Um caminhão de sofá parado no estoque.;4.16;1
+018;ROSE;OK;;Mas doutor, as pessoas também precisam descansar.;Mas, doutor, as pessoas também precisam descansar.;3.61;1
+019;FÁBIO;OK;;Descansa quem pode, Rose. Eu nunca tirei um feriado na vida.;Descança quem pode, Rosie. Eu nunca tirei um feriado na vida.;3.35;2
+020;FÁBIO;OK;;Aliás, em novembro a loja abre. Você vem. Se quiser, claro.;Aliás, em novembro à loja, abre. Você vem, se quiser, claro.;3.89;1
+021;NARRADOR;OK;;E todo mundo na loja sabia o que esse se quiser queria dizer.;e todo mundo na loja sabia o que esse, se quiser, queria dizer.;4.54;1
+022;NARRADOR;OK;;Naquela noite, o Doutor Fábio fez o que sempre faz quando quer alguma coisa: reclamou por escrito.;Naquela noite, o doutor Fabio fez o que sempre faz quando quer alguma coisa. Reclamou por escrito.;6.41;1
+023;NARRADOR;OK;;Só que a carta não foi parar na Câmara dos Deputados. Foi parar num andar do universo que quase ninguém conhece. A Repartição do Universo.;Só que a carta não foi parar na Câmara dos Deputados, foi parar num andar do universo que quase ninguém conhece, a repartição do universo.;10.97;1
+024;CONTADOR;OK;;Protocolo número trezentos e doze. Reclamante: Fábio. Pedido: acabar com todos os feriados do Brasil.;Protocola número 312, reclamante Fábio. Pedido, acabar com todos os feriados do Brasil.;7.24;1
+025;CONTADOR;OK;;Todos não pode. Tem regra. Mas um eu deixo. Um só.;Todos não podem, tem regra, mas um eu deixo, um só.;3.64;1
+026;FÁBIO;OK;;E qual fica?;e qual fica.;0.63;1
+027;CONTADOR;OK;;Isso quem decide não é o senhor. É o povo.;Isso quem decide não é o senhor, é o povo.;2.37;1
+028;NARRADOR;OK;;E o carimbo desceu.;e o carimbo desceu.;1.15;1
+029;CONTADOR;OK;;Deferido.;Deferido.;0.53;1
+030;NARRADOR;OK;;E começou o ano mais comprido da história do Brasil.;e começou o ano mais cumprido da história do Brasil.;4.06;1
+031;NARRADOR;OK;;Fevereiro. O Carnaval veio, e ninguém pôde reclamar. Porque o Carnaval, na verdade, nunca foi feriado nacional. É ponto facultativo. Tem cidade que folga, tem cidade que não.;Fevereiro, o carnaval veio e ninguém pôde reclamar, porque o carnaval, na verdade, nunca foi feriado nacional. É ponto facultativo. Tem cidade que folga, tem cidade que não.;11.95;1
+032;NARRADOR;OK;;Abril. Tiradentes caiu numa terça. Sem feriado, a terça foi só terça.;Abriu. Tiradentes caiu numa terça. Sem feriado, a terça foi só a terça.;5.88;1
+033;NARRADOR;OK;;Primeiro de maio. O Dia do Trabalho. E o Brasil inteiro comemorou… trabalhando.;Primeiro de maio, o dia do trabalho, e o Brasil inteiro comemorou trabalhando.;5.67;1
+034;FÁBIO;OK;;Agora sim! Loja aberta trezentos e sessenta e quatro dias por ano!;Agora sim, loja aberta 364 dias por ano.;4.06;1
+035;NARRADOR;OK;;E aí veio a votação. Qual feriado sobrevive?;E aí veio a votação. Qual feriado sobrevive?;3.91;1
+036;NARRADOR;OK;;O Natal ganhou de lavada. O Ano-Novo ficou em segundo e ficou sem nada. O Doze de Outubro teve campanha de criança na escola. A Consciência Negra, o feriado nacional mais novo do país, nem teve tempo de esquentar a cadeira.;O Natal ganhou de lavada. O ano novo ficou em segundo e ficou sem nada. O 12 de outubro teve campanha de criança na escola. A Consciência Negra, o feriado nacional mais novo do país, nem teve tempo de esquentar a cadeira.;14.68;1
+037;NARRADOR;OK;;E o feriadão de novembro da Rose… não existia mais.;e o feriadão de novembro da rose não existia mais.;3.47;1
+038;LARA;OK;;Mãe, e o mar?;Mãe, o mar!;1.39;1
+039;ROSE;OK;;O mar não vai a lugar nenhum, filha. A gente é que não vai.;O mar não vai alugar nenhum, filha. A gente é que não vai.;3.4;1
+040;NARRADOR;OK;;Três meses depois, o Doutor Fábio chamou o gerente. Esperava o melhor trimestre da história.;Três meses depois, o doutor Fábio chamou o gerente. Esperava o melhor trimestre da história.;5.58;2
+041;FÁBIO;OK;;E aí? Quanto a gente vendeu a mais?;E aí, quanto a gente vendeu a mais?;1.89;1
+042;NARRADOR;OK;;Quase nada.;quase nada.;1.2;1
+043;NARRADOR;OK;;A loja ficou aberta mais dias, mas as pessoas não ganharam mais dinheiro só porque o calendário mudou. Quem ia comprar sofá comprou. Só que espalhado.;A loja ficou aberta há mais dias, mas as pessoas não ganharam mais dinheiro só porque o calendário mudou. Quem ia comprar sofá comprou, só que espalhado.;9.13;1
+044;NARRADOR;OK;;E tinha o outro lado da conta. Abrir num dia que seria feriado custa caro. Hora extra, luz, segurança. O comércio sente o feriado, isso é verdade. Mas sente principalmente no bolso de quem abre e não vende.;e tinha o outro lado da conta. Abrir num dia que seria feriado custa caro, hora extra, luz, segurança. O comércio sente o feriado, isso é verdade, mas sente principalmente no bolso de quem abre e não vende.;14.58;1
+045;FÁBIO;OK;;Então pelo menos a gente economizou no feriado…;Então, pelo menos a gente economizou no feriado.;2.5;1
+046;NARRADOR;OK;;E aí tocou o telefone. Era da filial de Ubatuba.;E aí tocou o telefone. Era da filial de Ubatuba.;3.72;1
+047;NARRADOR;OK;;Porque o Doutor Fábio tinha uma filial na praia. Fábio Móveis Ubatuba. Cadeira de praia, guarda-sol, colchão de ar. E ela só vendia em feriadão.;Porque o doutor Fábio tinha uma filial na praia, Fábio Móveis Ubatuba, cadeira de praia, guarda sol, colchão de ar, e ela só vendia em feriadão.;10.54;1
+048;NARRADOR;OK;;Do lado da filial ficava a pousada do Seu Zé. Pé na areia, doze quartos, e um caderno de reservas que antes vivia cheio.;do lado da filial ficava pousada do seu zé, penareia, 12 quartos e um caderno de reservas que antes vivia cheio.;8.42;1
+049;SEU ZÉ;OK;;Doutor, faz seis meses que eu não alugo um quarto. Seis meses.;Doutor, faz seis meses que eu não alugo um quarto. Seis meses.;4.32;1
+050;SEU ZÉ;OK;;O pessoal vinha no feriadão. Comia o peixe, alugava cadeira, comprava sorvete, comprava guarda-sol. Na sua loja, inclusive.;O pessoal vinha no feriadão, comeu peixe, alugava a cadeira, comprava sorvete, comprava guarda-sol, na sua loja, inclusive.;8.46;1
+051;FÁBIO;OK;;Na minha loja?;na minha loja.;0.76;1
+052;SEU ZÉ;OK;;Na sua loja. O senhor achava que quem comprava cadeira de praia em Ubatuba era quem?;na sua loja. O senhor achava que quem comprava a cadeira de praia e o batu era quem?;4.28;1
+053;NARRADOR;OK;;O feriado que fechava a loja de Santo André era o mesmo que enchia a loja de Ubatuba. O Doutor Fábio só olhava pra metade da conta.;O feriado que fechava a loja de Santo André era o mesmo que enchia a loja de Batuba. O doutor Fábio só olhava para metade da conta.;8.87;1
+054;CONTADOR;OK;;Doutor Fábio, deixa eu te mostrar a conta inteira.;Doutor Fábio, deixa eu te mostrar a conta inteira.;2.62;1
+055;NARRADOR;OK;;Em São Paulo, os feriados de 2026 fazem o comércio deixar de faturar perto de dezessete bilhões de reais, pelas contas da Federação do Comércio. Parece muito. É pouco mais de um por cento do que o varejo vende no ano.;Em São Paulo, os feriados de 2026 fazem o comércio deixar de faturar perto de 17 bilhões de reais pelas contas da Federação do Comércio. Parece muito. É pouco mais de 1% do que o varejo vende no ano.;12.37;1
+056;NARRADOR;OK;;Do outro lado da balança, só o Carnaval desse ano movimentou quatorze bilhões e meio de reais em turismo, bar e restaurante, pela Confederação Nacional do Comércio. E os feriados de novembro injetaram uns quatro bilhões em hospedagem e alimentação só em São Paulo.;Do outro lado da balança, só o Carnaval desse ano movimentou 14 bilhões e meio de reais em turismo, bar e restaurante, pela Confederação Nacional do Comércio, e os feriados de novembro injetaram uns 4 bilhões em hospedagem e alimentação, só em São Paulo.;15.25;1
+057;CONTADOR;OK;;O feriado não some com o dinheiro, doutor. Ele muda o dinheiro de lugar. Sai da loja de móveis e vai pra pousada, pro quiosque, pra estrada.;O feriado não some com o dinheiro, doutor. Ele muda o dinheiro de lugar. Sai da loja de móveis e vai para a pousada, para o kiosque, para a estrada.;8.5;1
+058;NARRADOR;OK;;E o Brasil nem é o campeão de feriado que todo mundo pensa. São dez feriados nacionais por lei. A média do mundo fica perto de treze. O Nepal tem trinta e cinco.;E o Brasil nem é o campeão de feriado que todo mundo pensa, são 10 feriados nacionais por lei. A média do mundo fica perto de 13, o Nepal tem 35.;9.97;1
+059;FÁBIO;OK;;Trinta e cinco?;35;1.06;2
+060;CONTADOR;OK;;E ninguém lá vende sofá.;e ninguém lá vem de sofá.;1.51;1
+061;CONTADOR;OK;;A Repartição tem uma regra, doutor. Todo protocolo pode ser desfeito. Uma vez.;A repartição tem uma regra, doutor. Todo protocolo pode ser desfeito. Uma vez.;4.34;1
+062;CONTADOR;OK;;O senhor quer o calendário de volta?;O senhor quer o calendário de volta?;1.6;1
+063;NARRADOR;OK;;O Doutor Fábio olhou o caderno de reservas vazio do Seu Zé. Olhou a filial fechada. E lembrou de uma coisa que fazia trinta anos que ele não lembrava.;O doutor Fábio olhou o caderno de reservas vazio do seu Zé, olhou a filial fechada. Ele lembrou de uma coisa que fazia 30 anos que ele não lembrava.;9.26;1
+064;FÁBIO;OK;;Seu Zé. Essa pousada… tinha uma rede na varanda?;Seu Zé, essa pousada tinha uma rede na varanda?;3.86;2
+065;SEU ZÉ;OK;;Tinha. Tem ainda.;Tinha. Tem ainda.;1.4;1
+066;FÁBIO;OK;;Meu pai me trouxe aqui uma vez. Num feriado. Eu tinha uns dez anos. Foi a única vez.;Meu pai me trouxe aqui uma vez, num feriado. Eu tinha uns 10 anos. Foi a única vez.;5.38;1
+067;FÁBIO;OK;;Desfaz.;Desfaz.;0.72;1
+068;CONTADOR;OK;;Todos?;todos!;0.62;1
+069;FÁBIO;OK;;Todos. E bota o de novembro primeiro.;Todos. E bota o de novembro primeiro.;2.2;1
+070;NARRADOR;OK;;E o carimbo subiu de volta.;e o carimbo subiu de volta.;1.22;1
+071;CONTADOR;OK;;Indeferido o indeferimento. Calendário restaurado.;Indeferido o indeferimento, calendário restaurado.;2.71;1
+072;NARRADOR;OK;;Novembro. Sexta-feira, Dia da Consciência Negra. Feriadão de três dias.;Novembro, sexta-feira, dia da Consciência Negra, feriadão de três dias.;5.35;1
+073;NARRADOR;OK;;A Rose quebrou o pote de vidro. Deu quatrocentos e quarenta reais. Deu pra ida, a volta e um peixe frito.;A rose quebrou o pote de vidro. Deu 440 reais. Deu para ida, a volta e um peixe frito.;7.01;1
+074;ROSE;OK;;Doutor, eu vou ter que faltar no feriado.;Doutor, eu vou ter que faltar no feriado.;2.28;1
+075;FÁBIO;OK;;Rose, feriado não é falta.;Rose, feriado, não é falta.;1.73;1
+076;NARRADOR;OK;;A Lara viu o mar pela primeira vez às dez da manhã de uma sexta-feira. Ficou parada na areia, olhando, sem falar nada. Depois correu.;A Lara viu o mar pela primeira vez às 10 da manhã de uma sexta-feira, ficou parada na areia, olhando sem falar nada, depois correu.;10.35;1
+077;LARA;OK;;Mãe! Ele não acaba!;Mãe, ele não acaba.;2.18;1
+078;NARRADOR;OK;;Na pousada do Seu Zé, os doze quartos estavam cheios. E na varanda, numa rede, de bermuda e sem gel no cabelo, tinha um senhor que nunca tinha tirado um feriado na vida.;Na pousada do seu Zé, os 12 quartos estavam cheios, e na varanda, numa rede, de bermuda e sem gel no cabelo, tinha um senhor que nunca tinha tirado um feriado na vida.;11.78;1
+079;SEU ZÉ;OK;;Vai querer o peixe, doutor?;Vai querer o peixe, doutor.;1.06;1
+080;FÁBIO;OK;;Vou. E pode pôr na conta da filial.;Vou, e pode pôr na conta da filial.;2.1;1
+081;NARRADOR;OK;;Lá em cima, na Repartição do Universo, o Contador arquivou o protocolo trezentos e doze. Do lado, pregou um calendário. Com todos os feriados marcados de vermelho.;Lá em cima, na repartição do universo, o contador arquivou o protocolo 312. Do lado, pregou um calendário, com todos os feriados marcados de vermelho.;10.82;1
+082;NARRADOR;OK;;E você? Se só pudesse ficar um feriado no Brasil, qual você salvava? Conta aqui embaixo. Mas pensa bem. Porque alguém, em algum lugar, vai ficar sem o mar.;E você, se só pudesse ficar um feriado no Brasil, qual você salvava? Conta aqui embaixo, mas pensa bem, porque alguém em algum lugar vai ficar sem o mar.;10.43;1

@@ -1,0 +1,632 @@
+{
+ "001": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: de reais",
+   "sobrando: reais"
+  ],
+  "ouvido": "R$ 399 bilhões. É o dinheiro que cai no bolso dos brasileiros entre novembro e dezembro, só de décimo terceiro salário.",
+  "dur": 8.13,
+  "tent": 2
+ },
+ "002": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "São 99 milhões e 700 mil pessoas, em média 3.720 reais para cada uma.",
+  "dur": 6.75,
+  "tent": 1
+ },
+ "003": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Agora, imagina que, num ano, esse dinheiro simplesmente não viesse.",
+  "dur": 4.75,
+  "tent": 1
+ },
+ "005": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esse é o seu nonato, e ele pediu pro universo acabar com o décimo terceiro.",
+  "dur": 4.74,
+  "tent": 1
+ },
+ "007": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: um decimo terceiro"
+  ],
+  "ouvido": "Hoje, a gente vai ver o que acontece com o Natal 100ª com quem paga, com quem recebe e com quem vende.",
+  "dur": 7.23,
+  "tent": 2
+ },
+ "008": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você, o seu décimo terceiro já tem dono? Guarda essa resposta. Fica até o fim porque o universo atendeu o pedido do seu nonato, do jeito dele.",
+  "dur": 10.22,
+  "tent": 1
+ },
+ "009": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O seu nonato tem 61 anos. A 30 tem uma loja de brinquedos e presentes na rua 25 de março, em São Paulo.",
+  "dur": 6.8,
+  "tent": 1
+ },
+ "010": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "quatro funcionários, uma vitrine com um papai Noel que mexe o braço e uma frase que ele repete todo ano.",
+  "dur": 6.35,
+  "tent": 1
+ },
+ "012": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A vendedora mais antiga é a Cris, 34 anos, 9 de loja. Sabe o preço de cada carrinho de cabeça.",
+  "dur": 7.11,
+  "tent": 1
+ },
+ "015": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e tem a cliente mais fiel da loja, a Dona Lourdes, aposentada, três netos.",
+  "dur": 5.37,
+  "tent": 1
+ },
+ "017": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Só que antes de dezembro vem novembro. E novembro é o mês que o seu nonato mais tem medo.",
+  "dur": 6.27,
+  "tent": 1
+ },
+ "018": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A lei manda pagar a primeira parcela do décimo terceiro até o dia 30 de novembro, e a segunda até o dia 20 de dezembro.",
+  "dur": 7.44,
+  "tent": 1
+ },
+ "019": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A folha da loja é de 10 mil reais por mês. O décimo terceiro dá mais 10 mil, com o fundo de garantia, 10.800.",
+  "dur": 8.86,
+  "tent": 1
+ },
+ "021": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O contador da loja, o daqui da terra, dá o mesmo conselho todo ano. Guardar 900 reais por mês desde janeiro.",
+  "dur": 8.68,
+  "tent": 1
+ },
+ "023": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Do outro lado do balcão, a Cris já fez a conta do décimo terceiro dela.",
+  "dur": 4.11,
+  "tent": 1
+ },
+ "024": {
+  "status": "ERRO",
+  "problemas": [
+   "sobrando: reais"
+  ],
+  "ouvido": "Ela ganha R$ 2.400 por mês, a primeira parcela vem inteira, R$ 1.200, a segunda vem com o desconto do INSS.",
+  "dur": 8.62,
+  "tent": 2
+ },
+ "027": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Numa pesquisa da Serasa, quatro em cada dez pessoas disseram que iam usar o décimo terceiro principalmente para pagar dívida.",
+  "dur": 7.74,
+  "tent": 1
+ },
+ "028": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E a Dona Lourdes também tem o dela. Os aposentados e pensionistas do INSS são 36 milhões de pessoas e recebem juntos 70 bilhões e 800 milhões de reais de décimo terceiro.",
+  "dur": 12.82,
+  "tent": 1
+ },
+ "030": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Me foi numa noite de novembro fechando caixa que o seu nonato escreveu um pedido.",
+  "dur": 4.67,
+  "tent": 1
+ },
+ "032": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o pedido subiu, direto para repartição do universo.",
+  "dur": 3.25,
+  "tent": 1
+ },
+ "040": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: decimo terceiro",
+   "sobrando: treze"
+  ],
+  "ouvido": "No dia seguinte, o 13º tinha sumido da lei, dos olerites, do aplicativo do banco, do Brasil inteiro.",
+  "dur": 8.02,
+  "tent": 2
+ },
+ "045": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A fatura da crise não sumiu, os juros do cartão também não, só sumiu o dinheiro que ia pagar eles.",
+  "dur": 5.6,
+  "tent": 1
+ },
+ "047": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O da Dona Lourdes também não, nem o de mais 36 milhões de aposentados e pensionistas.",
+  "dur": 5.07,
+  "tent": 1
+ },
+ "048": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No Brasil inteiro, 399 bilhões de reais deixaram de cair no bolso das pessoas. Quase 3% de tudo o que o país produz num ano.",
+  "dur": 9.58,
+  "tent": 1
+ },
+ "049": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E aí chegou dezembro, o mês que pago o ano.",
+  "dur": 3.38,
+  "tent": 2
+ },
+ "050": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A 25 de março, que nessa época mal dá pra andar, estava com espaço pra jogar bola.",
+  "dur": 4.71,
+  "tent": 1
+ },
+ "053": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A dona Lourdes apareceu. Olhou a vitrine, olhou a carteira.",
+  "dur": 4.29,
+  "tent": 1
+ },
+ "055": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o universo que é muito organizado percebeu um problema.",
+  "dur": 3.14,
+  "tent": 1
+ },
+ "059": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o papai Noel Davitrini parou de mexer o braço de vez. Ele foi suspenso também.",
+  "dur": 5.43,
+  "tent": 1
+ },
+ "060": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No fim do mês, o seu nonato fez as contas, economizou 10.800 de Décimo Terceiro e deixou de vender quase 40 mil reais.",
+  "dur": 9.45,
+  "tent": 1
+ },
+ "065": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e, já que o décimo terceiro voltou, vale saber de onde ele veio.",
+  "dur": 3.92,
+  "tent": 1
+ },
+ "066": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Antes de 1962, algumas empresas davam um abono de natal, outras não, dependia do patrão.",
+  "dur": 7.47,
+  "tent": 1
+ },
+ "067": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Os trabalhadores fizeram greve para isso virar lei. Em julho de 62, teve até greve geral.",
+  "dur": 6.45,
+  "tent": 2
+ },
+ "068": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E no dia 13 de julho daquele ano, o presidente João Goulart sancionou a lei, gratificação de Natal, um 12 avos do salário por mês trabalhado.",
+  "dur": 10.02,
+  "tent": 1
+ },
+ "069": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Na época, um grande jornal publicou que um décimo terceiro mês de salário seria desastroso para o país.",
+  "dur": 6.32,
+  "tent": 1
+ },
+ "070": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "64 anos depois, ele está aí, e o Brasil não é o único. Argentina e México têm o aguinaldo, a Itália tem a tridecima, Portugal tem o subsídio de natal.",
+  "dur": 11.2,
+  "tent": 1
+ },
+ "071": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Já nos Estados Unidos e no Reino Unido, a lei não obriga nada parecida.",
+  "dur": 3.89,
+  "tent": 1
+ },
+ "075": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E tem economista que lembra que contratar com carteira no Brasil custa caro e que esse custo empurra muita gente para a informalidade.",
+  "dur": 7.41,
+  "tent": 1
+ },
+ "077": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E tem economista que lembra do outro lado. Boa parte desse dinheiro volta para o comércio no mesmo mês, para a loja do seu nonato, inclusive.",
+  "dur": 7.6,
+  "tent": 1
+ },
+ "079": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Novembro de novo. Dessa vez com o décimo terceiro.",
+  "dur": 3.2,
+  "tent": 1
+ },
+ "080": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "a Cris pagou a fatura, quase toda.",
+  "dur": 2.45,
+  "tent": 1
+ },
+ "083": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A dona Lourdes voltou. Três netos, três presentes.",
+  "dur": 3.48,
+  "tent": 1
+ },
+ "085": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o seu nonato abriu uma conta separada no banco. Deu até nome para ela. Décimo terceiro dono que vem.",
+  "dur": 5.73,
+  "tent": 1
+ },
+ "087": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: decimo terceiro",
+   "sobrando: treze"
+  ],
+  "ouvido": "E você? O seu 13º já tem dono, vai para dívida, para presente ou para guardar. E se você tem um pequeno negócio, novembro aperta aí também? Conta aqui embaixo, a gente lê tudo.",
+  "dur": 12.48,
+  "tent": 1
+ },
+ "004": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Não precisa imaginar não, eu pedi.",
+  "dur": 1.62,
+  "tent": 1
+ },
+ "011": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dezembro paga o ano. Se o desembro for bom, o resto eu aguento.",
+  "dur": 3.89,
+  "tent": 1
+ },
+ "014": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dá um tapinha nele que volta.",
+  "dur": 1.4,
+  "tent": 1
+ },
+ "020": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "10.800, no mês em que eu ainda não vendi o Natal.",
+  "dur": 3.87,
+  "tent": 1
+ },
+ "022": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Em janeiro eu guardei, em fevereiro o telhado pingou, em março eu esqueci, em abril eu desisti.",
+  "dur": 6.33,
+  "tent": 1
+ },
+ "031": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Querido universo, só esse ano, um ano sem décimo terceiro, eu juro que no ano que vem eu guardo os 900 assinados no NATO.",
+  "dur": 10.06,
+  "tent": 2
+ },
+ "041": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "10.800 reais economizados, universo, você é um gênio.",
+  "dur": 4.69,
+  "tent": 1
+ },
+ "043": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E se não não tem, Cris? Pra ninguém. Não fui eu, foi o universo.",
+  "dur": 4.49,
+  "tent": 1
+ },
+ "051": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Cris, cadê o povo?",
+  "dur": 1.36,
+  "tent": 1
+ },
+ "061": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Eu economizei o décimo terceiro e o natal foi junto.",
+  "dur": 2.94,
+  "tent": 1
+ },
+ "062": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "o universo devolve.",
+  "dur": 1.55,
+  "tent": 1
+ },
+ "082": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Para você, 120.",
+  "dur": 2.3,
+  "tent": 1
+ },
+ "086": {
+  "status": "ERRO",
+  "problemas": [
+   "sobrando: de"
+  ],
+  "ouvido": "de janeiro 900 reais guardado fevereiro a gente vê",
+  "dur": 4.42,
+  "tent": 1
+ },
+ "006": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ele pediu o que?",
+  "dur": 1.18,
+  "tent": 1
+ },
+ "013": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Seu nonato, o Papai Noel parou de mexer o braço de novo.",
+  "dur": 3.01,
+  "tent": 1
+ },
+ "025": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Primeira parcela, a fatura do cartão, segunda parcela, o resto da fatura do cartão.",
+  "dur": 5.44,
+  "tent": 1
+ },
+ "026": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E se sobrar alguma coisa, o presente do meu filho, daqui da loja, com desconto de funcionária.",
+  "dur": 6.12,
+  "tent": 1
+ },
+ "042": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Seu nonato, cadê o meu décimo terceiro?",
+  "dur": 2.73,
+  "tent": 1
+ },
+ "044": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e a fatura do cartão. Também foi o universo.",
+  "dur": 2.71,
+  "tent": 1
+ },
+ "052": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O povo está em casa, seu nonato, sem décimo terceiro.",
+  "dur": 3.17,
+  "tent": 1
+ },
+ "081": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Sobraram R$120. Seu nonato, o caminhão de bombeiro sai por quanto com o desconto de funcionária?",
+  "dur": 6.82,
+  "tent": 1
+ },
+ "016": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Todo ano eu compro aqui e todo ano eu pago com o décimo terceiro.",
+  "dur": 4.12,
+  "tent": 1
+ },
+ "029": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "É o único mês do ano em que eu sou rica. Dura uma semana, mas eu sou.",
+  "dur": 4.95,
+  "tent": 1
+ },
+ "046": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Moço do banco, o meu décimo terceiro não caiu?",
+  "dur": 2.83,
+  "tent": 1
+ },
+ "054": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esse ano os netos vão ganhar um abraço, bem apertado, é de graça e não quebra.",
+  "dur": 5.21,
+  "tent": 1
+ },
+ "084": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e mais um para o Papai Noel da Vitrine, uma pilha nova.",
+  "dur": 3.2,
+  "tent": 1
+ },
+ "033": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hmm. Pedido número 2026 barra 13. 1 ano 100 décimo terceiro.",
+  "dur": 7.23,
+  "tent": 1
+ },
+ "035": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Está na lei desde 1962 e na Constituição, mas aqui na repartição tem um botão para suspender.",
+  "dur": 8.08,
+  "tent": 1
+ },
+ "037": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O pedido não especificou. Brasil inteiro.",
+  "dur": 3.09,
+  "tent": 1
+ },
+ "039": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Deferido.",
+  "dur": 0.6,
+  "tent": 1
+ },
+ "056": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Natal sem dinheiro para presente, então não precisa de natal. Corta o natal.",
+  "dur": 5.76,
+  "tent": 1
+ },
+ "058": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A partir de hoje, dezembro, se chama novembro, parte 2.",
+  "dur": 3.27,
+  "tent": 1
+ },
+ "063": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Pedido cancelado, desfaz tudo, devolve o Natal.",
+  "dur": 3.71,
+  "tent": 1
+ },
+ "072": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e agora a repartição faz a conta direito dos dois lados.",
+  "dur": 3.91,
+  "tent": 1
+ },
+ "073": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: decimo terceiro decimo terceiro",
+   "sobrando: treze treze"
+  ],
+  "ouvido": "Primeiro, um mito. Tem gente que diz que o 13º é só o pagamento das semanas que sobram no ano. Não é. O salário cobre o mês inteiro. O 13º é uma mais, criado por lei.",
+  "dur": 11.42,
+  "tent": 1
+ },
+ "074": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: decimo terceiro avos",
+   "sobrando: treze"
+  ],
+  "ouvido": "Lado de quem paga. Pra empresa, o 13º custa 1,12 da folha todo mês, mais os encargos. Pra uma loja pequena, como a do seu nonato, novembro aperta de verdade.",
+  "dur": 10.2,
+  "tent": 1
+ },
+ "076": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Lado de quem recebe, são quase 100 milhões de pessoas, e muita gente usa esse dinheiro para pagar dívida, comprar presente, consertar a casa.",
+  "dur": 8.1,
+  "tent": 1
+ },
+ "078": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E tem um detalhe que não aparece na conta. Trinta e oito milhões e oitocentas mil pessoas trabalham na informalidade, segundo o IBGE. Para elas, o décimo terceiro nunca existiu.",
+  "dur": 11.03,
+  "tent": 1
+ },
+ "034": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso pode? Não é lei?",
+  "dur": 1.64,
+  "tent": 1
+ },
+ "036": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Suspender só para ele ou para o Brasil inteiro.",
+  "dur": 2.71,
+  "tent": 1
+ },
+ "038": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso não vai dar certo.",
+  "dur": 1.05,
+  "tent": 1
+ },
+ "057": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Corte o Natal.",
+  "dur": 0.82,
+  "tent": 1
+ },
+ "064": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Eu avisei.",
+  "dur": 0.73,
+  "tent": 2
+ }
+}

@@ -1,0 +1,68 @@
+[
+ {
+  "nome": "A",
+  "textos": [
+   {
+    "txt": "SÓ SOBROU 1",
+    "x": 0.5,
+    "y": 0.12,
+    "tam": 104,
+    "cor": "#FFFFFF",
+    "fundo": "#E62B2B"
+   }
+  ],
+  "zoom": 1.5,
+  "foco": [
+   0.42,
+   0.8
+  ],
+  "img": "/tmp/vs/viralstick/projects/um-feriado/build/stills/156s_156.00.png"
+ },
+ {
+  "nome": "B",
+  "textos": [
+   {
+    "txt": "FERIADO?",
+    "x": 0.22,
+    "y": 0.38,
+    "tam": 96,
+    "cor": "#FFE14D"
+   },
+   {
+    "txt": "CANCELADO",
+    "x": 0.22,
+    "y": 0.58,
+    "tam": 78,
+    "cor": "#FFFFFF",
+    "fundo": "#E62B2B"
+   }
+  ],
+  "img": "/tmp/vs/viralstick/projects/um-feriado/build/stills/104.9s_104.90.png"
+ },
+ {
+  "nome": "C",
+  "textos": [
+   {
+    "txt": "O POTE",
+    "x": 0.8,
+    "y": 0.6,
+    "tam": 110,
+    "cor": "#FFE14D"
+   },
+   {
+    "txt": "DA PRAIA",
+    "x": 0.8,
+    "y": 0.78,
+    "tam": 100,
+    "cor": "#FFFFFF"
+   }
+  ],
+  "seta": [
+   0.8,
+   0.47,
+   0.88,
+   0.2
+  ],
+  "img": "/tmp/vs/viralstick/projects/um-feriado/build/stills/68.9s_68.90.png"
+ }
+]

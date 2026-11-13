@@ -1,0 +1,1951 @@
+[
+[
+"001",
+null,
+"cena",
+{
+"set": "mercado",
+"caixa": 1,
+"chars": [
+{
+"k": "CAIXA",
+"x": 1350,
+"facing": -1
+},
+{
+"k": "CLIENTE",
+"x": 700,
+"expr": "smile"
+}
+]
+}
+],
+[
+"002",
+null,
+"close",
+{
+"k": "CLIENTE",
+"set": "mercado",
+"expr": "smile",
+"side": "R"
+}
+],
+[
+"003",
+null,
+"maquininha",
+{
+"em": "conexao"
+}
+],
+[
+"004",
+null,
+"close",
+{
+"k": "CLIENTE",
+"set": "mercado",
+"expr": "worried",
+"side": "R"
+}
+],
+[
+"005",
+null,
+"close",
+{
+"k": "CAIXA",
+"set": "mercado",
+"expr": "tired"
+}
+],
+[
+"006",
+[
+0,
+1
+],
+"hora",
+{
+"set": "mercado",
+"label": "SEXTA 18H",
+"h": 6,
+"texto": "DIA DE PAGAMENTO"
+}
+],
+[
+"006",
+[
+2,
+3
+],
+"fila",
+{
+"set": "mercado",
+"n": 11,
+"caixa": 1,
+"texto": "NINGUÉM TINHA DINHEIRO"
+}
+],
+[
+"007",
+[
+0,
+0
+],
+"numero",
+{
+"ate": 319000000,
+"rotulo": "PIX EM UM SÓ DIA (RECORDE)",
+"tam": 160
+}
+],
+[
+"007",
+[
+1,
+1
+],
+"numero",
+{
+"de": 0,
+"ate": 0,
+"rotulo": "NAQUELA SEXTA",
+"fundo": "rays_vermelho",
+"tam": 260
+}
+],
+[
+"007",
+[
+2,
+2
+],
+"cartela",
+{
+"linhas": [
+"72 HORAS",
+"SEM INTERNET"
+],
+"cores": [
+"#ffd23f",
+"#fff"
+],
+"fundo": "rays_vermelho"
+}
+],
+[
+"008",
+[
+0,
+1
+],
+"voce2",
+{
+"balao": "72 HORAS?"
+}
+],
+[
+"008",
+[
+2,
+2
+],
+"fica2",
+{
+"k": "JURA",
+"set": "mercadinho"
+}
+],
+[
+"008",
+[
+3,
+4
+],
+"cena",
+{
+"set": "mercadinho_fora",
+"chars": [
+{
+"k": "JURA",
+"x": 960,
+"expr": "smug",
+"pose": "crossArms"
+}
+],
+"texto": "QUEM CONTINUOU FUNCIONANDO?"
+}
+],
+[
+"009",
+null,
+"ficha2",
+{
+"k": "JURA",
+"nome": "SEU JURA",
+"linhas": [
+"71 ANOS",
+"MERCADINHO HÁ 38 ANOS",
+"CARAPICUÍBA"
+],
+"em": [
+"setenta",
+"dono",
+"carapicuiba"
+]
+}
+],
+[
+"010",
+null,
+"cartela",
+{
+"linhas": [
+"SEM PIX",
+"SEM WHATSAPP",
+"SEM SENHA DO WI-FI"
+],
+"em": [
+"pix",
+"whatsapp",
+"senha"
+],
+"fundo": "#455a64"
+}
+],
+[
+"011",
+[
+0,
+0
+],
+"cena",
+{
+"set": "mercadinho",
+"chars": [
+{
+"k": "JURA",
+"x": 960,
+"back": 1,
+"expr": "smile"
+}
+],
+"texto": "RÁDIO • LATA • CADERNINHO"
+}
+],
+[
+"011",
+[
+1,
+1
+],
+"caderno",
+{
+"linhas": [
+[
+"Dona Lurdes",
+"2 L leite"
+],
+[
+"Seu Nico",
+"pão"
+],
+[
+"Cleide",
+"arroz"
+],
+[
+"Tonhão",
+"gás"
+],
+[
+"Rose",
+"café"
+],
+[
+"Zé",
+"cigarro"
+]
+],
+"titulo": "FIADO DESDE 1988"
+}
+],
+[
+"012",
+null,
+"cena",
+{
+"set": "mercadinho",
+"chars": [
+{
+"k": "JURA",
+"x": 960,
+"back": 1,
+"expr": "smile"
+},
+{
+"k": "DUDA",
+"x": 560,
+"expr": "confused",
+"pose": "talk"
+}
+]
+}
+],
+[
+"013",
+null,
+"close",
+{
+"k": "JURA",
+"set": "mercadinho",
+"expr": "smug"
+}
+],
+[
+"014",
+null,
+"close",
+{
+"k": "DUDA",
+"set": "mercadinho",
+"expr": "confused",
+"side": "R"
+}
+],
+[
+"015",
+null,
+"close",
+{
+"k": "JURA",
+"set": "mercadinho",
+"expr": "smug",
+"look": [
+-0.2,
+0.0
+]
+}
+],
+[
+"016",
+[
+0,
+2
+],
+"cena",
+{
+"set": "sala",
+"mesa": 1,
+"chars": [
+{
+"k": "JURA",
+"x": 600,
+"expr": "neutral"
+},
+{
+"k": "DUDA",
+"x": 420,
+"expr": "smile"
+},
+{
+"k": "THIAGO",
+"x": 1300,
+"facing": -1,
+"expr": "smug",
+"pose": "crossArms"
+}
+]
+}
+],
+[
+"016",
+[
+3,
+5
+],
+"ficha2",
+{
+"k": "THIAGO",
+"nome": "THIAGO TRENDS",
+"linhas": [
+"GENRO",
+"INFLUENCER"
+],
+"cor": "#111318",
+"em": [
+"thiago",
+"trends"
+]
+}
+],
+[
+"017",
+null,
+"celular",
+{
+"titulo": "@THIAGOTRENDS",
+"cor": "#8e24aa",
+"linhas": [
+"2.000.000 SEGUIDORES",
+"CURSO: FIQUE RICO",
+"PELO CELULAR"
+],
+"fundo": "sala",
+"texto": "2 MILHÕES DE SEGUIDORES"
+}
+],
+[
+"018",
+null,
+"close",
+{
+"k": "THIAGO",
+"set": "sala",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"019",
+null,
+"close",
+{
+"k": "JURA",
+"set": "sala",
+"expr": "smile"
+}
+],
+[
+"020",
+[
+0,
+1
+],
+"close",
+{
+"k": "THIAGO",
+"set": "sala",
+"expr": "happy",
+"side": "R",
+"texto": "2 MILHÕES"
+}
+],
+[
+"020",
+[
+2,
+3
+],
+"cena",
+{
+"set": "sala",
+"mesa": 1,
+"chars": [
+{
+"k": "JURA",
+"x": 600,
+"expr": "neutral"
+},
+{
+"k": "THIAGO",
+"x": 1300,
+"facing": -1,
+"expr": "smug",
+"pose": "point"
+}
+],
+"texto": "\"ESCALA\""
+}
+],
+[
+"021",
+null,
+"cena",
+{
+"set": "sala",
+"mesa": 1,
+"chars": [
+{
+"k": "JURA",
+"x": 600,
+"expr": "neutral"
+},
+{
+"k": "THIAGO",
+"x": 1300,
+"facing": -1,
+"expr": "smug"
+}
+],
+"z": [
+1.1,
+1.2
+]
+}
+],
+[
+"022",
+null,
+"close",
+{
+"k": "THIAGO",
+"set": "sala",
+"expr": "smug",
+"side": "R",
+"texto": "NÃO EXISTE"
+}
+],
+[
+"023",
+[
+0,
+0
+],
+"cena",
+{
+"set": "sala",
+"mesa": 1,
+"chars": [
+{
+"k": "JURA",
+"x": 600,
+"expr": "smile"
+},
+{
+"k": "THIAGO",
+"x": 1300,
+"facing": -1,
+"expr": "happy",
+"pose": "cheer"
+}
+]
+}
+],
+[
+"023",
+[
+1,
+2
+],
+"close",
+{
+"k": "DUDA",
+"set": "sala",
+"expr": "sad",
+"side": "R",
+"look": [
+-0.8,
+0.1
+]
+}
+],
+[
+"024",
+null,
+"close",
+{
+"k": "THIAGO",
+"set": "sala",
+"expr": "happy",
+"side": "R"
+}
+],
+[
+"025",
+null,
+"close",
+{
+"k": "JURA",
+"set": "sala",
+"expr": "smug"
+}
+],
+[
+"026",
+null,
+"cena",
+{
+"set": "sala",
+"mesa": 1,
+"chars": [
+{
+"k": "JURA",
+"x": 600,
+"expr": "smug"
+},
+{
+"k": "THIAGO",
+"x": 1300,
+"facing": -1,
+"expr": "shocked"
+}
+],
+"z": [
+1.15,
+1.25
+]
+}
+],
+[
+"027",
+[
+0,
+0
+],
+"relogio3",
+{}
+],
+[
+"027",
+[
+1,
+1
+],
+"sobe_ceu",
+{}
+],
+[
+"028",
+null,
+"close",
+{
+"k": "TECNICO",
+"set": "suporte",
+"expr": "tired"
+}
+],
+[
+"029",
+null,
+"mesa_ceu",
+{
+"k": "TECNICO",
+"expr": "tired",
+"texto": "PROTOCOLOS: 8 BILHÕES"
+}
+],
+[
+"030",
+null,
+"mesa_ceu",
+{
+"k": "TECNICO",
+"expr": "tired",
+"tela": [
+"TÁ LENTA",
+"NÃO CARREGA",
+"TÁ LENTA"
+],
+"texto": "\"A INTERNET TÁ LENTA\""
+}
+],
+[
+"031",
+null,
+"close",
+{
+"k": "TECNICO",
+"set": "suporte",
+"expr": "smug"
+}
+],
+[
+"032",
+null,
+"puxa_cabo",
+{
+"em": "cabo"
+}
+],
+[
+"033",
+null,
+"cartela",
+{
+"linhas": [
+"REINICIANDO...",
+"VOLTA EM 72 HORAS"
+],
+"cores": [
+"#69f0ae",
+"#ffd23f"
+],
+"fundo": "#0b1026",
+"em": [
+0.2,
+"previsao"
+]
+}
+],
+[
+"034",
+null,
+"close",
+{
+"k": "TECNICO",
+"set": "suporte",
+"expr": "worried"
+}
+],
+[
+"035",
+[
+0,
+1
+],
+"hora",
+{
+"set": "mercado",
+"label": "HORA 0",
+"h": 6,
+"chars": [
+{
+"k": "CAIXA",
+"x": 1350,
+"facing": -1,
+"expr": "worried"
+}
+],
+"fila": 6
+}
+],
+[
+"035",
+[
+2,
+4
+],
+"cartela",
+{
+"linhas": [
+"MERCADO: TRAVOU",
+"FARMÁCIA: TRAVOU",
+"POSTO: TRAVOU"
+],
+"em": [
+"mercado",
+"farmacia",
+"posto"
+],
+"fundo": "rays_vermelho",
+"tam": 100
+}
+],
+[
+"036",
+null,
+"cena",
+{
+"set": "mercadinho_fora",
+"chars": [
+{
+"k": "JURA",
+"x": 960,
+"expr": "smile",
+"pose": "crossArms"
+}
+],
+"texto": "ABERTO"
+}
+],
+[
+"037",
+null,
+"cena",
+{
+"set": "mercadinho",
+"chars": [
+{
+"k": "JURA",
+"x": 960,
+"back": 1,
+"expr": "smug",
+"pose": "point"
+},
+{
+"k": "CLIENTE",
+"x": 520,
+"expr": "surprised"
+}
+]
+}
+],
+[
+"038",
+null,
+"fila",
+{
+"set": "mercadinho_fora",
+"n": 12,
+"x0": 40,
+"passo": 150,
+"texto": "FILA DOBRANDO A ESQUINA"
+}
+],
+[
+"039",
+[
+0,
+1
+],
+"celular",
+{
+"titulo": "FAMÍLIA 🏠",
+"cor": "#25d366",
+"linhas": [
+"..."
+],
+"alerta": "SEM CONEXÃO",
+"fundo": "sala",
+"texto": "HORA 2"
+}
+],
+[
+"039",
+[
+2,
+3
+],
+"cartela",
+{
+"linhas": [
+"QUAL O TELEFONE",
+"DA SUA MÃE?"
+],
+"fundo": "rays_azul",
+"sub": "DE CABEÇA"
+}
+],
+[
+"040",
+null,
+"cena",
+{
+"set": "mercadinho",
+"chars": [
+{
+"k": "JURA",
+"x": 960,
+"back": 1,
+"expr": "smile"
+},
+{
+"k": "LURDES",
+"x": 560,
+"expr": "worried",
+"pose": "talk"
+}
+]
+}
+],
+[
+"041",
+[
+0,
+1
+],
+"close",
+{
+"k": "JURA",
+"set": "mercadinho",
+"expr": "smile"
+}
+],
+[
+"041",
+[
+2,
+2
+],
+"caderno",
+{
+"linhas": [
+[
+"Dona Lurdes",
+"2 L leite"
+],
+[
+"Filha: 9 8765-4321",
+""
+],
+[
+"Seu Nico",
+"pão"
+]
+],
+"destaque": 0
+}
+],
+[
+"042",
+[
+0,
+0
+],
+"hora",
+{
+"set": "rua",
+"label": "HORA 6",
+"h": 12
+}
+],
+[
+"042",
+[
+1,
+2
+],
+"motoboy",
+{}
+],
+[
+"043",
+null,
+"close",
+{
+"k": "MOTOBOY",
+"set": "rua",
+"expr": "confused",
+"side": "R"
+}
+],
+[
+"044",
+null,
+"close",
+{
+"k": "JURA",
+"set": "mercadinho_fora",
+"expr": "smile"
+}
+],
+[
+"045",
+null,
+"close",
+{
+"k": "MOTOBOY",
+"set": "rua",
+"expr": "angry",
+"side": "R"
+}
+],
+[
+"046",
+null,
+"close",
+{
+"k": "JURA",
+"set": "mercadinho_fora",
+"expr": "smug"
+}
+],
+[
+"047",
+[
+0,
+1
+],
+"hora",
+{
+"set": "mercadinho_fora",
+"label": "HORA 12",
+"h": 8,
+"texto": "SÁBADO DE MANHÃ"
+}
+],
+[
+"047",
+[
+2,
+4
+],
+"radio_calcada",
+{
+"texto": "IGUAL 1970"
+}
+],
+[
+"048",
+[
+0,
+0
+],
+"nota_ouro",
+{
+"em1": "doze",
+"em2": "cem"
+}
+],
+[
+"048",
+[
+1,
+2
+],
+"pct",
+{
+"pct": 12,
+"rotulo": "DINHEIRO VIVO NAS LOJAS (2025)",
+"texto": "HOJE"
+}
+],
+[
+"049",
+null,
+"lata_atm",
+{}
+],
+[
+"050",
+null,
+"hora",
+{
+"set": "mercadinho_fora",
+"label": "HORA 24",
+"h": 10,
+"texto": "DOMINGO"
+}
+],
+[
+"051",
+null,
+"cena",
+{
+"set": "mercadinho",
+"chars": [
+{
+"k": "JURA",
+"x": 960,
+"back": 1,
+"expr": "neutral"
+},
+{
+"k": "THIAGO",
+"x": 560,
+"expr": "happy",
+"pose": "cheer"
+}
+]
+}
+],
+[
+"052",
+null,
+"close",
+{
+"k": "JURA",
+"set": "mercadinho",
+"expr": "neutral"
+}
+],
+[
+"053",
+null,
+"close",
+{
+"k": "THIAGO",
+"set": "mercadinho",
+"expr": "sad",
+"side": "R"
+}
+],
+[
+"054",
+null,
+"close",
+{
+"k": "JURA",
+"set": "mercadinho",
+"expr": "smug"
+}
+],
+[
+"055",
+null,
+"close",
+{
+"k": "THIAGO",
+"set": "mercadinho",
+"expr": "tired",
+"side": "R"
+}
+],
+[
+"056",
+null,
+"celular",
+{
+"titulo": "CONTATOS",
+"cor": "#1e88e5",
+"linhas": [
+"MÃE",
+"(só esse)"
+],
+"alerta": "SEM INTERNET",
+"alertaEm": "tambem",
+"fundo": "mercadinho",
+"texto": "2 MILHÕES DE SEGUIDORES"
+}
+],
+[
+"057",
+null,
+"close",
+{
+"k": "THIAGO",
+"set": "mercadinho",
+"expr": "worried",
+"side": "R"
+}
+],
+[
+"058",
+[
+0,
+0
+],
+"close",
+{
+"k": "JURA",
+"set": "mercadinho",
+"expr": "smug"
+}
+],
+[
+"058",
+[
+1,
+2
+],
+"caderno",
+{
+"linhas": [
+[
+"Thiago",
+"R$ 312"
+],
+[
+"desde 2019",
+"pág. 42"
+]
+],
+"destaque": 0,
+"titulo": "PÁGINA 42"
+}
+],
+[
+"059",
+null,
+"caderno",
+{
+"linhas": [
+[
+"Dona Lurdes",
+"leite"
+],
+[
+"Seu Nico",
+"pão"
+],
+[
+"Cleide",
+"arroz"
+],
+[
+"Tonhão",
+"gás"
+],
+[
+"Rose",
+"café"
+],
+[
+"Zé",
+"feijão"
+],
+[
+"Marta",
+"óleo"
+],
+[
+"Juca",
+"açúcar"
+],
+[
+"Lia",
+"sabão"
+],
+[
+"Beto",
+"pão"
+],
+[
+"Nina",
+"leite"
+],
+[
+"Téo",
+"arroz"
+]
+],
+"titulo": "HORA 30"
+}
+],
+[
+"060",
+[
+0,
+1
+],
+"cena",
+{
+"set": "mercadinho",
+"chars": [
+{
+"k": "JURA",
+"x": 960,
+"back": 1,
+"expr": "worried"
+}
+],
+"texto": "ESTOQUE ACABANDO"
+}
+],
+[
+"060",
+[
+2,
+2
+],
+"caminhao",
+{}
+],
+[
+"061",
+null,
+"caminhao",
+{}
+],
+[
+"062",
+null,
+"hora",
+{
+"set": "postoSaude",
+"label": "HORA 40",
+"h": 9
+}
+],
+[
+"063",
+null,
+"cena",
+{
+"set": "postoSaude",
+"balcao": 1,
+"chars": [
+{
+"k": "ATENDENTE",
+"x": 1500,
+"y": 980,
+"facing": -1,
+"expr": "worried"
+},
+{
+"k": "JURA",
+"x": 600,
+"expr": "neutral"
+}
+]
+}
+],
+[
+"064",
+null,
+"close",
+{
+"k": "JURA",
+"set": "postoSaude",
+"expr": "confused"
+}
+],
+[
+"065",
+null,
+"close",
+{
+"k": "ATENDENTE",
+"set": "postoSaude",
+"expr": "worried",
+"side": "R"
+}
+],
+[
+"066",
+[
+0,
+1
+],
+"hora",
+{
+"set": "mercadinho_fora",
+"label": "HORA 48",
+"h": 10,
+"texto": "DIA DA APOSENTADORIA"
+}
+],
+[
+"066",
+[
+2,
+4
+],
+"cadeia",
+{
+"itens": [
+"APOSENTADORIA",
+"CONTA",
+"BANCO",
+"INTERNET"
+],
+"em": [
+"aposentadoria",
+"conta",
+"banco",
+"internet"
+],
+"quebra": 2,
+"quebraEm": "internet"
+}
+],
+[
+"067",
+null,
+"cadeia",
+{
+"itens": [
+"REMÉDIO",
+"CAMINHÃO",
+"APOSENTADORIA",
+"INTERNET"
+],
+"titulo": "TUDO QUE ELE USAVA, USAVA",
+"quebra": 2
+}
+],
+[
+"068",
+null,
+"close",
+{
+"k": "JURA",
+"set": "mercadinho_noite",
+"expr": "worried"
+}
+],
+[
+"069",
+null,
+"cartela",
+{
+"linhas": [
+"A INTERNET",
+"NÃO É NUVEM.",
+"É CABO."
+],
+"em": [
+0.2,
+"nuvem",
+"cabo"
+],
+"cores": [
+"#fff",
+"#fff",
+"#ffd23f"
+],
+"fundo": "#0d47a1"
+}
+],
+[
+"070",
+[
+0,
+1
+],
+"mapa_br",
+{
+"modo": "cabos",
+"texto": "99% PELO FUNDO DO MAR",
+"texto2": "PRAIA DO FUTURO",
+"texto2Em": "praia"
+}
+],
+[
+"070",
+[
+2,
+3
+],
+"mapa_br",
+{
+"modo": "cabos",
+"texto": "16 CABOS",
+"texto2": "~90% DO TRÁFEGO INTERNACIONAL",
+"texto2Em": "noventa"
+}
+],
+[
+"071",
+[
+0,
+1
+],
+"mapa_br",
+{
+"modo": "apaga",
+"texto": "O BRASIL APAGAVA?"
+}
+],
+[
+"071",
+[
+2,
+3
+],
+"pct",
+{
+"pct": 75,
+"rotulo": "DO TRÁFEGO FICA NO BRASIL",
+"texto": "70 A 80%",
+"cor": "#43a047"
+}
+],
+[
+"072",
+[
+0,
+1
+],
+"cartela",
+{
+"linhas": [
+"A INTERNET NÃO CAI",
+"DE UMA VEZ.",
+"CAI AOS PEDAÇOS."
+],
+"fundo": "#263238",
+"cores": [
+"#fff",
+"#fff",
+"#ffd23f"
+]
+}
+],
+[
+"072",
+[
+2,
+4
+],
+"apps_fora",
+{}
+],
+[
+"073",
+[
+0,
+0
+],
+"pessoas",
+{
+"n": 9,
+"rotulo": "USAM INTERNET (IBGE 2025)"
+}
+],
+[
+"073",
+[
+1,
+4
+],
+"cadeia",
+{
+"itens": [
+"QUEM NÃO USA",
+"REMÉDIO",
+"APOSENTADORIA",
+"CAMINHÃO"
+],
+"em": [
+"milhoes",
+"remedio",
+"aposentadoria",
+"caminhao"
+],
+"titulo": "QUASE 18 MILHÕES DEPENDEM IGUAL"
+}
+],
+[
+"074",
+[
+0,
+1
+],
+"cartela",
+{
+"linhas": [
+"O PROBLEMA NÃO É USAR.",
+"É DEPENDER SÓ DELA."
+],
+"fundo": "rays_azul",
+"tam": 100
+}
+],
+[
+"074",
+[
+2,
+3
+],
+"cartela",
+{
+"linhas": [
+"QUEM TEM UM CAMINHO SÓ",
+"NÃO TEM CAMINHO.",
+"TEM SORTE."
+],
+"cores": [
+"#fff",
+"#fff",
+"#ffd23f"
+],
+"fundo": "#263238",
+"tam": 100,
+"em": [
+0.2,
+"nao",
+"sorte"
+]
+}
+],
+[
+"075",
+null,
+"telefone_fixo",
+{
+"set": "mercadinho",
+"texto": "HORA 70"
+}
+],
+[
+"076",
+null,
+"close",
+{
+"k": "TECNICO",
+"set": "suporte",
+"expr": "smile"
+}
+],
+[
+"077",
+null,
+"close",
+{
+"k": "JURA",
+"set": "mercadinho",
+"expr": "smug"
+}
+],
+[
+"078",
+[
+0,
+2
+],
+"close",
+{
+"k": "TECNICO",
+"set": "suporte",
+"expr": "smug"
+}
+],
+[
+"078",
+[
+3,
+5
+],
+"cartela",
+{
+"linhas": [
+"BAIRRO DESLIGADO",
+"PRA SEMPRE?"
+],
+"fundo": "mercadinho_noite",
+"sub": "O ÚNICO QUE FUNCIONA"
+}
+],
+[
+"079",
+null,
+"cena",
+{
+"set": "mercadinho",
+"chars": [
+{
+"k": "JURA",
+"x": 960,
+"back": 1,
+"expr": "neutral"
+},
+{
+"k": "THIAGO",
+"x": 520,
+"expr": "surprised"
+}
+]
+}
+],
+[
+"080",
+null,
+"close",
+{
+"k": "THIAGO",
+"set": "mercadinho",
+"expr": "happy",
+"side": "R",
+"texto": "REI!"
+}
+],
+[
+"081",
+[
+0,
+2
+],
+"close",
+{
+"k": "JURA",
+"set": "mercadinho",
+"expr": "angry"
+}
+],
+[
+"081",
+[
+3,
+3
+],
+"close",
+{
+"k": "JURA",
+"set": "mercadinho",
+"expr": "sad",
+"texto": "SÓ UM VELHO COM CADERNINHO"
+}
+],
+[
+"082",
+null,
+"cartela",
+{
+"linhas": [
+"UM MERCADINHO",
+"NÃO ABASTECE UM BAIRRO.",
+"UM CADERNINHO",
+"NÃO SUBSTITUI UM PAÍS."
+],
+"fundo": "#4e342e",
+"tam": 86
+}
+],
+[
+"083",
+null,
+"close",
+{
+"k": "JURA",
+"set": "mercadinho",
+"expr": "smile"
+}
+],
+[
+"084",
+null,
+"close",
+{
+"k": "TECNICO",
+"set": "suporte",
+"expr": "smile"
+}
+],
+[
+"085",
+null,
+"close",
+{
+"k": "JURA",
+"set": "mercadinho",
+"expr": "smug"
+}
+],
+[
+"086",
+null,
+"close",
+{
+"k": "TECNICO",
+"set": "suporte",
+"expr": "surprised"
+}
+],
+[
+"087",
+null,
+"caderno",
+{
+"linhas": [
+[
+"Thiago",
+"R$ 312"
+],
+[
+"desde 2019",
+"pág. 42"
+]
+],
+"destaque": 0,
+"titulo": "EM DINHEIRO"
+}
+],
+[
+"088",
+null,
+"close",
+{
+"k": "TECNICO",
+"set": "suporte",
+"expr": "smug",
+"texto": "AGUARDANDO PAGAMENTO"
+}
+],
+[
+"089",
+null,
+"numero",
+{
+"pre": "R$ ",
+"ate": 312,
+"rotulo": "PAGOU EM NOTA",
+"fundo": "rays_verde",
+"sep": false
+}
+],
+[
+"090",
+null,
+"caderno",
+{
+"linhas": [
+[
+"Thiago",
+"R$ 312"
+],
+[
+"emprestou sáb.",
+"pág. 43"
+]
+],
+"destaque": 1,
+"titulo": "SÓ MUDOU DE PÁGINA"
+}
+],
+[
+"091",
+[
+0,
+1
+],
+"mapa_br",
+{
+"modo": "luz",
+"texto": "A INTERNET VOLTOU"
+}
+],
+[
+"091",
+[
+2,
+2
+],
+"mesa_ceu",
+{
+"k": "TECNICO",
+"expr": "smug",
+"tela": [
+"PRÓXIMO PROTOCOLO"
+]
+}
+],
+[
+"092",
+null,
+"mesa_ceu",
+{
+"k": "TECNICO",
+"expr": "smug",
+"tela": [
+"THIAGO TRENDS",
+"FIQUEI 72H SEM EXISTIR"
+],
+"texto": "RECLAMAÇÃO"
+}
+],
+[
+"093",
+null,
+"botao",
+{
+"txt": "ENCERRAR CHAMADO",
+"em": "encerrar",
+"cor": "#2e7d32",
+"cor2": "#43a047",
+"tam": 48,
+"flash": false
+}
+],
+[
+"094",
+null,
+"close",
+{
+"k": "TECNICO",
+"set": "suporte",
+"expr": "smug"
+}
+],
+[
+"095",
+[
+0,
+1
+],
+"hora",
+{
+"set": "mercadinho_qr",
+"label": "SEGUNDA 8H",
+"h": 8
+}
+],
+[
+"095",
+[
+2,
+4
+],
+"cena",
+{
+"set": "mercadinho_qr",
+"chars": [
+{
+"k": "JURA",
+"x": 700,
+"expr": "smile"
+}
+],
+"z": [
+1.0,
+1.15
+],
+"x": 300
+}
+],
+[
+"096",
+null,
+"cena",
+{
+"set": "mercadinho_qr",
+"chars": [
+{
+"k": "JURA",
+"x": 760,
+"expr": "smile"
+},
+{
+"k": "DUDA",
+"x": 1150,
+"facing": -1,
+"expr": "happy",
+"pose": "cheer"
+}
+]
+}
+],
+[
+"097",
+null,
+"close",
+{
+"k": "JURA",
+"set": "mercadinho_qr",
+"expr": "smile"
+}
+],
+[
+"098",
+null,
+"close",
+{
+"k": "DUDA",
+"set": "mercadinho_qr",
+"expr": "confused",
+"side": "R"
+}
+],
+[
+"099",
+null,
+"close",
+{
+"k": "JURA",
+"set": "mercadinho_qr",
+"expr": "smug",
+"texto": "O CADERNINHO NUNCA CAIU"
+}
+],
+[
+"100",
+null,
+"geladeira",
+{}
+],
+[
+"101",
+[
+0,
+0
+],
+"voce2",
+{
+"balao": "☎ ?"
+}
+],
+[
+"101",
+[
+1,
+2
+],
+"comenta2",
+{
+"pergunta": "QUANTOS TELEFONES\nVOCÊ SABE DE CABEÇA?"
+}
+]
+]

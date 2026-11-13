@@ -1,0 +1,27 @@
+{
+ "title": "Teste - Imposto vida inteira",
+ "aspect": "16:9",
+ "resolution": "1080p",
+ "fps": 24,
+ "style": "toon",
+ "voiceover": null,
+ "script": null,
+ "duration": 41.05,
+ "captions": false,
+ "bars": "none",
+ "fadeIn": 0.3,
+ "fadeOut": 0.6,
+ "music": {
+  "enabled": true,
+  "gainDb": -19
+ },
+ "sfx": {
+  "enabled": true,
+  "gainDb": -6
+ },
+ "loudness": -14,
+ "captionStyle": {
+  "y": 1020,
+  "size": 46
+ }
+}

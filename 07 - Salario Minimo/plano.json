@@ -1,0 +1,1615 @@
+[
+[
+"001",
+[
+0,
+0
+],
+"numero",
+{
+"pre": "R$ ",
+"ate": 7.37,
+"dec": 2,
+"rotulo": "UMA HORA DE TRABALHO NO SALÁRIO MÍNIMO",
+"fundo": "rays"
+}
+],
+[
+"001",
+[
+1,
+1
+],
+"cena",
+{
+"set": "paulista",
+"chars": [
+{
+"k": "TAINA",
+"x": 1000,
+"expr": "neutral"
+}
+],
+"z": [
+1.0,
+1.06
+]
+}
+],
+[
+"002",
+null,
+"cena",
+{
+"set": "ponto",
+"chars": [
+{
+"k": "TAINA",
+"x": 620,
+"pose": "think",
+"expr": "thinking"
+}
+],
+"texto": "ELA PENSA EM HORAS",
+"textoEm": "horas"
+}
+],
+[
+"003",
+null,
+"horas",
+{
+"item": "onibus",
+"preco": "R$ 5,30",
+"horas": "43 MIN",
+"emH": "quarenta"
+}
+],
+[
+"004",
+null,
+"horas",
+{
+"item": "botijao",
+"preco": "R$ 115",
+"horas": "16 H",
+"emH": "quase",
+"fundo": "#4e342e"
+}
+],
+[
+"005",
+null,
+"horas",
+{
+"item": "casa",
+"preco": "R$ 750",
+"horas": "102 H",
+"emH": "cento",
+"fundo": "#37474f"
+}
+],
+[
+"006",
+[
+0,
+0
+],
+"numero",
+{
+"pre": "R$ ",
+"ate": 1621,
+"rotulo": "SALÁRIO MÍNIMO 2026",
+"fundo": "rays_verde"
+}
+],
+[
+"006",
+[
+1,
+1
+],
+"numero",
+{
+"ate": 62,
+"suf": " MILHÕES",
+"rotulo": "DE BRASILEIROS COM RENDA LIGADA AO MÍNIMO",
+"fundo": "rays_azul"
+}
+],
+[
+"007",
+null,
+"mes",
+{
+"n": 30,
+"titulo": "O MÊS DA TAINÁ"
+}
+],
+[
+"008",
+[
+0,
+1
+],
+"voce2",
+{
+"balao": "ATÉ QUE DIA DURA?"
+}
+],
+[
+"008",
+[
+2,
+3
+],
+"fica2",
+{
+"k": "TAINA",
+"set": "paulista"
+}
+],
+[
+"008",
+[
+4,
+5
+],
+"cena",
+{
+"set": "reparticao",
+"chars": [
+{
+"k": "CONTADOR",
+"x": 960,
+"expr": "smug"
+}
+],
+"texto": "O UNIVERSO VAI ATENDER",
+"textoEm": "universo"
+}
+],
+[
+"009",
+null,
+"ficha2",
+{
+"k": "TAINA",
+"nome": "TAINÁ",
+"linhas": [
+"26 ANOS",
+"LIMPEZA",
+"AV. PAULISTA",
+"1 SALÁRIO MÍNIMO"
+],
+"em": [
+"vinte",
+"limpeza",
+"paulista",
+"paulista"
+],
+"cor": "#00897b"
+}
+],
+[
+"010",
+null,
+"cena",
+{
+"set": "comodo",
+"chars": [
+{
+"k": "TAINA_CASA",
+"x": 1500,
+"facing": -1
+},
+{
+"k": "DAVI",
+"x": 1250
+}
+],
+"z": [
+1.0,
+1.06
+],
+"texto": "GUAIANASES, ZONA LESTE",
+"textoEm": "guaianases"
+}
+],
+[
+"011",
+[
+0,
+0
+],
+"cena",
+{
+"set": "ponto_bus",
+"chars": [
+{
+"k": "TAINA",
+"x": 620,
+"expr": "tired"
+}
+]
+}
+],
+[
+"011",
+[
+1,
+2
+],
+"hora",
+{
+"set": "ponto",
+"h": 5,
+"m": 0,
+"label": "1H40 PRA IR",
+"chars": [
+{
+"k": "TAINA",
+"x": 620,
+"expr": "tired"
+}
+],
+"texto": "+ 1H40 PRA VOLTAR",
+"textoCor": "#e53935"
+}
+],
+[
+"012",
+null,
+"cena",
+{
+"set": "paulista",
+"chars": [
+{
+"k": "TAINA",
+"x": 760
+},
+{
+"k": "DAVI",
+"x": 1050,
+"expr": "happy",
+"pose": "point",
+"facing": -1
+}
+]
+}
+],
+[
+"013",
+null,
+"close",
+{
+"k": "TAINA",
+"set": "paulista",
+"expr": "smile"
+}
+],
+[
+"014",
+null,
+"close",
+{
+"k": "DAVI",
+"set": "paulista",
+"expr": "surprised",
+"side": "R"
+}
+],
+[
+"015",
+null,
+"cena",
+{
+"set": "paulista",
+"chars": [
+{
+"k": "TAINA",
+"x": 1560,
+"expr": "neutral"
+}
+],
+"z": [
+1.25,
+1.35
+],
+"x": 560,
+"y": 120,
+"texto": "ENTRADA DE SERVIÇO"
+}
+],
+[
+"016",
+null,
+"mes",
+{
+"n": 30,
+"marcas": {
+"5": [
+"SALÁRIO",
+"#2e7d32"
+]
+},
+"destaque": 5
+}
+],
+[
+"017",
+null,
+"numero",
+{
+"pre": "R$ ",
+"ate": 1621,
+"rotulo": "SALÁRIO NO PAPEL",
+"fundo": "rays_verde"
+}
+],
+[
+"018",
+null,
+"extrato",
+{
+"linhas": [
+[
+"SALÁRIO",
+"+ 1.621,00",
+"#2e7d32",
+0.2
+],
+[
+"INSS",
+"− 121,58",
+"#e53935",
+"cento"
+]
+]
+}
+],
+[
+"019",
+null,
+"extrato",
+{
+"linhas": [
+[
+"SALÁRIO",
+"+ 1.621,00",
+"#2e7d32",
+0.0
+],
+[
+"INSS",
+"− 121,58",
+"#e53935",
+0.0
+],
+[
+"VALE-TRANSPORTE",
+"− 97,26",
+"#e53935",
+"noventa"
+]
+]
+}
+],
+[
+"020",
+null,
+"extrato",
+{
+"linhas": [
+[
+"SALÁRIO",
+"+ 1.621,00",
+"#2e7d32",
+0.0
+],
+[
+"INSS",
+"− 121,58",
+"#e53935",
+0.0
+],
+[
+"VALE-TRANSPORTE",
+"− 97,26",
+"#e53935",
+0.0
+],
+[
+"CAI NA CONTA",
+"1.402,16",
+"#1565c0",
+"quatrocentos"
+]
+]
+}
+],
+[
+"021",
+null,
+"close",
+{
+"k": "TAINA_CASA",
+"set": "comodo",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"022",
+null,
+"cena",
+{
+"set": "comodo",
+"chars": [
+{
+"k": "TAINA_CASA",
+"x": 900,
+"pose": "phone",
+"expr": "worried"
+}
+],
+"texto": "A FILA"
+}
+],
+[
+"023",
+null,
+"cena",
+{
+"set": "comodo",
+"chars": [
+{
+"k": "TAINA_CASA",
+"x": 800,
+"expr": "worried"
+},
+{
+"k": "ADEMIR",
+"x": 1450,
+"facing": -1,
+"pose": "explain",
+"expr": "happy"
+}
+]
+}
+],
+[
+"024",
+null,
+"saldo",
+{
+"ini": 1402.16,
+"itens": [
+[
+"ALUGUEL",
+750,
+"aluguel"
+],
+[
+"LUZ",
+95,
+"luz"
+],
+[
+"ÁGUA",
+60,
+"agua"
+],
+[
+"GÁS",
+115,
+"botijao"
+],
+[
+"CELULAR",
+35,
+"credito"
+]
+],
+"ate": 1
+}
+],
+[
+"025",
+null,
+"saldo",
+{
+"ini": 1402.16,
+"itens": [
+[
+"ALUGUEL",
+750,
+"aluguel"
+],
+[
+"LUZ",
+95,
+"luz"
+],
+[
+"ÁGUA",
+60,
+"agua"
+],
+[
+"GÁS",
+115,
+"botijao"
+],
+[
+"CELULAR",
+35,
+"credito"
+]
+],
+"ate": 3,
+"desde": 1
+}
+],
+[
+"026",
+null,
+"saldo",
+{
+"ini": 1402.16,
+"itens": [
+[
+"ALUGUEL",
+750,
+"aluguel"
+],
+[
+"LUZ",
+95,
+"luz"
+],
+[
+"ÁGUA",
+60,
+"agua"
+],
+[
+"GÁS",
+115,
+"botijao"
+],
+[
+"CELULAR",
+35,
+"credito"
+]
+],
+"ate": 4,
+"desde": 3
+}
+],
+[
+"027",
+null,
+"saldo",
+{
+"ini": 1402.16,
+"itens": [
+[
+"ALUGUEL",
+750,
+"aluguel"
+],
+[
+"LUZ",
+95,
+"luz"
+],
+[
+"ÁGUA",
+60,
+"agua"
+],
+[
+"GÁS",
+115,
+"botijao"
+],
+[
+"CELULAR",
+35,
+"credito"
+]
+],
+"ate": 5,
+"desde": 4
+}
+],
+[
+"028",
+null,
+"saldo",
+{
+"ini": 1402.16,
+"itens": [
+[
+"ALUGUEL",
+750,
+"aluguel"
+],
+[
+"LUZ",
+95,
+"luz"
+],
+[
+"ÁGUA",
+60,
+"agua"
+],
+[
+"GÁS",
+115,
+"botijao"
+],
+[
+"CELULAR",
+35,
+"credito"
+]
+],
+"ate": 5,
+"desde": 5,
+"texto": "COMIDA DO MÊS. PRA DOIS.",
+"textoEm": "comida"
+}
+],
+[
+"029",
+null,
+"conta",
+{
+"passos": [
+[
+"R$ 347,16 ÷ 30 DIAS",
+"trezentos"
+]
+]
+}
+],
+[
+"030",
+null,
+"conta",
+{
+"passos": [
+[
+"R$ 347,16 ÷ 30 DIAS",
+0.0
+],
+[
+"= R$ 11,57 POR DIA",
+"onze"
+],
+[
+"= R$ 5,78 POR PESSOA",
+"menos"
+]
+]
+}
+],
+[
+"031",
+null,
+"close",
+{
+"k": "DAVI",
+"set": "comodo",
+"expr": "happy"
+}
+],
+[
+"032",
+null,
+"close",
+{
+"k": "TAINA_CASA",
+"set": "comodo",
+"expr": "sad",
+"side": "R"
+}
+],
+[
+"033",
+[
+0,
+0
+],
+"cartela",
+{
+"linhas": [
+"CESTA BÁSICA",
+"DIEESE"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#2e7d32"
+}
+],
+[
+"033",
+[
+1,
+2
+],
+"cadeia",
+{
+"itens": [
+"ARROZ\nFEIJÃO",
+"CARNE",
+"LEITE\nPÃO",
+"CAFÉ\nÓLEO",
+"LEGUMES"
+],
+"titulo": "1 ADULTO, 1 MÊS"
+}
+],
+[
+"034",
+null,
+"numero",
+{
+"pre": "R$ ",
+"ate": 922.51,
+"dec": 2,
+"rotulo": "CESTA BÁSICA EM SÃO PAULO (SET/2026)",
+"fundo": "rays_vermelho"
+}
+],
+[
+"035",
+null,
+"horas",
+{
+"item": "cesta",
+"preco": "R$ 922,51",
+"horas": "125 H",
+"emH": "cento",
+"fundo": "#1b5e20"
+}
+],
+[
+"036",
+null,
+"conta",
+{
+"passos": [
+[
+"CESTA: R$ 922,51 (1 PESSOA)",
+0.0
+],
+[
+"TAINÁ: R$ 347,16",
+"trezentos"
+],
+[
+"PRA DOIS",
+"dois"
+]
+]
+}
+],
+[
+"037",
+[
+0,
+1
+],
+"cena",
+{
+"set": "mercearia",
+"chars": [
+{
+"k": "TAINA_CASA",
+"x": 1100,
+"pose": "holdFront",
+"expr": "worried"
+}
+]
+}
+],
+[
+"037",
+[
+2,
+4
+],
+"cadeia",
+{
+"itens": [
+"CARNE",
+"OVO",
+"SALSICHA",
+"FAXINA\nNO SÁBADO"
+],
+"titulo": "O JEITO"
+}
+],
+[
+"038",
+null,
+"close",
+{
+"k": "TAINA_CASA",
+"set": "comodo",
+"expr": "tired",
+"texto": "2 × R$ 180"
+}
+],
+[
+"039",
+null,
+"cartela",
+{
+"linhas": [
+"O SÁBADO",
+"VIRA O SEGUNDO EMPREGO"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#4e342e"
+}
+],
+[
+"040",
+null,
+"mes",
+{
+"n": 30,
+"marcas": {
+"5": [
+"SALÁRIO",
+"#2e7d32"
+],
+"10": [
+"ALUGUEL",
+"#e53935"
+],
+"22": [
+"ACABOU",
+"#212121"
+]
+},
+"riscar": 22,
+"riscarDe": 5,
+"destaque": 22,
+"destaqueEm": "acaba"
+}
+],
+[
+"041",
+null,
+"geladeira2",
+{
+"texto": "MEIA CAIXA DE LEITE E 3 OVOS",
+"textoEm": "leite"
+}
+],
+[
+"042",
+null,
+"close",
+{
+"k": "DAVI",
+"set": "comodo_noite",
+"expr": "worried"
+}
+],
+[
+"043",
+null,
+"close",
+{
+"k": "TAINA_CASA",
+"set": "comodo_noite",
+"expr": "tired",
+"side": "R"
+}
+],
+[
+"044",
+null,
+"cadeia",
+{
+"itens": [
+"FIADO NA\nMERCEARIA",
+"PIX DA\nIRMÃ",
+"PASSE MOEDA\nPOR MOEDA"
+],
+"titulo": "DIA 22 AO DIA 30"
+}
+],
+[
+"045",
+[
+0,
+1
+],
+"close",
+{
+"k": "TAINA_CASA",
+"set": "comodo_noite",
+"expr": "worried"
+}
+],
+[
+"045",
+[
+2,
+4
+],
+"horas",
+{
+"item": "relogio",
+"preco": "8 DIAS",
+"horas": "60 H",
+"emH": "sessenta",
+"fundo": "#311b92"
+}
+],
+[
+"046",
+null,
+"cena",
+{
+"set": "comodo_noite",
+"chars": [
+{
+"k": "TAINA_CASA",
+"x": 1150,
+"pose": "think",
+"expr": "thinking"
+}
+],
+"z": [
+1.0,
+1.08
+]
+}
+],
+[
+"047",
+null,
+"cena",
+{
+"set": "comodo_noite",
+"chars": [
+{
+"k": "TAINA_CASA",
+"x": 1150,
+"pose": "holdFront",
+"expr": "neutral"
+}
+],
+"texto": "UM PEDIDO"
+}
+],
+[
+"048",
+null,
+"pedido",
+{
+"voo": 2,
+"linhas": [
+"Querido Universo,",
+"Não precisa me dar dinheiro.",
+"Só faz o meu salário",
+"durar até o fim do mês.",
+"Obrigada.",
+"Tainá"
+]
+}
+],
+[
+"049",
+null,
+"pedido",
+{
+"voo": 0.1,
+"linhas": [
+"Querido Universo,",
+"Não precisa me dar dinheiro.",
+"Só faz o meu salário",
+"durar até o fim do mês.",
+"Obrigada.",
+"Tainá"
+]
+}
+],
+[
+"050",
+null,
+"carimbo",
+{
+"em": 99,
+"num": "2026/1621",
+"linhas": [
+"REMETENTE: TAINÁ",
+"GUAIANASES (SP)",
+"PEDIDO: SALÁRIO ATÉ",
+"O FIM DO MÊS"
+]
+}
+],
+[
+"051",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "neutral"
+}
+],
+[
+"052",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"053",
+null,
+"close",
+{
+"k": "TECNICO",
+"set": "suporte",
+"expr": "worried"
+}
+],
+[
+"054",
+null,
+"mes",
+{
+"n": 18,
+"titulo": "NOVO MÊS: 18 DIAS"
+}
+],
+[
+"055",
+null,
+"close",
+{
+"k": "TECNICO",
+"set": "suporte",
+"expr": "tired",
+"side": "R"
+}
+],
+[
+"056",
+null,
+"carimbo",
+{
+"em": "deferido",
+"txt": "DEFERIDO",
+"num": "2026/1621",
+"linhas": [
+"REMETENTE: TAINÁ",
+"GUAIANASES (SP)",
+"PEDIDO: SALÁRIO ATÉ",
+"O FIM DO MÊS"
+]
+}
+],
+[
+"057",
+null,
+"mes",
+{
+"n": 18,
+"titulo": "CALENDÁRIO DO BRASIL: 18 DIAS"
+}
+],
+[
+"058",
+null,
+"mes",
+{
+"n": 18,
+"titulo": "O MÊS DA TAINÁ",
+"marcas": {
+"18": [
+"SOBROU!",
+"#2e7d32"
+]
+},
+"riscar": 17,
+"riscarDe": 1
+}
+],
+[
+"059",
+null,
+"cena",
+{
+"set": "comodo",
+"chars": [
+{
+"k": "TAINA_CASA",
+"x": 800,
+"pose": "cheer",
+"expr": "happy"
+},
+{
+"k": "DAVI",
+"x": 1150,
+"expr": "happy",
+"facing": -1
+}
+]
+}
+],
+[
+"060",
+null,
+"close",
+{
+"k": "DAVI",
+"set": "comodo",
+"expr": "surprised",
+"side": "R"
+}
+],
+[
+"061",
+null,
+"close",
+{
+"k": "TAINA_CASA",
+"set": "comodo",
+"expr": "happy",
+"texto": "R$ 4,00"
+}
+],
+[
+"062",
+null,
+"mes",
+{
+"n": 18,
+"titulo": "DIA 18 VIROU DIA 1",
+"marcas": {
+"1": [
+"DIA 1",
+"#e53935"
+]
+},
+"destaque": 1
+}
+],
+[
+"063",
+null,
+"cena",
+{
+"set": "comodo",
+"chars": [
+{
+"k": "TAINA_CASA",
+"x": 800,
+"expr": "shocked",
+"pose": "handsOnHead"
+},
+{
+"k": "ADEMIR",
+"x": 1450,
+"facing": -1,
+"pose": "explain",
+"expr": "happy"
+}
+]
+}
+],
+[
+"064",
+null,
+"close",
+{
+"k": "TAINA_CASA",
+"set": "comodo",
+"expr": "shocked"
+}
+],
+[
+"065",
+null,
+"close",
+{
+"k": "ADEMIR",
+"set": "comodo",
+"expr": "smug",
+"side": "R",
+"texto": "TÁ NO CALENDÁRIO"
+}
+],
+[
+"066",
+null,
+"cadeia",
+{
+"itens": [
+"ALUGUEL",
+"LUZ",
+"ÁGUA",
+"CELULAR"
+],
+"titulo": "TUDO A CADA 18 DIAS"
+}
+],
+[
+"067",
+null,
+"voce2",
+{
+"balao": "E O SALÁRIO?"
+}
+],
+[
+"068",
+null,
+"close",
+{
+"k": "TAINA_CASA",
+"set": "comodo",
+"expr": "worried",
+"side": "R"
+}
+],
+[
+"069",
+null,
+"mes",
+{
+"n": 30,
+"titulo": "O MÊS DA EMPRESA: 30 DIAS",
+"marcas": {
+"5": [
+"SALÁRIO",
+"#2e7d32"
+]
+},
+"texto": "QUEM PAGA DEMORA PRA MUDAR",
+"textoEm": "quem"
+}
+],
+[
+"070",
+null,
+"close",
+{
+"k": "TAINA_CASA",
+"set": "comodo_noite",
+"expr": "angry"
+}
+],
+[
+"071",
+null,
+"carimbo",
+{
+"em": "indeferido",
+"txt": "INDEFERIDO",
+"num": "2026/1621",
+"linhas": [
+"REMETENTE: TAINÁ",
+"GUAIANASES (SP)",
+"PEDIDO: SALÁRIO ATÉ",
+"O FIM DO MÊS"
+]
+}
+],
+[
+"072",
+null,
+"close",
+{
+"k": "TECNICO",
+"set": "suporte",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"073",
+null,
+"cartela",
+{
+"linhas": [
+"NÃO É O MÊS",
+"É O SALÁRIO"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#37474f"
+}
+],
+[
+"074",
+null,
+"mesa_ceu",
+{
+"k": "CONTADOR",
+"expr": "neutral",
+"reparticao": true
+}
+],
+[
+"075",
+[
+0,
+0
+],
+"cadeia",
+{
+"itens": [
+"COMIDA\nCASA",
+"SAÚDE\nEDUCAÇÃO",
+"ROUPA\nHIGIENE",
+"TRANSPORTE\nLAZER",
+"PREVIDÊNCIA"
+],
+"titulo": "O QUE A CONSTITUIÇÃO MANDA"
+}
+],
+[
+"075",
+[
+1,
+1
+],
+"cena",
+{
+"set": "comodo",
+"chars": [
+{
+"k": "TAINA_CASA",
+"x": 900
+},
+{
+"k": "DAVI",
+"x": 1150,
+"facing": -1
+}
+]
+}
+],
+[
+"076",
+null,
+"cartela",
+{
+"linhas": [
+"DIEESE",
+"FAMÍLIA DE 4"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#1565c0"
+}
+],
+[
+"077",
+null,
+"numero",
+{
+"pre": "R$ ",
+"ate": 7750,
+"rotulo": "SALÁRIO MÍNIMO NECESSÁRIO (DIEESE, SET/2026)",
+"fundo": "rays_vermelho"
+}
+],
+[
+"078",
+[
+0,
+0
+],
+"cartela",
+{
+"linhas": [
+"MAS TEM",
+"DOIS LADOS"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#455a64"
+}
+],
+[
+"078",
+[
+1,
+1
+],
+"pct",
+{
+"pct": 6.79,
+"dec": 2,
+"rotulo": "REAJUSTE EM 2026, ACIMA DA INFLAÇÃO",
+"cor": "#43a047",
+"fundo": "#1b2631"
+}
+],
+[
+"079",
+null,
+"cadeia",
+{
+"itens": [
+"PADARIA",
+"SALÃO",
+"PEQUENA\nEMPRESA",
+"APOSEN-\nTADORIAS"
+],
+"titulo": "SE SUBIR TUDO DE UMA VEZ"
+}
+],
+[
+"080",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "neutral",
+"texto": "A CONTA NÃO FECHA"
+}
+],
+[
+"081",
+null,
+"mes",
+{
+"n": 30,
+"titulo": "MÊS SEGUINTE",
+"marcas": {
+"5": [
+"SALÁRIO",
+"#2e7d32"
+]
+},
+"destaque": 5
+}
+],
+[
+"082",
+null,
+"cena",
+{
+"set": "comodo",
+"chars": [
+{
+"k": "TAINA_CASA",
+"x": 800,
+"expr": "neutral"
+},
+{
+"k": "ADEMIR",
+"x": 1450,
+"facing": -1,
+"pose": "explain",
+"expr": "happy"
+}
+]
+}
+],
+[
+"083",
+null,
+"close",
+{
+"k": "TAINA_CASA",
+"set": "comodo",
+"expr": "smile",
+"texto": "102 HORAS"
+}
+],
+[
+"084",
+null,
+"cena",
+{
+"set": "comodo_noite",
+"chars": [
+{
+"k": "DAVI",
+"x": 1000,
+"pose": "holdFront",
+"expr": "happy"
+}
+],
+"z": [
+1.05,
+1.15
+]
+}
+],
+[
+"085",
+null,
+"moedas",
+{
+"exprT": "surprised"
+}
+],
+[
+"086",
+null,
+"close",
+{
+"k": "TAINA_CASA",
+"set": "comodo_noite",
+"expr": "smile",
+"side": "R"
+}
+],
+[
+"087",
+null,
+"moedas",
+{
+"exprT": "happy"
+}
+],
+[
+"088",
+null,
+"cena",
+{
+"set": "comodo_noite",
+"chars": [
+{
+"k": "TAINA_CASA",
+"x": 850,
+"pose": "cheer",
+"expr": "happy"
+},
+{
+"k": "DAVI",
+"x": 1100,
+"pose": "cheer",
+"expr": "happy",
+"facing": -1
+}
+],
+"texto": "A HORA MAIS BEM PAGA DO MÊS",
+"textoEm": "hora"
+}
+],
+[
+"089",
+null,
+"comenta2",
+{
+"pergunta": "ATÉ QUE DIA SEU SALÁRIO CHEGA?\nQUANTO VALE SUA HORA?",
+"botao": "CONTA AQUI EMBAIXO"
+}
+]
+]

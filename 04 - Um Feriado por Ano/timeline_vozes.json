@@ -1,0 +1,661 @@
+{
+ "total": 471.326,
+ "lines": [
+  {
+   "clip": "001",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 0.4,
+   "end": 5.91,
+   "text": "Primeiro de janeiro. Um calendário novinho pendurado na parede. E uma caneta vermelha."
+  },
+  {
+   "clip": "002",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 6.26,
+   "end": 13.173,
+   "text": "Tiradentes. Riscado. Dia do Trabalho. Riscado. Sete de Setembro. Riscado."
+  },
+  {
+   "clip": "003",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 13.523,
+   "end": 18.915,
+   "text": "Doze de Outubro, Finados, Consciência Negra. Riscado, riscado, riscado."
+  },
+  {
+   "clip": "004",
+   "who": "ROSE",
+   "sec": 1,
+   "start": 19.365,
+   "end": 23.36,
+   "text": "Moço, para! Esse de novembro é o meu feriadão!"
+  },
+  {
+   "clip": "005",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 23.81,
+   "end": 30.787,
+   "text": "Esse ano o Brasil teve dez feriados nacionais. Nove deles caíram em dia útil. O maior número da última década."
+  },
+  {
+   "clip": "006",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 31.137,
+   "end": 34.236,
+   "text": "No ano da Rose, sobrou um. Só um."
+  },
+  {
+   "clip": "007",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 34.586,
+   "end": 43.602,
+   "text": "E você? Se só pudesse ficar um feriado, qual você salvava? Fica até o fim. Porque quem pediu pra acabar com os feriados foi o primeiro a se arrepender."
+  },
+  {
+   "clip": "008",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 44.502,
+   "end": 49.915,
+   "text": "Rose. Trinta e oito anos. Vendedora da Fábio Móveis, em Santo André."
+  },
+  {
+   "clip": "009",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 50.265,
+   "end": 60.588,
+   "text": "Trabalha de sábado. Folga na quarta. A filha estuda de segunda a sexta. Faz a conta: o único dia inteiro que a Rose passa com a Lara é feriado."
+  },
+  {
+   "clip": "010",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 60.938,
+   "end": 67.106,
+   "text": "Na estante tem um pote de vidro escrito PRAIA. Dez reais por semana, desde janeiro."
+  },
+  {
+   "clip": "011",
+   "who": "LARA",
+   "sec": 2,
+   "start": 67.556,
+   "end": 70.227,
+   "text": "Mãe, falta quanto pro mar?"
+  },
+  {
+   "clip": "012",
+   "who": "ROSE",
+   "sec": 2,
+   "start": 70.677,
+   "end": 74.379,
+   "text": "Falta o feriadão de novembro, filha. Sexta, sábado e domingo."
+  },
+  {
+   "clip": "013",
+   "who": "LARA",
+   "sec": 2,
+   "start": 74.829,
+   "end": 76.272,
+   "text": "Três dias de mar?"
+  },
+  {
+   "clip": "014",
+   "who": "ROSE",
+   "sec": 2,
+   "start": 76.722,
+   "end": 78.156,
+   "text": "Três dias de mar."
+  },
+  {
+   "clip": "015",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 79.056,
+   "end": 87.725,
+   "text": "E aí tem o chefe. Doutor Fábio. Dono da rede Fábio Móveis. A própria cara no outdoor, segurando um sofá."
+  },
+  {
+   "clip": "016",
+   "who": "FÁBIO",
+   "sec": 3,
+   "start": 88.175,
+   "end": 94.194,
+   "text": "Feriado é coisa de país preguiçoso. Loja fechada, funcionário em casa, e o aluguel correndo."
+  },
+  {
+   "clip": "017",
+   "who": "FÁBIO",
+   "sec": 3,
+   "start": 94.544,
+   "end": 98.704,
+   "text": "Sabe quanto cada feriado me custa? Um caminhão de sofá parado no estoque."
+  },
+  {
+   "clip": "018",
+   "who": "ROSE",
+   "sec": 3,
+   "start": 99.154,
+   "end": 102.764,
+   "text": "Mas doutor, as pessoas também precisam descansar."
+  },
+  {
+   "clip": "019",
+   "who": "FÁBIO",
+   "sec": 3,
+   "start": 103.214,
+   "end": 106.567,
+   "text": "Descansa quem pode, Rose. Eu nunca tirei um feriado na vida."
+  },
+  {
+   "clip": "020",
+   "who": "FÁBIO",
+   "sec": 3,
+   "start": 106.917,
+   "end": 110.81,
+   "text": "Aliás, em novembro a loja abre. Você vem. Se quiser, claro."
+  },
+  {
+   "clip": "021",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 111.26,
+   "end": 115.799,
+   "text": "E todo mundo na loja sabia o que esse se quiser queria dizer."
+  },
+  {
+   "clip": "022",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 116.699,
+   "end": 123.105,
+   "text": "Naquela noite, o Doutor Fábio fez o que sempre faz quando quer alguma coisa: reclamou por escrito."
+  },
+  {
+   "clip": "023",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 123.454,
+   "end": 134.429,
+   "text": "Só que a carta não foi parar na Câmara dos Deputados. Foi parar num andar do universo que quase ninguém conhece. A Repartição do Universo."
+  },
+  {
+   "clip": "024",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 134.879,
+   "end": 142.121,
+   "text": "Protocolo número trezentos e doze. Reclamante: Fábio. Pedido: acabar com todos os feriados do Brasil."
+  },
+  {
+   "clip": "025",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 142.471,
+   "end": 146.112,
+   "text": "Todos não pode. Tem regra. Mas um eu deixo. Um só."
+  },
+  {
+   "clip": "026",
+   "who": "FÁBIO",
+   "sec": 4,
+   "start": 146.562,
+   "end": 147.189,
+   "text": "E qual fica?"
+  },
+  {
+   "clip": "027",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 147.639,
+   "end": 150.005,
+   "text": "Isso quem decide não é o senhor. É o povo."
+  },
+  {
+   "clip": "028",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 150.455,
+   "end": 151.609,
+   "text": "E o carimbo desceu."
+  },
+  {
+   "clip": "029",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 152.059,
+   "end": 152.588,
+   "text": "Deferido."
+  },
+  {
+   "clip": "030",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 153.488,
+   "end": 157.545,
+   "text": "E começou o ano mais comprido da história do Brasil."
+  },
+  {
+   "clip": "031",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 157.895,
+   "end": 169.84,
+   "text": "Fevereiro. O Carnaval veio, e ninguém pôde reclamar. Porque o Carnaval, na verdade, nunca foi feriado nacional. É ponto facultativo. Tem cidade que folga, tem cidade que não."
+  },
+  {
+   "clip": "032",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 170.19,
+   "end": 176.072,
+   "text": "Abril. Tiradentes caiu numa terça. Sem feriado, a terça foi só terça."
+  },
+  {
+   "clip": "033",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 176.422,
+   "end": 182.094,
+   "text": "Primeiro de maio. O Dia do Trabalho. E o Brasil inteiro comemorou… trabalhando."
+  },
+  {
+   "clip": "034",
+   "who": "FÁBIO",
+   "sec": 5,
+   "start": 182.544,
+   "end": 186.603,
+   "text": "Agora sim! Loja aberta trezentos e sessenta e quatro dias por ano!"
+  },
+  {
+   "clip": "035",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 187.053,
+   "end": 190.965,
+   "text": "E aí veio a votação. Qual feriado sobrevive?"
+  },
+  {
+   "clip": "036",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 191.315,
+   "end": 205.998,
+   "text": "O Natal ganhou de lavada. O Ano-Novo ficou em segundo e ficou sem nada. O Doze de Outubro teve campanha de criança na escola. A Consciência Negra, o feriado nacional mais novo do país, nem teve tempo de esquentar a cadeira."
+  },
+  {
+   "clip": "037",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 206.348,
+   "end": 209.814,
+   "text": "E o feriadão de novembro da Rose… não existia mais."
+  },
+  {
+   "clip": "038",
+   "who": "LARA",
+   "sec": 5,
+   "start": 210.264,
+   "end": 211.656,
+   "text": "Mãe, e o mar?"
+  },
+  {
+   "clip": "039",
+   "who": "ROSE",
+   "sec": 5,
+   "start": 212.106,
+   "end": 215.503,
+   "text": "O mar não vai a lugar nenhum, filha. A gente é que não vai."
+  },
+  {
+   "clip": "040",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 216.403,
+   "end": 221.983,
+   "text": "Três meses depois, o Doutor Fábio chamou o gerente. Esperava o melhor trimestre da história."
+  },
+  {
+   "clip": "041",
+   "who": "FÁBIO",
+   "sec": 6,
+   "start": 222.433,
+   "end": 224.324,
+   "text": "E aí? Quanto a gente vendeu a mais?"
+  },
+  {
+   "clip": "042",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 224.774,
+   "end": 225.972,
+   "text": "Quase nada."
+  },
+  {
+   "clip": "043",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 226.322,
+   "end": 235.449,
+   "text": "A loja ficou aberta mais dias, mas as pessoas não ganharam mais dinheiro só porque o calendário mudou. Quem ia comprar sofá comprou. Só que espalhado."
+  },
+  {
+   "clip": "044",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 235.799,
+   "end": 250.377,
+   "text": "E tinha o outro lado da conta. Abrir num dia que seria feriado custa caro. Hora extra, luz, segurança. O comércio sente o feriado, isso é verdade. Mas sente principalmente no bolso de quem abre e não vende."
+  },
+  {
+   "clip": "045",
+   "who": "FÁBIO",
+   "sec": 6,
+   "start": 250.827,
+   "end": 253.328,
+   "text": "Então pelo menos a gente economizou no feriado…"
+  },
+  {
+   "clip": "046",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 253.778,
+   "end": 257.502,
+   "text": "E aí tocou o telefone. Era da filial de Ubatuba."
+  },
+  {
+   "clip": "047",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 258.402,
+   "end": 268.941,
+   "text": "Porque o Doutor Fábio tinha uma filial na praia. Fábio Móveis Ubatuba. Cadeira de praia, guarda-sol, colchão de ar. E ela só vendia em feriadão."
+  },
+  {
+   "clip": "048",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 269.291,
+   "end": 277.713,
+   "text": "Do lado da filial ficava a pousada do Seu Zé. Pé na areia, doze quartos, e um caderno de reservas que antes vivia cheio."
+  },
+  {
+   "clip": "049",
+   "who": "SEU ZÉ",
+   "sec": 7,
+   "start": 278.163,
+   "end": 282.484,
+   "text": "Doutor, faz seis meses que eu não alugo um quarto. Seis meses."
+  },
+  {
+   "clip": "050",
+   "who": "SEU ZÉ",
+   "sec": 7,
+   "start": 282.834,
+   "end": 291.295,
+   "text": "O pessoal vinha no feriadão. Comia o peixe, alugava cadeira, comprava sorvete, comprava guarda-sol. Na sua loja, inclusive."
+  },
+  {
+   "clip": "051",
+   "who": "FÁBIO",
+   "sec": 7,
+   "start": 291.745,
+   "end": 292.502,
+   "text": "Na minha loja?"
+  },
+  {
+   "clip": "052",
+   "who": "SEU ZÉ",
+   "sec": 7,
+   "start": 292.952,
+   "end": 297.231,
+   "text": "Na sua loja. O senhor achava que quem comprava cadeira de praia em Ubatuba era quem?"
+  },
+  {
+   "clip": "053",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 297.681,
+   "end": 306.551,
+   "text": "O feriado que fechava a loja de Santo André era o mesmo que enchia a loja de Ubatuba. O Doutor Fábio só olhava pra metade da conta."
+  },
+  {
+   "clip": "054",
+   "who": "CONTADOR",
+   "sec": 8,
+   "start": 307.451,
+   "end": 310.076,
+   "text": "Doutor Fábio, deixa eu te mostrar a conta inteira."
+  },
+  {
+   "clip": "055",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 310.526,
+   "end": 322.9,
+   "text": "Em São Paulo, os feriados de 2026 fazem o comércio deixar de faturar perto de dezessete bilhões de reais, pelas contas da Federação do Comércio. Parece muito. É pouco mais de um por cento do que o varejo vende no ano."
+  },
+  {
+   "clip": "056",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 323.25,
+   "end": 338.496,
+   "text": "Do outro lado da balança, só o Carnaval desse ano movimentou quatorze bilhões e meio de reais em turismo, bar e restaurante, pela Confederação Nacional do Comércio. E os feriados de novembro injetaram uns quatro bilhões em hospedagem e alimentação só em São Paulo."
+  },
+  {
+   "clip": "057",
+   "who": "CONTADOR",
+   "sec": 8,
+   "start": 338.946,
+   "end": 347.442,
+   "text": "O feriado não some com o dinheiro, doutor. Ele muda o dinheiro de lugar. Sai da loja de móveis e vai pra pousada, pro quiosque, pra estrada."
+  },
+  {
+   "clip": "058",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 347.892,
+   "end": 357.863,
+   "text": "E o Brasil nem é o campeão de feriado que todo mundo pensa. São dez feriados nacionais por lei. A média do mundo fica perto de treze. O Nepal tem trinta e cinco."
+  },
+  {
+   "clip": "059",
+   "who": "FÁBIO",
+   "sec": 8,
+   "start": 358.313,
+   "end": 359.372,
+   "text": "Trinta e cinco?"
+  },
+  {
+   "clip": "060",
+   "who": "CONTADOR",
+   "sec": 8,
+   "start": 359.822,
+   "end": 361.332,
+   "text": "E ninguém lá vende sofá."
+  },
+  {
+   "clip": "061",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 362.232,
+   "end": 366.568,
+   "text": "A Repartição tem uma regra, doutor. Todo protocolo pode ser desfeito. Uma vez."
+  },
+  {
+   "clip": "062",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 366.918,
+   "end": 368.52,
+   "text": "O senhor quer o calendário de volta?"
+  },
+  {
+   "clip": "063",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 368.97,
+   "end": 378.229,
+   "text": "O Doutor Fábio olhou o caderno de reservas vazio do Seu Zé. Olhou a filial fechada. E lembrou de uma coisa que fazia trinta anos que ele não lembrava."
+  },
+  {
+   "clip": "064",
+   "who": "FÁBIO",
+   "sec": 9,
+   "start": 378.679,
+   "end": 382.541,
+   "text": "Seu Zé. Essa pousada… tinha uma rede na varanda?"
+  },
+  {
+   "clip": "065",
+   "who": "SEU ZÉ",
+   "sec": 9,
+   "start": 382.991,
+   "end": 384.391,
+   "text": "Tinha. Tem ainda."
+  },
+  {
+   "clip": "066",
+   "who": "FÁBIO",
+   "sec": 9,
+   "start": 384.841,
+   "end": 390.218,
+   "text": "Meu pai me trouxe aqui uma vez. Num feriado. Eu tinha uns dez anos. Foi a única vez."
+  },
+  {
+   "clip": "067",
+   "who": "FÁBIO",
+   "sec": 9,
+   "start": 390.568,
+   "end": 391.288,
+   "text": "Desfaz."
+  },
+  {
+   "clip": "068",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 391.738,
+   "end": 392.36,
+   "text": "Todos?"
+  },
+  {
+   "clip": "069",
+   "who": "FÁBIO",
+   "sec": 9,
+   "start": 392.81,
+   "end": 395.014,
+   "text": "Todos. E bota o de novembro primeiro."
+  },
+  {
+   "clip": "070",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 395.464,
+   "end": 396.68,
+   "text": "E o carimbo subiu de volta."
+  },
+  {
+   "clip": "071",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 397.13,
+   "end": 399.836,
+   "text": "Indeferido o indeferimento. Calendário restaurado."
+  },
+  {
+   "clip": "072",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 400.736,
+   "end": 406.087,
+   "text": "Novembro. Sexta-feira, Dia da Consciência Negra. Feriadão de três dias."
+  },
+  {
+   "clip": "073",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 406.437,
+   "end": 413.45,
+   "text": "A Rose quebrou o pote de vidro. Deu quatrocentos e quarenta reais. Deu pra ida, a volta e um peixe frito."
+  },
+  {
+   "clip": "074",
+   "who": "ROSE",
+   "sec": 10,
+   "start": 413.9,
+   "end": 416.179,
+   "text": "Doutor, eu vou ter que faltar no feriado."
+  },
+  {
+   "clip": "075",
+   "who": "FÁBIO",
+   "sec": 10,
+   "start": 416.629,
+   "end": 418.354,
+   "text": "Rose, feriado não é falta."
+  },
+  {
+   "clip": "076",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 418.804,
+   "end": 429.153,
+   "text": "A Lara viu o mar pela primeira vez às dez da manhã de uma sexta-feira. Ficou parada na areia, olhando, sem falar nada. Depois correu."
+  },
+  {
+   "clip": "077",
+   "who": "LARA",
+   "sec": 10,
+   "start": 429.603,
+   "end": 431.784,
+   "text": "Mãe! Ele não acaba!"
+  },
+  {
+   "clip": "078",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 432.234,
+   "end": 444.012,
+   "text": "Na pousada do Seu Zé, os doze quartos estavam cheios. E na varanda, numa rede, de bermuda e sem gel no cabelo, tinha um senhor que nunca tinha tirado um feriado na vida."
+  },
+  {
+   "clip": "079",
+   "who": "SEU ZÉ",
+   "sec": 10,
+   "start": 444.462,
+   "end": 445.519,
+   "text": "Vai querer o peixe, doutor?"
+  },
+  {
+   "clip": "080",
+   "who": "FÁBIO",
+   "sec": 10,
+   "start": 445.969,
+   "end": 448.07,
+   "text": "Vou. E pode pôr na conta da filial."
+  },
+  {
+   "clip": "081",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 448.52,
+   "end": 459.344,
+   "text": "Lá em cima, na Repartição do Universo, o Contador arquivou o protocolo trezentos e doze. Do lado, pregou um calendário. Com todos os feriados marcados de vermelho."
+  },
+  {
+   "clip": "082",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 459.694,
+   "end": 470.126,
+   "text": "E você? Se só pudesse ficar um feriado no Brasil, qual você salvava? Conta aqui embaixo. Mas pensa bem. Porque alguém, em algum lugar, vai ficar sem o mar."
+  }
+ ]
+}

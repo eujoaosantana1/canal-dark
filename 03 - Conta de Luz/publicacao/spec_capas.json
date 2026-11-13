@@ -1,0 +1,62 @@
+[
+ {
+  "nome": "A",
+  "textos": [
+   {
+    "txt": "ECONOMIZEI...",
+    "x": 0.5,
+    "y": 0.1,
+    "tam": 100,
+    "cor": "#FFFFFF"
+   },
+   {
+    "txt": "E A CONTA SUBIU",
+    "x": 0.5,
+    "y": 0.89,
+    "tam": 104,
+    "cor": "#FFE14D"
+   }
+  ],
+  "img": "/tmp/vs/viralstick/projects/conta-de-luz/build/stills/35.6s_35.60.png"
+ },
+ {
+  "nome": "B",
+  "textos": [
+   {
+    "txt": "QUEM COME",
+    "x": 0.5,
+    "y": 0.83,
+    "tam": 100,
+    "cor": "#FFE14D"
+   },
+   {
+    "txt": "A SUA CONTA?",
+    "x": 0.5,
+    "y": 0.95,
+    "tam": 80,
+    "cor": "#FFFFFF"
+   }
+  ],
+  "img": "/tmp/vs/viralstick/projects/conta-de-luz/build/stills/213.5s_213.50.png"
+ },
+ {
+  "nome": "C",
+  "textos": [
+   {
+    "txt": "O 6º DA FILA",
+    "x": 0.35,
+    "y": 0.12,
+    "tam": 104,
+    "cor": "#FFFFFF",
+    "fundo": "#E62B2B"
+   }
+  ],
+  "seta": [
+   0.62,
+   0.16,
+   0.84,
+   0.7
+  ],
+  "img": "/tmp/vs/viralstick/projects/conta-de-luz/build/stills/381.5s_381.50.png"
+ }
+]

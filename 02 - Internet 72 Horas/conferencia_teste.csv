@@ -1,0 +1,12 @@
+﻿clipe;personagem;voz;status;problemas;texto do roteiro;o que foi ouvido;duração (s);tentativas
+001;CAIXA;Kira;OK;;Débito ou crédito?;Débito ou credito?;1.32;1
+002;CLIENTE;Lumi;OK;;Débito.;Débito!;0.72;1
+003;NARRADOR;Bodi;OK;;A maquininha pensou. Pensou. E respondeu: sem conexão.;A maquininha pensou, pensou e respondeu, sem conexão.;5.18;1
+012;DUDA;voice_3dygquwe63ua;OK;;Vô, por que o senhor não aceita Pix?;Vô, por que o senhor não aceita pix?;2.5;1
+013;SEU JURA;voice_tdjugc9saz8n;OK;;Porque o caderninho nunca caiu.;Porque o caderninho nunca caiu.;2.9;1
+018;THIAGO;voice_to6v4mxre2l5;OK;;Seu Jura, me diz uma coisa. Quantos clientes o senhor tem?;Se eu jura, me diz uma coisa, quantos clientes o senhor tem?;2.66;1
+029;TÉCNICO;voice_dzwwrtu23gc8;OK;;Protocolo número um: a internet tá lenta. Protocolo número dois: a internet tá lenta. Protocolo número três...;Protocola número 1, a internet está lenta. Protocola número 2, a internet está lenta. Protocola número 3.;7.57;1
+040;DONA LURDES;Nika;OK;;Seu Jura, o senhor sabe o número da minha filha?;Seu jura, o senhor sabe o número da minha filha?;3.18;1
+043;MOTOBOY;Koda;OK;;Moço, como é que eu chego na Rua das Flores?;Moço, como é que eu chego na Rua das Flores?;2.1;1
+061;MOTORISTA;Ludo;OK;;Seu Jura, a carga tá no caminhão. Mas a nota é eletrônica, a rota é no aplicativo e o pedido é no sistema. Sem internet, o caminhão cheio fica parado.;Seu jura, a carga está no caminhão, mas a nota é eletrônica, a rota é no aplicativo e o pedido é no sistema. Sem internet, o caminhão cheio fica parado.;10.09;1
+063;ATENDENTE;Sola;OK;;Seu Jurandir, tá sem sistema. Não consigo liberar.;Seu jurandia está sem sistema, não consigo liberar.;3.9;1

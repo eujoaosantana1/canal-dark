@@ -1,0 +1,15 @@
+VOZES NOVAS DO VÍDEO 5 — para criar no Voice Design do Google AI Studio
+
+1) SEU NENÊ  (nome sugerido: Nene Padeiro)
+Descrição:
+Brazilian Portuguese (São Paulo) male voice, 67 years old. A neighborhood baker who has woken up at 3:40 a.m. for 45 years. Warm, deep, slightly husky voice, calm and proud, with a dry sense of humor and a grandfatherly tone. Paulistano accent from the outskirts, unhurried pace, smiles while talking about bread. Low pitch, gentle but firm.
+Frase de teste:
+Pão francês bom a gente conhece pelo barulho. Escuta. Craque. Em Guarulhos eu já sou famoso. Pra umas trezentas pessoas.
+
+2) MONSIEUR LUC  (nome sugerido: Luc Boulanger)
+Descrição:
+A French baker from Paris, around 60 years old, speaking Brazilian Portuguese with a strong, charming French accent: French "r" sounds, nasal vowels, stress on the last syllable, a few French words ("Pardon", "Monsieur", "C'est") pronounced natively. Friendly, theatrical, a bit proud, medium-low pitch, lively pace.
+Frase de teste:
+Pardon. Que pão é este? Monsieur, eu sou padeiro em Paris há quarenta anos. Este pão eu nunca vi na vida.
+
+Depois de salvar cada uma: clique em "Copy voice ID" e me mande os códigos (começam com voice_).

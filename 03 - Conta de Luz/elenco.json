@@ -1,0 +1,12 @@
+{
+ "NARRADOR": {"voz": "Bodi"},
+ "DONA NEIDE": {"voz": "Nika", "obs": "provisória: trocar pela voz criada no Voice Design (senhora de 63 anos)"},
+ "GUI": {"voz": "Koda"},
+ "MARCÃO": {"voz": "Ludo"},
+ "TÉCNICO": {"voz": "voice_dzwwrtu23gc8", "nome_ai_studio": "Tecnico do Universo 3"},
+ "CONTADOR": {"voz": "Mako"},
+ "ENERGIA": {"voz": "Kira"},
+ "DISTRIBUIÇÃO": {"voz": "Lumi"},
+ "TRANSMISSÃO": {"voz": "Sola"},
+ "IMPOSTO": {"voz": "Fola"}
+}

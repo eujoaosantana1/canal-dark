@@ -1,0 +1,20 @@
+COMO USAR
+1. Abra o Claude Code na pasta  Downloads\Canal Dark  (no terminal: cd "%USERPROFILE%\Downloads\Canal Dark" e depois: claude).
+   O Claude Code lê sozinho o arquivo CLAUDE.md que está nessa pasta.
+2. Copie o texto abaixo (entre as linhas) e cole no Claude Code.
+
+------------------------------------------------------------
+Renderize de novo os vídeos finais dos vídeos 3, 4 e 7 para entrarem os efeitos sonoros novos
+(eles foram feitos antes da atualização do montar_video.py). Não gere vozes de novo: as vozes já estão prontas.
+
+Faça um de cada vez, nesta ordem:
+1. "03 - Conta de Luz"
+2. "04 - Um Feriado por Ano"
+3. "07 - Salario Minimo"
+
+Para cada um: entre na pasta e rode  cmd /c "echo.| 4_video_final.bat" ; quando terminar, confira no log
+de montagem a linha "Sons por palavra", confira que o log de mix termina com FINAL VIDEO e que o
+VIDEO_FINAL_*.mp4 da pasta foi atualizado agora. Se algum falhar, leia o fim dos logs e me diga o erro antes de tentar de novo.
+
+No fim, me mostre um resumo: duração de cada vídeo, quantos sons por palavra entraram em cada um, e se teve aviso.
+------------------------------------------------------------

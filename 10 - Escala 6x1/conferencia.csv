@@ -1,0 +1,87 @@
+﻿clipe;personagem;status;problemas;texto do roteiro;o que foi ouvido;duração (s);tentativas
+001;NARRADOR;OK;;Seis dias de trabalho. Um de folga. Durante décadas, foi assim a semana de milhões de brasileiros.;Seis dias de trabalho, um de folga. Durante décadas foi assim a semana de milhões de brasileiros.;6.5;1
+002;NARRADOR;ERRO;"faltando: por um; final diferente";Só em dois mil e vinte e cinco, eram catorze milhões e oitocentos mil trabalhadores com carteira assinada na escala seis por um.;Só em 2025 eram 14 milhões e 800 mil trabalhadores com carteira assinada na escala 6x1.;7.11;2
+003;NARRADOR;OK;;Mas em outubro, o Congresso aprovou o fim dela. E a partir de dezembro, a regra muda.;Mais em outubro, o Congresso aprovou o fim dela, e a partir de dezembro, a regra muda.;5.25;1
+004;JOSI;OK;;Muda pra mim também? Ou só pra quem trabalha em escritório?;Muda pra mim também, ou só pra quem trabalha em escritório.;2.94;1
+005;NARRADOR;OK;;Essa é a Josi. Ela trabalha no caixa de um supermercado. Seis por um, há onze anos.;Essa é a Josie. Ela trabalha no caixa de um supermercado, seis por um, há onze anos.;6.31;2
+006;NARRADOR;OK;;Hoje a gente vai acompanhar a última semana da Josi na escala seis por um. E o pedido que ela fez pro Universo antes da lei mudar.;Hoje a gente vai acompanhar a última semana da Josie na escala 6 por 1 e o pedido que ela fez para o universo antes da lei mudar.;7.66;1
+007;NARRADOR;OK;;E você? Trabalha em qual escala? Guarda essa resposta. Fica até o fim, porque o Universo atendeu o pedido da Josi. Do jeito dele.;E você trabalha em qual escala? Guarda essa resposta. Fica até o fim, porque o universo atendeu o pedido da Josie. Do jeito dele.;9.1;1
+008;NARRADOR;OK;;A Josi tem trinta e um anos. Mora em Recife com a filha, a Luana, de nove.;A Josie tem 31 anos, mora em Recife com a filha, Baluana, de 9.;4.73;1
+009;NARRADOR;OK;;Segunda a sábado, ela pega o ônibus às seis da manhã. Volta às oito da noite. Folga: terça-feira.;Segundo a sábado, ela pega o ônibus às 6 da manhã, volta às 8 da noite. Folga terça-feira.;6.47;1
+010;JOSI;OK;;Terça é ótima. O banco tá aberto, o posto de saúde tá aberto. Só a minha filha que tá na escola.;Terça é ótima, o banco está aberto, o poço de saúde está aberto, só a minha filha que está na escola.;5.25;1
+011;NARRADOR;OK;;Sete horas e vinte minutos por dia, seis dias por semana. Quarenta e quatro horas. O máximo que a lei deixava até agora.;7 horas e 20 minutos por dia, 6 dias por semana. 44 horas, o máximo que a lei deixava, até agora.;7.69;1
+012;LUANA;OK;;Mãe, sábado tem apresentação na escola. Eu vou ser a árvore.;Mãe, sábado tem apresentação na escola. Eu vou ser a árvore.;4.82;1
+013;JOSI;OK;;Sábado eu trabalho, filha.;Sábado é o trabalho, filha.;1.73;1
+014;LUANA;OK;;Mas a árvore é a personagem principal.;Mas a árvore é a personagem principal.;2.43;1
+015;NARRADOR;OK;;Não era. Mas a Luana queria muito que a mãe visse.;Não era, mas a Luana queria muito que a mãe visse.;3.43;1
+016;NARRADOR;OK;;A Josi foi falar com o gerente. O Seu Hélio.;A Josie foi falar com o Gerente, o seu hélio.;2.35;1
+017;SEU HÉLIO;OK;;Sábado, Josi? Sábado é o dia que mais vende. Se eu tiro você, tenho que tirar alguém de outro dia.;Sábado, Josie. Sábado é o dia que mais vende. Se eu tiro você, tenho que tirar alguém de outro dia.;5.62;1
+018;JOSI;OK;;Troca minha terça pelo sábado. Só essa vez.;Troca a minha terça pelo sábado, só essa vez.;2.44;1
+019;SEU HÉLIO;OK;;Se eu troco a sua, tenho que trocar a da Patrícia, que troca com o Juninho, que já trocou com a Dona Bete.;Se eu troco a sua, tenho que trocar da Patrícia, que troca com Juninho, que já trocou o codonabete.;5.28;1
+020;NARRADOR;OK;;E é aí que tá o problema de uma escala apertada. Uma folga mexe na de todo mundo.;E é aí que está o problema de uma escala apertada. Uma folga mexe na de todo mundo.;5.36;1
+021;SEU HÉLIO;OK;;Vou ver o que dá pra fazer. Mas não promete nada pra menina.;Vou ver o que dá pra fazer, mas não promete nada pra menina.;3.53;1
+022;NARRADOR;OK;;Naquela noite, a Josi chegou em casa às oito e meia. A Luana já tinha dormido. Com a fantasia de árvore do lado da cama.;Naquela noite, a Josie chegou em casa às oito e meia. A Luana já tinha dormido com a fantasia de árvore do lado da cama.;7.75;1
+023;NARRADOR;OK;;E foi nessa noite que a Josi escreveu um pedido.;e foi nessa noite que a Jos escreveu um pedido.;2.99;1
+024;JOSI;OK;;Querido Universo. Eu só quero um dia a mais de folga. Um só. Pra ver a minha filha ser árvore. Obrigada. Josi.;Querido universo, eu só quero um dia mais de folga, um só, pra ver a minha filha ser árvore. Obrigada, Josie.;9.4;2
+025;NARRADOR;OK;;E o pedido subiu. Direto pra Repartição do Universo.;e o pedido subiu, direto para a repartição do universo.;3.41;1
+026;CONTADOR;OK;;Hum. Pedido número dois mil e vinte e seis, barra, seis por um. Um dia a mais de folga.;Hmm, pedido número 2.026 barra 6 por 1, um dia mais de folga.;6.37;1
+027;TÉCNICO;OK;;Esse é simples. Dá a folga pra ela no sábado.;E esse é simples, dar a folga para ela no sábado.;2.85;1
+028;CONTADOR;OK;;Pra ela só? E a Patrícia? E o Juninho? E a Dona Bete? Todo mundo tem filho que vira árvore.;Para ela só, e a Patrícia, e o Juninho, e a Dona Bete, todo mundo tem filho que vira árvore.;5.55;1
+029;TÉCNICO;OK;;Então dá um dia a mais pra todo mundo?;Então, dá um dia a mais para todo mundo.;3.26;1
+030;CONTADOR;OK;;Pra todo mundo. No mesmo dia. Fica mais organizado.;para todo mundo, no mesmo dia, fica mais organizado.;3.34;1
+031;TÉCNICO;OK;;Isso não vai dar certo.;Isso não vai dar certo.;1.8;1
+032;CONTADOR;OK;;Deferido.;Deferido.;0.54;1
+033;NARRADOR;OK;;E no sábado seguinte, o Brasil inteiro folgou. Todo mundo. Ao mesmo tempo.;E no sábado seguinte, o Brasil inteiro fogou. Todo mundo, ao mesmo tempo.;4.84;1
+034;NARRADOR;OK;;A Josi acordou sem despertador. Pela primeira vez em onze anos, num sábado.;A Josie acordou sem despertador, pela primeira vez em 11 anos num sábado.;5.69;1
+035;JOSI;OK;;Luana! Bora pra escola! Hoje a mãe vai ver a árvore!;Luana, bora pra escola. Hoje a mãe vai ver a árvore.;4.2;2
+036;NARRADOR;OK;;Elas foram pro ponto. E o ônibus não passou. O motorista também tava de folga.;Elas foram para o ponto e o ônibus não passou. O motorista também estava de folga.;5.12;1
+037;NARRADOR;OK;;Foram a pé. Chegaram na escola. Portão fechado.;Foram a pé, chegaram na escola, por tão fechado.;4.02;1
+038;LUANA;OK;;Mãe, a professora também folgou.;Mãe, a professora tão bem fogo!;2.67;1
+039;NARRADOR;OK;;A apresentação foi cancelada. Os professores tinham folga. A merendeira tinha folga. O porteiro tinha folga.;A apresentação foi cancelada. Os professores tinham folga. A merendeira tinha folga. O porteiro tinha folga.;7.66;1
+040;JOSI;OK;;Tudo bem, filha. A gente faz um almoço especial. Vamos no mercado.;Tudo bem, filha. A gente faz um almoço especial. Vamos no mercado.;3.92;1
+041;NARRADOR;OK;;O supermercado tava fechado. Com uma placa: fechado por folga coletiva. Assinado: Universo.;O supermercado estava fechado com uma placa, fechado por folga coletiva, assinado universo.;7.36;1
+042;JOSI;OK;;Eu trabalho aqui e não consigo nem comprar arroz.;Eu trabalho aqui e não consigo nem comprar arroz.;3.04;1
+043;NARRADOR;OK;;E não era só o mercado. A padaria, a farmácia, o posto de gasolina. Tudo fechado.;E não era só o mercado, a padaria, a farmácia, o posto de gasolina, tudo fechado.;6.65;1
+044;NARRADOR;OK;;O pronto-socorro funcionou. Mas o médico de plantão tava de folga, então quem atendia era o próprio Universo. Ele não sabia medir pressão.;O pronto socorro funcionou, mas o médico de plantão estava de folga, então quem atendia era o próprio universo. Ele não sabia medir pressão.;8.61;1
+045;SEU HÉLIO;OK;;Josi! Eu tô de folga, mas a geladeira do mercado parou! Quem conserta?;Josie, eu tô de folga, mas a geladeira do mercado parou, quem conserta?;5.15;1
+046;JOSI;OK;;O técnico de geladeira tá de folga, Seu Hélio.;O técnico de geladeira está de folga, seu hélio.;2.56;1
+047;SEU HÉLIO;OK;;E quem tá trabalhando?;e quem está trabalhando.;1.01;1
+048;JOSI;OK;;Ninguém. Esse era o pedido.;Ninguém. Esse era o pedido.;1.85;1
+049;NARRADOR;OK;;No fim do dia, a Josi e a Luana comeram miojo. O único que tinha em casa. E viram a apresentação de árvore na sala. Com a Luana de árvore e a Josi de plateia.;No fim do dia, a Josie e a Luana comeram miojo, o único que tinha em casa e viram a apresentação de árvore na sala, com a Luana de árvore e a Josie de plateia.;10.57;1
+050;LUANA;OK;;Foi a melhor apresentação, mãe.;Foi a melhor apresentação, mãe.;2.14;1
+051;JOSI;OK;;Foi a única, filha.;Foi a única filha.;1.35;1
+052;JOSI;OK;;Universo, eu agradeço. Mas não era isso. Desfaz.;O universo eu agradeço, mas não era isso, desfaz.;4.42;1
+053;CONTADOR;OK;;Desfeito. Folga coletiva cancelada.;Desfeito. Folga a coletiva cancelada.;2.75;1
+054;TÉCNICO;OK;;Eu avisei.;Deu a viser!;0.59;1
+055;NARRADOR;OK;;O Universo errou numa coisa. Folga não precisa ser todo mundo no mesmo dia.;O universo errou numa coisa. Folga não precisa ser todo mundo no mesmo dia.;4.31;1
+056;NARRADOR;OK;;A emenda aprovada em outubro diz o seguinte. Sessenta dias depois de promulgada, todo trabalhador passa a ter dois dias de descanso remunerado por semana. De preferência, um deles no domingo.;A emenda aprovada em outubro, diz o seguinte, 60 dias depois de promulgada, todo trabalhador passa a ter dois dias de descanso remunerado por semana, de preferência um deles no domingo.;11.34;1
+057;NARRADOR;OK;;A jornada máxima cai de quarenta e quatro pra quarenta e duas horas. E um ano depois, pra quarenta. Sem redução de salário.;A jornada máxima cai de 44 para 42 horas e um ano depois para 40, sem redução de salário.;7.86;1
+058;NARRADOR;OK;;O mercado continua aberto no sábado. O ônibus continua passando. Só que a escala vira um quebra-cabeça maior: cada um folga em dias diferentes.;O mercado continua aberto no sábado, o ônibus continua passando. Só que a escala vira um quebra-cabeça maior, cada um folga em dias diferentes.;8.85;1
+059;SEU HÉLIO;OK;;Ou seja: eu vou precisar de mais gente no caixa. Ou de mais hora extra. Ou de fechar mais cedo.;Ou seja, eu vou precisar de mais gente no caixa ou de mais hora extra ou de fechar mais cedo.;5.47;1
+060;NARRADOR;ERRO;"faltando: tem; início diferente; sobrando: tenho";E tem uma exceção. Por acordo ou convenção coletiva, empresa e sindicato podem combinar outras escalas. Em casos excepcionais, até a seis por um.;E tenho uma exceção. Por acordo ou convenção coletiva, empresas sindicato podem combinar outras escalas, em casos excepcionais até 6 por 1.;9.01;1
+061;NARRADOR;OK;;E aqui tem dois lados. E os números dos dois são grandes.;E aqui tem dois lados, e os números dos dois são grandes.;3.3;1
+062;NARRADOR;OK;;A Confederação Nacional do Comércio calculou um custo de cento e vinte e dois bilhões de reais por ano só pro comércio. E disse que os preços podem subir até treze por cento.;A Confederação Nacional do Comércio calculou um custo de 122 bilhões de reais por ano só para o comércio e disse que os preços podem subir até 13%.;9.07;1
+063;NARRADOR;ERRO;faltando: virgula;A Confederação da Indústria estimou que o PIB pode ficar zero vírgula sete por cento menor.;A confederação da indústria estimou que o PIB pode ficar 0,7% menor.;4.83;1
+064;SEU HÉLIO;OK;;Mercado pequeno não tem de onde tirar. Ou contrata, ou aumenta o preço, ou fecha mais cedo.;Mercado pequeno não tem de onde tirar, ou contrata, ou aumenta o preço ou fecha mais cedo.;4.91;1
+065;NARRADOR;ERRO;faltando: virgula;Do outro lado, o Ipea, que é um instituto de pesquisa do governo, calculou que o custo médio do trabalho sobe sete vírgula oitenta e quatro por cento.;Do outro lado, o IPA, que é um instituto de pesquisa do governo, calculou que o custo médio do trabalho sobe 7,84%.;8.71;1
+066;NARRADOR;OK;;E que, na indústria e no comércio, isso dá menos de um por cento do custo total das empresas. Parecido com reajustes do salário mínimo que, no passado, não derrubaram o emprego.;e que na indústria e no comércio isso dá menos de 1% do custo total das empresas, parecido com reajustes do salário mínimo, que, no passado, não derrubaram o emprego.;10.76;1
+067;JOSI;OK;;Eu só sei que um dia a mais em casa é um dia a mais com a minha filha.;Eu só sei que um dia mais em casa é um dia mais com minha filha.;4.05;1
+068;NARRADOR;ERRO;faltando: por um;Numa pesquisa do instituto Nexus, setenta e três por cento dos brasileiros disseram ser a favor do fim da seis por um. Desde que sem redução de salário.;Numa pesquisa do Instituto Nexus, 73% dos brasileiros disseram ser a favor do fim da 6x1, desde que sem redução de salário.;9.16;1
+069;CONTADOR;OK;;E a Repartição fez a conta. Mas a conta da Josi, não a do país.;e a repartição fez a conta, mas a conta da Josie não é do país.;4.77;1
+070;CONTADOR;OK;;Na seis por um, a Josi tinha cinquenta e duas folgas por ano. Uma por semana.;Nas seis por um, a Josie tinha 52 folgas por ano, uma por semana.;5.36;1
+071;CONTADOR;OK;;Na cinco por dois, são cento e quatro. O dobro.;Na 5x2 são 104, o dobro.;3.11;1
+072;CONTADOR;OK;;Quarenta e quatro horas por semana viram quarenta. São quatro horas a menos. Em um ano, mais de duzentas horas.;44 horas por semana viram 40. São 4 horas a menos. Em um ano, mais de 200 horas.;7.2;1
+073;TÉCNICO;OK;;Duzentas horas dá pra ver quantas apresentações de árvore?;200 horas dá pra ver quantas apresentações de árvore.;4.17;1
+074;CONTADOR;OK;;Todas. Inclusive as ensaiadas em casa.;Todas, inclusive as ensaiadas em casa.;2.97;1
+075;CONTADOR;OK;;Agora, quem paga essas horas, e como, é a parte que o Brasil ainda vai descobrir. A Repartição só cuida dos pedidos. Esse foi o primeiro que a lei atendeu antes da gente.;Agora, quem paga essas horas e como é a parte que o Brasil ainda vai descobrir? A repartição só cuida dos pedidos. Esse foi o primeiro que a lei atendeu antes da gente.;10.35;1
+076;NARRADOR;OK;;Dezembro. Primeira semana da escala nova.;Dezembro. Primeira Semana da Escala Nova.;2.79;1
+077;SEU HÉLIO;OK;;Josi, saiu a escala. Você folga domingo e segunda.;Josie, saiu a escala. Você folga domingo segunda.;2.99;1
+078;JOSI;OK;;Domingo? Seu Hélio, faz onze anos que eu não folgo domingo.;domingo? Seu hélio, faz 11 anos que eu não fogo domingo.;3.73;1
+079;SEU HÉLIO;OK;;E tem uma coisa. A apresentação de fim de ano da escola é domingo, né?;E tem uma coisa, a apresentação de fim de ano da escola é domingo, né?;3.63;1
+080;JOSI;OK;;Como o senhor sabe?;E como o Senhor sabe?;1.02;1
+081;SEU HÉLIO;OK;;A minha neta também vai ser árvore.;A minha neta também vai ser árvore.;1.53;1
+082;NARRADOR;OK;;No domingo, a escola abriu. O ônibus passou. O mercado tava aberto, com outra pessoa no caixa da Josi.;No domingo, a escola abriu, o ônibus passou. O mercado estava aberto, com outra pessoa no caixa da Josie.;7.41;1
+083;NARRADOR;OK;;E na primeira fila, sentados juntos, a Josi e o Seu Hélio. Vendo duas árvores.;e na primeira fila, sentados juntos, a jose e o seu hélio, vendo duas árvores.;6.35;1
+084;LUANA;AVISO;pausa longa (5 car/s);Mãe! Você veio!;Mãe, você veio!;2.67;1
+085;JOSI;OK;;Vim, filha. E sábado que vem eu venho de novo.;Vim, filha, e sábado que vem eu venho de novo.;3.2;1
+086;NARRADOR;OK;;E você? Trabalha em qual escala? O que você faria com um dia a mais de folga? E se você é dono de um pequeno negócio, como vai fazer a escala nova? Conta aqui embaixo. A gente lê tudo.;E você? Trabalha em qual escala? O que você faria com um dia a mais de folga? E se você é dono de um pequeno negócio, como vai fazer a escala nova? Conta aqui embaixo. A gente lê tudo.;11.02;1

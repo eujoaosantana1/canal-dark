@@ -1,0 +1,576 @@
+{
+ "001": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Primeiro de janeiro, um calendário novinho pendurado na parede e uma caneta vermelha.",
+  "dur": 5.51,
+  "tent": 1
+ },
+ "002": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tira dentes, riscado. Dia do trabalho, riscado. Sete de setembro, riscado.",
+  "dur": 6.91,
+  "tent": 1
+ },
+ "003": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "12 de outubro, finados, consciência negra, riscado, riscado, riscado.",
+  "dur": 5.39,
+  "tent": 1
+ },
+ "005": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esse ano, o Brasil teve dez feriados nacionais. Nove deles caíram em dia útil, o maior número da última década.",
+  "dur": 6.98,
+  "tent": 1
+ },
+ "006": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No ano da rose, sobre um, só um.",
+  "dur": 3.1,
+  "tent": 1
+ },
+ "007": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você, se só pudesse ficar um feriado, qual você salvava? Fica até o fim, porque quem pediu para acabar com os feriados foi o primeiro a se arrepender.",
+  "dur": 9.02,
+  "tent": 1
+ },
+ "008": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Rose, 38 anos, vendedora da Fabio Móveis em Santo André.",
+  "dur": 5.41,
+  "tent": 1
+ },
+ "009": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Trabalha de sábado, folga na quarta, a filha estuda de segunda a sexta. Faz a conta. O único dia inteiro que a Rose passa com a Lara é feriado.",
+  "dur": 10.32,
+  "tent": 1
+ },
+ "010": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Na estante tem um pote de vidro escrito Praia, 10 reais por semana, desde janeiro.",
+  "dur": 6.17,
+  "tent": 1
+ },
+ "015": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E aí tem o chefe, Doutor Fábio, dono da rede Fábio Móveis, a própria cara no Outdoor segurando um sofá.",
+  "dur": 8.67,
+  "tent": 2
+ },
+ "021": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e todo mundo na loja sabia o que esse, se quiser, queria dizer.",
+  "dur": 4.54,
+  "tent": 1
+ },
+ "022": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Naquela noite, o doutor Fabio fez o que sempre faz quando quer alguma coisa. Reclamou por escrito.",
+  "dur": 6.41,
+  "tent": 1
+ },
+ "023": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Só que a carta não foi parar na Câmara dos Deputados, foi parar num andar do universo que quase ninguém conhece, a repartição do universo.",
+  "dur": 10.97,
+  "tent": 1
+ },
+ "028": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o carimbo desceu.",
+  "dur": 1.15,
+  "tent": 1
+ },
+ "030": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e começou o ano mais cumprido da história do Brasil.",
+  "dur": 4.06,
+  "tent": 1
+ },
+ "031": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Fevereiro, o carnaval veio e ninguém pôde reclamar, porque o carnaval, na verdade, nunca foi feriado nacional. É ponto facultativo. Tem cidade que folga, tem cidade que não.",
+  "dur": 11.95,
+  "tent": 1
+ },
+ "032": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Abriu. Tiradentes caiu numa terça. Sem feriado, a terça foi só a terça.",
+  "dur": 5.88,
+  "tent": 1
+ },
+ "033": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Primeiro de maio, o dia do trabalho, e o Brasil inteiro comemorou trabalhando.",
+  "dur": 5.67,
+  "tent": 1
+ },
+ "035": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E aí veio a votação. Qual feriado sobrevive?",
+  "dur": 3.91,
+  "tent": 1
+ },
+ "036": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O Natal ganhou de lavada. O ano novo ficou em segundo e ficou sem nada. O 12 de outubro teve campanha de criança na escola. A Consciência Negra, o feriado nacional mais novo do país, nem teve tempo de esquentar a cadeira.",
+  "dur": 14.68,
+  "tent": 1
+ },
+ "037": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o feriadão de novembro da rose não existia mais.",
+  "dur": 3.47,
+  "tent": 1
+ },
+ "040": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Três meses depois, o doutor Fábio chamou o gerente. Esperava o melhor trimestre da história.",
+  "dur": 5.58,
+  "tent": 2
+ },
+ "042": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "quase nada.",
+  "dur": 1.2,
+  "tent": 1
+ },
+ "043": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A loja ficou aberta há mais dias, mas as pessoas não ganharam mais dinheiro só porque o calendário mudou. Quem ia comprar sofá comprou, só que espalhado.",
+  "dur": 9.13,
+  "tent": 1
+ },
+ "044": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e tinha o outro lado da conta. Abrir num dia que seria feriado custa caro, hora extra, luz, segurança. O comércio sente o feriado, isso é verdade, mas sente principalmente no bolso de quem abre e não vende.",
+  "dur": 14.58,
+  "tent": 1
+ },
+ "046": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E aí tocou o telefone. Era da filial de Ubatuba.",
+  "dur": 3.72,
+  "tent": 1
+ },
+ "047": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Porque o doutor Fábio tinha uma filial na praia, Fábio Móveis Ubatuba, cadeira de praia, guarda sol, colchão de ar, e ela só vendia em feriadão.",
+  "dur": 10.54,
+  "tent": 1
+ },
+ "048": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "do lado da filial ficava pousada do seu zé, penareia, 12 quartos e um caderno de reservas que antes vivia cheio.",
+  "dur": 8.42,
+  "tent": 1
+ },
+ "053": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O feriado que fechava a loja de Santo André era o mesmo que enchia a loja de Batuba. O doutor Fábio só olhava para metade da conta.",
+  "dur": 8.87,
+  "tent": 1
+ },
+ "055": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Em São Paulo, os feriados de 2026 fazem o comércio deixar de faturar perto de 17 bilhões de reais pelas contas da Federação do Comércio. Parece muito. É pouco mais de 1% do que o varejo vende no ano.",
+  "dur": 12.37,
+  "tent": 1
+ },
+ "056": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Do outro lado da balança, só o Carnaval desse ano movimentou 14 bilhões e meio de reais em turismo, bar e restaurante, pela Confederação Nacional do Comércio, e os feriados de novembro injetaram uns 4 bilhões em hospedagem e alimentação, só em São Paulo.",
+  "dur": 15.25,
+  "tent": 1
+ },
+ "058": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o Brasil nem é o campeão de feriado que todo mundo pensa, são 10 feriados nacionais por lei. A média do mundo fica perto de 13, o Nepal tem 35.",
+  "dur": 9.97,
+  "tent": 1
+ },
+ "063": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O doutor Fábio olhou o caderno de reservas vazio do seu Zé, olhou a filial fechada. Ele lembrou de uma coisa que fazia 30 anos que ele não lembrava.",
+  "dur": 9.26,
+  "tent": 1
+ },
+ "070": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o carimbo subiu de volta.",
+  "dur": 1.22,
+  "tent": 1
+ },
+ "072": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Novembro, sexta-feira, dia da Consciência Negra, feriadão de três dias.",
+  "dur": 5.35,
+  "tent": 1
+ },
+ "073": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A rose quebrou o pote de vidro. Deu 440 reais. Deu para ida, a volta e um peixe frito.",
+  "dur": 7.01,
+  "tent": 1
+ },
+ "076": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A Lara viu o mar pela primeira vez às 10 da manhã de uma sexta-feira, ficou parada na areia, olhando sem falar nada, depois correu.",
+  "dur": 10.35,
+  "tent": 1
+ },
+ "078": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Na pousada do seu Zé, os 12 quartos estavam cheios, e na varanda, numa rede, de bermuda e sem gel no cabelo, tinha um senhor que nunca tinha tirado um feriado na vida.",
+  "dur": 11.78,
+  "tent": 1
+ },
+ "081": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Lá em cima, na repartição do universo, o contador arquivou o protocolo 312. Do lado, pregou um calendário, com todos os feriados marcados de vermelho.",
+  "dur": 10.82,
+  "tent": 1
+ },
+ "082": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você, se só pudesse ficar um feriado no Brasil, qual você salvava? Conta aqui embaixo, mas pensa bem, porque alguém em algum lugar vai ficar sem o mar.",
+  "dur": 10.43,
+  "tent": 1
+ },
+ "004": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Moço! Para! Esse de novembro é o meu feriadão!",
+  "dur": 3.99,
+  "tent": 1
+ },
+ "012": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Falta o feriadão de novembro filha sexta sábado e domingo.",
+  "dur": 3.7,
+  "tent": 1
+ },
+ "014": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Três dias de mar.",
+  "dur": 1.43,
+  "tent": 1
+ },
+ "018": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas, doutor, as pessoas também precisam descansar.",
+  "dur": 3.61,
+  "tent": 1
+ },
+ "039": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O mar não vai alugar nenhum, filha. A gente é que não vai.",
+  "dur": 3.4,
+  "tent": 1
+ },
+ "074": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Doutor, eu vou ter que faltar no feriado.",
+  "dur": 2.28,
+  "tent": 1
+ },
+ "011": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mãe, volta quanto pro mar?",
+  "dur": 2.67,
+  "tent": 1
+ },
+ "013": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Três dias de mar?",
+  "dur": 1.44,
+  "tent": 1
+ },
+ "038": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mãe, o mar!",
+  "dur": 1.39,
+  "tent": 1
+ },
+ "077": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mãe, ele não acaba.",
+  "dur": 2.18,
+  "tent": 1
+ },
+ "016": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Feriado é coisa de país preguiçoso, loja fechada, funcionar em casa e o aluguel correndo.",
+  "dur": 6.02,
+  "tent": 1
+ },
+ "017": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Sabe quanto cada feriado me custa? Um caminhão de sofá parado no estoque.",
+  "dur": 4.16,
+  "tent": 1
+ },
+ "019": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Descança quem pode, Rosie. Eu nunca tirei um feriado na vida.",
+  "dur": 3.35,
+  "tent": 2
+ },
+ "020": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Aliás, em novembro à loja, abre. Você vem, se quiser, claro.",
+  "dur": 3.89,
+  "tent": 1
+ },
+ "026": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e qual fica.",
+  "dur": 0.63,
+  "tent": 1
+ },
+ "034": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Agora sim, loja aberta 364 dias por ano.",
+  "dur": 4.06,
+  "tent": 1
+ },
+ "041": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E aí, quanto a gente vendeu a mais?",
+  "dur": 1.89,
+  "tent": 1
+ },
+ "045": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Então, pelo menos a gente economizou no feriado.",
+  "dur": 2.5,
+  "tent": 1
+ },
+ "051": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "na minha loja.",
+  "dur": 0.76,
+  "tent": 1
+ },
+ "059": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "35",
+  "dur": 1.06,
+  "tent": 2
+ },
+ "064": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Seu Zé, essa pousada tinha uma rede na varanda?",
+  "dur": 3.86,
+  "tent": 2
+ },
+ "066": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Meu pai me trouxe aqui uma vez, num feriado. Eu tinha uns 10 anos. Foi a única vez.",
+  "dur": 5.38,
+  "tent": 1
+ },
+ "067": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Desfaz.",
+  "dur": 0.72,
+  "tent": 1
+ },
+ "069": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Todos. E bota o de novembro primeiro.",
+  "dur": 2.2,
+  "tent": 1
+ },
+ "075": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Rose, feriado, não é falta.",
+  "dur": 1.73,
+  "tent": 1
+ },
+ "080": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Vou, e pode pôr na conta da filial.",
+  "dur": 2.1,
+  "tent": 1
+ },
+ "024": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Protocola número 312, reclamante Fábio. Pedido, acabar com todos os feriados do Brasil.",
+  "dur": 7.24,
+  "tent": 1
+ },
+ "025": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Todos não podem, tem regra, mas um eu deixo, um só.",
+  "dur": 3.64,
+  "tent": 1
+ },
+ "027": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso quem decide não é o senhor, é o povo.",
+  "dur": 2.37,
+  "tent": 1
+ },
+ "029": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Deferido.",
+  "dur": 0.53,
+  "tent": 1
+ },
+ "054": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Doutor Fábio, deixa eu te mostrar a conta inteira.",
+  "dur": 2.62,
+  "tent": 1
+ },
+ "057": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O feriado não some com o dinheiro, doutor. Ele muda o dinheiro de lugar. Sai da loja de móveis e vai para a pousada, para o kiosque, para a estrada.",
+  "dur": 8.5,
+  "tent": 1
+ },
+ "060": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e ninguém lá vem de sofá.",
+  "dur": 1.51,
+  "tent": 1
+ },
+ "061": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A repartição tem uma regra, doutor. Todo protocolo pode ser desfeito. Uma vez.",
+  "dur": 4.34,
+  "tent": 1
+ },
+ "062": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O senhor quer o calendário de volta?",
+  "dur": 1.6,
+  "tent": 1
+ },
+ "068": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "todos!",
+  "dur": 0.62,
+  "tent": 1
+ },
+ "071": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Indeferido o indeferimento, calendário restaurado.",
+  "dur": 2.71,
+  "tent": 1
+ },
+ "049": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Doutor, faz seis meses que eu não alugo um quarto. Seis meses.",
+  "dur": 4.32,
+  "tent": 1
+ },
+ "050": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O pessoal vinha no feriadão, comeu peixe, alugava a cadeira, comprava sorvete, comprava guarda-sol, na sua loja, inclusive.",
+  "dur": 8.46,
+  "tent": 1
+ },
+ "052": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "na sua loja. O senhor achava que quem comprava a cadeira de praia e o batu era quem?",
+  "dur": 4.28,
+  "tent": 1
+ },
+ "065": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tinha. Tem ainda.",
+  "dur": 1.4,
+  "tent": 1
+ },
+ "079": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Vai querer o peixe, doutor.",
+  "dur": 1.06,
+  "tent": 1
+ }
+}

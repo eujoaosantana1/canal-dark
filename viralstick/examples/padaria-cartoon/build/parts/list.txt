@@ -1,0 +1,6 @@
+file 'C:/Users/JCS/Downloads/Canal Dark/viralstick/examples/padaria-cartoon/build/parts/part_000.mp4'
+file 'C:/Users/JCS/Downloads/Canal Dark/viralstick/examples/padaria-cartoon/build/parts/part_001.mp4'
+file 'C:/Users/JCS/Downloads/Canal Dark/viralstick/examples/padaria-cartoon/build/parts/part_002.mp4'
+file 'C:/Users/JCS/Downloads/Canal Dark/viralstick/examples/padaria-cartoon/build/parts/part_003.mp4'
+file 'C:/Users/JCS/Downloads/Canal Dark/viralstick/examples/padaria-cartoon/build/parts/part_004.mp4'
+file 'C:/Users/JCS/Downloads/Canal Dark/viralstick/examples/padaria-cartoon/build/parts/part_005.mp4'

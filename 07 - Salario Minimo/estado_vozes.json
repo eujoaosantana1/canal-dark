@@ -1,0 +1,632 @@
+{
+ "001": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: centavos"
+  ],
+  "ouvido": "R$ 7,37. É quanto vale uma hora de trabalho de quem ganha um salário mínimo no Brasil?",
+  "dur": 7.33,
+  "tent": 3
+ },
+ "002": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A tainá sabe esse número de cor, porque ela não pensa em reais, ela pensa em horas.",
+  "dur": 5.41,
+  "tent": 1
+ },
+ "006": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Em 2026, o salário mínimo é de R$1.621 e tem quase 62 milhões de brasileiros com a renda ligada a esse número.",
+  "dur": 8.43,
+  "tent": 1
+ },
+ "007": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hoje a gente vai acompanhar um mês inteiro da Tainá, dia por dia, para descobrir até que dia o dinheiro chega.",
+  "dur": 6.66,
+  "tent": 1
+ },
+ "008": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você? Até que dia do mês o seu salário dura. Guarda essa resposta. Fica até o fim porque a Tainá vai fazer um pedido para o universo e o universo vai atender do jeito dele.",
+  "dur": 11.47,
+  "tent": 1
+ },
+ "009": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Atainá tem 26 anos, trabalha na limpeza de um prédio de escritórios na Avenida Paulista.",
+  "dur": 5.75,
+  "tent": 1
+ },
+ "010": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ela mora em Guayanazes, no fundo da zona leste, num cômodo e cozinha com o Davi, de sete anos.",
+  "dur": 6.01,
+  "tent": 1
+ },
+ "011": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Para chegar no trabalho, é um ônibus, um trem e um pedaço a pé. Uma hora e quarenta para ir, uma hora e quarenta para voltar.",
+  "dur": 7.59,
+  "tent": 1
+ },
+ "016": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dia 5. O salário cai.",
+  "dur": 2.02,
+  "tent": 1
+ },
+ "017": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "R$ 1.621, só que esse número atai na nunca-venteiro.",
+  "dur": 5.49,
+  "tent": 1
+ },
+ "018": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Antes de chegar na conta, já saem R$ 121,58 de INSS?",
+  "dur": 5.08,
+  "tent": 1
+ },
+ "019": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e mais 97 reais e 26 de vale transporte, que a empresa paga a maior parte mas desconta até 6% do salário.",
+  "dur": 7.24,
+  "tent": 1
+ },
+ "020": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: centavos",
+   "final diferente"
+  ],
+  "ouvido": "O que chega no celular dela é R$ 1.402,16.",
+  "dur": 3.85,
+  "tent": 3
+ },
+ "022": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E aí começa a fila.",
+  "dur": 1.93,
+  "tent": 1
+ },
+ "024": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "a loguel do cômodo setecentos e cinquenta reais. Sobram seiscentos e cinquenta e dois.",
+  "dur": 5.51,
+  "tent": 2
+ },
+ "025": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Conta de luz 95. Água 60. Sobram 497.",
+  "dur": 4.69,
+  "tent": 1
+ },
+ "026": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O gás acabou bem no meio do arroz, botijão novo 115, sobram 382.",
+  "dur": 6.15,
+  "tent": 1
+ },
+ "027": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Crédito do celular, que é por onde ela recebe a escala do serviço, 35. Sobram 347 reais e 16 centavos.",
+  "dur": 8.85,
+  "tent": 3
+ },
+ "028": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E é isso que fica para a comida do mês inteiro, para duas pessoas.",
+  "dur": 4.08,
+  "tent": 1
+ },
+ "030": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "R$11,57 por dia, pros dois, menos de R$6 por pessoa por dia.",
+  "dur": 6.02,
+  "tent": 3
+ },
+ "033": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Para ter uma ideia, o DIES mede todo mês o preço da cesta básica, arroz, feijão, carne, leite, pão, café, óleo, legumes, a quantidade que um adulto precisa por mês.",
+  "dur": 10.98,
+  "tent": 1
+ },
+ "034": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Em setembro, a cesta mais cara do Brasil foi a de São Paulo, 922 reais e 51 centavos.",
+  "dur": 6.69,
+  "tent": 1
+ },
+ "035": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Para comprar essa cesta ganhando mínimo, a pessoa precisa trabalhar a 125 horas, mais de 15 dias de serviço, só para comer.",
+  "dur": 7.78,
+  "tent": 1
+ },
+ "036": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e a Tainá não tem 900, tem 347 para 2.",
+  "dur": 4.28,
+  "tent": 1
+ },
+ "037": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Então ela faz o que milhões de pessoas fazem, compra no atacadão, troca carne por ovo, troca o ovo por salsicha e faz faxina no sábado.",
+  "dur": 8.22,
+  "tent": 1
+ },
+ "039": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o sábado que devia ser de descanso vira o segundo emprego.",
+  "dur": 3.14,
+  "tent": 1
+ },
+ "040": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mesmo assim, no dia 22, o dinheiro acaba.",
+  "dur": 2.27,
+  "tent": 1
+ },
+ "041": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Na geladeira tem meia caixa de leite, três ovos e um pote de margarina que na verdade é feijão congelado.",
+  "dur": 7.0,
+  "tent": 1
+ },
+ "044": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Aí vem a lista de sempre, fiado na mercearia, pixie emprestado da irmã, passe do ônibus contado moeda por moeda.",
+  "dur": 7.67,
+  "tent": 1
+ },
+ "046": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e foi nessa noite que a Tainá fez uma coisa que ela nunca tinha feito.",
+  "dur": 3.72,
+  "tent": 1
+ },
+ "047": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "ela escreveu um pedido para o universo.",
+  "dur": 2.5,
+  "tent": 1
+ },
+ "049": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o pedido subiu, direto para a repartição do universo.",
+  "dur": 3.48,
+  "tent": 1
+ },
+ "057": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E no dia seguinte, o calendário do Brasil inteiro tinha 18 dias.",
+  "dur": 4.26,
+  "tent": 1
+ },
+ "058": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e funcionou. No dia 18, a Tainá ainda tinha dinheiro. Pouco, mas tinha.",
+  "dur": 4.96,
+  "tent": 1
+ },
+ "062": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Só que dia 18 virou dia 1, e o dia 1 tinha uma surpresa.",
+  "dur": 4.89,
+  "tent": 1
+ },
+ "066": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A conta de luz também passou a vir a cada 18 dias, a de água também, o crédito do celular também.",
+  "dur": 7.19,
+  "tent": 1
+ },
+ "067": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o salário.",
+  "dur": 0.76,
+  "tent": 1
+ },
+ "069": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A empresa da Tainá continuou pagando a cada 30 dias. Quem paga demora para mudar de calendário.",
+  "dur": 6.62,
+  "tent": 1
+ },
+ "073": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Porque o problema da Tainá nunca foi o tamanho do mês. Foi o tamanho do salário, perto do tamanho da conta.",
+  "dur": 6.58,
+  "tent": 1
+ },
+ "074": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o contador do universo resolveu fazer a conta direito.",
+  "dur": 3.7,
+  "tent": 1
+ },
+ "078": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: virgula"
+  ],
+  "ouvido": "E aqui tem dois lados, o mínimo subiu acima da inflação em 2026, 6,79%, 103 reais a mais.",
+  "dur": 9.07,
+  "tent": 3
+ },
+ "079": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E muita economista lembra que subir tudo de uma vez pesaria na padaria, no salão, na pequena empresa que paga o mínimo e nas aposentadorias que andam junto com ele.",
+  "dur": 10.06,
+  "tent": 1
+ },
+ "081": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dia 5 de novo, no salário cai, a fila começa.",
+  "dur": 3.8,
+  "tent": 1
+ },
+ "084": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E naquela noite, o Davi quebrou o cofrinho de garrafa.",
+  "dur": 3.93,
+  "tent": 1
+ },
+ "088": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "foi a hora mais bem paga do mês.",
+  "dur": 2.04,
+  "tent": 1
+ },
+ "089": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você? Até que dia do mês o seu salário chega, e quanto vale uma hora sua? Conta aqui embaixo. A gente lê tudo.",
+  "dur": 8.09,
+  "tent": 1
+ },
+ "003": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Passagem de ônibus, 43 minutos de trabalho.",
+  "dur": 3.94,
+  "tent": 1
+ },
+ "004": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Butijão de gás, quase 16 horas.",
+  "dur": 3.3,
+  "tent": 1
+ },
+ "005": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Aluguel 102 horas, mais de metade do mês.",
+  "dur": 4.4,
+  "tent": 1
+ },
+ "013": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Vai, mas vai entrar pela porta da frente.",
+  "dur": 3.07,
+  "tent": 1
+ },
+ "015": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tem? É a que eu entro.",
+  "dur": 2.15,
+  "tent": 1
+ },
+ "021": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Oi, dinheiro, prazer. Tchau, dinheiro.",
+  "dur": 2.8,
+  "tent": 1
+ },
+ "029": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "347 dividido por 30 dias.",
+  "dur": 3.8,
+  "tent": 1
+ },
+ "032": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "da para comprar meio.",
+  "dur": 2.34,
+  "tent": 1
+ },
+ "038": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Duas fascinas por mês, 180 cada, é o que salva o mês.",
+  "dur": 3.92,
+  "tent": 1
+ },
+ "043": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O mês não. O dinheiro.",
+  "dur": 1.54,
+  "tent": 1
+ },
+ "045": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "faltam oito dias. Oito dias é o quê? Sessenta horas de trabalho? Eu já trabalhei elas, só não recebi ainda.",
+  "dur": 7.36,
+  "tent": 1
+ },
+ "048": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Querido universo, não precisa me dar dinheiro. Só faz o meu salário durar até o fim do mês. Obrigada. Tainá.",
+  "dur": 7.15,
+  "tent": 1
+ },
+ "059": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Davi! Chegou no fim do mês! Sobrou dinheiro!",
+  "dur": 3.58,
+  "tent": 1
+ },
+ "061": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "R$4.",
+  "dur": 1.08,
+  "tent": 1
+ },
+ "064": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas eu paguei faz 18 dias.",
+  "dur": 2.49,
+  "tent": 1
+ },
+ "068": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dia 5 eu recebo, né?",
+  "dur": 1.28,
+  "tent": 1
+ },
+ "070": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Universo.",
+  "dur": 0.79,
+  "tent": 1
+ },
+ "083": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Bom dia, seu Ademir. Tá aqui. 102 horas.",
+  "dur": 3.44,
+  "tent": 1
+ },
+ "086": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "sete e trinta e sete.",
+  "dur": 1.85,
+  "tent": 1
+ },
+ "012": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mãe, quando eu crescer eu vou trabalhar na paulista também.",
+  "dur": 3.18,
+  "tent": 1
+ },
+ "014": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "tem importa de trás.",
+  "dur": 1.2,
+  "tent": 1
+ },
+ "031": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mãe, dá pra comprar um lanche com 6 reais?",
+  "dur": 2.96,
+  "tent": 1
+ },
+ "042": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mãe, o mês está acabando?",
+  "dur": 1.64,
+  "tent": 1
+ },
+ "060": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Quanto?",
+  "dur": 0.54,
+  "tent": 1
+ },
+ "085": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mãe, quanto vale uma hora sua?",
+  "dur": 2.06,
+  "tent": 1
+ },
+ "087": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Então toma 7,37. Agora você é minha por uma hora, pra brincar.",
+  "dur": 6.6,
+  "tent": 1
+ },
+ "023": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Bom dia, Tainá! Dia 10 tá chegando, hein?",
+  "dur": 2.58,
+  "tent": 1
+ },
+ "063": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Bom dia, Tainá! Mês novo, aluguel novo.",
+  "dur": 3.22,
+  "tent": 1
+ },
+ "065": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o mês tem 18 dias. Está no calendário.",
+  "dur": 2.54,
+  "tent": 1
+ },
+ "082": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Bom dia, Taina!",
+  "dur": 0.68,
+  "tent": 1
+ },
+ "050": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hm, pedido número 2026 barra 1621. Fazer o salário durar até o fim do mês.",
+  "dur": 8.32,
+  "tent": 1
+ },
+ "051": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Aumentar salário não é aqui, isso é com outra repartição.",
+  "dur": 3.31,
+  "tent": 1
+ },
+ "052": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas fazer o dinheiro durar até o fim do mês, isso eu consigo.",
+  "dur": 4.25,
+  "tent": 1
+ },
+ "054": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O dinheiro dela dura 18 dias, então a gente faz o mês ter 18 dias.",
+  "dur": 4.94,
+  "tent": 1
+ },
+ "056": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Deferido.",
+  "dur": 0.64,
+  "tent": 1
+ },
+ "071": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Indiferido. Desfaz. Desfaz.",
+  "dur": 1.81,
+  "tent": 1
+ },
+ "075": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A Constituição diz que o salário mínimo tem que pagar comida, casa, saúde, educação, roupa, higiene, transporte, lazer e previdência, para a pessoa e para a família.",
+  "dur": 11.91,
+  "tent": 1
+ },
+ "076": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O DIESI pegou a cesta mais cara do país e fez essa conta para uma família de 4 pessoas.",
+  "dur": 5.55,
+  "tent": 1
+ },
+ "077": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Em setembro, deu R$ 7.750, quase cinco vezes o salário de hoje.",
+  "dur": 6.22,
+  "tent": 1
+ },
+ "080": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O que a repartição sabe é o seguinte, a conta da Tainá não fecha, e a dela é a conta de milhões.",
+  "dur": 6.21,
+  "tent": 1
+ },
+ "053": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Consegue como?",
+  "dur": 0.99,
+  "tent": 1
+ },
+ "055": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso não vai dar certo.",
+  "dur": 1.14,
+  "tent": 1
+ },
+ "072": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Eu avisei.",
+  "dur": 0.73,
+  "tent": 1
+ }
+}

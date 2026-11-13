@@ -1,0 +1,512 @@
+[
+ {
+  "n": "001",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Quatrocentos e vinte bilhões de reais. Foi o que os brasileiros compraram no cartão em só três meses, no famoso parcelado sem juros."
+ },
+ {
+  "n": "002",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Quase metade de tudo o que passa no cartão de crédito no Brasil é dividido em vezes."
+ },
+ {
+  "n": "003",
+  "spk": "VENDEDOR",
+  "sec": 1,
+  "txt": "Doze vezes sem juros! Sem entrada! É só assinar aqui!"
+ },
+ {
+  "n": "004",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "E o Kauã assinou. Catorze vezes. Em catorze lojas diferentes."
+ },
+ {
+  "n": "005",
+  "spk": "KAUÃ",
+  "sec": 1,
+  "txt": "Mas é sem juros, gente. Sem juros não é dívida. É organização."
+ },
+ {
+  "n": "006",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Hoje a gente vai descobrir se o sem juros é mesmo sem juros. E o que acontece quando o Universo deixa o Kauã parcelar tudo. Tudo mesmo."
+ },
+ {
+  "n": "007",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "E você? Quantas parcelas tem abertas agora? Guarda esse número. Fica até o fim, porque o Universo atendeu o pedido do Kauã. Do jeito dele."
+ },
+ {
+  "n": "008",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "O Kauã tem vinte e quatro anos. Trabalha num call center em Belo Horizonte e ganha dois mil e duzentos reais por mês."
+ },
+ {
+  "n": "009",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Mora com a mãe, a Dona Socorro, que anota tudo num caderno. Menos as parcelas do filho, porque ele não conta."
+ },
+ {
+  "n": "010",
+  "spk": "DONA SOCORRO",
+  "sec": 2,
+  "txt": "Kauã, chegou mais uma caixa no seu nome."
+ },
+ {
+  "n": "011",
+  "spk": "KAUÃ",
+  "sec": 2,
+  "txt": "É um fone, mãe. Seis vezes de trinta e cinco. Nem sente."
+ },
+ {
+  "n": "012",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "E é verdade. Uma parcela sozinha ninguém sente. O problema é quando elas se encontram."
+ },
+ {
+  "n": "013",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "O celular: doze de duzentos e cinquenta. O videogame: dez de duzentos e vinte. O sofá: dez de cento e sessenta. A viagem pra praia: dez de cento e cinquenta."
+ },
+ {
+  "n": "014",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "A geladeira da mãe, o conserto da moto, o curso, a academia, o presente da namorada, a jaqueta, o perfume, o tênis, o óculos. E o fone."
+ },
+ {
+  "n": "015",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Catorze parcelas. Somadas, mil quinhentos e quarenta reais por mês. Setenta por cento do salário. Antes de ele comprar um pão."
+ },
+ {
+  "n": "016",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "Mas era tudo sem juros. Então qual é o problema?"
+ },
+ {
+  "n": "017",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "Volta lá na loja do celular. Na vitrine: três mil reais, em doze de duzentos e cinquenta."
+ },
+ {
+  "n": "018",
+  "spk": "VENDEDOR",
+  "sec": 3,
+  "txt": "Mas se for no Pix, à vista, sai por dois mil e setecentos."
+ },
+ {
+  "n": "019",
+  "spk": "KAUÃ",
+  "sec": 3,
+  "txt": "Ué. Se o parcelado é sem juros, por que o à vista é mais barato?"
+ },
+ {
+  "n": "020",
+  "spk": "VENDEDOR",
+  "sec": 3,
+  "txt": "Porque é promoção."
+ },
+ {
+  "n": "021",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "Não é bem promoção. Quando você parcela, a loja recebe aos poucos. Se ela quer o dinheiro antes, paga uma taxa pra antecipar. Mais a taxa da maquininha."
+ },
+ {
+  "n": "022",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "Muita loja coloca esse custo no preço. E desde dois mil e dezessete, a lei deixa a loja dar desconto pra quem paga à vista."
+ },
+ {
+  "n": "023",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "No celular do Kauã, os trezentos reais de diferença são os juros. Só que escondidos no preço."
+ },
+ {
+  "n": "024",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Dia dez. Chega a fatura."
+ },
+ {
+  "n": "025",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "As catorze parcelas: mil quinhentos e quarenta. Mais o mercado, o aplicativo de comida e a recarga do celular, tudo no cartão: seiscentos."
+ },
+ {
+  "n": "026",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Total: dois mil cento e quarenta reais. O salário é dois mil e duzentos."
+ },
+ {
+  "n": "027",
+  "spk": "KAUÃ",
+  "sec": 4,
+  "txt": "Sobram sessenta reais. Pro mês inteiro."
+ },
+ {
+  "n": "028",
+  "spk": "DONA SOCORRO",
+  "sec": 4,
+  "txt": "E a conta de luz que você prometeu dividir comigo?"
+ },
+ {
+  "n": "029",
+  "spk": "KAUÃ",
+  "sec": 4,
+  "txt": "Mãe, dá pra parcelar a luz?"
+ },
+ {
+  "n": "030",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Então o Kauã fez o que muita gente faz. Pagou mil reais da fatura. E deixou o resto pra depois."
+ },
+ {
+  "n": "031",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "O resto, mil cento e quarenta reais, caiu no rotativo do cartão. Um dos juros mais caros do país: mais de quinze por cento ao mês."
+ },
+ {
+  "n": "032",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "No mês seguinte, além das catorze parcelas, vieram mais cento e setenta reais só de juros."
+ },
+ {
+  "n": "033",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "E foi nessa noite, com a fatura aberta no celular, que o Kauã fez um pedido."
+ },
+ {
+  "n": "034",
+  "spk": "KAUÃ",
+  "sec": 5,
+  "txt": "Querido Universo. O problema é que as coisas custam muito de uma vez só. Deixa eu parcelar tudo. Tudo mesmo. Em doze vezes sem juros. Valeu. Kauã."
+ },
+ {
+  "n": "035",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "E o pedido subiu. Direto pra Repartição do Universo."
+ },
+ {
+  "n": "036",
+  "spk": "CONTADOR",
+  "sec": 5,
+  "txt": "Hum. Pedido número dois mil e vinte e seis, barra, doze. Parcelar tudo."
+ },
+ {
+  "n": "037",
+  "spk": "TÉCNICO",
+  "sec": 5,
+  "txt": "Tudo o quê?"
+ },
+ {
+  "n": "038",
+  "spk": "CONTADOR",
+  "sec": 5,
+  "txt": "Tudo. Ele escreveu \"tudo mesmo\". Sublinhado duas vezes."
+ },
+ {
+  "n": "039",
+  "spk": "TÉCNICO",
+  "sec": 5,
+  "txt": "Isso não vai dar certo."
+ },
+ {
+  "n": "040",
+  "spk": "CONTADOR",
+  "sec": 5,
+  "txt": "Doze vezes sem juros. Deferido."
+ },
+ {
+  "n": "041",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "No dia seguinte, tudo no Brasil passou a ser em doze vezes."
+ },
+ {
+  "n": "042",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "A coxinha da padaria: doze de cinquenta centavos."
+ },
+ {
+  "n": "043",
+  "spk": "KAUÃ",
+  "sec": 6,
+  "txt": "Isso! Comi uma coxinha e paguei cinquenta centavos!"
+ },
+ {
+  "n": "044",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "O corte de cabelo: doze de três reais. O cafezinho: doze de vinte e cinco centavos. A passagem de ônibus: também em doze vezes."
+ },
+ {
+  "n": "045",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "E o Kauã, que nunca tinha dinheiro pra nada, de repente podia tudo. Tênis novo. Almoço pros amigos. Táxi."
+ },
+ {
+  "n": "046",
+  "spk": "KAUÃ",
+  "sec": 6,
+  "txt": "Mãe! Eu tô rico! Em doze vezes, mas tô rico!"
+ },
+ {
+  "n": "047",
+  "spk": "DONA SOCORRO",
+  "sec": 6,
+  "txt": "Filho, rico em doze vezes é pobre por um ano."
+ },
+ {
+  "n": "048",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Porque cada coxinha voltava no mês seguinte. E no outro. E no outro."
+ },
+ {
+  "n": "049",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Três meses depois, o Kauã não tinha mais catorze parcelas. Tinha trezentas e oitenta e duas."
+ },
+ {
+  "n": "050",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "A fatura chegou num rolo de papel. Do tamanho do corredor."
+ },
+ {
+  "n": "051",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "E aí chegou o dia do pagamento."
+ },
+ {
+  "n": "052",
+  "spk": "KAUÃ",
+  "sec": 7,
+  "txt": "Dia cinco! Salário!"
+ },
+ {
+  "n": "053",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "O aplicativo do banco apitou. Depósito: cento e oitenta e três reais e trinta e três centavos."
+ },
+ {
+  "n": "054",
+  "spk": "KAUÃ",
+  "sec": 7,
+  "txt": "Cento e oitenta e três?!"
+ },
+ {
+  "n": "055",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Primeira parcela de doze. Do salário dele. Sem juros."
+ },
+ {
+  "n": "056",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "A empresa também tinha recebido o pedido. Tudo em doze vezes. Inclusive o que ela pagava."
+ },
+ {
+  "n": "057",
+  "spk": "KAUÃ",
+  "sec": 7,
+  "txt": "Universo! Meu salário não é coxinha!"
+ },
+ {
+  "n": "058",
+  "spk": "CONTADOR",
+  "sec": 7,
+  "txt": "O pedido dizia tudo. Tudo inclui o salário."
+ },
+ {
+  "n": "059",
+  "spk": "TÉCNICO",
+  "sec": 7,
+  "txt": "Eu avisei."
+ },
+ {
+  "n": "060",
+  "spk": "KAUÃ",
+  "sec": 7,
+  "txt": "Desfaz! Pelo amor de Deus, desfaz!"
+ },
+ {
+  "n": "061",
+  "spk": "CONTADOR",
+  "sec": 7,
+  "txt": "Desfazer também é em doze vezes."
+ },
+ {
+  "n": "062",
+  "spk": "TÉCNICO",
+  "sec": 7,
+  "txt": "Contador."
+ },
+ {
+  "n": "063",
+  "spk": "CONTADOR",
+  "sec": 7,
+  "txt": "Tá bom. Desfaz tudo. À vista."
+ },
+ {
+  "n": "064",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "E o Brasil voltou ao normal. Até porque o parcelado sem juros é muito brasileiro."
+ },
+ {
+  "n": "065",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "No terceiro trimestre deste ano, quarenta e três por cento de tudo o que se comprou no cartão de crédito foi no parcelado sem juros. O dado é da Abecs, a associação das empresas de cartão."
+ },
+ {
+  "n": "066",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "E aqui tem dois lados."
+ },
+ {
+  "n": "067",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "De um lado, quando o preço à vista é igual ao parcelado, parcelar sem juros é um bom negócio. O dinheiro fica com você mais tempo. E a maioria paga a fatura certinho: oitenta e cinco por cento, numa pesquisa da Abecs com o Datafolha."
+ },
+ {
+  "n": "068",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Do outro lado, o sem juros muitas vezes tem juros dentro do preço. E parcela pequena engana. Cada uma parece leve. Somadas, viram um segundo aluguel."
+ },
+ {
+  "n": "069",
+  "spk": "DONA SOCORRO",
+  "sec": 8,
+  "txt": "Parcela é igual formiga. Uma não faz nada. Mil levam o açúcar."
+ },
+ {
+  "n": "070",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "E a Repartição fez a conta do Brasil."
+ },
+ {
+  "n": "071",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "Em outubro, oitenta e um vírgula seis por cento das famílias tinham alguma dívida pra pagar. Cartão, carnê, empréstimo, financiamento. Oito em cada dez."
+ },
+ {
+  "n": "072",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "Em setembro, oitenta e quatro milhões e duzentas mil pessoas estavam com o nome negativado. Recorde. Com uma dívida média de sete mil reais."
+ },
+ {
+  "n": "073",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "E bancos e cartões estão em primeiro lugar na lista de quem cobra."
+ },
+ {
+  "n": "074",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "O rotativo do cartão, aquele de quando você paga só uma parte da fatura, chegou a quatrocentos e cinquenta e um por cento ao ano."
+ },
+ {
+  "n": "075",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "Desde dois mil e vinte e quatro, uma lei limita isso: os juros e encargos do rotativo não podem passar do valor da dívida original. Uma dívida de mil pode virar, no máximo, dois mil."
+ },
+ {
+  "n": "076",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "No máximo. A Repartição acha que dobrar já é bastante."
+ },
+ {
+  "n": "077",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E o Kauã? Pegou o caderno da mãe emprestado."
+ },
+ {
+  "n": "078",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Escreveu as catorze parcelas, uma embaixo da outra. Como conta fixa. Igual luz e água."
+ },
+ {
+  "n": "079",
+  "spk": "KAUÃ",
+  "sec": 10,
+  "txt": "Mil quinhentos e quarenta. Tá. Agora eu tô vendo."
+ },
+ {
+  "n": "080",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E passou a fazer uma pergunta antes de qualquer compra."
+ },
+ {
+  "n": "081",
+  "spk": "KAUÃ",
+  "sec": 10,
+  "txt": "Moço, quanto fica no Pix?"
+ },
+ {
+  "n": "082",
+  "spk": "VENDEDOR",
+  "sec": 10,
+  "txt": "À vista? Dez por cento de desconto."
+ },
+ {
+  "n": "083",
+  "spk": "KAUÃ",
+  "sec": 10,
+  "txt": "Então eu volto quando tiver o Pix."
+ },
+ {
+  "n": "084",
+  "spk": "DONA SOCORRO",
+  "sec": 10,
+  "txt": "Esse é o meu filho. Em uma vez só."
+ },
+ {
+  "n": "085",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E você? Quantas parcelas tem abertas agora? Somadas, quanto dão por mês? Conta aqui embaixo. A gente lê tudo."
+ }
+]

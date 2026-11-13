@@ -1,0 +1,494 @@
+[
+ {
+  "n": "001",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Primeiro de janeiro. Um calendário novinho pendurado na parede. E uma caneta vermelha."
+ },
+ {
+  "n": "002",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Tiradentes. Riscado. Dia do Trabalho. Riscado. Sete de Setembro. Riscado."
+ },
+ {
+  "n": "003",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Doze de Outubro, Finados, Consciência Negra. Riscado, riscado, riscado."
+ },
+ {
+  "n": "004",
+  "spk": "ROSE",
+  "sec": 1,
+  "txt": "Moço, para! Esse de novembro é o meu feriadão!"
+ },
+ {
+  "n": "005",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Esse ano o Brasil teve dez feriados nacionais. Nove deles caíram em dia útil. O maior número da última década."
+ },
+ {
+  "n": "006",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "No ano da Rose, sobrou um. Só um."
+ },
+ {
+  "n": "007",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "E você? Se só pudesse ficar um feriado, qual você salvava? Fica até o fim. Porque quem pediu pra acabar com os feriados foi o primeiro a se arrepender."
+ },
+ {
+  "n": "008",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Rose. Trinta e oito anos. Vendedora da Fábio Móveis, em Santo André."
+ },
+ {
+  "n": "009",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Trabalha de sábado. Folga na quarta. A filha estuda de segunda a sexta. Faz a conta: o único dia inteiro que a Rose passa com a Lara é feriado."
+ },
+ {
+  "n": "010",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Na estante tem um pote de vidro escrito PRAIA. Dez reais por semana, desde janeiro."
+ },
+ {
+  "n": "011",
+  "spk": "LARA",
+  "sec": 2,
+  "txt": "Mãe, falta quanto pro mar?"
+ },
+ {
+  "n": "012",
+  "spk": "ROSE",
+  "sec": 2,
+  "txt": "Falta o feriadão de novembro, filha. Sexta, sábado e domingo."
+ },
+ {
+  "n": "013",
+  "spk": "LARA",
+  "sec": 2,
+  "txt": "Três dias de mar?"
+ },
+ {
+  "n": "014",
+  "spk": "ROSE",
+  "sec": 2,
+  "txt": "Três dias de mar."
+ },
+ {
+  "n": "015",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "E aí tem o chefe. Doutor Fábio. Dono da rede Fábio Móveis. A própria cara no outdoor, segurando um sofá."
+ },
+ {
+  "n": "016",
+  "spk": "FÁBIO",
+  "sec": 3,
+  "txt": "Feriado é coisa de país preguiçoso. Loja fechada, funcionário em casa, e o aluguel correndo."
+ },
+ {
+  "n": "017",
+  "spk": "FÁBIO",
+  "sec": 3,
+  "txt": "Sabe quanto cada feriado me custa? Um caminhão de sofá parado no estoque."
+ },
+ {
+  "n": "018",
+  "spk": "ROSE",
+  "sec": 3,
+  "txt": "Mas doutor, as pessoas também precisam descansar."
+ },
+ {
+  "n": "019",
+  "spk": "FÁBIO",
+  "sec": 3,
+  "txt": "Descansa quem pode, Rose. Eu nunca tirei um feriado na vida."
+ },
+ {
+  "n": "020",
+  "spk": "FÁBIO",
+  "sec": 3,
+  "txt": "Aliás, em novembro a loja abre. Você vem. Se quiser, claro."
+ },
+ {
+  "n": "021",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "E todo mundo na loja sabia o que esse se quiser queria dizer."
+ },
+ {
+  "n": "022",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Naquela noite, o Doutor Fábio fez o que sempre faz quando quer alguma coisa: reclamou por escrito."
+ },
+ {
+  "n": "023",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Só que a carta não foi parar na Câmara dos Deputados. Foi parar num andar do universo que quase ninguém conhece. A Repartição do Universo."
+ },
+ {
+  "n": "024",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "Protocolo número trezentos e doze. Reclamante: Fábio. Pedido: acabar com todos os feriados do Brasil."
+ },
+ {
+  "n": "025",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "Todos não pode. Tem regra. Mas um eu deixo. Um só."
+ },
+ {
+  "n": "026",
+  "spk": "FÁBIO",
+  "sec": 4,
+  "txt": "E qual fica?"
+ },
+ {
+  "n": "027",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "Isso quem decide não é o senhor. É o povo."
+ },
+ {
+  "n": "028",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "E o carimbo desceu."
+ },
+ {
+  "n": "029",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "Deferido."
+ },
+ {
+  "n": "030",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "E começou o ano mais comprido da história do Brasil."
+ },
+ {
+  "n": "031",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Fevereiro. O Carnaval veio, e ninguém pôde reclamar. Porque o Carnaval, na verdade, nunca foi feriado nacional. É ponto facultativo. Tem cidade que folga, tem cidade que não."
+ },
+ {
+  "n": "032",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Abril. Tiradentes caiu numa terça. Sem feriado, a terça foi só terça."
+ },
+ {
+  "n": "033",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Primeiro de maio. O Dia do Trabalho. E o Brasil inteiro comemorou… trabalhando."
+ },
+ {
+  "n": "034",
+  "spk": "FÁBIO",
+  "sec": 5,
+  "txt": "Agora sim! Loja aberta trezentos e sessenta e quatro dias por ano!"
+ },
+ {
+  "n": "035",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "E aí veio a votação. Qual feriado sobrevive?"
+ },
+ {
+  "n": "036",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "O Natal ganhou de lavada. O Ano-Novo ficou em segundo e ficou sem nada. O Doze de Outubro teve campanha de criança na escola. A Consciência Negra, o feriado nacional mais novo do país, nem teve tempo de esquentar a cadeira."
+ },
+ {
+  "n": "037",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "E o feriadão de novembro da Rose… não existia mais."
+ },
+ {
+  "n": "038",
+  "spk": "LARA",
+  "sec": 5,
+  "txt": "Mãe, e o mar?"
+ },
+ {
+  "n": "039",
+  "spk": "ROSE",
+  "sec": 5,
+  "txt": "O mar não vai a lugar nenhum, filha. A gente é que não vai."
+ },
+ {
+  "n": "040",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Três meses depois, o Doutor Fábio chamou o gerente. Esperava o melhor trimestre da história."
+ },
+ {
+  "n": "041",
+  "spk": "FÁBIO",
+  "sec": 6,
+  "txt": "E aí? Quanto a gente vendeu a mais?"
+ },
+ {
+  "n": "042",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Quase nada."
+ },
+ {
+  "n": "043",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "A loja ficou aberta mais dias, mas as pessoas não ganharam mais dinheiro só porque o calendário mudou. Quem ia comprar sofá comprou. Só que espalhado."
+ },
+ {
+  "n": "044",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "E tinha o outro lado da conta. Abrir num dia que seria feriado custa caro. Hora extra, luz, segurança. O comércio sente o feriado, isso é verdade. Mas sente principalmente no bolso de quem abre e não vende."
+ },
+ {
+  "n": "045",
+  "spk": "FÁBIO",
+  "sec": 6,
+  "txt": "Então pelo menos a gente economizou no feriado…"
+ },
+ {
+  "n": "046",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "E aí tocou o telefone. Era da filial de Ubatuba."
+ },
+ {
+  "n": "047",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Porque o Doutor Fábio tinha uma filial na praia. Fábio Móveis Ubatuba. Cadeira de praia, guarda-sol, colchão de ar. E ela só vendia em feriadão."
+ },
+ {
+  "n": "048",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Do lado da filial ficava a pousada do Seu Zé. Pé na areia, doze quartos, e um caderno de reservas que antes vivia cheio."
+ },
+ {
+  "n": "049",
+  "spk": "SEU ZÉ",
+  "sec": 7,
+  "txt": "Doutor, faz seis meses que eu não alugo um quarto. Seis meses."
+ },
+ {
+  "n": "050",
+  "spk": "SEU ZÉ",
+  "sec": 7,
+  "txt": "O pessoal vinha no feriadão. Comia o peixe, alugava cadeira, comprava sorvete, comprava guarda-sol. Na sua loja, inclusive."
+ },
+ {
+  "n": "051",
+  "spk": "FÁBIO",
+  "sec": 7,
+  "txt": "Na minha loja?"
+ },
+ {
+  "n": "052",
+  "spk": "SEU ZÉ",
+  "sec": 7,
+  "txt": "Na sua loja. O senhor achava que quem comprava cadeira de praia em Ubatuba era quem?"
+ },
+ {
+  "n": "053",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "O feriado que fechava a loja de Santo André era o mesmo que enchia a loja de Ubatuba. O Doutor Fábio só olhava pra metade da conta."
+ },
+ {
+  "n": "054",
+  "spk": "CONTADOR",
+  "sec": 8,
+  "txt": "Doutor Fábio, deixa eu te mostrar a conta inteira."
+ },
+ {
+  "n": "055",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Em São Paulo, os feriados de 2026 fazem o comércio deixar de faturar perto de dezessete bilhões de reais, pelas contas da Federação do Comércio. Parece muito. É pouco mais de um por cento do que o varejo vende no ano."
+ },
+ {
+  "n": "056",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Do outro lado da balança, só o Carnaval desse ano movimentou quatorze bilhões e meio de reais em turismo, bar e restaurante, pela Confederação Nacional do Comércio. E os feriados de novembro injetaram uns quatro bilhões em hospedagem e alimentação só em São Paulo."
+ },
+ {
+  "n": "057",
+  "spk": "CONTADOR",
+  "sec": 8,
+  "txt": "O feriado não some com o dinheiro, doutor. Ele muda o dinheiro de lugar. Sai da loja de móveis e vai pra pousada, pro quiosque, pra estrada."
+ },
+ {
+  "n": "058",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "E o Brasil nem é o campeão de feriado que todo mundo pensa. São dez feriados nacionais por lei. A média do mundo fica perto de treze. O Nepal tem trinta e cinco."
+ },
+ {
+  "n": "059",
+  "spk": "FÁBIO",
+  "sec": 8,
+  "txt": "Trinta e cinco?"
+ },
+ {
+  "n": "060",
+  "spk": "CONTADOR",
+  "sec": 8,
+  "txt": "E ninguém lá vende sofá."
+ },
+ {
+  "n": "061",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "A Repartição tem uma regra, doutor. Todo protocolo pode ser desfeito. Uma vez."
+ },
+ {
+  "n": "062",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "O senhor quer o calendário de volta?"
+ },
+ {
+  "n": "063",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "O Doutor Fábio olhou o caderno de reservas vazio do Seu Zé. Olhou a filial fechada. E lembrou de uma coisa que fazia trinta anos que ele não lembrava."
+ },
+ {
+  "n": "064",
+  "spk": "FÁBIO",
+  "sec": 9,
+  "txt": "Seu Zé. Essa pousada… tinha uma rede na varanda?"
+ },
+ {
+  "n": "065",
+  "spk": "SEU ZÉ",
+  "sec": 9,
+  "txt": "Tinha. Tem ainda."
+ },
+ {
+  "n": "066",
+  "spk": "FÁBIO",
+  "sec": 9,
+  "txt": "Meu pai me trouxe aqui uma vez. Num feriado. Eu tinha uns dez anos. Foi a única vez."
+ },
+ {
+  "n": "067",
+  "spk": "FÁBIO",
+  "sec": 9,
+  "txt": "Desfaz."
+ },
+ {
+  "n": "068",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "Todos?"
+ },
+ {
+  "n": "069",
+  "spk": "FÁBIO",
+  "sec": 9,
+  "txt": "Todos. E bota o de novembro primeiro."
+ },
+ {
+  "n": "070",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "E o carimbo subiu de volta."
+ },
+ {
+  "n": "071",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "Indeferido o indeferimento. Calendário restaurado."
+ },
+ {
+  "n": "072",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Novembro. Sexta-feira, Dia da Consciência Negra. Feriadão de três dias."
+ },
+ {
+  "n": "073",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "A Rose quebrou o pote de vidro. Deu quatrocentos e quarenta reais. Deu pra ida, a volta e um peixe frito."
+ },
+ {
+  "n": "074",
+  "spk": "ROSE",
+  "sec": 10,
+  "txt": "Doutor, eu vou ter que faltar no feriado."
+ },
+ {
+  "n": "075",
+  "spk": "FÁBIO",
+  "sec": 10,
+  "txt": "Rose, feriado não é falta."
+ },
+ {
+  "n": "076",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "A Lara viu o mar pela primeira vez às dez da manhã de uma sexta-feira. Ficou parada na areia, olhando, sem falar nada. Depois correu."
+ },
+ {
+  "n": "077",
+  "spk": "LARA",
+  "sec": 10,
+  "txt": "Mãe! Ele não acaba!"
+ },
+ {
+  "n": "078",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Na pousada do Seu Zé, os doze quartos estavam cheios. E na varanda, numa rede, de bermuda e sem gel no cabelo, tinha um senhor que nunca tinha tirado um feriado na vida."
+ },
+ {
+  "n": "079",
+  "spk": "SEU ZÉ",
+  "sec": 10,
+  "txt": "Vai querer o peixe, doutor?"
+ },
+ {
+  "n": "080",
+  "spk": "FÁBIO",
+  "sec": 10,
+  "txt": "Vou. E pode pôr na conta da filial."
+ },
+ {
+  "n": "081",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Lá em cima, na Repartição do Universo, o Contador arquivou o protocolo trezentos e doze. Do lado, pregou um calendário. Com todos os feriados marcados de vermelho."
+ },
+ {
+  "n": "082",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E você? Se só pudesse ficar um feriado no Brasil, qual você salvava? Conta aqui embaixo. Mas pensa bem. Porque alguém, em algum lugar, vai ficar sem o mar."
+ }
+]

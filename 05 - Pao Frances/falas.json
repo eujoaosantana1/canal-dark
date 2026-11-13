@@ -1,0 +1,494 @@
+[
+ {
+  "n": "001",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Seis da manhã. Paris. Uma padaria pequena numa esquina. E um senhor de chapéu de padeiro, com uma cesta de pão debaixo do braço, falando português."
+ },
+ {
+  "n": "002",
+  "spk": "SEU NENÊ",
+  "sec": 1,
+  "txt": "Bom dia! Eu vim trazer o pão de vocês de volta!"
+ },
+ {
+  "n": "003",
+  "spk": "LUC",
+  "sec": 1,
+  "txt": "Pardon. Que pão é este?"
+ },
+ {
+  "n": "004",
+  "spk": "SEU NENÊ",
+  "sec": 1,
+  "txt": "Como assim, que pão? É o pão francês!"
+ },
+ {
+  "n": "005",
+  "spk": "LUC",
+  "sec": 1,
+  "txt": "Monsieur, eu sou padeiro em Paris há quarenta anos. Este pão eu nunca vi na vida."
+ },
+ {
+  "n": "006",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "O Brasil vende mais de dois milhões de toneladas de pão francês por ano. É o pão mais vendido das padarias do país. E na França ninguém nunca ouviu falar dele."
+ },
+ {
+  "n": "007",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "E você? Já sabia disso? Fica até o fim. Porque o que aconteceu com a cesta do Seu Nenê em Paris ninguém esperava. Nem os franceses."
+ },
+ {
+  "n": "008",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Você talvez lembre dele. Seu Nenê. Sessenta e sete anos. Dono da Padaria do Nenê, em Guarulhos."
+ },
+ {
+  "n": "009",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Acorda às três e quarenta há quarenta e cinco anos. A primeira fornada sai às seis em ponto. Nunca atrasou. Nem no dia do casamento."
+ },
+ {
+  "n": "010",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Casca fina, que estala quando aperta. Miolo branquinho. Um pão de cinquenta gramas, quentinho, com manteiga derretendo."
+ },
+ {
+  "n": "011",
+  "spk": "SEU NENÊ",
+  "sec": 2,
+  "txt": "Pão francês bom a gente conhece pelo barulho. Escuta. Craque."
+ },
+ {
+  "n": "012",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "E todo dia, às seis e cinco, entra o Valdir. Pede um pingado. Agora vem cheio."
+ },
+ {
+  "n": "013",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "Até que um dia, do outro lado da rua, abriu uma padaria nova. Maison Gabriel. Fermentação natural. Pão de quarenta reais. Fila na porta."
+ },
+ {
+  "n": "014",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "E o dono, Gabriel. Vinte e nove anos. Avental de linho, bigode encerado, cento e oitenta mil seguidores."
+ },
+ {
+  "n": "015",
+  "spk": "GABRIEL",
+  "sec": 3,
+  "txt": "Seu Nenê, com todo respeito. Esse pão aí nem é francês. Na França ninguém come isso."
+ },
+ {
+  "n": "016",
+  "spk": "SEU NENÊ",
+  "sec": 3,
+  "txt": "Como não? Tá no nome, menino. Pão francês."
+ },
+ {
+  "n": "017",
+  "spk": "GABRIEL",
+  "sec": 3,
+  "txt": "O nome engana. É pão de mentira. Pão de verdade leva três dias pra ficar pronto."
+ },
+ {
+  "n": "018",
+  "spk": "SEU NENÊ",
+  "sec": 3,
+  "txt": "O meu leva três horas. E o povo come no mesmo dia."
+ },
+ {
+  "n": "019",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "A clientela riu. Mas naquela semana metade dela atravessou a rua."
+ },
+ {
+  "n": "020",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "E o Seu Nenê, pela primeira vez em quarenta e cinco anos, ficou com pão sobrando no balcão."
+ },
+ {
+  "n": "021",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Naquela madrugada, enquanto a massa crescia, o Seu Nenê escreveu num papel de embrulhar pão."
+ },
+ {
+  "n": "022",
+  "spk": "SEU NENÊ",
+  "sec": 4,
+  "txt": "Pedido: provar que o meu pão é francês."
+ },
+ {
+  "n": "023",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "E, como já aconteceu com o Valdir, com a Dona Neide e com o Doutor Fábio, o papel foi parar num lugar que não devia. Na Repartição do Universo."
+ },
+ {
+  "n": "024",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "Ora, ora. Seu Nenê. A gente já se conhece. O senhor era o da padaria do meio copo."
+ },
+ {
+  "n": "025",
+  "spk": "SEU NENÊ",
+  "sec": 4,
+  "txt": "O próprio."
+ },
+ {
+  "n": "026",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "Pedido de origem. Esse é rápido. O senhor vai até lá e pergunta."
+ },
+ {
+  "n": "027",
+  "spk": "SEU NENÊ",
+  "sec": 4,
+  "txt": "Até lá onde?"
+ },
+ {
+  "n": "028",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "Paris. Uma manhã só. Leva a cesta."
+ },
+ {
+  "n": "029",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "E o carimbo desceu."
+ },
+ {
+  "n": "030",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "Deferido. Boa viagem."
+ },
+ {
+  "n": "031",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "E foi assim que o Seu Nenê foi parar numa esquina de Paris, às seis da manhã, com quarenta pãezinhos quentes debaixo do braço."
+ },
+ {
+  "n": "032",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "E foi assim que ele ouviu, de um padeiro francês de verdade, a frase que você viu no começo."
+ },
+ {
+  "n": "033",
+  "spk": "LUC",
+  "sec": 5,
+  "txt": "Este pão eu nunca vi na vida."
+ },
+ {
+  "n": "034",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "O Monsieur Luc pegou um. Apertou. Craque."
+ },
+ {
+  "n": "035",
+  "spk": "LUC",
+  "sec": 5,
+  "txt": "Hm. A casca é fina demais pra ser baguete. O miolo é macio demais. E é pequeno. Parece um pão que pediram pra ser francês… mas que nasceu em outro lugar."
+ },
+ {
+  "n": "036",
+  "spk": "SEU NENÊ",
+  "sec": 5,
+  "txt": "Nasceu em Guarulhos."
+ },
+ {
+  "n": "037",
+  "spk": "LUC",
+  "sec": 5,
+  "txt": "Ah. Isto explica."
+ },
+ {
+  "n": "038",
+  "spk": "CONTADOR",
+  "sec": 6,
+  "txt": "Senta, Seu Nenê. Deixa eu te contar de onde veio o seu pão."
+ },
+ {
+  "n": "039",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Começo do século vinte. Quem tinha dinheiro no Brasil viajava pra Paris. E voltava apaixonado por um pão comprido, de casca dourada e miolo branco. A baguete."
+ },
+ {
+  "n": "040",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Chegando aqui, essa gente pedia pros padeiros: faz igual o de Paris."
+ },
+ {
+  "n": "041",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Só que o trigo era outro. O forno era outro. O clima era outro. E muitos padeiros eram imigrantes, portugueses, italianos, que nunca tinham visto uma baguete na vida."
+ },
+ {
+  "n": "042",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Cada padaria foi adaptando do seu jeito. Encurtou, amaciou, fez a casca mais fina. E o que saiu do forno não era francês. Era outra coisa. Mas o nome pegou."
+ },
+ {
+  "n": "043",
+  "spk": "CONTADOR",
+  "sec": 6,
+  "txt": "O seu pão é filho de uma imitação que deu errado. E por isso deu tão certo."
+ },
+ {
+  "n": "044",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "E nem o nome é o mesmo no país inteiro. No Rio Grande do Sul é cacetinho. Em Minas, pão de sal. No Ceará, carioquinha. E em São Paulo, pãozinho."
+ },
+ {
+  "n": "045",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Hoje ele é mais de um terço de tudo que as padarias do Brasil vendem."
+ },
+ {
+  "n": "046",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "E aí aconteceu uma coisa que nenhum livro de história previa."
+ },
+ {
+  "n": "047",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "O Monsieur Luc comeu o primeiro pão. Depois o segundo. Depois chamou a mulher. A mulher chamou a vizinha."
+ },
+ {
+  "n": "048",
+  "spk": "LUC",
+  "sec": 7,
+  "txt": "Monsieur Nenê. Quanto custa um?"
+ },
+ {
+  "n": "049",
+  "spk": "SEU NENÊ",
+  "sec": 7,
+  "txt": "Lá em casa, um real e vinte."
+ },
+ {
+  "n": "050",
+  "spk": "LUC",
+  "sec": 7,
+  "txt": "Aqui o senhor vende por dois euros."
+ },
+ {
+  "n": "051",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Às oito da manhã tinha fila na esquina. Às nove, acabou a cesta."
+ },
+ {
+  "n": "052",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "O pão que não existe na França fez fila em Paris."
+ },
+ {
+  "n": "053",
+  "spk": "LUC",
+  "sec": 7,
+  "txt": "Fica, Monsieur. Abre uma padaria aqui. Le Pain Brésilien. Vai ficar rico."
+ },
+ {
+  "n": "054",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Enquanto isso, em Guarulhos, a Padaria do Nenê estava fechada pela primeira vez em quarenta e cinco anos. E o Valdir estava parado na porta, sem pingado."
+ },
+ {
+  "n": "055",
+  "spk": "CONTADOR",
+  "sec": 8,
+  "txt": "Seu Nenê, antes de decidir, olha a conta da sua padaria."
+ },
+ {
+  "n": "056",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Numa pesquisa do Procon de São Paulo esse ano, o quilo do pão francês na capital saiu em média por vinte e quatro reais e sessenta e nove centavos. Quatro vírgula quatro por cento mais caro que no ano anterior."
+ },
+ {
+  "n": "057",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "E sabe o que pesa no preço? A energia elétrica. Ela é quase trinta por cento do custo de produção das padarias. Forno é luz."
+ },
+ {
+  "n": "058",
+  "spk": "SEU NENÊ",
+  "sec": 8,
+  "txt": "A conta de luz. Igual a da Dona Neide."
+ },
+ {
+  "n": "059",
+  "spk": "CONTADOR",
+  "sec": 8,
+  "txt": "Igualzinha."
+ },
+ {
+  "n": "060",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Desde o Plano Real, o pãozinho subiu mais que a inflação. Uns quarenta e três por cento acima."
+ },
+ {
+  "n": "061",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "E mesmo assim continua sendo o pão de quem acorda cedo. As padarias do Brasil atendem perto de quarenta e sete milhões de pessoas por dia."
+ },
+ {
+  "n": "062",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "Então, Seu Nenê. Paris, dois euros o pão, fila na porta. Ou Guarulhos, um real e vinte, três e quarenta da manhã."
+ },
+ {
+  "n": "063",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "E o Seu Nenê olhou a esquina de Paris. Bonita. Fila. Gente elogiando."
+ },
+ {
+  "n": "064",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "Depois lembrou do Valdir parado na porta, sem pingado."
+ },
+ {
+  "n": "065",
+  "spk": "SEU NENÊ",
+  "sec": 9,
+  "txt": "Monsieur Luc, obrigado. Mas eu tenho uma fornada às seis."
+ },
+ {
+  "n": "066",
+  "spk": "LUC",
+  "sec": 9,
+  "txt": "Mas em Paris o senhor seria famoso!"
+ },
+ {
+  "n": "067",
+  "spk": "SEU NENÊ",
+  "sec": 9,
+  "txt": "Em Guarulhos eu já sou. Pra umas trezentas pessoas. Dá e sobra."
+ },
+ {
+  "n": "068",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "Antes de ir embora, ele deixou a receita num papel de pão, em cima do balcão do Monsieur Luc."
+ },
+ {
+  "n": "069",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "Pedido encerrado. Resultado: o pão não é francês."
+ },
+ {
+  "n": "070",
+  "spk": "SEU NENÊ",
+  "sec": 9,
+  "txt": "É de Guarulhos."
+ },
+ {
+  "n": "071",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "É do Brasil."
+ },
+ {
+  "n": "072",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "E o carimbo desceu."
+ },
+ {
+  "n": "073",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "No dia seguinte, três e quarenta. A massa crescendo. E às seis em ponto, a fornada saiu."
+ },
+ {
+  "n": "074",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Às seis e cinco, entrou o Valdir. Pediu um pingado. Veio cheio."
+ },
+ {
+  "n": "075",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E às seis e dez, entrou mais alguém. Avental de linho. Bigode encerado."
+ },
+ {
+  "n": "076",
+  "spk": "GABRIEL",
+  "sec": 10,
+  "txt": "Seu Nenê… me vê dois pãezinhos?"
+ },
+ {
+  "n": "077",
+  "spk": "SEU NENÊ",
+  "sec": 10,
+  "txt": "Pão de mentira, menino?"
+ },
+ {
+  "n": "078",
+  "spk": "GABRIEL",
+  "sec": 10,
+  "txt": "Pão de verdade leva três dias, mas… fome a gente tem todo dia."
+ },
+ {
+  "n": "079",
+  "spk": "SEU NENÊ",
+  "sec": 10,
+  "txt": "Leva quatro. O quarto é de graça. E amanhã, três e quarenta, vem aprender a fazer."
+ },
+ {
+  "n": "080",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Lá em cima, na Repartição do Universo, o Contador abriu um pacote de papel. Dentro, um pãozinho ainda quente. Craque."
+ },
+ {
+  "n": "081",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E em Paris, numa esquina, uma plaquinha nova apareceu na vitrine do Monsieur Luc. Pain Brésilien. Dois euros."
+ },
+ {
+  "n": "082",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E você? Na sua cidade, esse pão chama como? Pãozinho, cacetinho, pão de sal, carioquinha? Conta aqui embaixo. Vamos ver qual nome ganha."
+ }
+]

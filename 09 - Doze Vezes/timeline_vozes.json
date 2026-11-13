@@ -1,0 +1,685 @@
+{
+ "total": 465.98,
+ "lines": [
+  {
+   "clip": "001",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 0.4,
+   "end": 9.735,
+   "text": "Quatrocentos e vinte bilhões de reais. Foi o que os brasileiros compraram no cartão em só três meses, no famoso parcelado sem juros."
+  },
+  {
+   "clip": "002",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 10.085,
+   "end": 14.673,
+   "text": "Quase metade de tudo o que passa no cartão de crédito no Brasil é dividido em vezes."
+  },
+  {
+   "clip": "003",
+   "who": "VENDEDOR",
+   "sec": 1,
+   "start": 15.123,
+   "end": 18.759,
+   "text": "Doze vezes sem juros! Sem entrada! É só assinar aqui!"
+  },
+  {
+   "clip": "004",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 19.209,
+   "end": 24.133,
+   "text": "E o Kauã assinou. Catorze vezes. Em catorze lojas diferentes."
+  },
+  {
+   "clip": "005",
+   "who": "KAUÃ",
+   "sec": 1,
+   "start": 24.583,
+   "end": 28.809,
+   "text": "Mas é sem juros, gente. Sem juros não é dívida. É organização."
+  },
+  {
+   "clip": "006",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 29.259,
+   "end": 38.211,
+   "text": "Hoje a gente vai descobrir se o sem juros é mesmo sem juros. E o que acontece quando o Universo deixa o Kauã parcelar tudo. Tudo mesmo."
+  },
+  {
+   "clip": "007",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 38.561,
+   "end": 47.602,
+   "text": "E você? Quantas parcelas tem abertas agora? Guarda esse número. Fica até o fim, porque o Universo atendeu o pedido do Kauã. Do jeito dele."
+  },
+  {
+   "clip": "008",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 48.502,
+   "end": 55.344,
+   "text": "O Kauã tem vinte e quatro anos. Trabalha num call center em Belo Horizonte e ganha dois mil e duzentos reais por mês."
+  },
+  {
+   "clip": "009",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 55.694,
+   "end": 62.514,
+   "text": "Mora com a mãe, a Dona Socorro, que anota tudo num caderno. Menos as parcelas do filho, porque ele não conta."
+  },
+  {
+   "clip": "010",
+   "who": "DONA SOCORRO",
+   "sec": 2,
+   "start": 62.964,
+   "end": 65.289,
+   "text": "Kauã, chegou mais uma caixa no seu nome."
+  },
+  {
+   "clip": "011",
+   "who": "KAUÃ",
+   "sec": 2,
+   "start": 65.739,
+   "end": 68.839,
+   "text": "É um fone, mãe. Seis vezes de trinta e cinco. Nem sente."
+  },
+  {
+   "clip": "012",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 69.289,
+   "end": 74.387,
+   "text": "E é verdade. Uma parcela sozinha ninguém sente. O problema é quando elas se encontram."
+  },
+  {
+   "clip": "013",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 74.737,
+   "end": 86.205,
+   "text": "O celular: doze de duzentos e cinquenta. O videogame: dez de duzentos e vinte. O sofá: dez de cento e sessenta. A viagem pra praia: dez de cento e cinquenta."
+  },
+  {
+   "clip": "014",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 86.555,
+   "end": 97.668,
+   "text": "A geladeira da mãe, o conserto da moto, o curso, a academia, o presente da namorada, a jaqueta, o perfume, o tênis, o óculos. E o fone."
+  },
+  {
+   "clip": "015",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 98.017,
+   "end": 106.865,
+   "text": "Catorze parcelas. Somadas, mil quinhentos e quarenta reais por mês. Setenta por cento do salário. Antes de ele comprar um pão."
+  },
+  {
+   "clip": "016",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 107.765,
+   "end": 110.393,
+   "text": "Mas era tudo sem juros. Então qual é o problema?"
+  },
+  {
+   "clip": "017",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 110.743,
+   "end": 116.784,
+   "text": "Volta lá na loja do celular. Na vitrine: três mil reais, em doze de duzentos e cinquenta."
+  },
+  {
+   "clip": "018",
+   "who": "VENDEDOR",
+   "sec": 3,
+   "start": 117.234,
+   "end": 120.857,
+   "text": "Mas se for no Pix, à vista, sai por dois mil e setecentos."
+  },
+  {
+   "clip": "019",
+   "who": "KAUÃ",
+   "sec": 3,
+   "start": 121.307,
+   "end": 124.364,
+   "text": "Ué. Se o parcelado é sem juros, por que o à vista é mais barato?"
+  },
+  {
+   "clip": "020",
+   "who": "VENDEDOR",
+   "sec": 3,
+   "start": 124.814,
+   "end": 125.583,
+   "text": "Porque é promoção."
+  },
+  {
+   "clip": "021",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 126.033,
+   "end": 135.301,
+   "text": "Não é bem promoção. Quando você parcela, a loja recebe aos poucos. Se ela quer o dinheiro antes, paga uma taxa pra antecipar. Mais a taxa da maquininha."
+  },
+  {
+   "clip": "022",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 135.651,
+   "end": 142.268,
+   "text": "Muita loja coloca esse custo no preço. E desde dois mil e dezessete, a lei deixa a loja dar desconto pra quem paga à vista."
+  },
+  {
+   "clip": "023",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 142.618,
+   "end": 148.852,
+   "text": "No celular do Kauã, os trezentos reais de diferença são os juros. Só que escondidos no preço."
+  },
+  {
+   "clip": "024",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 149.752,
+   "end": 151.854,
+   "text": "Dia dez. Chega a fatura."
+  },
+  {
+   "clip": "025",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 152.204,
+   "end": 161.26,
+   "text": "As catorze parcelas: mil quinhentos e quarenta. Mais o mercado, o aplicativo de comida e a recarga do celular, tudo no cartão: seiscentos."
+  },
+  {
+   "clip": "026",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 161.61,
+   "end": 166.549,
+   "text": "Total: dois mil cento e quarenta reais. O salário é dois mil e duzentos."
+  },
+  {
+   "clip": "027",
+   "who": "KAUÃ",
+   "sec": 4,
+   "start": 166.999,
+   "end": 169.949,
+   "text": "Sobram sessenta reais. Pro mês inteiro."
+  },
+  {
+   "clip": "028",
+   "who": "DONA SOCORRO",
+   "sec": 4,
+   "start": 170.399,
+   "end": 172.595,
+   "text": "E a conta de luz que você prometeu dividir comigo?"
+  },
+  {
+   "clip": "029",
+   "who": "KAUÃ",
+   "sec": 4,
+   "start": 173.045,
+   "end": 174.576,
+   "text": "Mãe, dá pra parcelar a luz?"
+  },
+  {
+   "clip": "030",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 175.026,
+   "end": 181.439,
+   "text": "Então o Kauã fez o que muita gente faz. Pagou mil reais da fatura. E deixou o resto pra depois."
+  },
+  {
+   "clip": "031",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 181.789,
+   "end": 190.355,
+   "text": "O resto, mil cento e quarenta reais, caiu no rotativo do cartão. Um dos juros mais caros do país: mais de quinze por cento ao mês."
+  },
+  {
+   "clip": "032",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 190.705,
+   "end": 196.527,
+   "text": "No mês seguinte, além das catorze parcelas, vieram mais cento e setenta reais só de juros."
+  },
+  {
+   "clip": "033",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 197.427,
+   "end": 202.495,
+   "text": "E foi nessa noite, com a fatura aberta no celular, que o Kauã fez um pedido."
+  },
+  {
+   "clip": "034",
+   "who": "KAUÃ",
+   "sec": 5,
+   "start": 202.945,
+   "end": 212.85,
+   "text": "Querido Universo. O problema é que as coisas custam muito de uma vez só. Deixa eu parcelar tudo. Tudo mesmo. Em doze vezes sem juros. Valeu. Kauã."
+  },
+  {
+   "clip": "035",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 213.3,
+   "end": 217.592,
+   "text": "E o pedido subiu. Direto pra Repartição do Universo."
+  },
+  {
+   "clip": "036",
+   "who": "CONTADOR",
+   "sec": 5,
+   "start": 218.042,
+   "end": 223.665,
+   "text": "Hum. Pedido número dois mil e vinte e seis, barra, doze. Parcelar tudo."
+  },
+  {
+   "clip": "037",
+   "who": "TÉCNICO",
+   "sec": 5,
+   "start": 224.115,
+   "end": 224.733,
+   "text": "Tudo o quê?"
+  },
+  {
+   "clip": "038",
+   "who": "CONTADOR",
+   "sec": 5,
+   "start": 225.183,
+   "end": 228.739,
+   "text": "Tudo. Ele escreveu \"tudo mesmo\". Sublinhado duas vezes."
+  },
+  {
+   "clip": "039",
+   "who": "TÉCNICO",
+   "sec": 5,
+   "start": 229.189,
+   "end": 230.634,
+   "text": "Isso não vai dar certo."
+  },
+  {
+   "clip": "040",
+   "who": "CONTADOR",
+   "sec": 5,
+   "start": 231.084,
+   "end": 233.505,
+   "text": "Doze vezes sem juros. Deferido."
+  },
+  {
+   "clip": "041",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 234.405,
+   "end": 238.283,
+   "text": "No dia seguinte, tudo no Brasil passou a ser em doze vezes."
+  },
+  {
+   "clip": "042",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 238.633,
+   "end": 242.096,
+   "text": "A coxinha da padaria: doze de cinquenta centavos."
+  },
+  {
+   "clip": "043",
+   "who": "KAUÃ",
+   "sec": 6,
+   "start": 242.546,
+   "end": 246.085,
+   "text": "Isso! Comi uma coxinha e paguei cinquenta centavos!"
+  },
+  {
+   "clip": "044",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 246.535,
+   "end": 256.542,
+   "text": "O corte de cabelo: doze de três reais. O cafezinho: doze de vinte e cinco centavos. A passagem de ônibus: também em doze vezes."
+  },
+  {
+   "clip": "045",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 256.892,
+   "end": 265.531,
+   "text": "E o Kauã, que nunca tinha dinheiro pra nada, de repente podia tudo. Tênis novo. Almoço pros amigos. Táxi."
+  },
+  {
+   "clip": "046",
+   "who": "KAUÃ",
+   "sec": 6,
+   "start": 265.981,
+   "end": 269.143,
+   "text": "Mãe! Eu tô rico! Em doze vezes, mas tô rico!"
+  },
+  {
+   "clip": "047",
+   "who": "DONA SOCORRO",
+   "sec": 6,
+   "start": 269.593,
+   "end": 272.613,
+   "text": "Filho, rico em doze vezes é pobre por um ano."
+  },
+  {
+   "clip": "048",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 273.063,
+   "end": 278.24,
+   "text": "Porque cada coxinha voltava no mês seguinte. E no outro. E no outro."
+  },
+  {
+   "clip": "049",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 278.59,
+   "end": 285.119,
+   "text": "Três meses depois, o Kauã não tinha mais catorze parcelas. Tinha trezentas e oitenta e duas."
+  },
+  {
+   "clip": "050",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 285.469,
+   "end": 289.198,
+   "text": "A fatura chegou num rolo de papel. Do tamanho do corredor."
+  },
+  {
+   "clip": "051",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 290.098,
+   "end": 292.331,
+   "text": "E aí chegou o dia do pagamento."
+  },
+  {
+   "clip": "052",
+   "who": "KAUÃ",
+   "sec": 7,
+   "start": 292.781,
+   "end": 294.916,
+   "text": "Dia cinco! Salário!"
+  },
+  {
+   "clip": "053",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 295.366,
+   "end": 301.472,
+   "text": "O aplicativo do banco apitou. Depósito: cento e oitenta e três reais e trinta e três centavos."
+  },
+  {
+   "clip": "054",
+   "who": "KAUÃ",
+   "sec": 7,
+   "start": 301.922,
+   "end": 303.456,
+   "text": "Cento e oitenta e três?!"
+  },
+  {
+   "clip": "055",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 303.906,
+   "end": 307.885,
+   "text": "Primeira parcela de doze. Do salário dele. Sem juros."
+  },
+  {
+   "clip": "056",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 308.235,
+   "end": 314.478,
+   "text": "A empresa também tinha recebido o pedido. Tudo em doze vezes. Inclusive o que ela pagava."
+  },
+  {
+   "clip": "057",
+   "who": "KAUÃ",
+   "sec": 7,
+   "start": 314.928,
+   "end": 317.365,
+   "text": "Universo! Meu salário não é coxinha!"
+  },
+  {
+   "clip": "058",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 317.815,
+   "end": 320.827,
+   "text": "O pedido dizia tudo. Tudo inclui o salário."
+  },
+  {
+   "clip": "059",
+   "who": "TÉCNICO",
+   "sec": 7,
+   "start": 321.277,
+   "end": 322.458,
+   "text": "Eu avisei."
+  },
+  {
+   "clip": "060",
+   "who": "KAUÃ",
+   "sec": 7,
+   "start": 322.908,
+   "end": 326.06,
+   "text": "Desfaz! Pelo amor de Deus, desfaz!"
+  },
+  {
+   "clip": "061",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 326.51,
+   "end": 328.614,
+   "text": "Desfazer também é em doze vezes."
+  },
+  {
+   "clip": "062",
+   "who": "TÉCNICO",
+   "sec": 7,
+   "start": 329.064,
+   "end": 329.712,
+   "text": "Contador."
+  },
+  {
+   "clip": "063",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 330.162,
+   "end": 332.907,
+   "text": "Tá bom. Desfaz tudo. À vista."
+  },
+  {
+   "clip": "064",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 333.807,
+   "end": 339.301,
+   "text": "E o Brasil voltou ao normal. Até porque o parcelado sem juros é muito brasileiro."
+  },
+  {
+   "clip": "065",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 339.651,
+   "end": 350.408,
+   "text": "No terceiro trimestre deste ano, quarenta e três por cento de tudo o que se comprou no cartão de crédito foi no parcelado sem juros. O dado é da Abecs, a associação das empresas de cartão."
+  },
+  {
+   "clip": "066",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 350.758,
+   "end": 352.144,
+   "text": "E aqui tem dois lados."
+  },
+  {
+   "clip": "067",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 352.494,
+   "end": 365.924,
+   "text": "De um lado, quando o preço à vista é igual ao parcelado, parcelar sem juros é um bom negócio. O dinheiro fica com você mais tempo. E a maioria paga a fatura certinho: oitenta e cinco por cento, numa pesquisa da Abecs com o Datafolha."
+  },
+  {
+   "clip": "068",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 366.274,
+   "end": 377.644,
+   "text": "Do outro lado, o sem juros muitas vezes tem juros dentro do preço. E parcela pequena engana. Cada uma parece leve. Somadas, viram um segundo aluguel."
+  },
+  {
+   "clip": "069",
+   "who": "DONA SOCORRO",
+   "sec": 8,
+   "start": 378.094,
+   "end": 382.46,
+   "text": "Parcela é igual formiga. Uma não faz nada. Mil levam o açúcar."
+  },
+  {
+   "clip": "070",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 383.36,
+   "end": 385.429,
+   "text": "E a Repartição fez a conta do Brasil."
+  },
+  {
+   "clip": "071",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 385.779,
+   "end": 395.26,
+   "text": "Em outubro, oitenta e um vírgula seis por cento das famílias tinham alguma dívida pra pagar. Cartão, carnê, empréstimo, financiamento. Oito em cada dez."
+  },
+  {
+   "clip": "072",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 395.61,
+   "end": 404.148,
+   "text": "Em setembro, oitenta e quatro milhões e duzentas mil pessoas estavam com o nome negativado. Recorde. Com uma dívida média de sete mil reais."
+  },
+  {
+   "clip": "073",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 404.498,
+   "end": 407.989,
+   "text": "E bancos e cartões estão em primeiro lugar na lista de quem cobra."
+  },
+  {
+   "clip": "074",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 408.339,
+   "end": 415.286,
+   "text": "O rotativo do cartão, aquele de quando você paga só uma parte da fatura, chegou a quatrocentos e cinquenta e um por cento ao ano."
+  },
+  {
+   "clip": "075",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 415.736,
+   "end": 427.071,
+   "text": "Desde dois mil e vinte e quatro, uma lei limita isso: os juros e encargos do rotativo não podem passar do valor da dívida original. Uma dívida de mil pode virar, no máximo, dois mil."
+  },
+  {
+   "clip": "076",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 427.521,
+   "end": 430.845,
+   "text": "No máximo. A Repartição acha que dobrar já é bastante."
+  },
+  {
+   "clip": "077",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 431.745,
+   "end": 435.115,
+   "text": "E o Kauã? Pegou o caderno da mãe emprestado."
+  },
+  {
+   "clip": "078",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 435.465,
+   "end": 441.26,
+   "text": "Escreveu as catorze parcelas, uma embaixo da outra. Como conta fixa. Igual luz e água."
+  },
+  {
+   "clip": "079",
+   "who": "KAUÃ",
+   "sec": 10,
+   "start": 441.71,
+   "end": 444.795,
+   "text": "Mil quinhentos e quarenta. Tá. Agora eu tô vendo."
+  },
+  {
+   "clip": "080",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 445.245,
+   "end": 448.029,
+   "text": "E passou a fazer uma pergunta antes de qualquer compra."
+  },
+  {
+   "clip": "081",
+   "who": "KAUÃ",
+   "sec": 10,
+   "start": 448.479,
+   "end": 449.784,
+   "text": "Moço, quanto fica no Pix?"
+  },
+  {
+   "clip": "082",
+   "who": "VENDEDOR",
+   "sec": 10,
+   "start": 450.234,
+   "end": 452.319,
+   "text": "À vista? Dez por cento de desconto."
+  },
+  {
+   "clip": "083",
+   "who": "KAUÃ",
+   "sec": 10,
+   "start": 452.769,
+   "end": 454.108,
+   "text": "Então eu volto quando tiver o Pix."
+  },
+  {
+   "clip": "084",
+   "who": "DONA SOCORRO",
+   "sec": 10,
+   "start": 454.558,
+   "end": 457.017,
+   "text": "Esse é o meu filho. Em uma vez só."
+  },
+  {
+   "clip": "085",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 457.467,
+   "end": 464.78,
+   "text": "E você? Quantas parcelas tem abertas agora? Somadas, quanto dão por mês? Conta aqui embaixo. A gente lê tudo."
+  }
+ ]
+}

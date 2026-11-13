@@ -1,0 +1,6 @@
+CANAL DARK - ESTEIRA DE VIDEOS
+==============================
+1_instalar_tudo.bat     -> instala ffmpeg, Python, Node.js (portatil) e o kit,
+                           e no final ja roda o teste de velocidade.
+3_teste_velocidade.bat  -> roda so o teste de velocidade de novo.
+Resultados ficam na pasta "logs".

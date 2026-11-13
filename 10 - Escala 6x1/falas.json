@@ -1,0 +1,518 @@
+[
+ {
+  "n": "001",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Seis dias de trabalho. Um de folga. Durante décadas, foi assim a semana de milhões de brasileiros."
+ },
+ {
+  "n": "002",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Só em dois mil e vinte e cinco, eram catorze milhões e oitocentos mil trabalhadores com carteira assinada na escala seis por um."
+ },
+ {
+  "n": "003",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Mas em outubro, o Congresso aprovou o fim dela. E a partir de dezembro, a regra muda."
+ },
+ {
+  "n": "004",
+  "spk": "JOSI",
+  "sec": 1,
+  "txt": "Muda pra mim também? Ou só pra quem trabalha em escritório?"
+ },
+ {
+  "n": "005",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Essa é a Josi. Ela trabalha no caixa de um supermercado. Seis por um, há onze anos."
+ },
+ {
+  "n": "006",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Hoje a gente vai acompanhar a última semana da Josi na escala seis por um. E o pedido que ela fez pro Universo antes da lei mudar."
+ },
+ {
+  "n": "007",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "E você? Trabalha em qual escala? Guarda essa resposta. Fica até o fim, porque o Universo atendeu o pedido da Josi. Do jeito dele."
+ },
+ {
+  "n": "008",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "A Josi tem trinta e um anos. Mora em Recife com a filha, a Luana, de nove."
+ },
+ {
+  "n": "009",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Segunda a sábado, ela pega o ônibus às seis da manhã. Volta às oito da noite. Folga: terça-feira."
+ },
+ {
+  "n": "010",
+  "spk": "JOSI",
+  "sec": 2,
+  "txt": "Terça é ótima. O banco tá aberto, o posto de saúde tá aberto. Só a minha filha que tá na escola."
+ },
+ {
+  "n": "011",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Sete horas e vinte minutos por dia, seis dias por semana. Quarenta e quatro horas. O máximo que a lei deixava até agora."
+ },
+ {
+  "n": "012",
+  "spk": "LUANA",
+  "sec": 2,
+  "txt": "Mãe, sábado tem apresentação na escola. Eu vou ser a árvore."
+ },
+ {
+  "n": "013",
+  "spk": "JOSI",
+  "sec": 2,
+  "txt": "Sábado eu trabalho, filha."
+ },
+ {
+  "n": "014",
+  "spk": "LUANA",
+  "sec": 2,
+  "txt": "Mas a árvore é a personagem principal."
+ },
+ {
+  "n": "015",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Não era. Mas a Luana queria muito que a mãe visse."
+ },
+ {
+  "n": "016",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "A Josi foi falar com o gerente. O Seu Hélio."
+ },
+ {
+  "n": "017",
+  "spk": "SEU HÉLIO",
+  "sec": 3,
+  "txt": "Sábado, Josi? Sábado é o dia que mais vende. Se eu tiro você, tenho que tirar alguém de outro dia."
+ },
+ {
+  "n": "018",
+  "spk": "JOSI",
+  "sec": 3,
+  "txt": "Troca minha terça pelo sábado. Só essa vez."
+ },
+ {
+  "n": "019",
+  "spk": "SEU HÉLIO",
+  "sec": 3,
+  "txt": "Se eu troco a sua, tenho que trocar a da Patrícia, que troca com o Juninho, que já trocou com a Dona Bete."
+ },
+ {
+  "n": "020",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "E é aí que tá o problema de uma escala apertada. Uma folga mexe na de todo mundo."
+ },
+ {
+  "n": "021",
+  "spk": "SEU HÉLIO",
+  "sec": 3,
+  "txt": "Vou ver o que dá pra fazer. Mas não promete nada pra menina."
+ },
+ {
+  "n": "022",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "Naquela noite, a Josi chegou em casa às oito e meia. A Luana já tinha dormido. Com a fantasia de árvore do lado da cama."
+ },
+ {
+  "n": "023",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "E foi nessa noite que a Josi escreveu um pedido."
+ },
+ {
+  "n": "024",
+  "spk": "JOSI",
+  "sec": 4,
+  "txt": "Querido Universo. Eu só quero um dia a mais de folga. Um só. Pra ver a minha filha ser árvore. Obrigada. Josi."
+ },
+ {
+  "n": "025",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "E o pedido subiu. Direto pra Repartição do Universo."
+ },
+ {
+  "n": "026",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "Hum. Pedido número dois mil e vinte e seis, barra, seis por um. Um dia a mais de folga."
+ },
+ {
+  "n": "027",
+  "spk": "TÉCNICO",
+  "sec": 4,
+  "txt": "Esse é simples. Dá a folga pra ela no sábado."
+ },
+ {
+  "n": "028",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "Pra ela só? E a Patrícia? E o Juninho? E a Dona Bete? Todo mundo tem filho que vira árvore."
+ },
+ {
+  "n": "029",
+  "spk": "TÉCNICO",
+  "sec": 4,
+  "txt": "Então dá um dia a mais pra todo mundo?"
+ },
+ {
+  "n": "030",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "Pra todo mundo. No mesmo dia. Fica mais organizado."
+ },
+ {
+  "n": "031",
+  "spk": "TÉCNICO",
+  "sec": 4,
+  "txt": "Isso não vai dar certo."
+ },
+ {
+  "n": "032",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "Deferido."
+ },
+ {
+  "n": "033",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "E no sábado seguinte, o Brasil inteiro folgou. Todo mundo. Ao mesmo tempo."
+ },
+ {
+  "n": "034",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "A Josi acordou sem despertador. Pela primeira vez em onze anos, num sábado."
+ },
+ {
+  "n": "035",
+  "spk": "JOSI",
+  "sec": 5,
+  "txt": "Luana! Bora pra escola! Hoje a mãe vai ver a árvore!"
+ },
+ {
+  "n": "036",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Elas foram pro ponto. E o ônibus não passou. O motorista também tava de folga."
+ },
+ {
+  "n": "037",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Foram a pé. Chegaram na escola. Portão fechado."
+ },
+ {
+  "n": "038",
+  "spk": "LUANA",
+  "sec": 5,
+  "txt": "Mãe, a professora também folgou."
+ },
+ {
+  "n": "039",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "A apresentação foi cancelada. Os professores tinham folga. A merendeira tinha folga. O porteiro tinha folga."
+ },
+ {
+  "n": "040",
+  "spk": "JOSI",
+  "sec": 5,
+  "txt": "Tudo bem, filha. A gente faz um almoço especial. Vamos no mercado."
+ },
+ {
+  "n": "041",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "O supermercado tava fechado. Com uma placa: fechado por folga coletiva. Assinado: Universo."
+ },
+ {
+  "n": "042",
+  "spk": "JOSI",
+  "sec": 5,
+  "txt": "Eu trabalho aqui e não consigo nem comprar arroz."
+ },
+ {
+  "n": "043",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "E não era só o mercado. A padaria, a farmácia, o posto de gasolina. Tudo fechado."
+ },
+ {
+  "n": "044",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "O pronto-socorro funcionou. Mas o médico de plantão tava de folga, então quem atendia era o próprio Universo. Ele não sabia medir pressão."
+ },
+ {
+  "n": "045",
+  "spk": "SEU HÉLIO",
+  "sec": 6,
+  "txt": "Josi! Eu tô de folga, mas a geladeira do mercado parou! Quem conserta?"
+ },
+ {
+  "n": "046",
+  "spk": "JOSI",
+  "sec": 6,
+  "txt": "O técnico de geladeira tá de folga, Seu Hélio."
+ },
+ {
+  "n": "047",
+  "spk": "SEU HÉLIO",
+  "sec": 6,
+  "txt": "E quem tá trabalhando?"
+ },
+ {
+  "n": "048",
+  "spk": "JOSI",
+  "sec": 6,
+  "txt": "Ninguém. Esse era o pedido."
+ },
+ {
+  "n": "049",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "No fim do dia, a Josi e a Luana comeram miojo. O único que tinha em casa. E viram a apresentação de árvore na sala. Com a Luana de árvore e a Josi de plateia."
+ },
+ {
+  "n": "050",
+  "spk": "LUANA",
+  "sec": 6,
+  "txt": "Foi a melhor apresentação, mãe."
+ },
+ {
+  "n": "051",
+  "spk": "JOSI",
+  "sec": 6,
+  "txt": "Foi a única, filha."
+ },
+ {
+  "n": "052",
+  "spk": "JOSI",
+  "sec": 6,
+  "txt": "Universo, eu agradeço. Mas não era isso. Desfaz."
+ },
+ {
+  "n": "053",
+  "spk": "CONTADOR",
+  "sec": 6,
+  "txt": "Desfeito. Folga coletiva cancelada."
+ },
+ {
+  "n": "054",
+  "spk": "TÉCNICO",
+  "sec": 6,
+  "txt": "Eu avisei."
+ },
+ {
+  "n": "055",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "O Universo errou numa coisa. Folga não precisa ser todo mundo no mesmo dia."
+ },
+ {
+  "n": "056",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "A emenda aprovada em outubro diz o seguinte. Sessenta dias depois de promulgada, todo trabalhador passa a ter dois dias de descanso remunerado por semana. De preferência, um deles no domingo."
+ },
+ {
+  "n": "057",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "A jornada máxima cai de quarenta e quatro pra quarenta e duas horas. E um ano depois, pra quarenta. Sem redução de salário."
+ },
+ {
+  "n": "058",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "O mercado continua aberto no sábado. O ônibus continua passando. Só que a escala vira um quebra-cabeça maior: cada um folga em dias diferentes."
+ },
+ {
+  "n": "059",
+  "spk": "SEU HÉLIO",
+  "sec": 7,
+  "txt": "Ou seja: eu vou precisar de mais gente no caixa. Ou de mais hora extra. Ou de fechar mais cedo."
+ },
+ {
+  "n": "060",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "E tem uma exceção. Por acordo ou convenção coletiva, empresa e sindicato podem combinar outras escalas. Em casos excepcionais, até a seis por um."
+ },
+ {
+  "n": "061",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "E aqui tem dois lados. E os números dos dois são grandes."
+ },
+ {
+  "n": "062",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "A Confederação Nacional do Comércio calculou um custo de cento e vinte e dois bilhões de reais por ano só pro comércio. E disse que os preços podem subir até treze por cento."
+ },
+ {
+  "n": "063",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "A Confederação da Indústria estimou que o PIB pode ficar zero vírgula sete por cento menor."
+ },
+ {
+  "n": "064",
+  "spk": "SEU HÉLIO",
+  "sec": 8,
+  "txt": "Mercado pequeno não tem de onde tirar. Ou contrata, ou aumenta o preço, ou fecha mais cedo."
+ },
+ {
+  "n": "065",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Do outro lado, o Ipea, que é um instituto de pesquisa do governo, calculou que o custo médio do trabalho sobe sete vírgula oitenta e quatro por cento."
+ },
+ {
+  "n": "066",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "E que, na indústria e no comércio, isso dá menos de um por cento do custo total das empresas. Parecido com reajustes do salário mínimo que, no passado, não derrubaram o emprego."
+ },
+ {
+  "n": "067",
+  "spk": "JOSI",
+  "sec": 8,
+  "txt": "Eu só sei que um dia a mais em casa é um dia a mais com a minha filha."
+ },
+ {
+  "n": "068",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Numa pesquisa do instituto Nexus, setenta e três por cento dos brasileiros disseram ser a favor do fim da seis por um. Desde que sem redução de salário."
+ },
+ {
+  "n": "069",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "E a Repartição fez a conta. Mas a conta da Josi, não a do país."
+ },
+ {
+  "n": "070",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "Na seis por um, a Josi tinha cinquenta e duas folgas por ano. Uma por semana."
+ },
+ {
+  "n": "071",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "Na cinco por dois, são cento e quatro. O dobro."
+ },
+ {
+  "n": "072",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "Quarenta e quatro horas por semana viram quarenta. São quatro horas a menos. Em um ano, mais de duzentas horas."
+ },
+ {
+  "n": "073",
+  "spk": "TÉCNICO",
+  "sec": 9,
+  "txt": "Duzentas horas dá pra ver quantas apresentações de árvore?"
+ },
+ {
+  "n": "074",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "Todas. Inclusive as ensaiadas em casa."
+ },
+ {
+  "n": "075",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "Agora, quem paga essas horas, e como, é a parte que o Brasil ainda vai descobrir. A Repartição só cuida dos pedidos. Esse foi o primeiro que a lei atendeu antes da gente."
+ },
+ {
+  "n": "076",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Dezembro. Primeira semana da escala nova."
+ },
+ {
+  "n": "077",
+  "spk": "SEU HÉLIO",
+  "sec": 10,
+  "txt": "Josi, saiu a escala. Você folga domingo e segunda."
+ },
+ {
+  "n": "078",
+  "spk": "JOSI",
+  "sec": 10,
+  "txt": "Domingo? Seu Hélio, faz onze anos que eu não folgo domingo."
+ },
+ {
+  "n": "079",
+  "spk": "SEU HÉLIO",
+  "sec": 10,
+  "txt": "E tem uma coisa. A apresentação de fim de ano da escola é domingo, né?"
+ },
+ {
+  "n": "080",
+  "spk": "JOSI",
+  "sec": 10,
+  "txt": "Como o senhor sabe?"
+ },
+ {
+  "n": "081",
+  "spk": "SEU HÉLIO",
+  "sec": 10,
+  "txt": "A minha neta também vai ser árvore."
+ },
+ {
+  "n": "082",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "No domingo, a escola abriu. O ônibus passou. O mercado tava aberto, com outra pessoa no caixa da Josi."
+ },
+ {
+  "n": "083",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E na primeira fila, sentados juntos, a Josi e o Seu Hélio. Vendo duas árvores."
+ },
+ {
+  "n": "084",
+  "spk": "LUANA",
+  "sec": 10,
+  "txt": "Mãe! Você veio!"
+ },
+ {
+  "n": "085",
+  "spk": "JOSI",
+  "sec": 10,
+  "txt": "Vim, filha. E sábado que vem eu venho de novo."
+ },
+ {
+  "n": "086",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E você? Trabalha em qual escala? O que você faria com um dia a mais de folga? E se você é dono de um pequeno negócio, como vai fazer a escala nova? Conta aqui embaixo. A gente lê tudo."
+ }
+]

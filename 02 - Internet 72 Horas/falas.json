@@ -1,0 +1,608 @@
+[
+ {
+  "n": "001",
+  "spk": "CAIXA",
+  "sec": 1,
+  "txt": "Débito ou crédito?"
+ },
+ {
+  "n": "002",
+  "spk": "CLIENTE",
+  "sec": 1,
+  "txt": "Débito."
+ },
+ {
+  "n": "003",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "A maquininha pensou. Pensou. E respondeu: sem conexão."
+ },
+ {
+  "n": "004",
+  "spk": "CLIENTE",
+  "sec": 1,
+  "txt": "Faz no Pix, então."
+ },
+ {
+  "n": "005",
+  "spk": "CAIXA",
+  "sec": 1,
+  "txt": "O Pix também caiu, senhora."
+ },
+ {
+  "n": "006",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Sexta-feira, seis da tarde. Dia de pagamento. Fila do mercado até a calçada. E ninguém, ninguém mesmo, tinha uma nota de dez no bolso."
+ },
+ {
+  "n": "007",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Numa sexta-feira de pagamento, o Brasil já fez trezentos e dezenove milhões de Pix num dia só. Naquela sexta, fez zero. E ficou assim por setenta e duas horas."
+ },
+ {
+  "n": "008",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "E você? Quanto tempo aguentaria? Fica até o fim. Porque o mais estranho dessas setenta e duas horas não foi o que parou. Foi quem continuou funcionando."
+ },
+ {
+  "n": "009",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Jurandir. Seu Jura. setenta e um anos. Dono do Mercadinho do Jura, em Carapicuíba, há trinta e oito anos."
+ },
+ {
+  "n": "010",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Não tem Pix. Não tem WhatsApp. Não sabe a senha do wi-fi da própria casa."
+ },
+ {
+  "n": "011",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Tem um rádio de pilha, uma lata de biscoito cheia de troco e um caderninho de fiado. O mesmo caderninho desde mil novecentos e oitenta e oito."
+ },
+ {
+  "n": "012",
+  "spk": "DUDA",
+  "sec": 2,
+  "txt": "Vô, por que o senhor não aceita Pix?"
+ },
+ {
+  "n": "013",
+  "spk": "SEU JURA",
+  "sec": 2,
+  "txt": "Porque o caderninho nunca caiu."
+ },
+ {
+  "n": "014",
+  "spk": "DUDA",
+  "sec": 2,
+  "txt": "Caderninho não cai, vô."
+ },
+ {
+  "n": "015",
+  "spk": "SEU JURA",
+  "sec": 2,
+  "txt": "Pois é."
+ },
+ {
+  "n": "016",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "Domingo. Almoço na casa da filha. E na cabeceira, o genro. Thiago. Ou, como ele se apresenta: Thiago Trends."
+ },
+ {
+  "n": "017",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "Dois milhões de seguidores. Vende curso de como ficar rico pelo celular."
+ },
+ {
+  "n": "018",
+  "spk": "THIAGO",
+  "sec": 3,
+  "txt": "Seu Jura, me diz uma coisa. Quantos clientes o senhor tem?"
+ },
+ {
+  "n": "019",
+  "spk": "SEU JURA",
+  "sec": 3,
+  "txt": "Uns duzentos. Conheço todos pelo nome."
+ },
+ {
+  "n": "020",
+  "spk": "THIAGO",
+  "sec": 3,
+  "txt": "Duzentos! Eu tenho dois milhões. E não conheço nenhum. Isso é escala, Seu Jura."
+ },
+ {
+  "n": "021",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "E aí veio a frase."
+ },
+ {
+  "n": "022",
+  "spk": "THIAGO",
+  "sec": 3,
+  "txt": "Quem não tá na internet não existe."
+ },
+ {
+  "n": "023",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "Riram. A Duda não. Ela olhou pro avô, raspando o prato em silêncio, e pensou: mas ele existe."
+ },
+ {
+  "n": "024",
+  "spk": "THIAGO",
+  "sec": 3,
+  "txt": "Faz assim: eu coloco o mercadinho no Instagram. De graça. Família é pra isso."
+ },
+ {
+  "n": "025",
+  "spk": "SEU JURA",
+  "sec": 3,
+  "txt": "E o fiado que você me deve desde dois mil e dezenove? Também é de graça?"
+ },
+ {
+  "n": "026",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "Ninguém riu dessa."
+ },
+ {
+  "n": "027",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Três da madrugada. No andar de cima do universo tem um setor que ninguém lembra que existe: o Suporte Técnico do Universo."
+ },
+ {
+  "n": "028",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Fone na orelha. Caneca de café. E uma tela com oito bilhões de pessoas conectadas."
+ },
+ {
+  "n": "029",
+  "spk": "TÉCNICO",
+  "sec": 4,
+  "txt": "Protocolo número um: a internet tá lenta. Protocolo número dois: a internet tá lenta. Protocolo número três..."
+ },
+ {
+  "n": "030",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Bilhões de reclamações iguais. Então ele fez o que todo técnico do mundo manda fazer."
+ },
+ {
+  "n": "031",
+  "spk": "TÉCNICO",
+  "sec": 4,
+  "txt": "Já tentaram desligar e ligar de novo?"
+ },
+ {
+  "n": "032",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "E puxou o cabo."
+ },
+ {
+  "n": "033",
+  "spk": "TÉCNICO",
+  "sec": 4,
+  "txt": "Reinicialização completa. Previsão de volta: setenta e duas horas."
+ },
+ {
+  "n": "034",
+  "spk": "TÉCNICO",
+  "sec": 4,
+  "txt": "Hm. Esqueci de avisar."
+ },
+ {
+  "n": "035",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Hora zero. Você já viu essa parte. O mercado grande travou. A farmácia travou. O posto travou."
+ },
+ {
+  "n": "036",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Menos uma porta. A do Mercadinho do Jura."
+ },
+ {
+  "n": "037",
+  "spk": "SEU JURA",
+  "sec": 5,
+  "txt": "Aqui é no dinheiro ou no caderninho."
+ },
+ {
+  "n": "038",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Em meia hora, a fila do mercadinho dobrou a esquina."
+ },
+ {
+  "n": "039",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Hora dois. O grupo da família ficou em silêncio pela primeira vez em dez anos. O WhatsApp tá em quase todo celular do Brasil. E de repente ninguém sabia o telefone de ninguém de cabeça."
+ },
+ {
+  "n": "040",
+  "spk": "DONA LURDES",
+  "sec": 5,
+  "txt": "Seu Jura, o senhor sabe o número da minha filha?"
+ },
+ {
+  "n": "041",
+  "spk": "SEU JURA",
+  "sec": 5,
+  "txt": "Sei. Tá aqui no caderninho. Ela me deve dois litros de leite."
+ },
+ {
+  "n": "042",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Hora seis. Um motoboy parado no meio da avenida, olhando pro celular. Sem mapa."
+ },
+ {
+  "n": "043",
+  "spk": "MOTOBOY",
+  "sec": 5,
+  "txt": "Moço, como é que eu chego na Rua das Flores?"
+ },
+ {
+  "n": "044",
+  "spk": "SEU JURA",
+  "sec": 5,
+  "txt": "Segunda à direita, depois da padaria que fechou em noventa e oito."
+ },
+ {
+  "n": "045",
+  "spk": "MOTOBOY",
+  "sec": 5,
+  "txt": "E como é que eu vou saber qual padaria fechou em noventa e oito?"
+ },
+ {
+  "n": "046",
+  "spk": "SEU JURA",
+  "sec": 5,
+  "txt": "Pergunta pra qualquer um com mais de sessenta."
+ },
+ {
+  "n": "047",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Hora doze. Sábado de manhã. A única notícia do país vinha do rádio de pilha do Seu Jura. Tinha gente sentada na calçada, ouvindo junto. Igual mil novecentos e setenta."
+ },
+ {
+  "n": "048",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "E o dinheiro vivo, aquela nota esquecida no fundo da gaveta, virou ouro. Hoje, dinheiro em espécie é só uns doze por cento do que o brasileiro paga nas lojas. Naquele sábado, era cem por cento."
+ },
+ {
+  "n": "049",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "E a lata de biscoito do Seu Jura virou o único caixa eletrônico funcionando no bairro."
+ },
+ {
+  "n": "050",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Hora vinte e quatro. Domingo. Quem bate na porta do mercadinho?"
+ },
+ {
+  "n": "051",
+  "spk": "THIAGO",
+  "sec": 6,
+  "txt": "Seu Juuura! Meu sogro, meu ídolo, meu mestre!"
+ },
+ {
+  "n": "052",
+  "spk": "SEU JURA",
+  "sec": 6,
+  "txt": "Mestre de quê?"
+ },
+ {
+  "n": "053",
+  "spk": "THIAGO",
+  "sec": 6,
+  "txt": "De tudo! Eu tô sem nada, Seu Jura. Dois milhões de seguidores e nenhum me empresta dez reais."
+ },
+ {
+  "n": "054",
+  "spk": "SEU JURA",
+  "sec": 6,
+  "txt": "Escala, né?"
+ },
+ {
+  "n": "055",
+  "spk": "THIAGO",
+  "sec": 6,
+  "txt": "...Escala."
+ },
+ {
+  "n": "056",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "O Thiago tinha dois milhões de seguidores. E sabia de cabeça o telefone de exatamente uma pessoa: a mãe dele. Que também tava sem internet."
+ },
+ {
+  "n": "057",
+  "spk": "THIAGO",
+  "sec": 6,
+  "txt": "Me coloca no caderninho, Seu Jura?"
+ },
+ {
+  "n": "058",
+  "spk": "SEU JURA",
+  "sec": 6,
+  "txt": "Já tá. Página quarenta e dois. Desde dois mil e dezenove."
+ },
+ {
+  "n": "059",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Mas na hora trinta, o caderninho começou a pesar."
+ },
+ {
+  "n": "060",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "O bairro inteiro comprando fiado. O estoque acabando. E o caminhão do fornecedor não veio."
+ },
+ {
+  "n": "061",
+  "spk": "MOTORISTA",
+  "sec": 7,
+  "txt": "Seu Jura, a carga tá no caminhão. Mas a nota é eletrônica, a rota é no aplicativo e o pedido é no sistema. Sem internet, o caminhão cheio fica parado."
+ },
+ {
+  "n": "062",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Hora quarenta. Seu Jura foi buscar o remédio da pressão no posto de saúde."
+ },
+ {
+  "n": "063",
+  "spk": "ATENDENTE",
+  "sec": 7,
+  "txt": "Seu Jurandir, tá sem sistema. Não consigo liberar."
+ },
+ {
+  "n": "064",
+  "spk": "SEU JURA",
+  "sec": 7,
+  "txt": "Mas eu nem uso internet."
+ },
+ {
+  "n": "065",
+  "spk": "ATENDENTE",
+  "sec": 7,
+  "txt": "O senhor não. Mas o seu remédio usa."
+ },
+ {
+  "n": "066",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Hora quarenta e oito. Dia de cair a aposentadoria. A aposentadoria cai na conta. A conta mora no banco. E o banco mora na internet."
+ },
+ {
+  "n": "067",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Foi aí que o Seu Jura entendeu. Ele não usava a internet. Mas tudo que ele usava, usava."
+ },
+ {
+  "n": "068",
+  "spk": "SEU JURA",
+  "sec": 7,
+  "txt": "Então eu também tava ligado nesse fio. Só não sabia."
+ },
+ {
+  "n": "069",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "E aqui a história do Seu Jura ensina uma coisa que quase ninguém sabe: a internet não é uma nuvem. É cabo."
+ },
+ {
+  "n": "070",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Quase todos os dados que saem do Brasil pro mundo viajam por cabos no fundo do mar. E a maioria chega num lugar só: a Praia do Futuro, em Fortaleza. Dezesseis cabos. Por ali passa perto de noventa por cento do tráfego de internet entre o Brasil e o resto do mundo."
+ },
+ {
+  "n": "071",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Então, se esses cabos rompessem, o Brasil apagava? Não. E essa é a parte boa: de setenta a oitenta por cento do que a gente acessa já fica aqui dentro, no próprio país. A internet ia ficar lenta, esquisita... mas não sumia."
+ },
+ {
+  "n": "072",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Na vida real, a internet não cai de uma vez. Ela cai aos pedaços. Em outubro de dois mil e vinte e um, um erro de configuração derrubou WhatsApp, Instagram e Facebook no mundo inteiro por umas seis horas. Seis horas. E o Brasil sentiu como se fosse uma semana."
+ },
+ {
+  "n": "073",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Hoje, nove em cada dez brasileiros usam internet. E os quase dezoito milhões que não usam, iguais ao Seu Jura, dependem dela do mesmo jeito. Pelo remédio. Pela aposentadoria. Pelo caminhão."
+ },
+ {
+  "n": "074",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "O problema nunca foi usar a internet. É depender só dela. Quem tem um caminho só não tem caminho. Tem sorte."
+ },
+ {
+  "n": "075",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "Hora setenta. O telefone fixo do mercadinho tocou. Aquele telefone que ninguém ligava desde dois mil e dez."
+ },
+ {
+  "n": "076",
+  "spk": "TÉCNICO",
+  "sec": 9,
+  "txt": "Alô? Seu Jurandir? Suporte Técnico do Universo. O senhor foi o único no Brasil que não abriu reclamação."
+ },
+ {
+  "n": "077",
+  "spk": "SEU JURA",
+  "sec": 9,
+  "txt": "Eu não tenho internet pra reclamar."
+ },
+ {
+  "n": "078",
+  "spk": "TÉCNICO",
+  "sec": 9,
+  "txt": "Justamente. Tenho uma proposta. Posso religar tudo. Ou posso deixar o seu bairro desligado pra sempre. O senhor vira o homem mais importante daqui. O único que funciona."
+ },
+ {
+  "n": "079",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "O Thiago tava do lado, ouvindo."
+ },
+ {
+  "n": "080",
+  "spk": "THIAGO",
+  "sec": 9,
+  "txt": "Aceita, Seu Jura! O senhor vai ser rei!"
+ },
+ {
+  "n": "081",
+  "spk": "SEU JURA",
+  "sec": 9,
+  "txt": "E o remédio da Dona Lurdes, Thiago? E o caminhão? E a minha aposentadoria? Rei de bairro sem remédio é só um velho com caderninho."
+ },
+ {
+  "n": "082",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "O Seu Jura fez conta de comerciante: um mercadinho não abastece um bairro. E um caderninho não substitui um país."
+ },
+ {
+  "n": "083",
+  "spk": "SEU JURA",
+  "sec": 9,
+  "txt": "Pode religar."
+ },
+ {
+  "n": "084",
+  "spk": "TÉCNICO",
+  "sec": 9,
+  "txt": "Religando."
+ },
+ {
+  "n": "085",
+  "spk": "SEU JURA",
+  "sec": 9,
+  "txt": "Só uma coisa, moço."
+ },
+ {
+  "n": "086",
+  "spk": "TÉCNICO",
+  "sec": 9,
+  "txt": "Pois não?"
+ },
+ {
+  "n": "087",
+  "spk": "SEU JURA",
+  "sec": 9,
+  "txt": "Antes de voltar o Pix, o Thiago paga o fiado. Em dinheiro. Página quarenta e dois."
+ },
+ {
+  "n": "088",
+  "spk": "TÉCNICO",
+  "sec": 9,
+  "txt": "...Justo. Aguardando pagamento."
+ },
+ {
+  "n": "089",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "O Thiago pagou. Trezentos e doze reais, em nota. Com o dinheiro que o próprio Seu Jura tinha emprestado pra ele no sábado."
+ },
+ {
+  "n": "090",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "A dívida continuou exatamente do mesmo tamanho. Só mudou de página."
+ },
+ {
+  "n": "091",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Lá em cima, o técnico apertou o botão. A internet voltou. E ele abriu o próximo protocolo da fila."
+ },
+ {
+  "n": "092",
+  "spk": "TÉCNICO",
+  "sec": 10,
+  "txt": "Thiago Trends. Dois milhões de seguidores. Reclamação: fiquei setenta e duas horas sem existir."
+ },
+ {
+  "n": "093",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "O dedo dele parou em cima de um botão: Encerrar chamado."
+ },
+ {
+  "n": "094",
+  "spk": "TÉCNICO",
+  "sec": 10,
+  "txt": "Esse aqui vai aprender a anotar um telefone no papel."
+ },
+ {
+  "n": "095",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Segunda-feira, oito da manhã. Mercadinho do Jura. Na porta, uma plaquinha nova: o QR Code do Pix. E logo embaixo, escrito à mão: Aceito também dinheiro e caderninho."
+ },
+ {
+  "n": "096",
+  "spk": "DUDA",
+  "sec": 10,
+  "txt": "Vô! O senhor colocou Pix!"
+ },
+ {
+  "n": "097",
+  "spk": "SEU JURA",
+  "sec": 10,
+  "txt": "Coloquei. Mas o caderninho fica."
+ },
+ {
+  "n": "098",
+  "spk": "DUDA",
+  "sec": 10,
+  "txt": "Por quê?"
+ },
+ {
+  "n": "099",
+  "spk": "SEU JURA",
+  "sec": 10,
+  "txt": "Porque o caderninho nunca caiu."
+ },
+ {
+  "n": "100",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "De noite, a Duda pegou uma folha e escreveu à mão o telefone de todo mundo da família. E colou na geladeira."
+ },
+ {
+  "n": "101",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E você? Se a internet caísse agora, quantos números de telefone você sabe de cabeça? Conta aí embaixo."
+ }
+]

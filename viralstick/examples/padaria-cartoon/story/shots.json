@@ -1,0 +1,362 @@
+{
+ "title": "Teste",
+ "duration": 41.05,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0,
+   "end": 3.2,
+   "line": "Um pingado, por favor.",
+   "scene": "Padaria, plano aberto: Valdir no balcão pede; Seu Nenê atrás do balcão",
+   "set": "padaria",
+   "vignette": false,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s002",
+   "start": 3.2,
+   "end": 4.8,
+   "line": "Tá aqui.",
+   "scene": "Seu Nenê coloca o copo no balcão",
+   "set": "padaria",
+   "vignette": false,
+   "bars": "none",
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s003",
+   "start": 4.8,
+   "end": 6.4,
+   "line": "Meio copo.",
+   "scene": "Insert: copo pela metade, zoom",
+   "set": "padaria",
+   "vignette": false,
+   "bars": "none",
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s004",
+   "start": 6.4,
+   "end": 8.6,
+   "line": "Nenê, cadê o resto?",
+   "scene": "Close Valdir confuso",
+   "set": "padaria",
+   "vignette": false,
+   "bars": "none",
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s005",
+   "start": 8.6,
+   "end": 11.8,
+   "line": "O resto é imposto, Valdir. Hoje ele veio separado.",
+   "scene": "Close Seu Nenê sorrindo",
+   "set": "padaria",
+   "vignette": false,
+   "bars": "none",
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s006",
+   "start": 11.8,
+   "end": 19.6,
+   "line": "E caiu no balcão uma moedinha, depois outra, depois uma chuva de moeda, que não parava mais.",
+   "scene": "Moedas caindo no balcão, uma, outra, chuva; Valdir em choque",
+   "set": "padaria",
+   "vignette": false,
+   "bars": "none",
+   "sfx": [
+    {
+     "at": 0.95,
+     "name": "ding",
+     "gain": -12,
+     "pitch": 1.6
+    },
+    {
+     "at": 2.45,
+     "name": "ding",
+     "gain": -12,
+     "pitch": 1.8
+    },
+    {
+     "at": 3.95,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   },
+   "captions": false,
+   "params": {
+    "c1": 0.95,
+    "c2": 2.45,
+    "rain": 3.95
+   }
+  },
+  {
+   "id": "s007",
+   "start": 19.6,
+   "end": 25.5,
+   "line": "R$ 563 mil, foi isso que o Valdir pagou de imposto na vida inteira,",
+   "scene": "Contador gigante R$ 563.000 sobre montanha de moedas",
+   "set": "padaria",
+   "vignette": false,
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "impact",
+     "gain": -8
+    },
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 4.45,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   },
+   "captions": false,
+   "params": {
+    "tag": 4.45
+   }
+  },
+  {
+   "id": "s008",
+   "start": 25.5,
+   "end": 27.85,
+   "line": "sem nunca ver a cor deste dinheiro.",
+   "scene": "Carteira vazia, mariposa",
+   "set": "",
+   "vignette": false,
+   "bars": "none",
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -10
+    },
+    {
+     "at": 0.8,
+     "name": "whoosh",
+     "gain": -14,
+     "pitch": 1.5
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -34
+   },
+   "in": {
+    "type": "cut"
+   },
+   "captions": false,
+   "params": {
+    "moth": 1.1
+   }
+  },
+  {
+   "id": "s009",
+   "start": 27.85,
+   "end": 30.35,
+   "line": "E você, quanto acha que já pagou?",
+   "scene": "O espectador, contador girando",
+   "set": "",
+   "vignette": false,
+   "bars": "none",
+   "sfx": [
+    {
+     "at": 0.25,
+     "name": "pop",
+     "gain": -10
+    },
+    {
+     "at": 0.85,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -34
+   },
+   "in": {
+    "type": "whip",
+    "dir": 1
+   },
+   "captions": false,
+   "params": {
+    "thought": 0.85,
+    "qm": 1.75
+   }
+  },
+  {
+   "id": "s010",
+   "start": 30.35,
+   "end": 31.9,
+   "line": "Fica até o fim.",
+   "scene": "Valdir aponta, faixa FICA ATÉ O FIM",
+   "set": "",
+   "vignette": false,
+   "bars": "none",
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -34
+   },
+   "captions": false,
+   "params": {}
+  },
+  {
+   "id": "s011",
+   "start": 31.9,
+   "end": 36.95,
+   "line": "Esse ano, o brasileiro trabalhou 150 dias só para pagar imposto,",
+   "scene": "Calendário enchendo até 150 dias",
+   "set": "",
+   "vignette": false,
+   "bars": "none",
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -14
+    },
+    {
+     "at": 2.7,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -34
+   },
+   "in": {
+    "type": "zoom"
+   },
+   "captions": false,
+   "params": {
+    "c0": 0.4,
+    "c1": 2.7
+   }
+  },
+  {
+   "id": "s012",
+   "start": 36.95,
+   "end": 41.05,
+   "line": "e o final dessa conta não é o que você está pensando.",
+   "scene": "Cupom fiscal, rodapé com R$ ???",
+   "set": "",
+   "vignette": false,
+   "bars": "none",
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "riser",
+     "gain": -14
+    },
+    {
+     "at": 2.1,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -34
+   },
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "captions": false,
+   "params": {
+    "scroll": 2.0,
+    "ring": 2.1
+   }
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 11.8,
+   "mood": "playful",
+   "intensity": 0.4
+  },
+  {
+   "start": 11.8,
+   "end": 27.85,
+   "mood": "triumph",
+   "intensity": 0.45
+  },
+  {
+   "start": 27.85,
+   "end": 36.95,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 36.95,
+   "end": 41.05,
+   "mood": "mystery",
+   "intensity": 0.45
+  }
+ ],
+ "sfx": []
+}

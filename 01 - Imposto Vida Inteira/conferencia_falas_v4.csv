@@ -1,0 +1,89 @@
+﻿clipe;personagem;status;problemas;texto do roteiro;o que foi ouvido;duração (s)
+001;VALDIR;OK;;Um pingado, por favor.;um pingado, por favor.;2.76
+002;NENÊ;OK;;Tá aqui.;está aqui.;0.76
+003;NARRADOR;OK;;Meio copo.;Meio copo.;1.54
+004;VALDIR;OK;;Nenê... cadê o resto?;Nene? Cadê o resto?;3.2
+005;NENÊ;OK;;O resto é imposto, Valdir. Hoje ele veio separado.;O resto é imposto, Valdir. Hoje ele veio separado.;3.82
+006;NARRADOR;OK;;E caiu no balcão uma moedinha. Depois outra. Depois uma chuva de moeda que não parava mais. Quinhentos e sessenta e três mil reais. Foi isso que o Valdir pagou de imposto na vida inteira. Sem nunca ver a cor desse dinheiro. E você? Quanto acha que já pagou? Fica até o fim. Esse ano, o brasileiro trabalhou cento e cinquenta dias só pra pagar imposto. E o final dessa conta... não é o que você tá pensando.;E caiu no balcão uma moedinha. Depois outra, depois uma chuva de moeda que não parava mais. 563 mil reais. Foi isso que Valdir pagou de imposto na vida inteira. Sem nunca ver a cor desse dinheiro. E você, quanto acha que já pagou? Fica até o fim. Esse ano, o brasileiro trabalhou 150 dias só pra pagar imposto. E o final dessa conta não é o que você tá pensando.;25.27
+007;NARRADOR;OK;;Valdir. Quarenta e oito anos. Motorista da linha Pimentas Centro, em Guarulhos. Vinte e seis anos de carteira assinada. Nunca atrasou um boleto. Pede CPF na nota até no chiclete. E guarda todos os cupons fiscais numa caixa de sapato. Desde mil novecentos e noventa e nove.;Valdir, 48 anos, motorista da linha Pimentas Centro em Guarulhos, 26 anos de carteira assinada. Nunca atrasou um boleto, pede CPF na nota até no chiclete e guarda todos os cupons fiscais numa caixa de sapato desde 1999.;15.77
+008;BIA;AVISO;palavras extras: o;Pai, pra que essa caixa?;O pai, pra que essa caixa?;2.56
+009;VALDIR;OK;;Garantia, filha.;Garantia, filha.;2.24
+010;BIA;OK;;Garantia do quê?;Garantia do que?;2.04
+011;VALDIR;OK;;Ainda não sei. Mas um dia serve.;ainda não sei. Mais um dia serve.;3.63
+012;NARRADOR;OK;;"Sábado. Aniversário do Valdir. Churrasco na casa do cunhado. Marquinhos. ""Empresário"". Tudo no Pix, nada na nota. Hilux na garagem.";Sábado, aniversário do Valdir, churrasco na Casa do Cunhado, Marquinhos, empresário, tudo no PIX, nada na nota, Hilux na garagem.;10.76
+013;MARQUINHOS;AVISO;palavras extras: a;Valdir, a cerveja é contigo, né? Aniversariante paga!;Valdir, a cerveja é contigo, né? A aniversariante paga!;3.74
+014;NARRADOR;OK;;Paga sempre. Faz onze anos. Na mesa, o assunto da semana: os óculos da Bia. Quatrocentos e oitenta reais. A Bia senta na primeira fila... e mesmo assim não enxerga a lousa.;Paga sempre. Faz 11 anos. Na mesa, o assunto da semana. Os óculos da Bia. 480 reais. A Bia senta na primeira fila e, mesmo assim, não enxerga a lousa.;12.85
+015;VALDIR;OK;;Mês que vem eu compro, filha.;Meis que vem eu compro, filha.;3.12
+016;MARQUINHOS;AVISO;palavras extras: a;Mês que vem? Ô Valdir, vinte e seis anos pagando imposto certinho e não tem quatrocentos e oitenta conto? Imposto é pra trouxa. Eu não pago e tô aí.;Meis que vem? Ô, Valdir, 26 anos pagando imposto certinho e não tem 480 contos? Imposto é para a trouxa. Eu não pago e estou aí!;10.89
+017;NARRADOR;OK;;Riram. O Valdir também. Por educação. Na TV da sala, o jornal: brasileiro trabalhou cento e cinquenta dias este ano só para pagar impostos.;Irão. Vou vaudir também. Por educação. Na TV da sala ou jornal, Brasileiro trabalhou 150 dias este ano só para pagar impostos.;9.71
+018;MARQUINHOS;OK;;Cento e cinquenta dias! Tá vendo? Você trabalhou até maio pro governo, Valdir. De graça!;150 dias? Tá vendo? Você trabalhou até maio para o governo, Valdir. De graça!;6.24
+019;VALDIR;OK;;Quanto será que eu já paguei na vida?;Quanto será que eu já apanhei na vida?;3.4
+020;MARQUINHOS;OK;;Sei lá. Pergunta pra tua caixa de sapato.;Sei lá, pergunta pra tua caixa de sapato.;3.09
+021;NARRADOR;OK;;Ele perguntou.;Ele perguntou.;1.61
+022;NARRADOR;OK;;Três da madrugada. No andar de cima do universo tem um setor que ninguém visita: a Receita Federal do Céu. Lá tem um contador. Óculos na ponta do nariz. Oito bilhões de CPFs. E uma regra antiga, que ninguém nunca usou.;3. Da madrugada. No andar de cima do universo tem um setor que ninguém visita, a Receita Federal do Céu. Lá tem um contador, óculos na ponta do nariz, 8 bilhões de CPFs e uma reagra antiga que ninguém nunca usou.;14.86
+023;CONTADOR;AVISO;palavras extras: o;Quem provar, com nota, todo imposto que pagou na vida... recebe de volta.;Quem provar com nota, todo o imposto que pagou na vida, recebe de volta.;10.06
+024;NARRADOR;OK;;Em toda a história da humanidade, ninguém tinha provado. Até aquela noite. A caixa de sapato do Valdir caiu da estante. E os cupons espalhados no chão formaram... um pedido de restituição.;Em toda a história da humanidade ninguém tinha aprovado, até aquela noite. A caixa de sapato do Valdir caiu da estante e os cupons espalhados no chão formaram um pedido de restituição.;12.53
+025;CONTADOR;AVISO;palavras extras: o;Vinte e seis anos de cupom. CPF em todos. Rodapé com valor aproximado dos tributos. Hum. Esse aqui guardou até o do chiclete.;26 anos de cupom, CPF em todos, roda a pé com o valor aproximado dos tributos, esse aqui guardou até o do chiclete.;17.08
+026;NARRADOR;OK;;Carimbo. Deferido. Mas o universo não paga de uma vez. Paga do jeito que cobrou: aos pouquinhos, escondido em cada compra. Só que agora... ao contrário.;Carimbo. Deferido. Mas o universo não paga de uma vez. Paga do jeito que cobrou, aos poquinhos, escondido em cada compra. Só que agora, ao contrário.;11.58
+027;NARRADOR;OK;;Seis da manhã. Padaria do Seu Nenê. Você já viu essa parte.;6 da manhã, padaria do seu nenê. Você já viu essa parte?;4.51
+028;NENÊ;OK;;O pingado é seis reais. Um real e pouco é imposto. Voltou pra você.;O pingado é R$ 6. Um real e pouco é imposto. Voltou pra você.;6.06
+029;NARRADOR;OK;;Sete horas. Posto de gasolina.;7 horas, posto de gasolina.;2.73
+030;EXTRAS;OK;;Completa?;COMPLETA!;1.38
+031;NARRADOR;OK;;Encheu o tanque. E de cada litro, uns quarenta por cento voltaram em moeda pela bomba. Caiu tanto troco que o frentista precisou de um balde.;Enchei o tanque e, de cada litro, uns 40% voltaram em moeda pela bomba. Caiu tanto troco que o frentista precisou de um balde.;10.1
+032;EXTRAS;OK;;Moço... isso é normal?;Moço, isso é normal?;2.14
+033;VALDIR;OK;;Pelo jeito, sempre foi. Eu é que não via.;Pelo jeito, sempre foi, eu é que não via.;4.89
+034;NARRADOR;OK;;Nove horas. Mercado. O arroz: quase nada voltou. Uns dez por cento. O sorvete da Bia: voltou mais de um terço. A cerveja: voltou quase metade.;9 horas. Mercado. O arroz quase nada voltou. Uns 10%. O sorvete da bia voltou mais de 1 terço. A cerveja voltou quase metade.;12.62
+035;VALDIR;OK;;Por que a cerveja devolve mais que o arroz?;Por que a cerveja devolve mais que o arroz?;3.72
+036;EXTRAS;AVISO;palavras extras: a;Porque o governo cobra mais no que acha que você não precisa. Arroz é necessidade. Cerveja é opção.;Porque o governo cobra mais no que acha que você não precisa. Arroz é necessidade, cerveja é a opção.;7.05
+037;VALDIR;OK;;Então eu pago mais imposto na cerveja do Marquinhos do que no meu arroz.;Então, eu pago mais imposto na cerveja do Marquinhos do que no meu arroz.;6.11
+038;EXTRAS;OK;;Há onze anos, pelo jeito.;há 11 anos pelo jeito.;1.8
+039;NARRADOR;OK;;Era isso. O imposto do brasileiro não mora só no contracheque. Mora no preço. Dos cento e cinquenta dias que você trabalha pro governo, mais da metade, oitenta e quatro dias, é imposto escondido no que você compra. Tá escrito, inclusive. No rodapé do cupom, letra miudinha: valor aproximado dos tributos. Desde dois mil e treze, por lei. Ninguém lê. O Valdir lia. Guardou vinte e seis anos.;Era isso. O imposto do brasileiro não mora só no contra-cheque, mora no preço. Dos 150 dias que você trabalha para o governo, mais da metade, 84 dias, é imposto escondido no que você compra. Está escrito, inclusive, no Roda a Pé do Coupon, letra Mildinha, valor aproximado dos tributos. Desde 2013, por lei, ninguém lê, o Valdir Lia, guardou 26 anos.;28.31
+040;NARRADOR;OK;;Meio-dia, a moedinha virou notícia. Meio Guarulhos na porta dele. E na frente de todos, de Hilux... o Marquinhos.;Meio-dia a moedinha virou notícia. Meio-guarulhos na porta dele. E na frente de todos, de Hilux, o Marquinhos.;9.18
+041;MARQUINHOS;OK;;Valdirzão! Meu cunhado, meu irmão, meu sócio!;Valdesão, meu cunhado, meu irmão, meu sócio.;6.37
+042;VALDIR;OK;;Sócio de quê?;Sôcio de quê?;2.04
+043;MARQUINHOS;OK;;Do que você quiser. Me ensina o esquema.;Do que você quiser, me ensina o esquema!;2.93
+044;VALDIR;OK;;Não tem esquema. É nota. Pede CPF e guarda.;Não tem esquema. É nota. Pede CPF e guarda.;5.1
+045;MARQUINHOS;OK;;...Nota?;Nota!;1.37
+046;VALDIR;AVISO;palavras extras: uh;Nota.;...not, uh...;1.67
+047;MARQUINHOS;OK;;Ah, não. Aí não dá.;Ah, não. Aí não dá.;2.05
+048;NARRADOR;OK;;O Marquinhos tinha uma Hilux, três empresas... e zero cupons. À tarde, o Valdir fez as contas. Somou o que o universo ia devolver em trinta dias. Quinhentos e sessenta e três mil reais. Foi o primeiro brasileiro a ver o número inteiro. Tinha pago uma casa. Talvez duas. Em suaves prestações de vinte e seis anos, sem saber. Os óculos da Bia? Comprou no mesmo dia. E ainda voltou troco.;O Marquinhos tinha uma Hilux, três empresas, e zero cupons. A tarde, o Valdir fez as contas. Somou que o universo ia devolver em 30 dias, 563 mil reais. Foi o primeiro brasileiro a ver o número inteiro. Tinha pago uma casa, talvez duas, em suaves prestações de 26 anos, sem saber. Os óculos da Bia compram no mesmo dia, e ainda voltou troco.;28.89
+049;BIA;OK;;Pai! Eu tô vendo a placa do ônibus!;Pai! Eu estou vindo da placa do ônibus!;3.04
+050;VALDIR;OK;;Que linha?;Que linha!;2.0
+051;BIA;OK;;Pimentas Centro!;Hehehe, pimenta-centro!;2.92
+052;VALDIR;AVISO;pausa longa (3 car/s);É a do pai.;É do pai.;3.27
+053;NARRADOR;OK;;Mas o universo também tem rodapé. E o Valdir, que lia todos... não leu esse. Dia três. A linha dele tá lá. A rua, não. Só no trajeto do ônibus do Valdir, o asfalto virou terra. Dia quatro. O poste da frente da casa apaga. Só o dele. A rua toda acesa, e o Valdir no escuro. Dia cinco. Dona Cida, a mãe, vai pegar o remédio da pressão no posto de saúde.;Mas o universo também tem roda-pé. E o Valdir, que lia todos, não leu esse. Dia 3. A linha dele tá lá. A rua não. Só no trajeto do ônibus do Valdir, o asfalto virou terra. Dia 4. O poste da frente da casa apaga. Só o dele. A rua toda acesa e o Valdir no escuro. Dia 5. Dona Cida. A mãe. Vai pegar o remédio da pressão no posto de saúde.;29.71
+054;EXTRAS;OK;;Dona Cida, o remédio da senhora tá... bloqueado. O CPF do seu filho tá constando como sem imposto.;Doha nascida, o remédio da senhora está bloqueado, o CPF do seu filho está constando como sem imposto.;9.13
+055;EXTRAS;OK;;E quanto custa?;E quanto custa?;1.31
+056;EXTRAS;OK;;Na farmácia? Uns trezentos por mês.;Na farmácia, uns 300 por mês.;2.81
+057;NARRADOR;OK;;Dia seis. Bilhete da escola da Bia: favor providenciar professora. E aí chegou a carta. Papel timbrado. Receita Federal do Céu.;dia 6 bilhete da escola da bia favor providenciar professora e aí chegou a carta papel timbrado receita federal do céu;11.69
+058;CONTADOR;OK;;Prezado Valdir. Devolvemos seu imposto. Por coerência, devolvemos também o que ele pagava. Atenciosamente.;Prezado Valdir, devolvem seu imposto. Por coerência, devolvemos também o que ele pagava, atenciosamente.;12.2
+059;NARRADOR;OK;;O Valdir sentou na guia, no escuro do único poste apagado do bairro. E entendeu.;Valdir sentou na guia, no escuro do único post apagado do bairro, e entendeu.;8.26
+060;VALDIR;OK;;Então era isso. O imposto não sumia. Virava rua. Virava poste. Virava o remédio da minha mãe.;Então era isso. O imposto não sumia, virava rua, virava poste, virava o remédio da minha mãe.;8.59
+061;NARRADOR;OK;;Uma parte, sim.;Uma parte, sim.;2.0
+062;NARRADOR;OK;;Porque o Valdir é motorista... mas é teimoso. E mandou uma carta de volta.;porque o Valdir é motorista, mas é teimoso, e mandou uma carta de volta.;5.23
+063;VALDIR;OK;;Prezado contador. Tudo bem, eu devolvo. Mas antes eu quero o extrato. Pra onde foi cada real dos meus quinhentos e sessenta e três mil.;É presado contador. Tudo bem, eu devolvo. Mas antes, eu quero o extrato. Pra onde foi cada real dos meus 563 mil?;10.85
+064;NARRADOR;OK;;Ninguém nunca tinha pedido isso pro universo. O contador demorou três dias pra responder. Veio um rolo de papel do tamanho da rua. Tinha posto de saúde. Tinha escola. Tinha asfalto, poste, a aposentadoria da Dona Cida. Tinha juros da dívida do governo. E tinha linha que nem o contador soube explicar direito.;Ninguém nunca tinha pedido isso para o universo. O contador demorou três dias para responder. Veio um rolo de papel do tamanho da rua. Tinha posto de saúde, tinha escola, tinha asfalto, poste, a aposentadoria da dona Cida. Tinha juros da dívida do governo e tinha linha que nem o contador soube explicar direito.;20.2
+065;CONTADOR;AVISO;pausa longa (3 car/s);Essa aqui... é complicado.;Essa aqui é complicado.;6.47
+066;VALDIR;OK;;Pra mim também foi complicado ganhar.;Para mim também foi complicado ganhar.;2.84
+067;NARRADOR;OK;;E aqui o Valdir aprendeu a coisa mais importante. Imposto não é roubo. E também não é favor. É preço. Preço da rua, do poste, do posto. E preço... a gente confere. O problema nunca foi só pagar. É pagar sem ver. Em mil novecentos e oitenta e seis, eram oitenta e dois dias de trabalho por ano pra pagar imposto. Hoje são cento e cinquenta. Quase o dobro. E quase ninguém sabe o próprio número. Quem ganha até três mil reais trabalha cento e trinta e quatro dias por ano pro imposto. Quem ganha entre três e dez mil, cento e cinquenta e sete. É a turma do Valdir. A que mais trabalha pro governo no Brasil.;E aqui o Valdir aprendeu a coisa mais importante. Imposto não é roubo. E também não é favor. É preço. Preço da rua, do poste, do posto. E preço a gente confere. O problema nunca foi só pagar. É pagar sem ver. Em 1986, eram 82 dias de trabalho por ano para pagar imposto. Hoje são 150. Quase o dobro. E quase ninguém sabe o próprio número. Quem ganha até 3 mil reais, trabalha 134 dias por ano por imposto. Quem ganha entre 3 e 10 mil, 157. É a turma do Valdir, a que mais trabalha pro governo no Brasil.;40.63
+068;NARRADOR;OK;;Dia trinta. Último dia. O universo deu a opção.;Dia 30. Último dia. O Universo deu a opção.;3.99
+069;CONTADOR;OK;;Fica com os quinhentos e sessenta e três mil e paga tudo por fora: escola, remédio, poste, rua. Ou devolve, e volta tudo como era.;Fica com os 563 mil e paga tudo por fora, escola, remédio, poste, rua ou devolve e volta tudo como era.;13.67
+070;NARRADOR;OK;;O Marquinhos ligou.;O Marquinhos ligou.;1.58
+071;MARQUINHOS;OK;;Fica com o dinheiro, Valdir! Compra uma Hilux!;Fica com dinheiro, Valdir. Compre uma Hilux.;3.38
+072;VALDIR;OK;;E o asfalto pra ela andar, Marquinhos? Compro também?;E o asfalto pré-landar, Marquinhos. Compro também?;4.44
+073;NARRADOR;OK;;O Valdir fez conta de motorista: rua, escola, remédio, aposentadoria, poste. Quinhentos e sessenta e três mil não pagavam vinte e seis anos disso tudo. Nem pra uma família só. Ele devolveu. Quase tudo.;O Valdir fez conta de motorista. Rua, escola, remédio, aposentadoria, poste... 563 mil não pagavam 26 anos disso tudo, nem para uma família só. Ele devolveu. Quase tudo.;16.38
+074;VALDIR;OK;;Só uma coisa, contador. Os quatrocentos e oitenta dos óculos da Bia.;Só uma coisa, contador. Os 480, dos óculos da Bia.;5.88
+075;CONTADOR;AVISO;pausa longa (2 car/s);O que tem?;O que tem?;4.15
+076;VALDIR;OK;;É o imposto da cerveja que eu paguei pro Marquinhos em onze anos de churrasco. Deixa comigo.;É o imposto da cerveja que eu paguei para o Marquinhos em 11 anos de churrasco. Deixa comigo.;7.76
+077;CONTADOR;AVISO;pausa longa (3 car/s);...Justo. Deferido.;Justo. De ferida.;4.67
+078;NARRADOR;OK;;Lá em cima, o contador fechou a pasta do Valdir. E abriu a próxima da pilha.;Lá em cima, o contador fechou a pasta do Valdir e abriu a próxima da pilha.;5.39
+079;CONTADOR;AVISO;pausa longa (4 car/s);Marcos Antônio. Três empresas. Uma Hilux. Zero notas.;Marcos Antônio, Três Empresas, Uma Hilux, Zero Notas;11.01
+080;NARRADOR;OK;;O dedo dele parou em cima de um botão vermelho: malha fina.;O dedo dele parou em cima de um botão vermelho. Malha fina!;4.69
+081;CONTADOR;OK;;Esse aqui eu vou conferir com calma.;Esse aqui eu vou conferir com calma.;2.79
+082;NARRADOR;OK;;Domingo, dez da manhã. Poste aceso. Rua asfaltada. A Bia lendo a placa de todo ônibus que passa. E o Valdir na padaria.;Domingo, 10 da manhã, pós-te aceso, ruas faltada, abia lendo a placa de todo ônibus que passa, e o Valdir na padaria.;9.67
+083;VALDIR;OK;;Um pingado, Nenê. Inteiro.;Um pingado nené, inteiro.;2.36
+084;NENÊ;OK;;Inteiro. Com imposto e tudo.;Enteiro, com imposto e tudo.;2.4
+085;VALDIR;OK;;E me dá o cupom.;É, me dá o cupom.;1.9
+086;NENÊ;OK;;Vai guardar?;Vai guardar?;1.26
+087;VALDIR;AVISO;pausa longa (3 car/s);Vou ler.;Vou ler.;2.67
+088;NARRADOR;OK;;Agora ele sabe quanto custa a rua acesa. E sabe o que perguntar quando ela apagar. E você? Pega o último cupom que tá na sua carteira e olha o rodapé. Quanto foi de imposto? Conta aí embaixo.;Agora ele sabe quanto custa a rua acesa e sabe o que perguntar quando ela apagar. E você? Pega o último cupom que está na sua carteira e olha o roda-pé. Quanto foi de imposto? Conta aí embaixo.;12.13

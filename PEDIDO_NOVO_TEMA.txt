@@ -1,0 +1,45 @@
+COMO USAR
+1. Abra o Claude Code na pasta do canal:
+     cd "$env:USERPROFILE\Downloads\Canal Dark"
+     headroom wrap claude --port 8788
+2. Cole o texto entre as linhas abaixo. Ele vai te fazer perguntas no caminho (tema e aprovação do roteiro).
+
+------------------------------------------------------------
+Vamos fazer o próximo vídeo do canal (vídeo 8), do jeito descrito no CLAUDE.md. Antes de tudo, leia o CLAUDE.md
+e olhe a pasta "07 - Salario Minimo" inteira, que é o modelo mais recente (roteiro, falas.json, elenco.json,
+plano.json, musica.json, titulo.txt, os .bat e o cenas_salario.zip com o código das cenas).
+
+ETAPA 1 — TEMA
+Me proponha 4 temas no formato do canal: um brasileiro comum, uma situação do dia a dia com números reais
+(contas, preços, trabalho, costumes) e a Repartição/Suporte Técnico do Universo atendendo um pedido de um jeito
+absurdo. Os temas já usados foram: imposto da vida inteira, internet 72h, conta de luz, um feriado por ano,
+pão francês, neve no Brasil, salário mínimo. Sugestões guardadas: 13º salário sumisse, cafezinho de verdade
+(do pé até o balcão), gasolina a R$ 2, ônibus de graça. Espere eu escolher.
+
+ETAPA 2 — PESQUISA E ROTEIRO
+Pesquise na internet os dados reais e atuais do tema (fontes oficiais: IBGE, DIEESE, Aneel, ANP, Procon etc.).
+Escreva o roteiro em "08 - <Nome>\roteiro_<apelido>.txt" no mesmo formato do vídeo 7: personagens, lista
+"DADOS REAIS USADOS" com fonte, 10 seções [N. TÍTULO], falas "PERSONAGEM: texto", uns 85 a 90 falas (~8 min),
+números escritos por extenso nas falas, final com pergunta para os comentários. Em tema político, mostrar os dois
+lados sem opinar. Use só vozes que já existem (ver elencos das pastas 03 a 07); se precisar de voz nova, me
+avise antes. Me mostre um resumo do roteiro e ESPERE minha aprovação.
+
+ETAPA 3 — MONTAGEM (depois da aprovação)
+- falas.json (campos n, spk, sec, txt), elenco.json, musica.json, titulo.txt, plano.json.
+- Projeto: copie viralstick\projects\salario-minimo para viralstick\projects\<projeto-novo> (sem build, out,
+  story, timeline). Personagens novos em scenes\cast.js + CAST/WHO/SCALE no lib.js; cenários novos num
+  scenes\sets\<apelido>.js; cenas novas num scenes\shots\cenas<apelido>.js (copie o padrão de cenassal.js).
+  Reaproveite os kinds que já existem (cartela, numero, pct, cadeia, close, cena, mes, saldo, horas, conta,
+  carimbo, mesa_ceu, voce2, fica2, comenta2...).
+- Teste: set VS_PROJ=<caminho do projeto> e rode fabrica\montar_video.py --pasta "08 - <Nome>" --projeto <projeto> --fake;
+  depois, em viralstick, node render.mjs --project projects/<projeto> --stills <tempos de cada cena> --gl gpu.
+  Olhe as imagens (build\stills) e corrija texto cortado, cena vazia, personagem sumido ou texto em cima do rosto.
+- Se criar kinds novos, acrescente os sons deles no SFX_KIND do fabrica\montar_video.py.
+- Gere cenas_<apelido>.zip (projects\<projeto>\scenes + config.json) e copie os 5 .bat do vídeo 7 trocando
+  salario-minimo, cenas_salario, VIDEO_FINAL_salario, vozes_salario e salario_ pelos nomes novos.
+
+ETAPA 4 — NARRAÇÃO E VÍDEO
+Rode .\2b_gerar_vozes_lite.bat (ou .\2_gerar_vozes.bat se o Lite estiver sem cota), confira o RESUMO do log,
+depois .\3_previa_30s.bat e me mostre; com meu ok, .\4_video_final.bat. No fim, me diga a duração, quantas falas
+deram erro na conferência e quantos sons por palavra entraram.
+------------------------------------------------------------

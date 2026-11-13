@@ -1,0 +1,693 @@
+{
+ "total": 477.266,
+ "lines": [
+  {
+   "clip": "001",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 0.4,
+   "end": 6.897,
+   "text": "Seis dias de trabalho. Um de folga. Durante décadas, foi assim a semana de milhões de brasileiros."
+  },
+  {
+   "clip": "002",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 7.247,
+   "end": 14.359,
+   "text": "Só em dois mil e vinte e cinco, eram catorze milhões e oitocentos mil trabalhadores com carteira assinada na escala seis por um."
+  },
+  {
+   "clip": "003",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 14.709,
+   "end": 19.956,
+   "text": "Mas em outubro, o Congresso aprovou o fim dela. E a partir de dezembro, a regra muda."
+  },
+  {
+   "clip": "004",
+   "who": "JOSI",
+   "sec": 1,
+   "start": 20.406,
+   "end": 23.342,
+   "text": "Muda pra mim também? Ou só pra quem trabalha em escritório?"
+  },
+  {
+   "clip": "005",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 23.792,
+   "end": 30.105,
+   "text": "Essa é a Josi. Ela trabalha no caixa de um supermercado. Seis por um, há onze anos."
+  },
+  {
+   "clip": "006",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 30.455,
+   "end": 38.114,
+   "text": "Hoje a gente vai acompanhar a última semana da Josi na escala seis por um. E o pedido que ela fez pro Universo antes da lei mudar."
+  },
+  {
+   "clip": "007",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 38.464,
+   "end": 47.562,
+   "text": "E você? Trabalha em qual escala? Guarda essa resposta. Fica até o fim, porque o Universo atendeu o pedido da Josi. Do jeito dele."
+  },
+  {
+   "clip": "008",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 48.462,
+   "end": 53.195,
+   "text": "A Josi tem trinta e um anos. Mora em Recife com a filha, a Luana, de nove."
+  },
+  {
+   "clip": "009",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 53.545,
+   "end": 60.019,
+   "text": "Segunda a sábado, ela pega o ônibus às seis da manhã. Volta às oito da noite. Folga: terça-feira."
+  },
+  {
+   "clip": "010",
+   "who": "JOSI",
+   "sec": 2,
+   "start": 60.469,
+   "end": 65.721,
+   "text": "Terça é ótima. O banco tá aberto, o posto de saúde tá aberto. Só a minha filha que tá na escola."
+  },
+  {
+   "clip": "011",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 66.171,
+   "end": 73.857,
+   "text": "Sete horas e vinte minutos por dia, seis dias por semana. Quarenta e quatro horas. O máximo que a lei deixava até agora."
+  },
+  {
+   "clip": "012",
+   "who": "LUANA",
+   "sec": 2,
+   "start": 74.307,
+   "end": 79.13,
+   "text": "Mãe, sábado tem apresentação na escola. Eu vou ser a árvore."
+  },
+  {
+   "clip": "013",
+   "who": "JOSI",
+   "sec": 2,
+   "start": 79.58,
+   "end": 81.307,
+   "text": "Sábado eu trabalho, filha."
+  },
+  {
+   "clip": "014",
+   "who": "LUANA",
+   "sec": 2,
+   "start": 81.757,
+   "end": 84.186,
+   "text": "Mas a árvore é a personagem principal."
+  },
+  {
+   "clip": "015",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 84.636,
+   "end": 88.063,
+   "text": "Não era. Mas a Luana queria muito que a mãe visse."
+  },
+  {
+   "clip": "016",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 88.963,
+   "end": 91.314,
+   "text": "A Josi foi falar com o gerente. O Seu Hélio."
+  },
+  {
+   "clip": "017",
+   "who": "SEU HÉLIO",
+   "sec": 3,
+   "start": 91.764,
+   "end": 97.384,
+   "text": "Sábado, Josi? Sábado é o dia que mais vende. Se eu tiro você, tenho que tirar alguém de outro dia."
+  },
+  {
+   "clip": "018",
+   "who": "JOSI",
+   "sec": 3,
+   "start": 97.834,
+   "end": 100.275,
+   "text": "Troca minha terça pelo sábado. Só essa vez."
+  },
+  {
+   "clip": "019",
+   "who": "SEU HÉLIO",
+   "sec": 3,
+   "start": 100.725,
+   "end": 106.01,
+   "text": "Se eu troco a sua, tenho que trocar a da Patrícia, que troca com o Juninho, que já trocou com a Dona Bete."
+  },
+  {
+   "clip": "020",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 106.46,
+   "end": 111.82,
+   "text": "E é aí que tá o problema de uma escala apertada. Uma folga mexe na de todo mundo."
+  },
+  {
+   "clip": "021",
+   "who": "SEU HÉLIO",
+   "sec": 3,
+   "start": 112.27,
+   "end": 115.798,
+   "text": "Vou ver o que dá pra fazer. Mas não promete nada pra menina."
+  },
+  {
+   "clip": "022",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 116.248,
+   "end": 124.001,
+   "text": "Naquela noite, a Josi chegou em casa às oito e meia. A Luana já tinha dormido. Com a fantasia de árvore do lado da cama."
+  },
+  {
+   "clip": "023",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 124.901,
+   "end": 127.889,
+   "text": "E foi nessa noite que a Josi escreveu um pedido."
+  },
+  {
+   "clip": "024",
+   "who": "JOSI",
+   "sec": 4,
+   "start": 128.339,
+   "end": 137.743,
+   "text": "Querido Universo. Eu só quero um dia a mais de folga. Um só. Pra ver a minha filha ser árvore. Obrigada. Josi."
+  },
+  {
+   "clip": "025",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 138.193,
+   "end": 141.605,
+   "text": "E o pedido subiu. Direto pra Repartição do Universo."
+  },
+  {
+   "clip": "026",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 142.055,
+   "end": 148.421,
+   "text": "Hum. Pedido número dois mil e vinte e seis, barra, seis por um. Um dia a mais de folga."
+  },
+  {
+   "clip": "027",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 148.871,
+   "end": 151.722,
+   "text": "Esse é simples. Dá a folga pra ela no sábado."
+  },
+  {
+   "clip": "028",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 152.172,
+   "end": 157.722,
+   "text": "Pra ela só? E a Patrícia? E o Juninho? E a Dona Bete? Todo mundo tem filho que vira árvore."
+  },
+  {
+   "clip": "029",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 158.172,
+   "end": 161.431,
+   "text": "Então dá um dia a mais pra todo mundo?"
+  },
+  {
+   "clip": "030",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 161.881,
+   "end": 165.224,
+   "text": "Pra todo mundo. No mesmo dia. Fica mais organizado."
+  },
+  {
+   "clip": "031",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 165.674,
+   "end": 167.477,
+   "text": "Isso não vai dar certo."
+  },
+  {
+   "clip": "032",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 167.927,
+   "end": 168.471,
+   "text": "Deferido."
+  },
+  {
+   "clip": "033",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 169.371,
+   "end": 174.211,
+   "text": "E no sábado seguinte, o Brasil inteiro folgou. Todo mundo. Ao mesmo tempo."
+  },
+  {
+   "clip": "034",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 174.561,
+   "end": 180.255,
+   "text": "A Josi acordou sem despertador. Pela primeira vez em onze anos, num sábado."
+  },
+  {
+   "clip": "035",
+   "who": "JOSI",
+   "sec": 5,
+   "start": 180.705,
+   "end": 184.907,
+   "text": "Luana! Bora pra escola! Hoje a mãe vai ver a árvore!"
+  },
+  {
+   "clip": "036",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 185.357,
+   "end": 190.479,
+   "text": "Elas foram pro ponto. E o ônibus não passou. O motorista também tava de folga."
+  },
+  {
+   "clip": "037",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 190.829,
+   "end": 194.85,
+   "text": "Foram a pé. Chegaram na escola. Portão fechado."
+  },
+  {
+   "clip": "038",
+   "who": "LUANA",
+   "sec": 5,
+   "start": 195.3,
+   "end": 197.975,
+   "text": "Mãe, a professora também folgou."
+  },
+  {
+   "clip": "039",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 198.425,
+   "end": 206.085,
+   "text": "A apresentação foi cancelada. Os professores tinham folga. A merendeira tinha folga. O porteiro tinha folga."
+  },
+  {
+   "clip": "040",
+   "who": "JOSI",
+   "sec": 5,
+   "start": 206.535,
+   "end": 210.456,
+   "text": "Tudo bem, filha. A gente faz um almoço especial. Vamos no mercado."
+  },
+  {
+   "clip": "041",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 210.906,
+   "end": 218.268,
+   "text": "O supermercado tava fechado. Com uma placa: fechado por folga coletiva. Assinado: Universo."
+  },
+  {
+   "clip": "042",
+   "who": "JOSI",
+   "sec": 5,
+   "start": 218.718,
+   "end": 221.76,
+   "text": "Eu trabalho aqui e não consigo nem comprar arroz."
+  },
+  {
+   "clip": "043",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 222.66,
+   "end": 229.313,
+   "text": "E não era só o mercado. A padaria, a farmácia, o posto de gasolina. Tudo fechado."
+  },
+  {
+   "clip": "044",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 229.663,
+   "end": 238.277,
+   "text": "O pronto-socorro funcionou. Mas o médico de plantão tava de folga, então quem atendia era o próprio Universo. Ele não sabia medir pressão."
+  },
+  {
+   "clip": "045",
+   "who": "SEU HÉLIO",
+   "sec": 6,
+   "start": 238.727,
+   "end": 243.879,
+   "text": "Josi! Eu tô de folga, mas a geladeira do mercado parou! Quem conserta?"
+  },
+  {
+   "clip": "046",
+   "who": "JOSI",
+   "sec": 6,
+   "start": 244.329,
+   "end": 246.89,
+   "text": "O técnico de geladeira tá de folga, Seu Hélio."
+  },
+  {
+   "clip": "047",
+   "who": "SEU HÉLIO",
+   "sec": 6,
+   "start": 247.34,
+   "end": 248.346,
+   "text": "E quem tá trabalhando?"
+  },
+  {
+   "clip": "048",
+   "who": "JOSI",
+   "sec": 6,
+   "start": 248.796,
+   "end": 250.645,
+   "text": "Ninguém. Esse era o pedido."
+  },
+  {
+   "clip": "049",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 251.095,
+   "end": 261.667,
+   "text": "No fim do dia, a Josi e a Luana comeram miojo. O único que tinha em casa. E viram a apresentação de árvore na sala. Com a Luana de árvore e a Josi de plateia."
+  },
+  {
+   "clip": "050",
+   "who": "LUANA",
+   "sec": 6,
+   "start": 262.117,
+   "end": 264.262,
+   "text": "Foi a melhor apresentação, mãe."
+  },
+  {
+   "clip": "051",
+   "who": "JOSI",
+   "sec": 6,
+   "start": 264.712,
+   "end": 266.058,
+   "text": "Foi a única, filha."
+  },
+  {
+   "clip": "052",
+   "who": "JOSI",
+   "sec": 6,
+   "start": 266.408,
+   "end": 270.827,
+   "text": "Universo, eu agradeço. Mas não era isso. Desfaz."
+  },
+  {
+   "clip": "053",
+   "who": "CONTADOR",
+   "sec": 6,
+   "start": 271.277,
+   "end": 274.027,
+   "text": "Desfeito. Folga coletiva cancelada."
+  },
+  {
+   "clip": "054",
+   "who": "TÉCNICO",
+   "sec": 6,
+   "start": 274.477,
+   "end": 275.066,
+   "text": "Eu avisei."
+  },
+  {
+   "clip": "055",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 275.966,
+   "end": 280.275,
+   "text": "O Universo errou numa coisa. Folga não precisa ser todo mundo no mesmo dia."
+  },
+  {
+   "clip": "056",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 280.625,
+   "end": 291.96,
+   "text": "A emenda aprovada em outubro diz o seguinte. Sessenta dias depois de promulgada, todo trabalhador passa a ter dois dias de descanso remunerado por semana. De preferência, um deles no domingo."
+  },
+  {
+   "clip": "057",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 292.31,
+   "end": 300.171,
+   "text": "A jornada máxima cai de quarenta e quatro pra quarenta e duas horas. E um ano depois, pra quarenta. Sem redução de salário."
+  },
+  {
+   "clip": "058",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 300.521,
+   "end": 309.37,
+   "text": "O mercado continua aberto no sábado. O ônibus continua passando. Só que a escala vira um quebra-cabeça maior: cada um folga em dias diferentes."
+  },
+  {
+   "clip": "059",
+   "who": "SEU HÉLIO",
+   "sec": 7,
+   "start": 309.82,
+   "end": 315.293,
+   "text": "Ou seja: eu vou precisar de mais gente no caixa. Ou de mais hora extra. Ou de fechar mais cedo."
+  },
+  {
+   "clip": "060",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 315.743,
+   "end": 324.75,
+   "text": "E tem uma exceção. Por acordo ou convenção coletiva, empresa e sindicato podem combinar outras escalas. Em casos excepcionais, até a seis por um."
+  },
+  {
+   "clip": "061",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 325.65,
+   "end": 328.95,
+   "text": "E aqui tem dois lados. E os números dos dois são grandes."
+  },
+  {
+   "clip": "062",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 329.3,
+   "end": 338.371,
+   "text": "A Confederação Nacional do Comércio calculou um custo de cento e vinte e dois bilhões de reais por ano só pro comércio. E disse que os preços podem subir até treze por cento."
+  },
+  {
+   "clip": "063",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 338.721,
+   "end": 343.549,
+   "text": "A Confederação da Indústria estimou que o PIB pode ficar zero vírgula sete por cento menor."
+  },
+  {
+   "clip": "064",
+   "who": "SEU HÉLIO",
+   "sec": 8,
+   "start": 343.999,
+   "end": 348.909,
+   "text": "Mercado pequeno não tem de onde tirar. Ou contrata, ou aumenta o preço, ou fecha mais cedo."
+  },
+  {
+   "clip": "065",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 349.359,
+   "end": 358.066,
+   "text": "Do outro lado, o Ipea, que é um instituto de pesquisa do governo, calculou que o custo médio do trabalho sobe sete vírgula oitenta e quatro por cento."
+  },
+  {
+   "clip": "066",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 358.416,
+   "end": 369.176,
+   "text": "E que, na indústria e no comércio, isso dá menos de um por cento do custo total das empresas. Parecido com reajustes do salário mínimo que, no passado, não derrubaram o emprego."
+  },
+  {
+   "clip": "067",
+   "who": "JOSI",
+   "sec": 8,
+   "start": 369.626,
+   "end": 373.675,
+   "text": "Eu só sei que um dia a mais em casa é um dia a mais com a minha filha."
+  },
+  {
+   "clip": "068",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 374.125,
+   "end": 383.287,
+   "text": "Numa pesquisa do instituto Nexus, setenta e três por cento dos brasileiros disseram ser a favor do fim da seis por um. Desde que sem redução de salário."
+  },
+  {
+   "clip": "069",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 384.187,
+   "end": 388.956,
+   "text": "E a Repartição fez a conta. Mas a conta da Josi, não a do país."
+  },
+  {
+   "clip": "070",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 389.306,
+   "end": 394.662,
+   "text": "Na seis por um, a Josi tinha cinquenta e duas folgas por ano. Uma por semana."
+  },
+  {
+   "clip": "071",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 395.012,
+   "end": 398.123,
+   "text": "Na cinco por dois, são cento e quatro. O dobro."
+  },
+  {
+   "clip": "072",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 398.473,
+   "end": 405.673,
+   "text": "Quarenta e quatro horas por semana viram quarenta. São quatro horas a menos. Em um ano, mais de duzentas horas."
+  },
+  {
+   "clip": "073",
+   "who": "TÉCNICO",
+   "sec": 9,
+   "start": 406.123,
+   "end": 410.297,
+   "text": "Duzentas horas dá pra ver quantas apresentações de árvore?"
+  },
+  {
+   "clip": "074",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 410.747,
+   "end": 413.717,
+   "text": "Todas. Inclusive as ensaiadas em casa."
+  },
+  {
+   "clip": "075",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 414.067,
+   "end": 424.419,
+   "text": "Agora, quem paga essas horas, e como, é a parte que o Brasil ainda vai descobrir. A Repartição só cuida dos pedidos. Esse foi o primeiro que a lei atendeu antes da gente."
+  },
+  {
+   "clip": "076",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 425.319,
+   "end": 428.109,
+   "text": "Dezembro. Primeira semana da escala nova."
+  },
+  {
+   "clip": "077",
+   "who": "SEU HÉLIO",
+   "sec": 10,
+   "start": 428.559,
+   "end": 431.551,
+   "text": "Josi, saiu a escala. Você folga domingo e segunda."
+  },
+  {
+   "clip": "078",
+   "who": "JOSI",
+   "sec": 10,
+   "start": 432.001,
+   "end": 435.73,
+   "text": "Domingo? Seu Hélio, faz onze anos que eu não folgo domingo."
+  },
+  {
+   "clip": "079",
+   "who": "SEU HÉLIO",
+   "sec": 10,
+   "start": 436.18,
+   "end": 439.808,
+   "text": "E tem uma coisa. A apresentação de fim de ano da escola é domingo, né?"
+  },
+  {
+   "clip": "080",
+   "who": "JOSI",
+   "sec": 10,
+   "start": 440.258,
+   "end": 441.277,
+   "text": "Como o senhor sabe?"
+  },
+  {
+   "clip": "081",
+   "who": "SEU HÉLIO",
+   "sec": 10,
+   "start": 441.727,
+   "end": 443.255,
+   "text": "A minha neta também vai ser árvore."
+  },
+  {
+   "clip": "082",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 443.705,
+   "end": 451.12,
+   "text": "No domingo, a escola abriu. O ônibus passou. O mercado tava aberto, com outra pessoa no caixa da Josi."
+  },
+  {
+   "clip": "083",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 451.47,
+   "end": 457.822,
+   "text": "E na primeira fila, sentados juntos, a Josi e o Seu Hélio. Vendo duas árvores."
+  },
+  {
+   "clip": "084",
+   "who": "LUANA",
+   "sec": 10,
+   "start": 458.272,
+   "end": 460.945,
+   "text": "Mãe! Você veio!"
+  },
+  {
+   "clip": "085",
+   "who": "JOSI",
+   "sec": 10,
+   "start": 461.395,
+   "end": 464.597,
+   "text": "Vim, filha. E sábado que vem eu venho de novo."
+  },
+  {
+   "clip": "086",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 465.047,
+   "end": 476.066,
+   "text": "E você? Trabalha em qual escala? O que você faria com um dia a mais de folga? E se você é dono de um pequeno negócio, como vai fazer a escala nova? Conta aqui embaixo. A gente lê tudo."
+  }
+ ]
+}

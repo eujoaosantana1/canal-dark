@@ -1,0 +1,15 @@
+VOZES NOVAS DO VÍDEO 6 — para criar no Voice Design do Google AI Studio
+
+1) DONA CHIQUINHA  (nome sugerido: Chiquinha Teresina)
+Descrição:
+Brazilian Portuguese female voice, 54 years old, from Teresina, Piauí. Northeastern Brazilian accent (Piauí), warm, cheerful and quick-witted street vendor who sells popsicles under the sun. Bright, slightly raspy from talking all day, playful laugh in the voice, open vowels, musical intonation. Medium pitch, lively pace.
+Frase de teste:
+Meu Deus do céu. O dindin tá mais quente que a rua! É gelado igual dindin! Igualzinho!
+
+2) ARLINDO  (nome sugerido: Arlindo Serra)
+Descrição:
+Brazilian Portuguese male voice, 61 years old, from the mountains of Santa Catarina (Serra Catarinense), southern Brazil. Southern accent with a slight Gaúcho/Catarinense melody, friendly teasing tone, proud of the cold, hearty and loud like he is calling across a snowy yard. Medium-low pitch, warm, a little bit of a show-off.
+Frase de teste:
+Prima! Olha aqui a janela! Nevou de novo! Neve é coisa pra pouca gente, prima. Mas a neve daqui só valia porque era só daqui.
+
+Depois de salvar cada uma: clique em "Copy voice ID" e me mande os códigos (começam com voice_).

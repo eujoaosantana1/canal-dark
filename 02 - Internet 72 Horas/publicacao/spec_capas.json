@@ -1,0 +1,12 @@
+[
+ {"nome":"A","img":"/tmp/vk/q72/187.5s_187.50.png",
+  "textos":[{"txt":"SÓ ELE","x":0.165,"y":0.40,"tam":118,"cor":"#FFE14D","giro":8},
+            {"txt":"ABRIU","x":0.165,"y":0.57,"tam":118,"cor":"#FFFFFF","giro":8},
+            {"txt":"72H SEM INTERNET","x":0.5,"y":0.88,"tam":96,"cor":"#FFFFFF","fundo":"#E62B2B","esp":0}]},
+ {"nome":"B","img":"/tmp/vk/q72/166.5s_166.50.png","zoom":1.15,"foco":[0.45,0.4],
+  "textos":[{"txt":"PUXARAM O CABO","x":0.5,"y":0.74,"tam":110,"cor":"#FFFFFF"},
+            {"txt":"DA INTERNET","x":0.5,"y":0.90,"tam":110,"cor":"#FFE14D"}]},
+ {"nome":"C","img":"/tmp/vk/q72/283.5s_283.50.png","zoom":1.1,"foco":[0.5,0.45],
+  "textos":[{"txt":"2 MILHÕES DE SEGUIDORES","x":0.5,"y":0.12,"tam":88,"cor":"#FFFFFF"},
+            {"txt":"R$ 0 NO BOLSO","x":0.5,"y":0.87,"tam":118,"cor":"#FFE14D"}]}
+]

@@ -1,0 +1,90 @@
+﻿clipe;personagem;status;problemas;texto do roteiro;o que foi ouvido;duração (s);tentativas
+001;NARRADOR;ERRO;faltando: centavos;Sete reais e trinta e sete centavos. É quanto vale uma hora de trabalho de quem ganha um salário mínimo no Brasil.;R$ 7,37. É quanto vale uma hora de trabalho de quem ganha um salário mínimo no Brasil?;7.33;3
+002;NARRADOR;OK;;A Tainá sabe esse número de cor. Porque ela não pensa em reais. Ela pensa em horas.;A tainá sabe esse número de cor, porque ela não pensa em reais, ela pensa em horas.;5.41;1
+003;TAINÁ;OK;;Passagem de ônibus? Quarenta e três minutos de trabalho.;Passagem de ônibus, 43 minutos de trabalho.;3.94;1
+004;TAINÁ;OK;;Botijão de gás? Quase dezesseis horas.;Butijão de gás, quase 16 horas.;3.3;1
+005;TAINÁ;OK;;Aluguel? Cento e duas horas. Mais de metade do mês.;Aluguel 102 horas, mais de metade do mês.;4.4;1
+006;NARRADOR;OK;;Em 2026, o salário mínimo é de mil seiscentos e vinte e um reais. E tem quase sessenta e dois milhões de brasileiros com a renda ligada a esse número.;Em 2026, o salário mínimo é de R$1.621 e tem quase 62 milhões de brasileiros com a renda ligada a esse número.;8.43;1
+007;NARRADOR;OK;;Hoje a gente vai acompanhar um mês inteiro da Tainá. Dia por dia. Pra descobrir até que dia o dinheiro chega.;Hoje a gente vai acompanhar um mês inteiro da Tainá, dia por dia, para descobrir até que dia o dinheiro chega.;6.66;1
+008;NARRADOR;OK;;E você? Até que dia do mês o seu salário dura? Guarda essa resposta. Fica até o fim, porque a Tainá vai fazer um pedido pro Universo. E o Universo vai atender. Do jeito dele.;E você? Até que dia do mês o seu salário dura. Guarda essa resposta. Fica até o fim porque a Tainá vai fazer um pedido para o universo e o universo vai atender do jeito dele.;11.47;1
+009;NARRADOR;OK;;A Tainá tem vinte e seis anos. Trabalha na limpeza de um prédio de escritórios na Avenida Paulista.;Atainá tem 26 anos, trabalha na limpeza de um prédio de escritórios na Avenida Paulista.;5.75;1
+010;NARRADOR;OK;;Ela mora em Guaianases, no fundo da zona leste. Num cômodo e cozinha, com o Davi, de sete anos.;Ela mora em Guayanazes, no fundo da zona leste, num cômodo e cozinha com o Davi, de sete anos.;6.01;1
+011;NARRADOR;OK;;Pra chegar no trabalho, é um ônibus, um trem e um pedaço a pé. Uma hora e quarenta pra ir. Uma hora e quarenta pra voltar.;Para chegar no trabalho, é um ônibus, um trem e um pedaço a pé. Uma hora e quarenta para ir, uma hora e quarenta para voltar.;7.59;1
+012;DAVI;OK;;Mãe, quando eu crescer eu vou trabalhar na Paulista também?;Mãe, quando eu crescer eu vou trabalhar na paulista também.;3.18;1
+013;TAINÁ;OK;;Vai. Mas vai entrar pela porta da frente.;Vai, mas vai entrar pela porta da frente.;3.07;1
+014;DAVI;OK;;Tem porta de trás?;tem importa de trás.;1.2;1
+015;TAINÁ;OK;;Tem. É a que eu entro.;Tem? É a que eu entro.;2.15;1
+016;NARRADOR;OK;;Dia cinco. O salário cai.;Dia 5. O salário cai.;2.02;1
+017;NARRADOR;OK;;Mil seiscentos e vinte e um reais. Só que esse número a Tainá nunca vê inteiro.;R$ 1.621, só que esse número atai na nunca-venteiro.;5.49;1
+018;NARRADOR;OK;;Antes de chegar na conta, já saem cento e vinte e um reais e cinquenta e oito de INSS.;Antes de chegar na conta, já saem R$ 121,58 de INSS?;5.08;1
+019;NARRADOR;OK;;E mais noventa e sete reais e vinte e seis de vale-transporte. Que a empresa paga a maior parte, mas desconta até seis por cento do salário.;e mais 97 reais e 26 de vale transporte, que a empresa paga a maior parte mas desconta até 6% do salário.;7.24;1
+020;NARRADOR;ERRO;"faltando: centavos; final diferente";O que chega no celular dela é mil quatrocentos e dois reais e dezesseis centavos.;O que chega no celular dela é R$ 1.402,16.;3.85;3
+021;TAINÁ;OK;;Oi, dinheiro. Prazer. Tchau, dinheiro.;Oi, dinheiro, prazer. Tchau, dinheiro.;2.8;1
+022;NARRADOR;OK;;E aí começa a fila.;E aí começa a fila.;1.93;1
+023;SEU ADEMIR;OK;;Bom dia, Tainá! Dia dez tá chegando, hein.;Bom dia, Tainá! Dia 10 tá chegando, hein?;2.58;1
+024;NARRADOR;OK;;Aluguel do cômodo: setecentos e cinquenta reais. Sobram seiscentos e cinquenta e dois.;a loguel do cômodo setecentos e cinquenta reais. Sobram seiscentos e cinquenta e dois.;5.51;2
+025;NARRADOR;OK;;Conta de luz: noventa e cinco. Água: sessenta. Sobram quatrocentos e noventa e sete.;Conta de luz 95. Água 60. Sobram 497.;4.69;1
+026;NARRADOR;OK;;O gás acabou bem no meio do arroz. Botijão novo: cento e quinze. Sobram trezentos e oitenta e dois.;O gás acabou bem no meio do arroz, botijão novo 115, sobram 382.;6.15;1
+027;NARRADOR;OK;;Crédito do celular, que é por onde ela recebe a escala do serviço: trinta e cinco. Sobram trezentos e quarenta e sete reais e dezesseis centavos.;Crédito do celular, que é por onde ela recebe a escala do serviço, 35. Sobram 347 reais e 16 centavos.;8.85;3
+028;NARRADOR;OK;;E é isso que fica pra comida do mês inteiro. Pra duas pessoas.;E é isso que fica para a comida do mês inteiro, para duas pessoas.;4.08;1
+029;TAINÁ;OK;;Trezentos e quarenta e sete dividido por trinta dias.;347 dividido por 30 dias.;3.8;1
+030;NARRADOR;OK;;Onze reais e cinquenta e sete por dia. Pros dois. Menos de seis reais por pessoa, por dia.;R$11,57 por dia, pros dois, menos de R$6 por pessoa por dia.;6.02;3
+031;DAVI;OK;;Mãe, dá pra comprar um lanche com seis reais?;Mãe, dá pra comprar um lanche com 6 reais?;2.96;1
+032;TAINÁ;OK;;Dá pra comprar meio.;da para comprar meio.;2.34;1
+033;NARRADOR;OK;;Pra ter uma ideia, o DIEESE mede todo mês o preço da cesta básica. Arroz, feijão, carne, leite, pão, café, óleo, legumes. A quantidade que um adulto precisa por mês.;Para ter uma ideia, o DIES mede todo mês o preço da cesta básica, arroz, feijão, carne, leite, pão, café, óleo, legumes, a quantidade que um adulto precisa por mês.;10.98;1
+034;NARRADOR;OK;;Em setembro, a cesta mais cara do Brasil foi a de São Paulo. Novecentos e vinte e dois reais e cinquenta e um centavos.;Em setembro, a cesta mais cara do Brasil foi a de São Paulo, 922 reais e 51 centavos.;6.69;1
+035;NARRADOR;OK;;Pra comprar essa cesta ganhando o mínimo, a pessoa precisa trabalhar cento e vinte e cinco horas. Mais de quinze dias de serviço. Só pra comer.;Para comprar essa cesta ganhando mínimo, a pessoa precisa trabalhar a 125 horas, mais de 15 dias de serviço, só para comer.;7.78;1
+036;NARRADOR;OK;;E a Tainá não tem novecentos. Tem trezentos e quarenta e sete. Pra dois.;e a Tainá não tem 900, tem 347 para 2.;4.28;1
+037;NARRADOR;OK;;Então ela faz o que milhões de pessoas fazem. Compra no atacadão. Troca a carne por ovo. Troca o ovo por salsicha. E faz faxina no sábado.;Então ela faz o que milhões de pessoas fazem, compra no atacadão, troca carne por ovo, troca o ovo por salsicha e faz faxina no sábado.;8.22;1
+038;TAINÁ;OK;;Duas faxinas por mês. Cento e oitenta cada. É o que salva o mês.;Duas fascinas por mês, 180 cada, é o que salva o mês.;3.92;1
+039;NARRADOR;OK;;E o sábado, que devia ser de descanso, vira o segundo emprego.;e o sábado que devia ser de descanso vira o segundo emprego.;3.14;1
+040;NARRADOR;OK;;Mesmo assim, no dia vinte e dois, o dinheiro acaba.;Mesmo assim, no dia 22, o dinheiro acaba.;2.27;1
+041;NARRADOR;OK;;A geladeira tem meia caixa de leite, três ovos e um pote de margarina que na verdade é feijão congelado.;Na geladeira tem meia caixa de leite, três ovos e um pote de margarina que na verdade é feijão congelado.;7.0;1
+042;DAVI;OK;;Mãe, o mês tá acabando?;Mãe, o mês está acabando?;1.64;1
+043;TAINÁ;OK;;O mês não. O dinheiro.;O mês não. O dinheiro.;1.54;1
+044;NARRADOR;OK;;Aí vem a lista de sempre. Fiado na mercearia. Pix emprestado da irmã. Passe do ônibus contado moeda por moeda.;Aí vem a lista de sempre, fiado na mercearia, pixie emprestado da irmã, passe do ônibus contado moeda por moeda.;7.67;1
+045;TAINÁ;OK;;Faltam oito dias. Oito dias é o quê? Sessenta horas de trabalho. Eu já trabalhei elas. Só não recebi ainda.;faltam oito dias. Oito dias é o quê? Sessenta horas de trabalho? Eu já trabalhei elas, só não recebi ainda.;7.36;1
+046;NARRADOR;OK;;E foi nessa noite que a Tainá fez uma coisa que ela nunca tinha feito.;e foi nessa noite que a Tainá fez uma coisa que ela nunca tinha feito.;3.72;1
+047;NARRADOR;OK;;Ela escreveu um pedido. Pro Universo.;ela escreveu um pedido para o universo.;2.5;1
+048;TAINÁ;OK;;Querido Universo. Não precisa me dar dinheiro. Só faz o meu salário durar até o fim do mês. Obrigada. Tainá.;Querido universo, não precisa me dar dinheiro. Só faz o meu salário durar até o fim do mês. Obrigada. Tainá.;7.15;1
+049;NARRADOR;OK;;E o pedido subiu. Direto pra Repartição do Universo.;e o pedido subiu, direto para a repartição do universo.;3.48;1
+050;CONTADOR;OK;;Hum. Pedido número dois mil e vinte e seis, barra, mil seiscentos e vinte e um. Fazer o salário durar até o fim do mês.;Hm, pedido número 2026 barra 1621. Fazer o salário durar até o fim do mês.;8.32;1
+051;CONTADOR;OK;;Aumentar salário não é aqui. Isso é com outra repartição.;Aumentar salário não é aqui, isso é com outra repartição.;3.31;1
+052;CONTADOR;OK;;Mas fazer o dinheiro durar até o fim do mês... isso eu consigo.;Mas fazer o dinheiro durar até o fim do mês, isso eu consigo.;4.25;1
+053;TÉCNICO;OK;;Consegue como?;Consegue como?;0.99;1
+054;CONTADOR;OK;;O dinheiro dela dura dezoito dias. Então a gente faz o mês ter dezoito dias.;O dinheiro dela dura 18 dias, então a gente faz o mês ter 18 dias.;4.94;1
+055;TÉCNICO;OK;;Isso não vai dar certo.;Isso não vai dar certo.;1.14;1
+056;CONTADOR;OK;;Deferido.;Deferido.;0.64;1
+057;NARRADOR;OK;;E no dia seguinte, o calendário do Brasil inteiro tinha dezoito dias.;E no dia seguinte, o calendário do Brasil inteiro tinha 18 dias.;4.26;1
+058;NARRADOR;OK;;E funcionou. No dia dezoito, a Tainá ainda tinha dinheiro. Pouco, mas tinha.;e funcionou. No dia 18, a Tainá ainda tinha dinheiro. Pouco, mas tinha.;4.96;1
+059;TAINÁ;OK;;Davi! Chegou no fim do mês! Sobrou dinheiro!;Davi! Chegou no fim do mês! Sobrou dinheiro!;3.58;1
+060;DAVI;OK;;Quanto?;Quanto?;0.54;1
+061;TAINÁ;OK;;Quatro reais!;R$4.;1.08;1
+062;NARRADOR;OK;;Só que dia dezoito virou dia um. E o dia um tinha uma surpresa.;Só que dia 18 virou dia 1, e o dia 1 tinha uma surpresa.;4.89;1
+063;SEU ADEMIR;OK;;Bom dia, Tainá! Mês novo, aluguel novo!;Bom dia, Tainá! Mês novo, aluguel novo.;3.22;1
+064;TAINÁ;OK;;Mas eu paguei faz dezoito dias!;Mas eu paguei faz 18 dias.;2.49;1
+065;SEU ADEMIR;OK;;E o mês tem dezoito dias. Tá no calendário.;e o mês tem 18 dias. Está no calendário.;2.54;1
+066;NARRADOR;OK;;A conta de luz também passou a vir a cada dezoito dias. A de água também. O crédito do celular também.;A conta de luz também passou a vir a cada 18 dias, a de água também, o crédito do celular também.;7.19;1
+067;NARRADOR;OK;;E o salário?;e o salário.;0.76;1
+068;TAINÁ;OK;;Dia cinco eu recebo, né?;Dia 5 eu recebo, né?;1.28;1
+069;NARRADOR;OK;;A empresa da Tainá continuou pagando a cada trinta dias. Quem paga, demora pra mudar de calendário.;A empresa da Tainá continuou pagando a cada 30 dias. Quem paga demora para mudar de calendário.;6.62;1
+070;TAINÁ;OK;;Universo!;Universo.;0.79;1
+071;CONTADOR;OK;;Indeferido. Desfaz. Desfaz.;Indiferido. Desfaz. Desfaz.;1.81;1
+072;TÉCNICO;OK;;Eu avisei.;Eu avisei.;0.73;1
+073;NARRADOR;OK;;Porque o problema da Tainá nunca foi o tamanho do mês. Foi o tamanho do salário perto do tamanho da conta.;Porque o problema da Tainá nunca foi o tamanho do mês. Foi o tamanho do salário, perto do tamanho da conta.;6.58;1
+074;NARRADOR;OK;;E o Contador do Universo resolveu fazer a conta direito.;E o contador do universo resolveu fazer a conta direito.;3.7;1
+075;CONTADOR;OK;;A Constituição diz que o salário mínimo tem que pagar comida, casa, saúde, educação, roupa, higiene, transporte, lazer e previdência. Pra pessoa e pra família.;A Constituição diz que o salário mínimo tem que pagar comida, casa, saúde, educação, roupa, higiene, transporte, lazer e previdência, para a pessoa e para a família.;11.91;1
+076;CONTADOR;OK;;O DIEESE pegou a cesta mais cara do país e fez essa conta pra uma família de quatro pessoas.;O DIESI pegou a cesta mais cara do país e fez essa conta para uma família de 4 pessoas.;5.55;1
+077;CONTADOR;OK;;Em setembro deu sete mil, setecentos e cinquenta reais. Quase cinco vezes o salário de hoje.;Em setembro, deu R$ 7.750, quase cinco vezes o salário de hoje.;6.22;1
+078;NARRADOR;ERRO;faltando: virgula;E aqui tem dois lados. O mínimo subiu acima da inflação em 2026: seis vírgula setenta e nove por cento, cento e três reais a mais.;E aqui tem dois lados, o mínimo subiu acima da inflação em 2026, 6,79%, 103 reais a mais.;9.07;3
+079;NARRADOR;OK;;E muito economista lembra que subir tudo de uma vez pesaria na padaria, no salão, na pequena empresa que paga o mínimo. E nas aposentadorias, que andam junto com ele.;E muita economista lembra que subir tudo de uma vez pesaria na padaria, no salão, na pequena empresa que paga o mínimo e nas aposentadorias que andam junto com ele.;10.06;1
+080;CONTADOR;OK;;O que a Repartição sabe é o seguinte: a conta da Tainá não fecha. E a dela é a conta de milhões.;O que a repartição sabe é o seguinte, a conta da Tainá não fecha, e a dela é a conta de milhões.;6.21;1
+081;NARRADOR;OK;;Dia cinco de novo. O salário cai. A fila começa.;Dia 5 de novo, no salário cai, a fila começa.;3.8;1
+082;SEU ADEMIR;OK;;Bom dia, Tainá!;Bom dia, Taina!;0.68;1
+083;TAINÁ;OK;;Bom dia, Seu Ademir. Tá aqui. Cento e duas horas.;Bom dia, seu Ademir. Tá aqui. 102 horas.;3.44;1
+084;NARRADOR;OK;;E naquela noite, o Davi quebrou o cofrinho de garrafa.;E naquela noite, o Davi quebrou o cofrinho de garrafa.;3.93;1
+085;DAVI;OK;;Mãe, quanto vale uma hora sua?;Mãe, quanto vale uma hora sua?;2.06;1
+086;TAINÁ;OK;;Sete e trinta e sete.;sete e trinta e sete.;1.85;1
+087;DAVI;OK;;Então toma. Sete e trinta e sete. Agora você é minha por uma hora. Pra brincar.;Então toma 7,37. Agora você é minha por uma hora, pra brincar.;6.6;1
+088;NARRADOR;OK;;Foi a hora mais bem paga do mês.;foi a hora mais bem paga do mês.;2.04;1
+089;NARRADOR;OK;;E você? Até que dia do mês o seu salário chega? E quanto vale uma hora sua? Conta aqui embaixo. A gente lê tudo.;E você? Até que dia do mês o seu salário chega, e quanto vale uma hora sua? Conta aqui embaixo. A gente lê tudo.;8.09;1

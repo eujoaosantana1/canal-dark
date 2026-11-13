@@ -1,0 +1,721 @@
+{
+ "001": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "débito ou crédito.",
+  "dur": 1.48,
+  "tent": 1
+ },
+ "005": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O Pix também caiu senhora.",
+  "dur": 1.65,
+  "tent": 1
+ },
+ "002": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Débito!",
+  "dur": 0.71,
+  "tent": 1
+ },
+ "004": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Faz no Pix, então.",
+  "dur": 1.15,
+  "tent": 1
+ },
+ "003": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A maquininha pensou, pensou e respondeu sem conexão.",
+  "dur": 4.73,
+  "tent": 1
+ },
+ "006": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "sexta-feira seis da tarde dia de pagamento fila do mercado até a calçada e ninguém ninguém mesmo tinha uma nota de 10 no bolso",
+  "dur": 9.72,
+  "tent": 1
+ },
+ "007": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: pix duas",
+   "sobrando: piques dois"
+  ],
+  "ouvido": "Numa sexta-feira de pagamento, o Brasil já fez 319 milhões de piques num dia só. Naquela sexta, fez zero. E ficou assim por 72 horas.",
+  "dur": 10.19,
+  "tent": 3
+ },
+ "008": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: duas",
+   "sobrando: dois"
+  ],
+  "ouvido": "E você, quanto tempo aguentaria? Fica até o fim, porque o mais estranho dessas 72 horas não foi o que parou, foi quem continuou funcionando.",
+  "dur": 9.84,
+  "tent": 3
+ },
+ "009": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Jurandir, seu jura, 71 anos, dono do Mercadinho do Jura, em Carápico, Iba, a 38 anos.",
+  "dur": 7.13,
+  "tent": 1
+ },
+ "010": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Não tem Pix, não tem WhatsApp, não sabe a senha do wi-fi da própria casa.",
+  "dur": 4.83,
+  "tent": 1
+ },
+ "011": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tem um rádio de pilha, uma lata de biscoito cheia de troco e um caderninho de fiado. O mesmo caderninho desde 1988.",
+  "dur": 9.15,
+  "tent": 1
+ },
+ "016": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Domingo, almoço na casa da filha e na cabeceira o genho Tiago, ou como ele se apresenta Tiago Trends.",
+  "dur": 8.17,
+  "tent": 1
+ },
+ "017": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dois milhões de seguidores vem de curso de como ficar rico pelo celular.",
+  "dur": 4.5,
+  "tent": 1
+ },
+ "021": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E aí veio a frase.",
+  "dur": 0.93,
+  "tent": 1
+ },
+ "023": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Riram. A dúvida não. Ela olhou pro avô, raspando o prato em silêncio e pensou. Mas ele existe.",
+  "dur": 6.12,
+  "tent": 1
+ },
+ "026": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ninguém riu dessa.",
+  "dur": 1.56,
+  "tent": 2
+ },
+ "027": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "3 da madrugada. No andar de cima do universo, tem um setor que ninguém lembra que existe. O suporte técnico do universo.",
+  "dur": 7.71,
+  "tent": 1
+ },
+ "028": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "fone na orelha, caneca de café e uma tela com 8 bilhões de pessoas conectadas.",
+  "dur": 5.86,
+  "tent": 1
+ },
+ "030": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "bilhões de reclamações iguais, então ele fez o que todo técnico do mundo manda fazer.",
+  "dur": 4.8,
+  "tent": 1
+ },
+ "032": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e puxou o cabo.",
+  "dur": 0.88,
+  "tent": 1
+ },
+ "035": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ora 0. Você já viu essa parte? O mercado grande travou, a farmácia travou, o posto travou.",
+  "dur": 6.78,
+  "tent": 1
+ },
+ "036": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "menos uma porta, a do Mercadinho do Jura.",
+  "dur": 2.9,
+  "tent": 1
+ },
+ "038": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Em meia hora, a fila do mercadinho dobrou a esquina.",
+  "dur": 2.57,
+  "tent": 1
+ },
+ "039": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hora 2 O grupo da família ficou em silêncio pela primeira vez em 10 anos. O WhatsApp está em quase todo o celular do Brasil, e de repente ninguém sabia o telefone de ninguém de cabeça.",
+  "dur": 10.87,
+  "tent": 1
+ },
+ "042": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hora 6, um motoboy parado no meio da avenida, olhando para o celular, sem mapa.",
+  "dur": 5.11,
+  "tent": 1
+ },
+ "047": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hora 12, sábado de manhã, a única notícia do país vinha do rádio de pilha do seu jura. Tinha gente sentada na calçada ouvindo junto, igual 1970.",
+  "dur": 9.5,
+  "tent": 1
+ },
+ "048": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o dinheiro vivo, aquela nota esquecida no fundo da gaveta, virou ouro. Hoje, dinheiro em espécie é só uns 12% do que o brasileiro paga nas lojas. Naquele sábado era 100%.",
+  "dur": 13.51,
+  "tent": 1
+ },
+ "049": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e a lata de biscoito do seu jura virou o único caixa eletrônico funcionando no bairro.",
+  "dur": 5.27,
+  "tent": 1
+ },
+ "050": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hora 24, Domingo, quem bate na porta do Mercadinho.",
+  "dur": 4.06,
+  "tent": 1
+ },
+ "056": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O Thiago tinha 2 milhões de seguidores e sabia de cabeça o telefone de exatamente uma pessoa, a mãe dele, que também estava sem internet.",
+  "dur": 9.57,
+  "tent": 1
+ },
+ "059": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas na hora 30, o caderninho começou a pesar.",
+  "dur": 2.94,
+  "tent": 1
+ },
+ "060": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O bairro inteiro comprando fiado, o estoque acabando e o caminhão do fornecedor não veio.",
+  "dur": 5.58,
+  "tent": 1
+ },
+ "062": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hora 40. Seu jura foi buscar o remédio da pressão no posto de saúde.",
+  "dur": 4.52,
+  "tent": 1
+ },
+ "066": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hora 48, dia de cair a aposentadoria. A aposentadoria cai na conta. A conta mora no banco e o banco mora na internet.",
+  "dur": 8.65,
+  "tent": 1
+ },
+ "067": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Foi aí que o seu jura entendeu. Ele não usava a internet, mas tudo que ele usava, usava.",
+  "dur": 5.93,
+  "tent": 1
+ },
+ "069": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E aqui a história do seu jura ensina uma coisa que quase ninguém sabe, a internet não é uma nuvem, é cabo.",
+  "dur": 7.24,
+  "tent": 1
+ },
+ "070": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Quase todos os dados que saem do Brasil para o mundo viajam por cabos no fundo do mar. E a maioria chega num lugar só, a Praia do Futuro, em Fortaleza. 16 cabos. Por ali, passa perto de 90% do tráfego de internet entre o Brasil e o resto do mundo.",
+  "dur": 16.33,
+  "tent": 1
+ },
+ "071": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Então, se esses cabos rompessem, o Brasil apagava? Não. E essa é a parte boa. De 70 a 80% do que a gente acessa já fica aqui dentro, no próprio país. A internet ia ficar lenta, esquisita, mas não sumia.",
+  "dur": 14.9,
+  "tent": 1
+ },
+ "072": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Na vida real, a internet não cai de uma vez. Ela cai aos pedaços. Em outubro de 2021, um erro de configuração derrubou o WhatsApp, Instagram e Facebook no mundo inteiro por umas seis horas. Seis horas. E o Brasil sentiu como se fosse uma semana.",
+  "dur": 17.83,
+  "tent": 1
+ },
+ "073": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hoje, 9 em cada 10 brasileiros usam internet, e os quase 18 milhões que não usam, iguais ao seu jura, dependem dela do mesmo jeito, pelo remédio, pela aposentadoria, pelo caminhão.",
+  "dur": 13.75,
+  "tent": 1
+ },
+ "074": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O problema nunca foi usar a internet, é depender só dela. Quem tem um caminho só, não tem caminho, tem sorte.",
+  "dur": 8.07,
+  "tent": 1
+ },
+ "075": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hora setenta. O telefone fixo do Mercadinho tocou. Aquele telefone que ninguém ligava desde 2010.",
+  "dur": 6.79,
+  "tent": 1
+ },
+ "079": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O Thiago estava do lado, ouvindo.",
+  "dur": 1.71,
+  "tent": 1
+ },
+ "082": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O seu jura fez conta de comerciante. Um mercadinho não abastece um bairro. E um caderninho não substitui um país.",
+  "dur": 7.36,
+  "tent": 1
+ },
+ "089": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O Thiago pagou R$ 312, em nota, com o dinheiro que o próprio seu jura tinha emprestado para ele no sábado.",
+  "dur": 7.0,
+  "tent": 1
+ },
+ "090": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A dívida continua exatamente do mesmo tamanho. Só mudou de página.",
+  "dur": 3.99,
+  "tent": 1
+ },
+ "091": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Lá em cima, o técnico apertou o botão, a internet voltou e ele abriu o próximo protocolo da fila.",
+  "dur": 6.0,
+  "tent": 1
+ },
+ "093": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O dedo dele parou em cima de um botão, encerrar chamado.",
+  "dur": 4.12,
+  "tent": 1
+ },
+ "095": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Segunda-feira, oito da manhã. Mercadinho do Jura. Na porta, uma plaquinha nova. O QR-code do PIX. E logo embaixo, escrito à mão, aceito também dinheiro e caderninho.",
+  "dur": 13.35,
+  "tent": 1
+ },
+ "100": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "De noite, a Duda pegou uma folha e escreveu à mão o telefone de todo mundo da família e colônia geladeira.",
+  "dur": 6.74,
+  "tent": 1
+ },
+ "101": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você, se a internet cair-se agora, quantos números de telefone você sabe de cabeça? Conta aí embaixo.",
+  "dur": 7.02,
+  "tent": 1
+ },
+ "012": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Vou, porque o senhor não aceita PIX!",
+  "dur": 2.2,
+  "tent": 1
+ },
+ "014": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Caderminho não caiu, vo!",
+  "dur": 1.6,
+  "tent": 1
+ },
+ "096": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Vou! O senhor colocou PIX!",
+  "dur": 2.68,
+  "tent": 1
+ },
+ "098": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Por que?",
+  "dur": 0.59,
+  "tent": 1
+ },
+ "013": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Porque o caderninho nunca caiu.",
+  "dur": 2.2,
+  "tent": 1
+ },
+ "015": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Pois é.",
+  "dur": 0.42,
+  "tent": 1
+ },
+ "019": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "uns 200 conheço todos pelo nome.",
+  "dur": 3.95,
+  "tent": 1
+ },
+ "025": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o fiado que você me deve desde 2019. Também é de graça?",
+  "dur": 3.47,
+  "tent": 1
+ },
+ "037": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Aqui é no dinheiro ou no caderninho.",
+  "dur": 2.09,
+  "tent": 1
+ },
+ "041": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "sei, está aqui no caderninho. Ela me deve 2 litros de leite.",
+  "dur": 4.25,
+  "tent": 1
+ },
+ "044": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Segunda direita, depois da padaria que fechou em 98.",
+  "dur": 3.69,
+  "tent": 1
+ },
+ "046": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Pergunta pra qualquer um com mais de 60.",
+  "dur": 1.97,
+  "tent": 1
+ },
+ "052": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mestre de quê?",
+  "dur": 0.85,
+  "tent": 1
+ },
+ "054": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Scala, né?",
+  "dur": 0.88,
+  "tent": 1
+ },
+ "058": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Já tá. Pagina 42, desde 2019.",
+  "dur": 3.64,
+  "tent": 1
+ },
+ "064": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas eu nem uso internet.",
+  "dur": 2.11,
+  "tent": 1
+ },
+ "068": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Então eu também estava ligado nesse fio, só não sabia.",
+  "dur": 3.14,
+  "tent": 1
+ },
+ "077": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Eu não tenho internet para reclamar.",
+  "dur": 1.85,
+  "tent": 1
+ },
+ "081": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o remédio da dona Lourdes Thiago, e o caminhão, e a minha aposentadoria. Rei de bairro sem remédio é só um véio com caderninho.",
+  "dur": 7.29,
+  "tent": 1
+ },
+ "083": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Põe de heliga.",
+  "dur": 0.7,
+  "tent": 1
+ },
+ "085": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Só uma coisa moço.",
+  "dur": 0.93,
+  "tent": 1
+ },
+ "087": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Antes de voltar ao Pix, o Tiago paga o fiado em dinheiro, página 42.",
+  "dur": 4.87,
+  "tent": 1
+ },
+ "097": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Coloquei, mas o caderninho fica.",
+  "dur": 2.39,
+  "tent": 1
+ },
+ "099": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Porque o caderninho nunca caiu.",
+  "dur": 2.0,
+  "tent": 1
+ },
+ "018": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Se eu jura, me diz uma coisa, quantos clientes o senhor tem?",
+  "dur": 3.52,
+  "tent": 1
+ },
+ "020": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "200? Eu tenho 2 milhões. E não conheço nenhum. Isso é escala, se eu jura.",
+  "dur": 6.28,
+  "tent": 1
+ },
+ "022": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Quem não tá na internet não existe!",
+  "dur": 2.18,
+  "tent": 2
+ },
+ "024": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Faz assim, eu coloco o Mercadinho no Instagram, de graça, família pra isso.",
+  "dur": 4.13,
+  "tent": 2
+ },
+ "051": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Seu jurua, meu sogro, meu ídolo, meu mestre!",
+  "dur": 3.9,
+  "tent": 2
+ },
+ "053": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "De tudo. Eu tô sem nada, seu jura. Dois milhões de seguidores e nenhum me empresta dez reais.",
+  "dur": 5.95,
+  "tent": 1
+ },
+ "055": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e escala.",
+  "dur": 0.9,
+  "tent": 1
+ },
+ "057": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Me coloca no caderninho se eu jura.",
+  "dur": 1.89,
+  "tent": 1
+ },
+ "080": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Aceita, seu jura. O senhor vai ser rei.",
+  "dur": 2.67,
+  "tent": 1
+ },
+ "029": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Protocolo número 1, a internet está lenta. Protocolo número 2, a internet está lenta. Protocolo número 3.",
+  "dur": 7.6,
+  "tent": 1
+ },
+ "031": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Já tentar não desligar e ligar de novo.",
+  "dur": 1.78,
+  "tent": 1
+ },
+ "033": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: duas",
+   "sobrando: dois"
+  ],
+  "ouvido": "Reinicialização completa, previsão de volta a 72 horas.",
+  "dur": 4.1,
+  "tent": 3
+ },
+ "034": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esqueci de avisa.",
+  "dur": 2.09,
+  "tent": 1
+ },
+ "076": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Alô, seu Jorandir, suporte técnico do universo. O senhor foi o único no Brasil que não abriu reclamação.",
+  "dur": 7.55,
+  "tent": 1
+ },
+ "078": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "justamente tenho uma proposta posso religar tudo ou posso deixar o seu bairro desligado para sempre o senhor vira o homem mais importante daqui o único que funciona",
+  "dur": 12.24,
+  "tent": 1
+ },
+ "084": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Heligand.",
+  "dur": 0.78,
+  "tent": 2
+ },
+ "086": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Pois não.",
+  "dur": 0.51,
+  "tent": 1
+ },
+ "088": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ah, é justo, aguardando o pagamento.",
+  "dur": 2.78,
+  "tent": 1
+ },
+ "092": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: duas",
+   "sobrando: dois"
+  ],
+  "ouvido": "Tiago Trends, 2 milhões de seguidores, reclamação. Fiquei 72 horas sem existir.",
+  "dur": 7.33,
+  "tent": 3
+ },
+ "094": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esse aqui vai aprender a anotar um telefone no papel.",
+  "dur": 2.93,
+  "tent": 1
+ },
+ "040": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Se eu jura, o senhor sabe o número da minha filha.",
+  "dur": 2.87,
+  "tent": 1
+ },
+ "043": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Moço, como é que eu chego na rua das flores?",
+  "dur": 2.1,
+  "tent": 1
+ },
+ "045": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E como é que eu vou saber qual padaria fechou em 98?",
+  "dur": 3.62,
+  "tent": 1
+ },
+ "061": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Seu juré, a carga está no caminhão, mas a nota é eletrônica, a rota é no aplicativo e o pedido é no sistema. Sem internet o caminhão cheio fica parado.",
+  "dur": 8.81,
+  "tent": 1
+ },
+ "063": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Seu Jorandir está sem sistema. Não consigo liberar.",
+  "dur": 3.56,
+  "tent": 1
+ },
+ "065": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O senhor não, mas o seu remédio usa.",
+  "dur": 2.31,
+  "tent": 1
+ }
+}

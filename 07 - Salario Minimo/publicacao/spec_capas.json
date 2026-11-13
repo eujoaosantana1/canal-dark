@@ -1,0 +1,62 @@
+[
+ {
+  "nome": "A",
+  "textos": [
+   {
+    "txt": "R$ 5,78",
+    "x": 0.84,
+    "y": 0.3,
+    "tam": 118,
+    "cor": "#FFE14D"
+   },
+   {
+    "txt": "POR DIA",
+    "x": 0.84,
+    "y": 0.52,
+    "tam": 86,
+    "cor": "#FFFFFF",
+    "fundo": "#E62B2B"
+   }
+  ],
+  "img": "/tmp/vs/viralstick/projects/salario-minimo/build/stills/168.6s_168.60.png"
+ },
+ {
+  "nome": "B",
+  "zoom": 1.1,
+  "foco": [
+   0.5,
+   0.55
+  ],
+  "textos": [
+   {
+    "txt": "ACABOU NO DIA 22",
+    "x": 0.5,
+    "y": 0.88,
+    "tam": 100,
+    "cor": "#FFFFFF",
+    "fundo": "#E62B2B"
+   }
+  ],
+  "img": "/tmp/vs/viralstick/projects/salario-minimo/build/stills/220.6s_220.60.png"
+ },
+ {
+  "nome": "C",
+  "textos": [
+   {
+    "txt": "MÊS DE",
+    "x": 0.82,
+    "y": 0.42,
+    "tam": 96,
+    "cor": "#FFE14D"
+   },
+   {
+    "txt": "18 DIAS?!",
+    "x": 0.82,
+    "y": 0.62,
+    "tam": 96,
+    "cor": "#FFFFFF"
+   }
+  ],
+  "img": "/tmp/vs/viralstick/projects/salario-minimo/build/stills/321.6s_321.60.png"
+ }
+]

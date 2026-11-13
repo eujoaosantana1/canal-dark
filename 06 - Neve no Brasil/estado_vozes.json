@@ -1,0 +1,589 @@
+{
+ "001": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Teresina, meio dia, a cidade onde o termômetro passa dos 40 graus.",
+  "dur": 5.19,
+  "tent": 1
+ },
+ "002": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E naquele meio dia, o termômetro da praça marcava menos três.",
+  "dur": 4.92,
+  "tent": 1
+ },
+ "003": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e cair a neve em cima da ponte, em cima das mangueiras, em cima do carrinho de dindinda dona chiquinha.",
+  "dur": 6.44,
+  "tent": 1
+ },
+ "005": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esse ano, a capital mais quente do Brasil chegou a 41 graus, e o lugar mais frio do país, em Santa Catarina, já marcou mais de 8 graus abaixo de zero.",
+  "dur": 8.75,
+  "tent": 1
+ },
+ "006": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Naquela semana, o Brasil inteiro virou Santa Catarina no inverno, ou pior.",
+  "dur": 4.99,
+  "tent": 1
+ },
+ "007": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você, aguentaria uma semana de neve na sua cidade? Fica até o fim, porque quem mais sofreu com a neve não foi terezina. Foi justamente o lugar que mais entende de frio.",
+  "dur": 10.82,
+  "tent": 1
+ },
+ "008": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Francisca, dona chiquinha, 54 anos, vende dindinha a 30 anos numa praça de terezina.",
+  "dur": 7.12,
+  "tent": 1
+ },
+ "009": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "din din de cajá, de coco, de goiaba, um real cada, num carrinho de isopor, que ela empurra debaixo do sol.",
+  "dur": 8.63,
+  "tent": 1
+ },
+ "010": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Nunca teve um casaco, nunca precisou.",
+  "dur": 2.31,
+  "tent": 1
+ },
+ "011": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e tem um sonho que ela nunca contou pra ninguém, ver neve, uma vez só na vida.",
+  "dur": 5.22,
+  "tent": 1
+ },
+ "013": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E todo mês de julho, o celular da dona Chiquinha toca. É o primar lindo de Uru Pema, a cidade mais fria do Brasil.",
+  "dur": 7.65,
+  "tent": 1
+ },
+ "019": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ela riu, desligou e ficou um tempão olhando por isopor.",
+  "dur": 4.45,
+  "tent": 1
+ },
+ "020": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Naquela noite, no andar de cima do universo, o técnico do suporte técnico do universo estava atolado de protocolos.",
+  "dur": 7.8,
+  "tent": 1
+ },
+ "024": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ele devia ter escrito Teresina, uma tarde, escreveu o Brasil, sete dias.",
+  "dur": 5.76,
+  "tent": 1
+ },
+ "026": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dia 1. O Encanto.",
+  "dur": 1.65,
+  "tent": 1
+ },
+ "027": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Nevoou em Teresina, em Salvador, em Manaus, em Copacabana, criança fazendo boneco de neve na areia, gente filmando tudo.",
+  "dur": 8.51,
+  "tent": 1
+ },
+ "028": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E a dona chiquinha, no meio da praça de chinelo, com os braços abertos, rindo sozinha.",
+  "dur": 5.68,
+  "tent": 1
+ },
+ "030": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dia 2, o frio entrou em casa.",
+  "dur": 2.6,
+  "tent": 1
+ },
+ "031": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E aí o Brasil descobriu uma coisa, a maioria das casas daqui foi feita para aguentar calor, não frio. Pared fina, piso de cerâmica, telha sem forro, janela com fresta, não tem aquecimento. O frio entra e fica.",
+  "dur": 15.0,
+  "tent": 1
+ },
+ "032": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ninguém tinha casaco. A Dona Chiquinha vestiu três camisas de time, duas meias em cada pé, e enrolou uma toalha na cabeça.",
+  "dur": 7.5,
+  "tent": 1
+ },
+ "034": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dia 3. O chuveiro.",
+  "dur": 1.56,
+  "tent": 1
+ },
+ "035": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "7 da manhã, milhões de brasileiros girando o chuveiro elétrico para o inverno ao mesmo tempo. Um chuveiro desses puxa de 3.200 a 7.700 watts.",
+  "dur": 10.98,
+  "tent": 1
+ },
+ "036": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Em inverno normal, o chuveiro e companhia já podem deixar a conta de luz até 30% mais cara. Imagina com neve.",
+  "dur": 6.92,
+  "tent": 1
+ },
+ "037": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O disjuntor da dona xiquinha caiu, o da vizinha caiu, o do bairro caiu.",
+  "dur": 6.93,
+  "tent": 1
+ },
+ "038": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dia 4, o cafezinho.",
+  "dur": 2.6,
+  "tent": 1
+ },
+ "039": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Café é planta de clima quente. Em julho de 2021, uma ajeada forte atingiu entre 150 e 200 mil hectares de café em Minas Gerais. Em uma semana, a saca subiu mais de 15%.",
+  "dur": 15.03,
+  "tent": 1
+ },
+ "040": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Foi uma geada, numa região com neve no país inteiro, não ia sobrar café nem para passar o susto.",
+  "dur": 7.36,
+  "tent": 1
+ },
+ "041": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o Jinjin? Ninguém comprou um. Pela primeira vez em 30 anos, a dona Chiquinha voltou para casa com o isopor cheio.",
+  "dur": 7.44,
+  "tent": 1
+ },
+ "042": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dia 5. O celular tocou de novo. Era o ar lindo, mas a voz era outra.",
+  "dur": 6.22,
+  "tent": 1
+ },
+ "046": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Europema tem uns 2700 moradores e vive de quem sobe a serra no inverno para ver aquilo que o resto do Brasil não tem.",
+  "dur": 8.09,
+  "tent": 1
+ },
+ "049": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O lugar mais preparado para o frio estava aquecido, vestido e sem nenhum cliente.",
+  "dur": 5.52,
+  "tent": 1
+ },
+ "050": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E porque o Brasil não leva, afinal.",
+  "dur": 2.08,
+  "tent": 1
+ },
+ "051": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Para levar, precisa de duas coisas ao mesmo tempo, o ar abaixo de zero e humidade no céu. No Brasil, as duas só se encontram de verdade num pedacinho do mapa, nas serras do Sul acima de mil metros de altitude.",
+  "dur": 13.51,
+  "tent": 1
+ },
+ "052": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Na Serra Catarinense, a neve é rara, mas aparece quase todo ano, entre maio e agosto.",
+  "dur": 5.3,
+  "tent": 1
+ },
+ "053": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: virgula virgula"
+  ],
+  "ouvido": "O recorde oficial recente de Frio em Santa Catarina é de 10,9 graus abaixo de zero em Bom Jardim da Serra, em 2023. E no Morro da Igreja, em Urubici, já marcaram menos 17,8, em 1996, sem estação oficial, mas marcaram.",
+  "dur": 18.83,
+  "tent": 3
+ },
+ "054": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O resto do país é tropical, e tudo aqui foi pensado para isso. A casa, o chuveiro, a roupa, a plantação, até o din-din.",
+  "dur": 9.15,
+  "tent": 1
+ },
+ "055": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dia 6. O telefone da dona Chiquinha tocou mais uma vez. Só que dessa vez não era o Arlindo.",
+  "dur": 6.89,
+  "tent": 2
+ },
+ "059": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A dona Chiquinha olhou pela janela a praça branquinha, a coisa mais bonita que ela já tinha visto.",
+  "dur": 5.96,
+  "tent": 1
+ },
+ "060": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Depois lembrou do disjuntor do bairro, do café, do isopor cheio e da voz do primo.",
+  "dur": 5.42,
+  "tent": 1
+ },
+ "065": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E em cinco minutos, Terezina voltou por os 38 graus, a neve escorreu pelo meio fio e o primeiro dindim do dia foi vendido às cinco e meia da tarde.",
+  "dur": 9.5,
+  "tent": 1
+ },
+ "066": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Sete meses depois, julho, o celular da dona Chiquinha tocou.",
+  "dur": 4.38,
+  "tent": 1
+ },
+ "072": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E foi assim que a dona Chiquinha viu neve pela segunda vez na vida, dessa vez no lugar certo, numa varanda de urupema, de casaco emprestado, segurando um chocolate quente.",
+  "dur": 10.78,
+  "tent": 1
+ },
+ "075": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E em dezembro, quem desceu de ônibus em Terezina foi o Arlindo, 40 graus na sombra, camisa grudada nas costas.",
+  "dur": 8.71,
+  "tent": 1
+ },
+ "078": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ela abriu o isopor.",
+  "dur": 1.08,
+  "tent": 1
+ },
+ "082": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Lá em cima, o técnico do universo arquivou o protocolo e colocou um bilhete no monitor. Neve, som e urupema. Não mexer.",
+  "dur": 8.22,
+  "tent": 1
+ },
+ "083": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você? Já viu neve de verdade ou já encarou 40 graus na sombra? Conta aqui embaixo de onde você é e qual é o clima que você não troca por nada.",
+  "dur": 9.67,
+  "tent": 2
+ },
+ "004": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Meu Deus do céu, o Dindin tá mais quente que a rua.",
+  "dur": 3.52,
+  "tent": 1
+ },
+ "012": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Só pra saber se é gelado igual dindim!",
+  "dur": 2.55,
+  "tent": 1
+ },
+ "015": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "bonito, Arlindo, aqui tá 38!",
+  "dur": 3.28,
+  "tent": 1
+ },
+ "017": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E vocês aí, acho que 30 é calou!",
+  "dur": 2.21,
+  "tent": 1
+ },
+ "029": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "É gelado, igual dindin, igualzinho.",
+  "dur": 2.54,
+  "tent": 1
+ },
+ "033": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tô parecendo um dinh dinh de três sabores.",
+  "dur": 3.62,
+  "tent": 1
+ },
+ "044": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Vazia, em pleno inverno, com neve!",
+  "dur": 2.78,
+  "tent": 1
+ },
+ "057": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Atendido demais, moço.",
+  "dur": 1.66,
+  "tent": 1
+ },
+ "061": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Desliga, moço.",
+  "dur": 0.94,
+  "tent": 1
+ },
+ "063": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tenho! Mas deixa a neve onde ela mora. Lá em Europema! O Arlindo precisa dela mais que eu.",
+  "dur": 5.1,
+  "tent": 1
+ },
+ "068": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Para quem?",
+  "dur": 0.84,
+  "tent": 1
+ },
+ "070": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Eu não tenho casaco, Arlindo.",
+  "dur": 1.66,
+  "tent": 1
+ },
+ "073": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Sabe o que é mais bonito aqui?",
+  "dur": 1.17,
+  "tent": 1
+ },
+ "077": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "do mesmo jeito que vocês vivem lá, cada um com o seu.",
+  "dur": 2.65,
+  "tent": 1
+ },
+ "079": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: toma caja",
+   "início diferente",
+   "sobrando: entao"
+  ],
+  "ouvido": "Então, decaja por conta da casa.",
+  "dur": 1.99,
+  "tent": 3
+ },
+ "081": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Igualzinho!",
+  "dur": 0.88,
+  "tent": 1
+ },
+ "014": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Prima! Olha aqui a janela! Nevou de novo!",
+  "dur": 3.0,
+  "tent": 1
+ },
+ "016": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "38? Vocês aí acham que 20 graus é frio?",
+  "dur": 4.36,
+  "tent": 1
+ },
+ "018": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Neve é coisa pra pouca gente prima, você nunca vai ver isso aí em Terezina",
+  "dur": 4.67,
+  "tent": 1
+ },
+ "043": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Prima, estou com a pousada vazia.",
+  "dur": 2.53,
+  "tent": 1
+ },
+ "045": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Com o neve no Brasil inteiro, prima. Quem é que vai subir a serra pra ver neve se tem neve na porta de casa?",
+  "dur": 6.54,
+  "tent": 1
+ },
+ "047": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A gente aqui sabe viver no frio, tem lareira, tem lenha, tem casaco, a gente tá quentinho.",
+  "dur": 6.37,
+  "tent": 1
+ },
+ "048": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas a neve daqui só valia porque era só daqui.",
+  "dur": 3.56,
+  "tent": 1
+ },
+ "067": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Prima, a pousada está lotada e eu guardei um quarto.",
+  "dur": 3.77,
+  "tent": 1
+ },
+ "069": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Para você, passagem paga com lucro do inverno. Traz casaco?",
+  "dur": 4.52,
+  "tent": 1
+ },
+ "071": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Eu sei! Já comprei!",
+  "dur": 1.37,
+  "tent": 1
+ },
+ "074": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "É que aqui ela é de casa.",
+  "dur": 2.0,
+  "tent": 1
+ },
+ "076": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Prima, como é que vocês vivem aqui?",
+  "dur": 2.38,
+  "tent": 1
+ },
+ "080": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "É gelado igual neve.",
+  "dur": 1.72,
+  "tent": 2
+ },
+ "021": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O protocolo está muito calor, o protocolo está muito calor, o protocolo está muito calor.",
+  "dur": 5.57,
+  "tent": 1
+ },
+ "022": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esse é diferente. Remetente Francisca Terezina Pedido ver neve uma vez na vida.",
+  "dur": 6.82,
+  "tent": 1
+ },
+ "023": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e se dá pra resolver. Neve, Brasil, confirmar.",
+  "dur": 4.64,
+  "tent": 1
+ },
+ "025": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hum, esqueci de avisar, de novo.",
+  "dur": 2.43,
+  "tent": 1
+ },
+ "056": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dona Francisca, aqui é do suporte técnico do universo, seu pedido de neve foi atendido.",
+  "dur": 6.08,
+  "tent": 1
+ },
+ "058": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Pois é, eu posso desligar agora, mas aí a senhora não vê mais neve, ou posso deixar até o fim da semana.",
+  "dur": 7.22,
+  "tent": 1
+ },
+ "062": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tem certeza?",
+  "dur": 0.85,
+  "tent": 1
+ },
+ "064": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Desligando Brasil Modo Tropical. Confirmar.",
+  "dur": 4.79,
+  "tent": 1
+ }
+}

@@ -1,0 +1,2171 @@
+[
+[
+"001",
+[
+0,
+1
+],
+"hora",
+{
+"set": "casa_noite",
+"setOpts": {
+"escuro": true,
+"led": true
+},
+"label": "23H",
+"h": 11
+}
+],
+[
+"001",
+[
+2,
+3
+],
+"tomada",
+{
+"em": "televisao"
+}
+],
+[
+"002",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa_noite",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"003",
+null,
+"tomada",
+{
+"em": "tirou"
+}
+],
+[
+"004",
+null,
+"close",
+{
+"k": "GUI",
+"set": "casa_noite",
+"expr": "shocked"
+}
+],
+[
+"005",
+null,
+"cena",
+{
+"set": "casa_noite",
+"chars": [
+{
+"k": "NEIDE",
+"x": 820,
+"expr": "smug",
+"facing": 1
+},
+{
+"k": "GUI",
+"x": 1180,
+"expr": "worried",
+"facing": -1
+}
+]
+}
+],
+[
+"006",
+null,
+"contas",
+{
+"contas": [
+{
+"ano": "NOV/2025",
+"kwh": 200,
+"valor": "182,00"
+}
+]
+}
+],
+[
+"007",
+[
+0,
+0
+],
+"cena",
+{
+"set": "casa",
+"chars": [
+{
+"k": "NEIDE",
+"x": 900,
+"pose": "reach",
+"expr": "angry"
+}
+],
+"texto": "APAGA • CORTA • TIRA DA TOMADA"
+}
+],
+[
+"007",
+[
+1,
+2
+],
+"pct",
+{
+"pct": 10,
+"rotulo": "MENOS ENERGIA",
+"cor": "#43a047",
+"fundo": "#1b5e20",
+"texto": "CONSUMO"
+}
+],
+[
+"008",
+null,
+"contas",
+{
+"contas": [
+{
+"ano": "NOV/2025",
+"kwh": 200,
+"valor": "182,00"
+},
+{
+"ano": "NOV/2026",
+"kwh": 180,
+"valor": "186,00",
+"destaque": "valor"
+}
+],
+"em": [
+0.0,
+"oitenta"
+],
+"seta": true,
+"setaEm": "veio"
+}
+],
+[
+"009",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "angry",
+"side": "R"
+}
+],
+[
+"010",
+null,
+"close",
+{
+"k": "GUI",
+"set": "casa",
+"expr": "confused"
+}
+],
+[
+"011",
+[
+0,
+1
+],
+"voce2",
+{
+"balao": "A MINHA SUBIU!"
+}
+],
+[
+"011",
+[
+2,
+2
+],
+"fica2",
+{
+"k": "NEIDE",
+"set": "casa"
+}
+],
+[
+"011",
+[
+3,
+4
+],
+"cartela",
+{
+"linhas": [
+"UM PEDAÇO DA CONTA",
+"NEM ERA DELA"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "rays_vermelho"
+}
+],
+[
+"012",
+null,
+"ficha2",
+{
+"k": "NEIDE",
+"nome": "DONA NEIDE",
+"linhas": [
+"63 ANOS",
+"COSTUREIRA",
+"MAUÁ (SP)",
+"MÁQUINA DE 1979"
+],
+"em": [
+"sessenta",
+"costureira",
+"maua",
+"1979"
+],
+"cor": "#ad1457"
+}
+],
+[
+"013",
+null,
+"ampulheta",
+{}
+],
+[
+"014",
+[
+0,
+0
+],
+"medidor",
+{
+"num": "04512"
+}
+],
+[
+"014",
+[
+1,
+1
+],
+"medidor",
+{
+"num": "04512",
+"texto": "HÁ 11 ANOS",
+"textoEm": "onze"
+}
+],
+[
+"015",
+null,
+"cena",
+{
+"set": "casa",
+"chars": [
+{
+"k": "NEIDE",
+"x": 700,
+"expr": "neutral"
+},
+{
+"k": "GUI",
+"x": 1150,
+"facing": -1,
+"expr": "smile",
+"pose": "phone"
+}
+]
+}
+],
+[
+"016",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"017",
+null,
+"close",
+{
+"k": "GUI",
+"set": "casa",
+"expr": "confused"
+}
+],
+[
+"018",
+null,
+"cena",
+{
+"set": "casa",
+"chars": [
+{
+"k": "NEIDE",
+"x": 700,
+"expr": "angry",
+"pose": "point"
+},
+{
+"k": "GUI",
+"x": 1150,
+"facing": -1,
+"expr": "sad"
+}
+],
+"z": [
+1.05,
+1.12
+]
+}
+],
+[
+"019",
+null,
+"cena",
+{
+"set": "muro",
+"chars": [
+{
+"k": "NEIDE",
+"x": 560,
+"expr": "neutral"
+},
+{
+"k": "MARCAO",
+"x": 1550,
+"facing": -1,
+"expr": "smug"
+}
+],
+"z": [
+1.0,
+1.04
+]
+}
+],
+[
+"020",
+[
+0,
+0
+],
+"cena",
+{
+"set": "muro",
+"chars": [
+{
+"k": "MARCAO",
+"x": 1550,
+"facing": -1,
+"expr": "happy"
+}
+],
+"z": [
+1.35,
+1.45
+],
+"x": 330,
+"y": -330,
+"texto": "LIGADO DESDE MARÇO"
+}
+],
+[
+"020",
+[
+1,
+1
+],
+"cena",
+{
+"set": "muro",
+"chars": [
+{
+"k": "MARCAO",
+"x": 1250,
+"facing": 1,
+"expr": "happy"
+}
+],
+"z": [
+1.25,
+1.35
+],
+"x": 480,
+"y": 150,
+"texto": "PISCINA COM BOMBA"
+}
+],
+[
+"020",
+[
+2,
+2
+],
+"cena",
+{
+"set": "muro",
+"chars": [
+{
+"k": "MARCAO",
+"x": 1500,
+"facing": -1,
+"expr": "smug",
+"pose": "crossArms"
+}
+],
+"z": [
+1.25,
+1.35
+],
+"x": 700,
+"y": 0,
+"texto": "LUZ ACESA DE DIA"
+}
+],
+[
+"021",
+null,
+"close",
+{
+"k": "MARCAO",
+"set": "muro",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"022",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "muro",
+"expr": "confused"
+}
+],
+[
+"023",
+null,
+"contas",
+{
+"set": "muro",
+"contas": [
+{
+"ano": "CONTA DO MARCÃO",
+"kwh": "38",
+"valor": "38,00",
+"destaque": "valor"
+}
+]
+}
+],
+[
+"024",
+null,
+"cena",
+{
+"set": "muro",
+"chars": [
+{
+"k": "NEIDE",
+"x": 600,
+"expr": "confused",
+"look": [
+0.9,
+-0.3
+]
+},
+{
+"k": "MARCAO",
+"x": 1550,
+"facing": -1,
+"expr": "smug"
+}
+],
+"z": [
+1.0,
+1.08
+]
+}
+],
+[
+"025",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "muro",
+"expr": "tired"
+}
+],
+[
+"026",
+null,
+"close",
+{
+"k": "MARCAO",
+"set": "muro",
+"expr": "happy",
+"side": "R"
+}
+],
+[
+"027",
+[
+0,
+0
+],
+"cena",
+{
+"set": "muro",
+"chars": [],
+"z": [
+1.5,
+1.65
+],
+"x": 260,
+"y": -290,
+"texto": ""
+}
+],
+[
+"027",
+[
+1,
+1
+],
+"cartela",
+{
+"linhas": [
+"AINDA."
+],
+"fundo": "#111"
+}
+],
+[
+"028",
+[
+0,
+0
+],
+"cena",
+{
+"set": "casa_noite",
+"chars": [
+{
+"k": "NEIDE",
+"x": 900,
+"expr": "tired",
+"pose": "phone"
+}
+]
+}
+],
+[
+"028",
+[
+1,
+2
+],
+"espera",
+{
+"de": 38,
+"ate": 40,
+"texto": "40 MINUTOS NA ESPERA"
+}
+],
+[
+"029",
+null,
+"cartela",
+{
+"linhas": [
+"SUPORTE TÉCNICO",
+"DO UNIVERSO"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#5e35b1"
+}
+],
+[
+"030",
+null,
+"mesa_ceu",
+{
+"k": "TECNICO",
+"expr": "tired",
+"tela": [
+"A INTERNET TÁ LENTA",
+"A INTERNET TÁ LENTA",
+"A INTERNET TÁ LENTA"
+]
+}
+],
+[
+"031",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa_noite",
+"expr": "angry",
+"side": "R",
+"fone": false
+}
+],
+[
+"032",
+null,
+"close",
+{
+"k": "TECNICO",
+"set": "suporte",
+"expr": "confused"
+}
+],
+[
+"033",
+[
+0,
+0
+],
+"mesa_ceu",
+{
+"k": "CONTADOR",
+"expr": "neutral",
+"reparticao": true
+}
+],
+[
+"033",
+[
+1,
+1
+],
+"ficha2",
+{
+"k": "CONTADOR",
+"nome": "O CONTADOR",
+"linhas": [
+"DO UNIVERSO",
+"ÓCULOS NA PONTA",
+"CARIMBO NA MÃO"
+],
+"cor": "#5e35b1"
+}
+],
+[
+"034",
+null,
+"carimbo",
+{
+"linhas": [
+"RECLAMANTE: NEIDE",
+"ASSUNTO: ECONOMIZEI E",
+"A CONTA SUBIU"
+],
+"txt": "RECEBIDO",
+"em": "reclamacao"
+}
+],
+[
+"035",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smile"
+}
+],
+[
+"036",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa_noite",
+"expr": "angry",
+"side": "R"
+}
+],
+[
+"037",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smug"
+}
+],
+[
+"038",
+[
+0,
+0
+],
+"cena",
+{
+"set": "casa",
+"chars": [
+{
+"k": "NEIDE",
+"x": 1100,
+"expr": "surprised",
+"facing": -1
+}
+],
+"z": [
+1.0,
+1.05
+]
+}
+],
+[
+"038",
+[
+1,
+1
+],
+"conta_fila",
+{
+"n": 5,
+"chegam": "fila",
+"conta": true,
+"neideExpr": "shocked"
+}
+],
+[
+"039",
+null,
+"conta_fila",
+{
+"n": 5,
+"chegam": 0,
+"texto": "R$ 186,00 EM 5 PEDAÇOS"
+}
+],
+[
+"040",
+[
+0,
+0
+],
+"fatias",
+{
+"ate": 1,
+"em": [
+"dezoito"
+]
+}
+],
+[
+"040",
+[
+1,
+1
+],
+"fatias",
+{
+"ate": 5,
+"em": [
+0,
+0.2,
+0.5,
+0.8,
+1.1
+],
+"dest": null
+}
+],
+[
+"041",
+null,
+"conta_fila",
+{
+"n": 5,
+"dest": 0
+}
+],
+[
+"042",
+null,
+"fatias",
+{
+"ate": 5,
+"dest": 1,
+"em": [
+0,
+0,
+0,
+0,
+0
+],
+"texto": "MENOS DA METADE",
+"textoEm": "metade"
+}
+],
+[
+"043",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "shocked",
+"side": "R"
+}
+],
+[
+"044",
+[
+0,
+0
+],
+"conta_fila",
+{
+"n": 5,
+"dest": 1
+}
+],
+[
+"044",
+[
+1,
+1
+],
+"poste_corte",
+{
+"em": 99
+}
+],
+[
+"045",
+null,
+"fatias",
+{
+"ate": 5,
+"dest": 2,
+"em": [
+0,
+0,
+0,
+0,
+0
+],
+"texto": "R$ 25 DE CADA R$ 100",
+"textoEm": "vinte"
+}
+],
+[
+"046",
+[
+0,
+1
+],
+"conta_fila",
+{
+"n": 5,
+"dest": 2
+}
+],
+[
+"046",
+[
+2,
+2
+],
+"cadeia",
+{
+"itens": [
+"USINA",
+"TORRES\n(CENTENAS DE KM)",
+"DISTRIBUIDORA",
+"SUA CASA"
+],
+"titulo": "O CAMINHO DA LUZ"
+}
+],
+[
+"047",
+null,
+"close",
+{
+"k": "TRANSM",
+"set": "casa",
+"expr": "tired",
+"side": "R"
+}
+],
+[
+"048",
+null,
+"conta_fila",
+{
+"n": 5,
+"dest": 3
+}
+],
+[
+"049",
+null,
+"envelope",
+{
+"itens": [
+"NÃO PAGA",
+"A SUA LUZ",
+"PAGA A LUZ",
+"DOS OUTROS"
+],
+"em": [
+"encargo",
+"pedaco",
+"paga",
+"outros"
+]
+}
+],
+[
+"050",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "confused",
+"side": "R"
+}
+],
+[
+"051",
+[
+0,
+0
+],
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "neutral"
+}
+],
+[
+"051",
+[
+1,
+4
+],
+"envelope",
+{
+"em": [
+"baixa",
+"amazonia",
+"painel",
+"usina"
+],
+"texto": "GRÁTIS ATÉ 80 kWh: BAIXA RENDA",
+"textoEm": "baixa"
+}
+],
+[
+"051",
+[
+5,
+5
+],
+"conta_fila",
+{
+"n": 5,
+"dest": 3,
+"texto": "DIVIDIDO ENTRE TODO MUNDO"
+}
+],
+[
+"052",
+[
+0,
+1
+],
+"cartela",
+{
+"linhas": [
+"CONTA DE",
+"DESENVOLVIMENTO",
+"ENERGÉTICO (CDE)"
+],
+"fundo": "#37474f",
+"tam": 100
+}
+],
+[
+"052",
+[
+2,
+2
+],
+"numero",
+{
+"pre": "R$ ",
+"ate": 52.66,
+"rotulo": "CDE EM 2026 (BILHÕES)",
+"sep": false,
+"fundo": "rays_azul",
+"suf": " BI",
+"dec": 2
+}
+],
+[
+"052",
+[
+3,
+4
+],
+"numero",
+{
+"pre": "R$ ",
+"ate": 47.8,
+"rotulo": "SAI DA CONTA DE LUZ (+15,4%)",
+"sep": false,
+"fundo": "rays_vermelho",
+"suf": " BI",
+"dec": 1
+}
+],
+[
+"053",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "worried",
+"side": "R"
+}
+],
+[
+"054",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "tired"
+}
+],
+[
+"055",
+null,
+"conta_fila",
+{
+"n": 5,
+"sofa": true,
+"dest": 4
+}
+],
+[
+"056",
+[
+0,
+1
+],
+"cartela",
+{
+"linhas": [
+"ICMS",
+"PIS • COFINS"
+],
+"cores": [
+"#ffd23f",
+"#fff"
+],
+"fundo": "rays_vermelho",
+"sub": "O ICMS É CERCA DE 81% DOS TRIBUTOS"
+}
+],
+[
+"056",
+[
+2,
+3
+],
+"cadeia",
+{
+"itens": [
+"ENERGIA",
+"DISTRIBUIÇÃO",
+"TRANSMISSÃO",
+"ENCARGO",
+"+ IMPOSTO\nEM CIMA"
+],
+"titulo": "IMPOSTO EM CIMA DE TUDO"
+}
+],
+[
+"057",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "shocked",
+"side": "R"
+}
+],
+[
+"058",
+null,
+"close",
+{
+"k": "IMPOSTO",
+"set": "casa",
+"expr": "smug"
+}
+],
+[
+"059",
+null,
+"cena",
+{
+"set": "casa",
+"chars": [
+{
+"k": "NEIDE",
+"x": 600,
+"expr": "surprised",
+"look": [
+0.8,
+-0.6
+]
+}
+],
+"z": [
+1.0,
+1.06
+],
+"texto": "A BANDEIRA"
+}
+],
+[
+"060",
+[
+0,
+1
+],
+"bandeira",
+{
+"modo": "chuva",
+"em": "nao"
+}
+],
+[
+"060",
+[
+2,
+3
+],
+"bandeira",
+{
+"modo": "chuva",
+"em": 0.0
+}
+],
+[
+"061",
+[
+0,
+1
+],
+"bandeira",
+{
+"modo": "ano",
+"em": "amarela"
+}
+],
+[
+"061",
+[
+2,
+2
+],
+"bandeira",
+{
+"modo": "cores",
+"em": [
+0,
+0.2,
+0.4,
+"vermelha"
+]
+}
+],
+[
+"062",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "tired",
+"side": "R"
+}
+],
+[
+"063",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smug"
+}
+],
+[
+"064",
+[
+0,
+0
+],
+"cartela",
+{
+"linhas": [
+"TODO ANO",
+"O QUILOWATT SOBE"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#c62828"
+}
+],
+[
+"064",
+[
+1,
+2
+],
+"barras",
+{
+"titulo": "2026",
+"a": [
+"TARIFA (ANEEL)",
+9.4,
+"#e53935"
+],
+"b": [
+"INFLAÇÃO",
+5,
+"#90caf9"
+],
+"em": [
+"nove",
+"inflacao"
+],
+"suf": "%",
+"fundo": "#263238"
+}
+],
+[
+"065",
+null,
+"barras",
+{
+"titulo": "EM 15 ANOS",
+"a": [
+"CONTA DE LUZ",
+177,
+"#ffd23f"
+],
+"b": [
+"INFLAÇÃO",
+122,
+"#90caf9"
+],
+"em": [
+"cento",
+"inflacao"
+]
+}
+],
+[
+"066",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "neutral"
+}
+],
+[
+"067",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "sad",
+"side": "R"
+}
+],
+[
+"068",
+[
+0,
+1
+],
+"contas",
+{
+"contas": [
+{
+"ano": "SEM ECONOMIZAR",
+"kwh": 200,
+"valor": "206,00"
+},
+{
+"ano": "ECONOMIZANDO",
+"kwh": 180,
+"valor": "186,00",
+"destaque": "kwh"
+}
+],
+"em": [
+0,
+"economizando"
+]
+}
+],
+[
+"068",
+[
+2,
+2
+],
+"cartela",
+{
+"linhas": [
+"CORREU PRA FICAR",
+"NO MESMO LUGAR"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "rays_azul"
+}
+],
+[
+"069",
+[
+0,
+1
+],
+"conta_fila",
+{
+"n": 5,
+"sofa": true
+}
+],
+[
+"069",
+[
+2,
+4
+],
+"conta_fila",
+{
+"n": 5,
+"sofa": true,
+"gato": true,
+"chegam": 0,
+"z": [
+1.15,
+1.3
+],
+"cx": 500
+}
+],
+[
+"070",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "confused",
+"side": "R"
+}
+],
+[
+"071",
+null,
+"conta_fila",
+{
+"n": 5,
+"sofa": true,
+"gato": true,
+"gatoNome": true,
+"z": [
+1.3,
+1.45
+],
+"cx": 600,
+"texto": "O GATO"
+}
+],
+[
+"072",
+null,
+"cena",
+{
+"set": "muro",
+"chars": [],
+"z": [
+1.5,
+1.65
+],
+"x": 260,
+"y": -290,
+"texto": "LIGAÇÃO CLANDESTINA"
+}
+],
+[
+"073",
+[
+0,
+1
+],
+"cadeia",
+{
+"itens": [
+"LUZ\nSEM PAGAR",
+"PERDA",
+"REAJUSTE",
+"CONTA DE QUEM\nPAGA CERTO"
+],
+"titulo": "PRA ONDE VAI O GATO",
+"em": [
+"luz",
+"perda",
+"reajuste",
+"conta"
+]
+}
+],
+[
+"073",
+[
+2,
+3
+],
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "tired"
+}
+],
+[
+"074",
+null,
+"pct",
+{
+"pct": 14.3,
+"rotulo": "PERDAS COMERCIAIS (MÉDIA NO PAÍS)",
+"cor": "#e53935",
+"fundo": "#212121",
+"texto": "INCLUI FURTO DE ENERGIA",
+"dec": 1
+}
+],
+[
+"075",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "angry",
+"side": "R"
+}
+],
+[
+"076",
+null,
+"conta_fila",
+{
+"n": 5,
+"sofa": true,
+"gato": true,
+"gatoNome": true,
+"z": [
+1.3,
+1.4
+],
+"cx": 600
+}
+],
+[
+"077",
+null,
+"cena",
+{
+"set": "muro",
+"chars": [
+{
+"k": "MARCAO",
+"x": 1500,
+"facing": -1,
+"expr": "happy"
+}
+],
+"z": [
+1.35,
+1.45
+],
+"x": 330,
+"y": -330
+}
+],
+[
+"078",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "angry",
+"side": "R"
+}
+],
+[
+"079",
+null,
+"contas",
+{
+"set": "muro",
+"contas": [
+{
+"ano": "CONTA DO MARCÃO",
+"kwh": "38",
+"valor": "38,00",
+"destaque": "valor"
+}
+],
+"texto": "ECONÔMICO",
+"textoEm": "economico"
+}
+],
+[
+"080",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smile"
+}
+],
+[
+"081",
+[
+0,
+1
+],
+"conta_fila",
+{
+"n": 5,
+"sofa": true,
+"gato": true,
+"texto": "TIRA UM DA FILA. SÓ UM."
+}
+],
+[
+"081",
+[
+2,
+2
+],
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smug"
+}
+],
+[
+"082",
+null,
+"conta_fila",
+{
+"n": 5,
+"sofa": true,
+"gato": true,
+"neideExpr": "think",
+"neidePose": "think"
+}
+],
+[
+"083",
+null,
+"conta_fila",
+{
+"n": 5,
+"sofa": true,
+"gato": true,
+"dest": 4,
+"texto": "−18%",
+"textoEm": "dezoito",
+"textoCor": "#c62828"
+}
+],
+[
+"084",
+[
+0,
+0
+],
+"conta_fila",
+{
+"n": 5,
+"sofa": true,
+"gato": true,
+"dest": 3
+}
+],
+[
+"084",
+[
+1,
+1
+],
+"cena",
+{
+"set": "rua",
+"chars": [
+{
+"k": "LURDES",
+"x": 960,
+"expr": "smile"
+}
+],
+"texto": "DONA LURDES: ZERO ATÉ 80 kWh"
+}
+],
+[
+"085",
+null,
+"conta_fila",
+{
+"n": 5,
+"sofa": true,
+"gato": true,
+"dest": 0
+}
+],
+[
+"086",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "think",
+"side": "R"
+}
+],
+[
+"087",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "neutral"
+}
+],
+[
+"088",
+null,
+"conta_fila",
+{
+"n": 5,
+"sofa": true,
+"gato": true,
+"gatoNome": true,
+"dest": 5,
+"neideExpr": "angry",
+"neidePose": "point",
+"z": [
+1.0,
+1.08
+]
+}
+],
+[
+"089",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "surprised"
+}
+],
+[
+"090",
+[
+0,
+1
+],
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "neutral",
+"side": "R"
+}
+],
+[
+"090",
+[
+2,
+2
+],
+"conta_fila",
+{
+"n": 5,
+"sofa": true,
+"gato": true,
+"gatoNome": true,
+"neideExpr": "angry",
+"neidePose": "point",
+"z": [
+1.2,
+1.3
+],
+"cx": 600
+}
+],
+[
+"091",
+null,
+"carimbo",
+{
+"linhas": [
+"RECLAMANTE: NEIDE",
+"ASSUNTO: ECONOMIZEI E",
+"A CONTA SUBIU",
+"PEDIDO: TIRAR O GATO"
+],
+"em": 10.0
+}
+],
+[
+"092",
+null,
+"conta_fila",
+{
+"n": 5,
+"sofa": true,
+"gato": true,
+"fora": 5,
+"foraEm": "deferido",
+"carimbo": "DEFERIDO",
+"carimboEm": "deferido"
+}
+],
+[
+"093",
+[
+0,
+1
+],
+"poste_corte",
+{
+"em": 99
+}
+],
+[
+"093",
+[
+2,
+2
+],
+"poste_corte",
+{
+"em": 0.3
+}
+],
+[
+"094",
+null,
+"hora",
+{
+"set": "muro_off",
+"label": "MEIO-DIA",
+"h": 12,
+"chars": [
+{
+"k": "MARCAO",
+"x": 1450,
+"facing": -1,
+"expr": "shocked",
+"pose": "handsOnHead"
+}
+]
+}
+],
+[
+"095",
+null,
+"cena",
+{
+"set": "muro_off",
+"chars": [
+{
+"k": "NEIDE",
+"x": 560,
+"expr": "neutral"
+},
+{
+"k": "MARCAO",
+"x": 1180,
+"facing": -1,
+"expr": "worried",
+"pose": "wave"
+}
+]
+}
+],
+[
+"096",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "muro_off",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"097",
+null,
+"close",
+{
+"k": "MARCAO",
+"set": "muro_off",
+"expr": "sad"
+}
+],
+[
+"098",
+null,
+"marcao_tomada",
+{
+"neideExpr": "smile",
+"texto": "AQUI É NO RELÓGIO",
+"textoEm": "relogio"
+}
+],
+[
+"099",
+null,
+"marcao_tomada",
+{
+"marcaoExpr": "worried"
+}
+],
+[
+"100",
+null,
+"contas",
+{
+"set": "muro_off",
+"contas": [
+{
+"ano": "CONTA DO MARCÃO",
+"kwh": "265",
+"valor": "240,00",
+"destaque": "valor"
+}
+]
+}
+],
+[
+"101",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "muro_off",
+"expr": "happy",
+"side": "R"
+}
+],
+[
+"102",
+null,
+"contas",
+{
+"contas": [
+{
+"ano": "DEZ/2026",
+"kwh": 172,
+"valor": "179,00"
+}
+],
+"em": [
+"devagar"
+]
+}
+],
+[
+"103",
+null,
+"contas",
+{
+"contas": [
+{
+"ano": "DEZ/2026",
+"kwh": 172,
+"valor": "179,00",
+"destaque": "kwh"
+}
+]
+}
+],
+[
+"104",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "smile",
+"side": "R"
+}
+],
+[
+"105",
+null,
+"close",
+{
+"k": "GUI",
+"set": "casa",
+"expr": "confused"
+}
+],
+[
+"106",
+null,
+"cena",
+{
+"set": "casa",
+"chars": [
+{
+"k": "NEIDE",
+"x": 800,
+"expr": "smug",
+"pose": "point"
+},
+{
+"k": "GUI",
+"x": 1200,
+"facing": -1,
+"expr": "surprised"
+}
+]
+}
+],
+[
+"107",
+[
+0,
+0
+],
+"fatias",
+{
+"ate": 5,
+"em": [
+0,
+0,
+0,
+0,
+0
+],
+"titulo": "O QUE VEM DE FORA",
+"texto": "SÓ O kWh É SEU",
+"textoEm": "quilowatt"
+}
+],
+[
+"107",
+[
+1,
+2
+],
+"cadeia",
+{
+"itens": [
+"PREÇO",
+"BANDEIRA",
+"ENCARGO",
+"IMPOSTO",
+"kWh:\nSUA CASA"
+],
+"titulo": "DE FORA x DE DENTRO"
+}
+],
+[
+"108",
+null,
+"standby",
+{
+"em": "doze"
+}
+],
+[
+"109",
+null,
+"cena",
+{
+"set": "casa",
+"chars": [
+{
+"k": "GUI",
+"x": 900,
+"expr": "confused",
+"pose": "shrug"
+}
+],
+"z": [
+1.05,
+1.1
+]
+}
+],
+[
+"110",
+null,
+"close",
+{
+"k": "NEIDE",
+"set": "casa",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"111",
+[
+0,
+1
+],
+"cartela",
+{
+"linhas": [
+"O PREÇO DA LUZ",
+"NINGUÉM MUDA SOZINHO"
+],
+"fundo": "#37474f"
+}
+],
+[
+"111",
+[
+2,
+3
+],
+"cartela",
+{
+"linhas": [
+"A PARTE DELA",
+"ELA PAGA.",
+"SÓ A DELA."
+],
+"cores": [
+"#fff",
+"#ffd23f",
+"#ffd23f"
+],
+"fundo": "rays_verde"
+}
+],
+[
+"112",
+null,
+"mesa_ceu",
+{
+"k": "CONTADOR",
+"expr": "neutral",
+"reparticao": true,
+"texto": "PRÓXIMO PROTOCOLO",
+"textoY": 1000
+}
+],
+[
+"113",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smug"
+}
+],
+[
+"114",
+[
+0,
+3
+],
+"contas",
+{
+"contas": [
+{
+"ano": "SUA CONTA",
+"kwh": "???",
+"valor": "???",
+"destaque": "kwh"
+}
+]
+}
+],
+[
+"114",
+[
+4,
+5
+],
+"comenta2",
+{
+"pergunta": "QUANTOS kWh?\nQUANTO PAGOU?",
+"botao": "CONTA AQUI EMBAIXO"
+}
+]
+]

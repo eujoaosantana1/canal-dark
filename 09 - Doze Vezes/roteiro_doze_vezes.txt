@@ -1,0 +1,149 @@
+VÍDEO 9 — E SE DESSE PRA PARCELAR TUDO EM 12 VEZES
+(tema: o "12 vezes sem juros" e as parcelas que se somam)
+
+PERSONAGENS
+- KAUÃ, 24 anos, atendente de call center em Belo Horizonte. Ganha R$ 2.200. Tem 14 parcelas abertas em 14 lojas. Acha que "sem juros não é dívida".
+- DONA SOCORRO, mãe do Kauã. Anota tudo num caderno. Fala por ditado.
+- VENDEDOR, de loja de celular. "Doze vezes sem juros!"
+- CONTADOR DO UNIVERSO (dos vídeos anteriores), da Repartição do Universo.
+- TÉCNICO DO UNIVERSO (dos vídeos anteriores), participação curta.
+Vozes: todas já existem (nenhuma voz nova, nenhum sotaque).
+- NARRADOR: Bodi | KAUÃ: Thiago Trends 3 (voice_to6v4mxre2l5) | DONA SOCORRO: Nika | VENDEDOR: Ludo
+- CONTADOR: Mako | TÉCNICO: Tecnico do Universo 3 (voice_dzwwrtu23gc8)
+
+DADOS REAIS USADOS (fontes no fim)
+- Parcelado sem juros: 43,3% de tudo o que foi comprado no cartão de crédito no 3º trimestre de 2026, R$ 420,6 bilhões (Abecs).
+- Cerca de 85% dos consumidores pagam a fatura inteira até o vencimento (pesquisa Abecs/Datafolha).
+- Rotativo do cartão: 451,7% ao ano em setembro de 2026 (Banco Central); cerca de 15% ao mês.
+- Limite legal: juros e encargos do rotativo e do parcelamento da fatura não podem passar de 100% da dívida original (Lei 14.690/2023, em vigor desde janeiro de 2024).
+- Famílias endividadas: 81,6% em outubro de 2026 (CNC, Peic). Endividada = tem compromisso a pagar (cartão, carnê, empréstimo, financiamento etc.).
+- Inadimplentes: 84,2 milhões em setembro de 2026, recorde; dívida média de R$ 7.093; bancos e cartões são o 1º lugar das dívidas (27,16%) (Serasa).
+- Desconto à vista: a Lei 13.455/2017 permite preço diferente conforme o prazo e o meio de pagamento (o Procon entende que só como desconto, não como acréscimo).
+- Valores do Kauã (salário, parcelas, fatura, celular de R$ 3.000 ou R$ 2.700 no Pix) são dos personagens.
+  Parcelas do Kauã: celular 250, videogame 220, sofá 160, viagem 150, geladeira 150, moto 110, curso 90, academia 90, presente 90, jaqueta 60, perfume 50, tênis 45, óculos 40, fone 35 = R$ 1.540 por mês.
+
+========================================
+
+[1. ABERTURA]
+
+NARRADOR: Quatrocentos e vinte bilhões de reais. Foi o que os brasileiros compraram no cartão em só três meses, no famoso parcelado sem juros.
+NARRADOR: Quase metade de tudo o que passa no cartão de crédito no Brasil é dividido em vezes.
+VENDEDOR: Doze vezes sem juros! Sem entrada! É só assinar aqui!
+NARRADOR: E o Kauã assinou. Catorze vezes. Em catorze lojas diferentes.
+KAUÃ: Mas é sem juros, gente. Sem juros não é dívida. É organização.
+NARRADOR: Hoje a gente vai descobrir se o sem juros é mesmo sem juros. E o que acontece quando o Universo deixa o Kauã parcelar tudo. Tudo mesmo.
+NARRADOR: E você? Quantas parcelas tem abertas agora? Guarda esse número. Fica até o fim, porque o Universo atendeu o pedido do Kauã. Do jeito dele.
+
+[2. AS CATORZE PARCELAS]
+
+NARRADOR: O Kauã tem vinte e quatro anos. Trabalha num call center em Belo Horizonte e ganha dois mil e duzentos reais por mês.
+NARRADOR: Mora com a mãe, a Dona Socorro, que anota tudo num caderno. Menos as parcelas do filho, porque ele não conta.
+DONA SOCORRO: Kauã, chegou mais uma caixa no seu nome.
+KAUÃ: É um fone, mãe. Seis vezes de trinta e cinco. Nem sente.
+NARRADOR: E é verdade. Uma parcela sozinha ninguém sente. O problema é quando elas se encontram.
+NARRADOR: O celular: doze de duzentos e cinquenta. O videogame: dez de duzentos e vinte. O sofá: dez de cento e sessenta. A viagem pra praia: dez de cento e cinquenta.
+NARRADOR: A geladeira da mãe, o conserto da moto, o curso, a academia, o presente da namorada, a jaqueta, o perfume, o tênis, o óculos. E o fone.
+NARRADOR: Catorze parcelas. Somadas, mil quinhentos e quarenta reais por mês. Setenta por cento do salário. Antes de ele comprar um pão.
+
+[3. SEM JUROS?]
+
+NARRADOR: Mas era tudo sem juros. Então qual é o problema?
+NARRADOR: Volta lá na loja do celular. Na vitrine: três mil reais, em doze de duzentos e cinquenta.
+VENDEDOR: Mas se for no Pix, à vista, sai por dois mil e setecentos.
+KAUÃ: Ué. Se o parcelado é sem juros, por que o à vista é mais barato?
+VENDEDOR: Porque é promoção.
+NARRADOR: Não é bem promoção. Quando você parcela, a loja recebe aos poucos. Se ela quer o dinheiro antes, paga uma taxa pra antecipar. Mais a taxa da maquininha.
+NARRADOR: Muita loja coloca esse custo no preço. E desde dois mil e dezessete, a lei deixa a loja dar desconto pra quem paga à vista.
+NARRADOR: No celular do Kauã, os trezentos reais de diferença são os juros. Só que escondidos no preço.
+
+[4. A FATURA]
+
+NARRADOR: Dia dez. Chega a fatura.
+NARRADOR: As catorze parcelas: mil quinhentos e quarenta. Mais o mercado, o aplicativo de comida e a recarga do celular, tudo no cartão: seiscentos.
+NARRADOR: Total: dois mil cento e quarenta reais. O salário é dois mil e duzentos.
+KAUÃ: Sobram sessenta reais. Pro mês inteiro.
+DONA SOCORRO: E a conta de luz que você prometeu dividir comigo?
+KAUÃ: Mãe, dá pra parcelar a luz?
+NARRADOR: Então o Kauã fez o que muita gente faz. Pagou mil reais da fatura. E deixou o resto pra depois.
+NARRADOR: O resto, mil cento e quarenta reais, caiu no rotativo do cartão. Um dos juros mais caros do país: mais de quinze por cento ao mês.
+NARRADOR: No mês seguinte, além das catorze parcelas, vieram mais cento e setenta reais só de juros.
+
+[5. O PEDIDO]
+
+NARRADOR: E foi nessa noite, com a fatura aberta no celular, que o Kauã fez um pedido.
+KAUÃ: Querido Universo. O problema é que as coisas custam muito de uma vez só. Deixa eu parcelar tudo. Tudo mesmo. Em doze vezes sem juros. Valeu. Kauã.
+NARRADOR: E o pedido subiu. Direto pra Repartição do Universo.
+CONTADOR: Hum. Pedido número dois mil e vinte e seis, barra, doze. Parcelar tudo.
+TÉCNICO: Tudo o quê?
+CONTADOR: Tudo. Ele escreveu "tudo mesmo". Sublinhado duas vezes.
+TÉCNICO: Isso não vai dar certo.
+CONTADOR: Doze vezes sem juros. Deferido.
+
+[6. TUDO EM DOZE VEZES]
+
+NARRADOR: No dia seguinte, tudo no Brasil passou a ser em doze vezes.
+NARRADOR: A coxinha da padaria: doze de cinquenta centavos.
+KAUÃ: Isso! Comi uma coxinha e paguei cinquenta centavos!
+NARRADOR: O corte de cabelo: doze de três reais. O cafezinho: doze de vinte e cinco centavos. A passagem de ônibus: também em doze vezes.
+NARRADOR: E o Kauã, que nunca tinha dinheiro pra nada, de repente podia tudo. Tênis novo. Almoço pros amigos. Táxi.
+KAUÃ: Mãe! Eu tô rico! Em doze vezes, mas tô rico!
+DONA SOCORRO: Filho, rico em doze vezes é pobre por um ano.
+NARRADOR: Porque cada coxinha voltava no mês seguinte. E no outro. E no outro.
+NARRADOR: Três meses depois, o Kauã não tinha mais catorze parcelas. Tinha trezentas e oitenta e duas.
+NARRADOR: A fatura chegou num rolo de papel. Do tamanho do corredor.
+
+[7. O SALÁRIO EM DOZE VEZES]
+
+NARRADOR: E aí chegou o dia do pagamento.
+KAUÃ: Dia cinco! Salário!
+NARRADOR: O aplicativo do banco apitou. Depósito: cento e oitenta e três reais e trinta e três centavos.
+KAUÃ: Cento e oitenta e três?!
+NARRADOR: Primeira parcela de doze. Do salário dele. Sem juros.
+NARRADOR: A empresa também tinha recebido o pedido. Tudo em doze vezes. Inclusive o que ela pagava.
+KAUÃ: Universo! Meu salário não é coxinha!
+CONTADOR: O pedido dizia tudo. Tudo inclui o salário.
+TÉCNICO: Eu avisei.
+KAUÃ: Desfaz! Pelo amor de Deus, desfaz!
+CONTADOR: Desfazer também é em doze vezes.
+TÉCNICO: Contador.
+CONTADOR: Tá bom. Desfaz tudo. À vista.
+
+[8. OS DOIS LADOS DO SEM JUROS]
+
+NARRADOR: E o Brasil voltou ao normal. Até porque o parcelado sem juros é muito brasileiro.
+NARRADOR: No terceiro trimestre deste ano, quarenta e três por cento de tudo o que se comprou no cartão de crédito foi no parcelado sem juros. O dado é da Abecs, a associação das empresas de cartão.
+NARRADOR: E aqui tem dois lados.
+NARRADOR: De um lado, quando o preço à vista é igual ao parcelado, parcelar sem juros é um bom negócio. O dinheiro fica com você mais tempo. E a maioria paga a fatura certinho: oitenta e cinco por cento, numa pesquisa da Abecs com o Datafolha.
+NARRADOR: Do outro lado, o sem juros muitas vezes tem juros dentro do preço. E parcela pequena engana. Cada uma parece leve. Somadas, viram um segundo aluguel.
+DONA SOCORRO: Parcela é igual formiga. Uma não faz nada. Mil levam o açúcar.
+
+[9. A CONTA DO CONTADOR]
+
+CONTADOR: E a Repartição fez a conta do Brasil.
+CONTADOR: Em outubro, oitenta e um vírgula seis por cento das famílias tinham alguma dívida pra pagar. Cartão, carnê, empréstimo, financiamento. Oito em cada dez.
+CONTADOR: Em setembro, oitenta e quatro milhões e duzentas mil pessoas estavam com o nome negativado. Recorde. Com uma dívida média de sete mil reais.
+CONTADOR: E bancos e cartões estão em primeiro lugar na lista de quem cobra.
+CONTADOR: O rotativo do cartão, aquele de quando você paga só uma parte da fatura, chegou a quatrocentos e cinquenta e um por cento ao ano.
+NARRADOR: Desde dois mil e vinte e quatro, uma lei limita isso: os juros e encargos do rotativo não podem passar do valor da dívida original. Uma dívida de mil pode virar, no máximo, dois mil.
+CONTADOR: No máximo. A Repartição acha que dobrar já é bastante.
+
+[10. FINAL]
+
+NARRADOR: E o Kauã? Pegou o caderno da mãe emprestado.
+NARRADOR: Escreveu as catorze parcelas, uma embaixo da outra. Como conta fixa. Igual luz e água.
+KAUÃ: Mil quinhentos e quarenta. Tá. Agora eu tô vendo.
+NARRADOR: E passou a fazer uma pergunta antes de qualquer compra.
+KAUÃ: Moço, quanto fica no Pix?
+VENDEDOR: À vista? Dez por cento de desconto.
+KAUÃ: Então eu volto quando tiver o Pix.
+DONA SOCORRO: Esse é o meu filho. Em uma vez só.
+NARRADOR: E você? Quantas parcelas tem abertas agora? Somadas, quanto dão por mês? Conta aqui embaixo. A gente lê tudo.
+
+========================================
+FONTES
+- Abecs, Balanço do setor de meios eletrônicos de pagamento, 3º trimestre de 2026 (novembro de 2026): parcelado sem juros = 43,3% do valor no crédito, R$ 420,6 bilhões; pesquisa Abecs/Datafolha: cerca de 85% pagam a fatura integral até o vencimento.
+- Banco Central, Estatísticas monetárias e de crédito (29/10/2026): rotativo do cartão 451,7% ao ano em setembro de 2026.
+- Lei 14.690/2023: teto de 100% para juros e encargos do rotativo e do parcelamento da fatura (desde 3/1/2024).
+- CNC, Peic de outubro de 2026 (5/11/2026): 81,6% das famílias endividadas.
+- Serasa, Mapa da Inadimplência de setembro de 2026 (2/11/2026): 84,2 milhões de inadimplentes, R$ 597,4 bi, média R$ 7.093,83; bancos e cartões 27,16%.
+- Lei 13.455/2017 (preço diferenciado por prazo e meio de pagamento); Procon-SC e Procon-SP sobre desconto x acréscimo.

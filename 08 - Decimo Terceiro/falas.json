@@ -1,0 +1,524 @@
+[
+ {
+  "n": "001",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Trezentos e noventa e nove bilhões de reais. É o dinheiro que cai no bolso dos brasileiros entre novembro e dezembro. Só de décimo terceiro salário."
+ },
+ {
+  "n": "002",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "São noventa e nove milhões e setecentas mil pessoas. Em média, três mil setecentos e vinte reais pra cada uma."
+ },
+ {
+  "n": "003",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Agora imagina que, num ano, esse dinheiro simplesmente não viesse."
+ },
+ {
+  "n": "004",
+  "spk": "SEU NONATO",
+  "sec": 1,
+  "txt": "Não precisa imaginar, não. Eu pedi."
+ },
+ {
+  "n": "005",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Esse é o Seu Nonato. E ele pediu pro Universo acabar com o décimo terceiro."
+ },
+ {
+  "n": "006",
+  "spk": "CRIS",
+  "sec": 1,
+  "txt": "Ele pediu o quê?"
+ },
+ {
+  "n": "007",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Hoje a gente vai ver o que acontece com um Natal sem décimo terceiro. Com quem paga, com quem recebe e com quem vende."
+ },
+ {
+  "n": "008",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "E você? O seu décimo terceiro já tem dono? Guarda essa resposta. Fica até o fim, porque o Universo atendeu o pedido do Seu Nonato. Do jeito dele."
+ },
+ {
+  "n": "009",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "O Seu Nonato tem sessenta e um anos. Há trinta, tem uma loja de brinquedos e presentes na Rua Vinte e Cinco de Março, em São Paulo."
+ },
+ {
+  "n": "010",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Quatro funcionários. Uma vitrine com um Papai Noel que mexe o braço. E uma frase que ele repete todo ano."
+ },
+ {
+  "n": "011",
+  "spk": "SEU NONATO",
+  "sec": 2,
+  "txt": "Dezembro paga o ano. Se dezembro for bom, o resto eu aguento."
+ },
+ {
+  "n": "012",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "A vendedora mais antiga é a Cris. Trinta e quatro anos, nove de loja. Sabe o preço de cada carrinho de cabeça."
+ },
+ {
+  "n": "013",
+  "spk": "CRIS",
+  "sec": 2,
+  "txt": "Seu Nonato, o Papai Noel parou de mexer o braço de novo."
+ },
+ {
+  "n": "014",
+  "spk": "SEU NONATO",
+  "sec": 2,
+  "txt": "Dá um tapinha nele que volta."
+ },
+ {
+  "n": "015",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "E tem a cliente mais fiel da loja. A Dona Lurdes, aposentada, três netos."
+ },
+ {
+  "n": "016",
+  "spk": "DONA LURDES",
+  "sec": 2,
+  "txt": "Todo ano eu compro aqui. E todo ano eu pago com o décimo terceiro."
+ },
+ {
+  "n": "017",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "Só que antes de dezembro vem novembro. E novembro é o mês que o Seu Nonato mais tem medo."
+ },
+ {
+  "n": "018",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "A lei manda pagar a primeira parcela do décimo terceiro até o dia trinta de novembro. E a segunda, até o dia vinte de dezembro."
+ },
+ {
+  "n": "019",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "A folha da loja é de dez mil reais por mês. O décimo terceiro dá mais dez mil. Com o Fundo de Garantia, dez mil e oitocentos."
+ },
+ {
+  "n": "020",
+  "spk": "SEU NONATO",
+  "sec": 3,
+  "txt": "Dez mil e oitocentos. No mês em que eu ainda não vendi o Natal."
+ },
+ {
+  "n": "021",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "O contador da loja, o daqui da Terra, dá o mesmo conselho todo ano: guardar novecentos reais por mês, desde janeiro."
+ },
+ {
+  "n": "022",
+  "spk": "SEU NONATO",
+  "sec": 3,
+  "txt": "Em janeiro eu guardei. Em fevereiro o telhado pingou. Em março eu esqueci. Em abril eu desisti."
+ },
+ {
+  "n": "023",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Do outro lado do balcão, a Cris já fez a conta do décimo terceiro dela."
+ },
+ {
+  "n": "024",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Ela ganha dois mil e quatrocentos reais por mês. A primeira parcela vem inteira: mil e duzentos. A segunda vem com o desconto do INSS."
+ },
+ {
+  "n": "025",
+  "spk": "CRIS",
+  "sec": 4,
+  "txt": "Primeira parcela: fatura do cartão. Segunda parcela: o resto da fatura do cartão."
+ },
+ {
+  "n": "026",
+  "spk": "CRIS",
+  "sec": 4,
+  "txt": "E se sobrar alguma coisa, o presente do meu filho. Daqui da loja. Com desconto de funcionária."
+ },
+ {
+  "n": "027",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Numa pesquisa da Serasa, quatro em cada dez pessoas disseram que iam usar o décimo terceiro principalmente pra pagar dívida."
+ },
+ {
+  "n": "028",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "E a Dona Lurdes também tem o dela. Os aposentados e pensionistas do INSS são trinta e seis milhões de pessoas. E recebem, juntos, setenta bilhões e oitocentos milhões de reais de décimo terceiro."
+ },
+ {
+  "n": "029",
+  "spk": "DONA LURDES",
+  "sec": 4,
+  "txt": "É o único mês do ano em que eu sou rica. Dura uma semana. Mas eu sou."
+ },
+ {
+  "n": "030",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "E foi numa noite de novembro, fechando o caixa, que o Seu Nonato escreveu um pedido."
+ },
+ {
+  "n": "031",
+  "spk": "SEU NONATO",
+  "sec": 5,
+  "txt": "Querido Universo. Só esse ano. Um ano sem décimo terceiro. Eu juro que no ano que vem eu guardo os novecentos. Assinado, Nonato."
+ },
+ {
+  "n": "032",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "E o pedido subiu. Direto pra Repartição do Universo."
+ },
+ {
+  "n": "033",
+  "spk": "CONTADOR",
+  "sec": 5,
+  "txt": "Hum. Pedido número dois mil e vinte e seis, barra, treze. Um ano sem décimo terceiro."
+ },
+ {
+  "n": "034",
+  "spk": "TÉCNICO",
+  "sec": 5,
+  "txt": "Isso pode? Não é lei?"
+ },
+ {
+  "n": "035",
+  "spk": "CONTADOR",
+  "sec": 5,
+  "txt": "Está na lei desde mil novecentos e sessenta e dois. E na Constituição. Mas aqui na Repartição tem um botão pra suspender."
+ },
+ {
+  "n": "036",
+  "spk": "TÉCNICO",
+  "sec": 5,
+  "txt": "Suspender só pra ele, ou pro Brasil inteiro?"
+ },
+ {
+  "n": "037",
+  "spk": "CONTADOR",
+  "sec": 5,
+  "txt": "O pedido não especificou. Brasil inteiro."
+ },
+ {
+  "n": "038",
+  "spk": "TÉCNICO",
+  "sec": 5,
+  "txt": "Isso não vai dar certo."
+ },
+ {
+  "n": "039",
+  "spk": "CONTADOR",
+  "sec": 5,
+  "txt": "Deferido."
+ },
+ {
+  "n": "040",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "No dia seguinte, o décimo terceiro tinha sumido. Da lei, dos holerites, do aplicativo do banco. Do Brasil inteiro."
+ },
+ {
+  "n": "041",
+  "spk": "SEU NONATO",
+  "sec": 6,
+  "txt": "Dez mil e oitocentos reais economizados. Universo, você é um gênio."
+ },
+ {
+  "n": "042",
+  "spk": "CRIS",
+  "sec": 6,
+  "txt": "Seu Nonato... cadê o meu décimo terceiro?"
+ },
+ {
+  "n": "043",
+  "spk": "SEU NONATO",
+  "sec": 6,
+  "txt": "Esse ano não tem, Cris. Pra ninguém. Não fui eu. Foi o Universo."
+ },
+ {
+  "n": "044",
+  "spk": "CRIS",
+  "sec": 6,
+  "txt": "E a fatura do cartão? Também foi o Universo?"
+ },
+ {
+  "n": "045",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "A fatura da Cris não sumiu. Os juros do cartão também não. Só sumiu o dinheiro que ia pagar eles."
+ },
+ {
+  "n": "046",
+  "spk": "DONA LURDES",
+  "sec": 6,
+  "txt": "Moço do banco, o meu décimo terceiro não caiu."
+ },
+ {
+  "n": "047",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "O da Dona Lurdes também não. Nem o de mais trinta e seis milhões de aposentados e pensionistas."
+ },
+ {
+  "n": "048",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "No Brasil inteiro, trezentos e noventa e nove bilhões de reais deixaram de cair no bolso das pessoas. Quase três por cento de tudo o que o país produz num ano."
+ },
+ {
+  "n": "049",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "E aí chegou dezembro. O mês que paga o ano."
+ },
+ {
+  "n": "050",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "A Vinte e Cinco de Março, que nessa época mal dá pra andar, estava com espaço pra jogar bola."
+ },
+ {
+  "n": "051",
+  "spk": "SEU NONATO",
+  "sec": 7,
+  "txt": "Cris, cadê o povo?"
+ },
+ {
+  "n": "052",
+  "spk": "CRIS",
+  "sec": 7,
+  "txt": "O povo está em casa, Seu Nonato. Sem décimo terceiro."
+ },
+ {
+  "n": "053",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "A Dona Lurdes apareceu. Olhou a vitrine. Olhou a carteira."
+ },
+ {
+  "n": "054",
+  "spk": "DONA LURDES",
+  "sec": 7,
+  "txt": "Esse ano os netos vão ganhar um abraço. Bem apertado. É de graça e não quebra."
+ },
+ {
+  "n": "055",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "E o Universo, que é muito organizado, percebeu um problema."
+ },
+ {
+  "n": "056",
+  "spk": "CONTADOR",
+  "sec": 7,
+  "txt": "Natal sem dinheiro pra presente. Então não precisa de Natal. Corta o Natal."
+ },
+ {
+  "n": "057",
+  "spk": "TÉCNICO",
+  "sec": 7,
+  "txt": "Corta o Natal?!"
+ },
+ {
+  "n": "058",
+  "spk": "CONTADOR",
+  "sec": 7,
+  "txt": "A partir de hoje, dezembro se chama novembro, parte dois."
+ },
+ {
+  "n": "059",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "E o Papai Noel da vitrine parou de mexer o braço de vez. Ele foi suspenso também."
+ },
+ {
+  "n": "060",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "No fim do mês, o Seu Nonato fez as contas. Economizou dez mil e oitocentos de décimo terceiro. E deixou de vender quase quarenta mil reais."
+ },
+ {
+  "n": "061",
+  "spk": "SEU NONATO",
+  "sec": 7,
+  "txt": "Eu economizei o décimo terceiro... e o Natal foi junto."
+ },
+ {
+  "n": "062",
+  "spk": "SEU NONATO",
+  "sec": 7,
+  "txt": "Universo! Devolve!"
+ },
+ {
+  "n": "063",
+  "spk": "CONTADOR",
+  "sec": 7,
+  "txt": "Pedido cancelado. Desfaz tudo. Devolve o Natal."
+ },
+ {
+  "n": "064",
+  "spk": "TÉCNICO",
+  "sec": 7,
+  "txt": "Eu avisei."
+ },
+ {
+  "n": "065",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "E já que o décimo terceiro voltou, vale saber de onde ele veio."
+ },
+ {
+  "n": "066",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Antes de mil novecentos e sessenta e dois, algumas empresas davam um abono de Natal. Outras não. Dependia do patrão."
+ },
+ {
+  "n": "067",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Os trabalhadores fizeram greve pra isso virar lei. Em julho de sessenta e dois, teve até greve geral."
+ },
+ {
+  "n": "068",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "E no dia treze de julho daquele ano, o presidente João Goulart sancionou a lei. Gratificação de Natal. Um doze avos do salário por mês trabalhado."
+ },
+ {
+  "n": "069",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Na época, um grande jornal publicou que um décimo terceiro mês de salário seria desastroso para o país."
+ },
+ {
+  "n": "070",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Sessenta e quatro anos depois, ele está aí. E o Brasil não é o único. Argentina e México têm o aguinaldo. A Itália tem a tredicesima. Portugal tem o subsídio de Natal."
+ },
+ {
+  "n": "071",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Já nos Estados Unidos e no Reino Unido, a lei não obriga nada parecido."
+ },
+ {
+  "n": "072",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "E agora a Repartição faz a conta direito. Dos dois lados."
+ },
+ {
+  "n": "073",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "Primeiro, um mito. Tem gente que diz que o décimo terceiro é só o pagamento das semanas que sobram no ano. Não é. O salário cobre o mês inteiro. O décimo terceiro é um a mais, criado por lei."
+ },
+ {
+  "n": "074",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "Lado de quem paga: pra empresa, o décimo terceiro custa um doze avos da folha todo mês, mais os encargos. Pra uma loja pequena como a do Seu Nonato, novembro aperta de verdade."
+ },
+ {
+  "n": "075",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "E tem economista que lembra que contratar com carteira no Brasil custa caro. E que esse custo empurra muita gente pra informalidade."
+ },
+ {
+  "n": "076",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "Lado de quem recebe: são quase cem milhões de pessoas. E muita gente usa esse dinheiro pra pagar dívida, comprar presente, consertar a casa."
+ },
+ {
+  "n": "077",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "E tem economista que lembra do outro lado: boa parte desse dinheiro volta pro comércio no mesmo mês. Pra loja do Seu Nonato, inclusive."
+ },
+ {
+  "n": "078",
+  "spk": "CONTADOR",
+  "sec": 9,
+  "txt": "E tem um detalhe que não aparece na conta. Trinta e oito milhões e oitocentas mil pessoas trabalham na informalidade, segundo o IBGE. Pra elas, o décimo terceiro nunca existiu."
+ },
+ {
+  "n": "079",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Novembro de novo. Dessa vez, com décimo terceiro."
+ },
+ {
+  "n": "080",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "A Cris pagou a fatura. Quase toda."
+ },
+ {
+  "n": "081",
+  "spk": "CRIS",
+  "sec": 10,
+  "txt": "Sobraram cento e vinte reais. Seu Nonato, o caminhão de bombeiro sai por quanto com desconto de funcionária?"
+ },
+ {
+  "n": "082",
+  "spk": "SEU NONATO",
+  "sec": 10,
+  "txt": "Pra você? Cento e vinte."
+ },
+ {
+  "n": "083",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "A Dona Lurdes voltou. Três netos, três presentes."
+ },
+ {
+  "n": "084",
+  "spk": "DONA LURDES",
+  "sec": 10,
+  "txt": "E mais um pro Papai Noel da vitrine. Uma pilha nova."
+ },
+ {
+  "n": "085",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E o Seu Nonato abriu uma conta separada no banco. Deu até nome pra ela: décimo terceiro do ano que vem."
+ },
+ {
+  "n": "086",
+  "spk": "SEU NONATO",
+  "sec": 10,
+  "txt": "Janeiro: novecentos reais. Guardado. Fevereiro... a gente vê."
+ },
+ {
+  "n": "087",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E você? O seu décimo terceiro já tem dono? Vai pra dívida, pra presente ou pra guardar? E se você tem um pequeno negócio: novembro aperta aí também? Conta aqui embaixo. A gente lê tudo."
+ }
+]

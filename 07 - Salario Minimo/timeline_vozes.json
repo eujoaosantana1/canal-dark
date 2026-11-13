@@ -1,0 +1,717 @@
+{
+ "total": 449.211,
+ "lines": [
+  {
+   "clip": "001",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 0.4,
+   "end": 7.734,
+   "text": "Sete reais e trinta e sete centavos. É quanto vale uma hora de trabalho de quem ganha um salário mínimo no Brasil."
+  },
+  {
+   "clip": "002",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 8.084,
+   "end": 13.492,
+   "text": "A Tainá sabe esse número de cor. Porque ela não pensa em reais. Ela pensa em horas."
+  },
+  {
+   "clip": "003",
+   "who": "TAINÁ",
+   "sec": 1,
+   "start": 13.942,
+   "end": 17.879,
+   "text": "Passagem de ônibus? Quarenta e três minutos de trabalho."
+  },
+  {
+   "clip": "004",
+   "who": "TAINÁ",
+   "sec": 1,
+   "start": 18.229,
+   "end": 21.533,
+   "text": "Botijão de gás? Quase dezesseis horas."
+  },
+  {
+   "clip": "005",
+   "who": "TAINÁ",
+   "sec": 1,
+   "start": 21.883,
+   "end": 26.279,
+   "text": "Aluguel? Cento e duas horas. Mais de metade do mês."
+  },
+  {
+   "clip": "006",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 26.729,
+   "end": 35.16,
+   "text": "Em 2026, o salário mínimo é de mil seiscentos e vinte e um reais. E tem quase sessenta e dois milhões de brasileiros com a renda ligada a esse número."
+  },
+  {
+   "clip": "007",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 35.51,
+   "end": 42.172,
+   "text": "Hoje a gente vai acompanhar um mês inteiro da Tainá. Dia por dia. Pra descobrir até que dia o dinheiro chega."
+  },
+  {
+   "clip": "008",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 42.522,
+   "end": 53.993,
+   "text": "E você? Até que dia do mês o seu salário dura? Guarda essa resposta. Fica até o fim, porque a Tainá vai fazer um pedido pro Universo. E o Universo vai atender. Do jeito dele."
+  },
+  {
+   "clip": "009",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 54.893,
+   "end": 60.641,
+   "text": "A Tainá tem vinte e seis anos. Trabalha na limpeza de um prédio de escritórios na Avenida Paulista."
+  },
+  {
+   "clip": "010",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 60.991,
+   "end": 67.002,
+   "text": "Ela mora em Guaianases, no fundo da zona leste. Num cômodo e cozinha, com o Davi, de sete anos."
+  },
+  {
+   "clip": "011",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 67.352,
+   "end": 74.947,
+   "text": "Pra chegar no trabalho, é um ônibus, um trem e um pedaço a pé. Uma hora e quarenta pra ir. Uma hora e quarenta pra voltar."
+  },
+  {
+   "clip": "012",
+   "who": "DAVI",
+   "sec": 2,
+   "start": 75.397,
+   "end": 78.578,
+   "text": "Mãe, quando eu crescer eu vou trabalhar na Paulista também?"
+  },
+  {
+   "clip": "013",
+   "who": "TAINÁ",
+   "sec": 2,
+   "start": 79.028,
+   "end": 82.093,
+   "text": "Vai. Mas vai entrar pela porta da frente."
+  },
+  {
+   "clip": "014",
+   "who": "DAVI",
+   "sec": 2,
+   "start": 82.543,
+   "end": 83.746,
+   "text": "Tem porta de trás?"
+  },
+  {
+   "clip": "015",
+   "who": "TAINÁ",
+   "sec": 2,
+   "start": 84.196,
+   "end": 86.346,
+   "text": "Tem. É a que eu entro."
+  },
+  {
+   "clip": "016",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 87.246,
+   "end": 89.269,
+   "text": "Dia cinco. O salário cai."
+  },
+  {
+   "clip": "017",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 89.619,
+   "end": 95.105,
+   "text": "Mil seiscentos e vinte e um reais. Só que esse número a Tainá nunca vê inteiro."
+  },
+  {
+   "clip": "018",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 95.455,
+   "end": 100.538,
+   "text": "Antes de chegar na conta, já saem cento e vinte e um reais e cinquenta e oito de INSS."
+  },
+  {
+   "clip": "019",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 100.888,
+   "end": 108.132,
+   "text": "E mais noventa e sete reais e vinte e seis de vale-transporte. Que a empresa paga a maior parte, mas desconta até seis por cento do salário."
+  },
+  {
+   "clip": "020",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 108.482,
+   "end": 112.332,
+   "text": "O que chega no celular dela é mil quatrocentos e dois reais e dezesseis centavos."
+  },
+  {
+   "clip": "021",
+   "who": "TAINÁ",
+   "sec": 3,
+   "start": 112.782,
+   "end": 115.579,
+   "text": "Oi, dinheiro. Prazer. Tchau, dinheiro."
+  },
+  {
+   "clip": "022",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 116.479,
+   "end": 118.412,
+   "text": "E aí começa a fila."
+  },
+  {
+   "clip": "023",
+   "who": "SEU ADEMIR",
+   "sec": 4,
+   "start": 118.862,
+   "end": 121.439,
+   "text": "Bom dia, Tainá! Dia dez tá chegando, hein."
+  },
+  {
+   "clip": "024",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 121.889,
+   "end": 127.395,
+   "text": "Aluguel do cômodo: setecentos e cinquenta reais. Sobram seiscentos e cinquenta e dois."
+  },
+  {
+   "clip": "025",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 127.745,
+   "end": 132.433,
+   "text": "Conta de luz: noventa e cinco. Água: sessenta. Sobram quatrocentos e noventa e sete."
+  },
+  {
+   "clip": "026",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 132.783,
+   "end": 138.928,
+   "text": "O gás acabou bem no meio do arroz. Botijão novo: cento e quinze. Sobram trezentos e oitenta e dois."
+  },
+  {
+   "clip": "027",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 139.278,
+   "end": 148.128,
+   "text": "Crédito do celular, que é por onde ela recebe a escala do serviço: trinta e cinco. Sobram trezentos e quarenta e sete reais e dezesseis centavos."
+  },
+  {
+   "clip": "028",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 148.478,
+   "end": 152.554,
+   "text": "E é isso que fica pra comida do mês inteiro. Pra duas pessoas."
+  },
+  {
+   "clip": "029",
+   "who": "TAINÁ",
+   "sec": 4,
+   "start": 153.004,
+   "end": 156.805,
+   "text": "Trezentos e quarenta e sete dividido por trinta dias."
+  },
+  {
+   "clip": "030",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 157.255,
+   "end": 163.28,
+   "text": "Onze reais e cinquenta e sete por dia. Pros dois. Menos de seis reais por pessoa, por dia."
+  },
+  {
+   "clip": "031",
+   "who": "DAVI",
+   "sec": 4,
+   "start": 163.73,
+   "end": 166.691,
+   "text": "Mãe, dá pra comprar um lanche com seis reais?"
+  },
+  {
+   "clip": "032",
+   "who": "TAINÁ",
+   "sec": 4,
+   "start": 167.141,
+   "end": 169.483,
+   "text": "Dá pra comprar meio."
+  },
+  {
+   "clip": "033",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 170.383,
+   "end": 181.366,
+   "text": "Pra ter uma ideia, o DIEESE mede todo mês o preço da cesta básica. Arroz, feijão, carne, leite, pão, café, óleo, legumes. A quantidade que um adulto precisa por mês."
+  },
+  {
+   "clip": "034",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 181.716,
+   "end": 188.401,
+   "text": "Em setembro, a cesta mais cara do Brasil foi a de São Paulo. Novecentos e vinte e dois reais e cinquenta e um centavos."
+  },
+  {
+   "clip": "035",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 188.751,
+   "end": 196.53,
+   "text": "Pra comprar essa cesta ganhando o mínimo, a pessoa precisa trabalhar cento e vinte e cinco horas. Mais de quinze dias de serviço. Só pra comer."
+  },
+  {
+   "clip": "036",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 196.88,
+   "end": 201.158,
+   "text": "E a Tainá não tem novecentos. Tem trezentos e quarenta e sete. Pra dois."
+  },
+  {
+   "clip": "037",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 201.508,
+   "end": 209.733,
+   "text": "Então ela faz o que milhões de pessoas fazem. Compra no atacadão. Troca a carne por ovo. Troca o ovo por salsicha. E faz faxina no sábado."
+  },
+  {
+   "clip": "038",
+   "who": "TAINÁ",
+   "sec": 5,
+   "start": 210.183,
+   "end": 214.108,
+   "text": "Duas faxinas por mês. Cento e oitenta cada. É o que salva o mês."
+  },
+  {
+   "clip": "039",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 214.558,
+   "end": 217.696,
+   "text": "E o sábado, que devia ser de descanso, vira o segundo emprego."
+  },
+  {
+   "clip": "040",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 218.596,
+   "end": 220.863,
+   "text": "Mesmo assim, no dia vinte e dois, o dinheiro acaba."
+  },
+  {
+   "clip": "041",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 221.213,
+   "end": 228.21,
+   "text": "A geladeira tem meia caixa de leite, três ovos e um pote de margarina que na verdade é feijão congelado."
+  },
+  {
+   "clip": "042",
+   "who": "DAVI",
+   "sec": 6,
+   "start": 228.66,
+   "end": 230.299,
+   "text": "Mãe, o mês tá acabando?"
+  },
+  {
+   "clip": "043",
+   "who": "TAINÁ",
+   "sec": 6,
+   "start": 230.749,
+   "end": 232.294,
+   "text": "O mês não. O dinheiro."
+  },
+  {
+   "clip": "044",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 232.744,
+   "end": 240.414,
+   "text": "Aí vem a lista de sempre. Fiado na mercearia. Pix emprestado da irmã. Passe do ônibus contado moeda por moeda."
+  },
+  {
+   "clip": "045",
+   "who": "TAINÁ",
+   "sec": 6,
+   "start": 240.864,
+   "end": 248.229,
+   "text": "Faltam oito dias. Oito dias é o quê? Sessenta horas de trabalho. Eu já trabalhei elas. Só não recebi ainda."
+  },
+  {
+   "clip": "046",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 248.679,
+   "end": 252.402,
+   "text": "E foi nessa noite que a Tainá fez uma coisa que ela nunca tinha feito."
+  },
+  {
+   "clip": "047",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 253.302,
+   "end": 255.8,
+   "text": "Ela escreveu um pedido. Pro Universo."
+  },
+  {
+   "clip": "048",
+   "who": "TAINÁ",
+   "sec": 7,
+   "start": 256.25,
+   "end": 263.398,
+   "text": "Querido Universo. Não precisa me dar dinheiro. Só faz o meu salário durar até o fim do mês. Obrigada. Tainá."
+  },
+  {
+   "clip": "049",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 263.848,
+   "end": 267.324,
+   "text": "E o pedido subiu. Direto pra Repartição do Universo."
+  },
+  {
+   "clip": "050",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 267.774,
+   "end": 276.094,
+   "text": "Hum. Pedido número dois mil e vinte e seis, barra, mil seiscentos e vinte e um. Fazer o salário durar até o fim do mês."
+  },
+  {
+   "clip": "051",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 276.444,
+   "end": 279.755,
+   "text": "Aumentar salário não é aqui. Isso é com outra repartição."
+  },
+  {
+   "clip": "052",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 280.105,
+   "end": 284.358,
+   "text": "Mas fazer o dinheiro durar até o fim do mês... isso eu consigo."
+  },
+  {
+   "clip": "053",
+   "who": "TÉCNICO",
+   "sec": 7,
+   "start": 284.808,
+   "end": 285.798,
+   "text": "Consegue como?"
+  },
+  {
+   "clip": "054",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 286.248,
+   "end": 291.186,
+   "text": "O dinheiro dela dura dezoito dias. Então a gente faz o mês ter dezoito dias."
+  },
+  {
+   "clip": "055",
+   "who": "TÉCNICO",
+   "sec": 7,
+   "start": 291.636,
+   "end": 292.778,
+   "text": "Isso não vai dar certo."
+  },
+  {
+   "clip": "056",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 293.228,
+   "end": 293.87,
+   "text": "Deferido."
+  },
+  {
+   "clip": "057",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 294.77,
+   "end": 299.035,
+   "text": "E no dia seguinte, o calendário do Brasil inteiro tinha dezoito dias."
+  },
+  {
+   "clip": "058",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 299.385,
+   "end": 304.341,
+   "text": "E funcionou. No dia dezoito, a Tainá ainda tinha dinheiro. Pouco, mas tinha."
+  },
+  {
+   "clip": "059",
+   "who": "TAINÁ",
+   "sec": 8,
+   "start": 304.791,
+   "end": 308.371,
+   "text": "Davi! Chegou no fim do mês! Sobrou dinheiro!"
+  },
+  {
+   "clip": "060",
+   "who": "DAVI",
+   "sec": 8,
+   "start": 308.821,
+   "end": 309.362,
+   "text": "Quanto?"
+  },
+  {
+   "clip": "061",
+   "who": "TAINÁ",
+   "sec": 8,
+   "start": 309.812,
+   "end": 310.893,
+   "text": "Quatro reais!"
+  },
+  {
+   "clip": "062",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 311.343,
+   "end": 316.231,
+   "text": "Só que dia dezoito virou dia um. E o dia um tinha uma surpresa."
+  },
+  {
+   "clip": "063",
+   "who": "SEU ADEMIR",
+   "sec": 8,
+   "start": 316.681,
+   "end": 319.898,
+   "text": "Bom dia, Tainá! Mês novo, aluguel novo!"
+  },
+  {
+   "clip": "064",
+   "who": "TAINÁ",
+   "sec": 8,
+   "start": 320.348,
+   "end": 322.835,
+   "text": "Mas eu paguei faz dezoito dias!"
+  },
+  {
+   "clip": "065",
+   "who": "SEU ADEMIR",
+   "sec": 8,
+   "start": 323.285,
+   "end": 325.823,
+   "text": "E o mês tem dezoito dias. Tá no calendário."
+  },
+  {
+   "clip": "066",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 326.273,
+   "end": 333.467,
+   "text": "A conta de luz também passou a vir a cada dezoito dias. A de água também. O crédito do celular também."
+  },
+  {
+   "clip": "067",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 333.817,
+   "end": 334.576,
+   "text": "E o salário?"
+  },
+  {
+   "clip": "068",
+   "who": "TAINÁ",
+   "sec": 8,
+   "start": 335.026,
+   "end": 336.302,
+   "text": "Dia cinco eu recebo, né?"
+  },
+  {
+   "clip": "069",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 336.752,
+   "end": 343.376,
+   "text": "A empresa da Tainá continuou pagando a cada trinta dias. Quem paga, demora pra mudar de calendário."
+  },
+  {
+   "clip": "070",
+   "who": "TAINÁ",
+   "sec": 8,
+   "start": 343.826,
+   "end": 344.619,
+   "text": "Universo!"
+  },
+  {
+   "clip": "071",
+   "who": "CONTADOR",
+   "sec": 8,
+   "start": 345.069,
+   "end": 346.879,
+   "text": "Indeferido. Desfaz. Desfaz."
+  },
+  {
+   "clip": "072",
+   "who": "TÉCNICO",
+   "sec": 8,
+   "start": 347.329,
+   "end": 348.061,
+   "text": "Eu avisei."
+  },
+  {
+   "clip": "073",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 348.511,
+   "end": 355.095,
+   "text": "Porque o problema da Tainá nunca foi o tamanho do mês. Foi o tamanho do salário perto do tamanho da conta."
+  },
+  {
+   "clip": "074",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 355.995,
+   "end": 359.695,
+   "text": "E o Contador do Universo resolveu fazer a conta direito."
+  },
+  {
+   "clip": "075",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 360.145,
+   "end": 372.054,
+   "text": "A Constituição diz que o salário mínimo tem que pagar comida, casa, saúde, educação, roupa, higiene, transporte, lazer e previdência. Pra pessoa e pra família."
+  },
+  {
+   "clip": "076",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 372.404,
+   "end": 377.958,
+   "text": "O DIEESE pegou a cesta mais cara do país e fez essa conta pra uma família de quatro pessoas."
+  },
+  {
+   "clip": "077",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 378.308,
+   "end": 384.528,
+   "text": "Em setembro deu sete mil, setecentos e cinquenta reais. Quase cinco vezes o salário de hoje."
+  },
+  {
+   "clip": "078",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 384.978,
+   "end": 394.053,
+   "text": "E aqui tem dois lados. O mínimo subiu acima da inflação em 2026: seis vírgula setenta e nove por cento, cento e três reais a mais."
+  },
+  {
+   "clip": "079",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 394.403,
+   "end": 404.461,
+   "text": "E muito economista lembra que subir tudo de uma vez pesaria na padaria, no salão, na pequena empresa que paga o mínimo. E nas aposentadorias, que andam junto com ele."
+  },
+  {
+   "clip": "080",
+   "who": "CONTADOR",
+   "sec": 9,
+   "start": 404.911,
+   "end": 411.125,
+   "text": "O que a Repartição sabe é o seguinte: a conta da Tainá não fecha. E a dela é a conta de milhões."
+  },
+  {
+   "clip": "081",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 412.025,
+   "end": 415.82,
+   "text": "Dia cinco de novo. O salário cai. A fila começa."
+  },
+  {
+   "clip": "082",
+   "who": "SEU ADEMIR",
+   "sec": 10,
+   "start": 416.27,
+   "end": 416.948,
+   "text": "Bom dia, Tainá!"
+  },
+  {
+   "clip": "083",
+   "who": "TAINÁ",
+   "sec": 10,
+   "start": 417.398,
+   "end": 420.836,
+   "text": "Bom dia, Seu Ademir. Tá aqui. Cento e duas horas."
+  },
+  {
+   "clip": "084",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 421.286,
+   "end": 425.212,
+   "text": "E naquela noite, o Davi quebrou o cofrinho de garrafa."
+  },
+  {
+   "clip": "085",
+   "who": "DAVI",
+   "sec": 10,
+   "start": 425.662,
+   "end": 427.723,
+   "text": "Mãe, quanto vale uma hora sua?"
+  },
+  {
+   "clip": "086",
+   "who": "TAINÁ",
+   "sec": 10,
+   "start": 428.173,
+   "end": 430.027,
+   "text": "Sete e trinta e sete."
+  },
+  {
+   "clip": "087",
+   "who": "DAVI",
+   "sec": 10,
+   "start": 430.477,
+   "end": 437.078,
+   "text": "Então toma. Sete e trinta e sete. Agora você é minha por uma hora. Pra brincar."
+  },
+  {
+   "clip": "088",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 437.528,
+   "end": 439.571,
+   "text": "Foi a hora mais bem paga do mês."
+  },
+  {
+   "clip": "089",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 439.921,
+   "end": 448.011,
+   "text": "E você? Até que dia do mês o seu salário chega? E quanto vale uma hora sua? Conta aqui embaixo. A gente lê tudo."
+  }
+ ]
+}

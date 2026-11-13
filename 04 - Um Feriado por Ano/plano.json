@@ -1,0 +1,1393 @@
+[
+[
+"001",
+null,
+"calendario",
+{
+"z": [
+1.0,
+1.06
+]
+}
+],
+[
+"002",
+null,
+"calendario",
+{
+"riscar": [
+[
+2,
+"tiradentes"
+],
+[
+3,
+"trabalho"
+],
+[
+4,
+"setembro"
+]
+]
+}
+],
+[
+"003",
+null,
+"calendario",
+{
+"riscar": [
+[
+2,
+0
+],
+[
+3,
+0
+],
+[
+4,
+0
+],
+[
+5,
+"outubro"
+],
+[
+6,
+"finados"
+],
+[
+7,
+"finados"
+],
+[
+8,
+"consciencia"
+]
+],
+"z": [
+1.05,
+1.12
+]
+}
+],
+[
+"004",
+null,
+"close",
+{
+"k": "ROSE",
+"set": "loja",
+"expr": "shocked",
+"side": "R"
+}
+],
+[
+"005",
+[
+0,
+1
+],
+"numero",
+{
+"ate": 10,
+"rotulo": "FERIADOS NACIONAIS EM 2026",
+"fundo": "rays_azul"
+}
+],
+[
+"005",
+[
+2,
+2
+],
+"cartela",
+{
+"linhas": [
+"9 EM DIA ÚTIL",
+"O MAIOR NÚMERO DA DÉCADA"
+],
+"cores": [
+"#ffd23f",
+"#fff"
+],
+"fundo": "rays_vermelho",
+"tam": 96
+}
+],
+[
+"006",
+null,
+"calendario",
+{
+"todos": true,
+"salvo": 9,
+"texto": "SOBROU UM",
+"textoEm": "sobrou"
+}
+],
+[
+"007",
+[
+0,
+1
+],
+"voce2",
+{
+"balao": "QUAL EU SALVO?"
+}
+],
+[
+"007",
+[
+2,
+2
+],
+"fica2",
+{
+"k": "ROSE",
+"set": "loja"
+}
+],
+[
+"007",
+[
+3,
+3
+],
+"close",
+{
+"k": "FABIO",
+"set": "loja",
+"expr": "worried",
+"texto": "ELE VAI SE ARREPENDER"
+}
+],
+[
+"008",
+null,
+"ficha2",
+{
+"k": "ROSE",
+"nome": "ROSE",
+"linhas": [
+"38 ANOS",
+"VENDEDORA",
+"SANTO ANDRÉ (SP)"
+],
+"em": [
+"trinta",
+"vendedora",
+"santo"
+],
+"cor": "#c62828"
+}
+],
+[
+"009",
+[
+0,
+1
+],
+"cartela",
+{
+"linhas": [
+"TRABALHA: SÁBADO",
+"FOLGA: QUARTA"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#37474f"
+}
+],
+[
+"009",
+[
+2,
+3
+],
+"cadeia",
+{
+"itens": [
+"ROSE\nFOLGA QUARTA",
+"LARA\nESCOLA ATÉ SEXTA",
+"JUNTAS:\nSÓ NO FERIADO"
+],
+"titulo": "FAZ A CONTA"
+}
+],
+[
+"010",
+null,
+"pote",
+{
+"texto": "R$ 10 POR SEMANA",
+"textoEm": "dez"
+}
+],
+[
+"011",
+null,
+"close",
+{
+"k": "LARA",
+"set": "casa_rose",
+"expr": "smile"
+}
+],
+[
+"012",
+null,
+"cena",
+{
+"set": "casa_rose",
+"chars": [
+{
+"k": "ROSE_CASA",
+"x": 820,
+"expr": "smile"
+},
+{
+"k": "LARA",
+"x": 1120,
+"facing": -1,
+"expr": "happy"
+}
+]
+}
+],
+[
+"013",
+null,
+"close",
+{
+"k": "LARA",
+"set": "casa_rose",
+"expr": "happy"
+}
+],
+[
+"014",
+null,
+"close",
+{
+"k": "ROSE_CASA",
+"set": "casa_rose",
+"expr": "smile",
+"side": "R"
+}
+],
+[
+"015",
+[
+0,
+1
+],
+"cena",
+{
+"set": "loja",
+"chars": [
+{
+"k": "FABIO",
+"x": 960,
+"expr": "smug",
+"pose": "crossArms"
+}
+],
+"z": [
+1.0,
+1.06
+]
+}
+],
+[
+"015",
+[
+2,
+3
+],
+"cena",
+{
+"set": "outdoor",
+"chars": [],
+"z": [
+1.0,
+1.06
+]
+}
+],
+[
+"016",
+null,
+"cena",
+{
+"set": "loja",
+"chars": [
+{
+"k": "ROSE",
+"x": 620,
+"expr": "worried",
+"facing": 1
+},
+{
+"k": "FABIO",
+"x": 1250,
+"facing": -1,
+"expr": "angry",
+"pose": "explain"
+}
+]
+}
+],
+[
+"017",
+null,
+"close",
+{
+"k": "FABIO",
+"set": "loja",
+"expr": "angry",
+"side": "R",
+"texto": "UM CAMINHÃO DE SOFÁ"
+}
+],
+[
+"018",
+null,
+"close",
+{
+"k": "ROSE",
+"set": "loja",
+"expr": "worried"
+}
+],
+[
+"019",
+null,
+"close",
+{
+"k": "FABIO",
+"set": "loja",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"020",
+null,
+"cena",
+{
+"set": "loja",
+"chars": [
+{
+"k": "ROSE",
+"x": 620,
+"expr": "sad",
+"facing": 1
+},
+{
+"k": "FABIO",
+"x": 1150,
+"facing": -1,
+"expr": "smug",
+"pose": "point"
+}
+],
+"z": [
+1.05,
+1.12
+]
+}
+],
+[
+"021",
+null,
+"cartela",
+{
+"linhas": [
+"SE QUISER"
+],
+"cores": [
+"#ffd23f"
+],
+"fundo": "#212121",
+"sub": "(NÃO ERA SE QUISER)"
+}
+],
+[
+"022",
+null,
+"cena",
+{
+"set": "loja",
+"chars": [
+{
+"k": "FABIO",
+"x": 960,
+"expr": "smug",
+"pose": "holdFront"
+}
+],
+"texto": "RECLAMAÇÃO POR ESCRITO"
+}
+],
+[
+"023",
+null,
+"cartela",
+{
+"linhas": [
+"REPARTIÇÃO",
+"DO UNIVERSO"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#5e35b1"
+}
+],
+[
+"024",
+null,
+"carimbo",
+{
+"num": "312",
+"linhas": [
+"RECLAMANTE: FÁBIO",
+"PEDIDO: ACABAR COM",
+"TODOS OS FERIADOS"
+],
+"em": 99
+}
+],
+[
+"025",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "neutral"
+}
+],
+[
+"026",
+null,
+"close",
+{
+"k": "FABIO",
+"set": "loja",
+"expr": "confused",
+"side": "R"
+}
+],
+[
+"027",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smug"
+}
+],
+[
+"028",
+null,
+"carimbo",
+{
+"num": "312",
+"linhas": [
+"RECLAMANTE: FÁBIO",
+"PEDIDO: ACABAR COM",
+"TODOS OS FERIADOS",
+"DECISÃO: FICA UM"
+],
+"em": 99
+}
+],
+[
+"029",
+null,
+"carimbo",
+{
+"num": "312",
+"linhas": [
+"RECLAMANTE: FÁBIO",
+"PEDIDO: ACABAR COM",
+"TODOS OS FERIADOS",
+"DECISÃO: FICA UM"
+],
+"em": "deferido"
+}
+],
+[
+"030",
+null,
+"calendario",
+{
+"todos": true,
+"salvo": 9,
+"z": [
+1.0,
+1.1
+]
+}
+],
+[
+"031",
+[
+0,
+1
+],
+"cartela",
+{
+"linhas": [
+"FEVEREIRO",
+"CARNAVAL"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "rays"
+}
+],
+[
+"031",
+[
+2,
+4
+],
+"cartela",
+{
+"linhas": [
+"CARNAVAL NUNCA FOI",
+"FERIADO NACIONAL"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#6a1b9a",
+"sub": "É PONTO FACULTATIVO"
+}
+],
+[
+"032",
+null,
+"calendario",
+{
+"riscar": [
+[
+2,
+0
+]
+],
+"destaque": 2,
+"z": [
+1.3,
+1.4
+],
+"cy": 120,
+"texto": "21/04: UMA TERÇA QUALQUER"
+}
+],
+[
+"033",
+[
+0,
+1
+],
+"cartela",
+{
+"linhas": [
+"1º DE MAIO",
+"DIA DO TRABALHO"
+],
+"cores": [
+"#ffd23f",
+"#fff"
+],
+"fundo": "rays_vermelho"
+}
+],
+[
+"033",
+[
+2,
+2
+],
+"cena",
+{
+"set": "loja",
+"chars": [
+{
+"k": "ROSE",
+"x": 500,
+"expr": "tired"
+},
+{
+"k": "CAIXA",
+"x": 900,
+"expr": "tired"
+},
+{
+"k": "VOCE",
+"x": 1300,
+"expr": "tired",
+"facing": -1
+}
+],
+"texto": "COMEMORANDO TRABALHANDO"
+}
+],
+[
+"034",
+null,
+"cena",
+{
+"set": "loja",
+"chars": [
+{
+"k": "FABIO",
+"x": 960,
+"expr": "happy",
+"pose": "cheer"
+}
+],
+"z": [
+1.05,
+1.12
+],
+"texto": "364 DIAS ABERTO"
+}
+],
+[
+"035",
+null,
+"votacao",
+{}
+],
+[
+"036",
+null,
+"votacao",
+{}
+],
+[
+"037",
+null,
+"calendario",
+{
+"todos": true,
+"salvo": 9,
+"destaque": 8,
+"z": [
+1.3,
+1.4
+],
+"cy": 330
+}
+],
+[
+"038",
+null,
+"close",
+{
+"k": "LARA",
+"set": "casa_rose_noite",
+"expr": "sad"
+}
+],
+[
+"039",
+null,
+"cena",
+{
+"set": "casa_rose_noite",
+"chars": [
+{
+"k": "ROSE_CASA",
+"x": 820,
+"expr": "sad"
+},
+{
+"k": "LARA",
+"x": 1100,
+"facing": -1,
+"expr": "sad"
+}
+],
+"z": [
+1.05,
+1.12
+]
+}
+],
+[
+"040",
+null,
+"cena",
+{
+"set": "loja",
+"chars": [
+{
+"k": "FABIO",
+"x": 800,
+"expr": "smug"
+},
+{
+"k": "VOCE",
+"x": 1200,
+"facing": -1,
+"expr": "worried",
+"pose": "holdFront"
+}
+]
+}
+],
+[
+"041",
+null,
+"close",
+{
+"k": "FABIO",
+"set": "loja",
+"expr": "happy",
+"side": "R"
+}
+],
+[
+"042",
+null,
+"vendas",
+{
+"em": "quase"
+}
+],
+[
+"043",
+null,
+"cena",
+{
+"set": "loja",
+"chars": [
+{
+"k": "ROSE",
+"x": 960,
+"expr": "tired"
+}
+],
+"z": [
+1.0,
+1.05
+],
+"texto": "LOJA ABERTA NÃO CRIA CLIENTE"
+}
+],
+[
+"044",
+[
+0,
+2
+],
+"cadeia",
+{
+"itens": [
+"HORA\nEXTRA",
+"LUZ",
+"SEGURANÇA",
+"LOJA\nVAZIA"
+],
+"titulo": "ABRIR NO FERIADO CUSTA"
+}
+],
+[
+"044",
+[
+3,
+4
+],
+"cena",
+{
+"set": "loja",
+"chars": [
+{
+"k": "ROSE",
+"x": 960,
+"expr": "tired"
+}
+],
+"texto": "QUEM ABRE E NÃO VENDE"
+}
+],
+[
+"045",
+null,
+"close",
+{
+"k": "FABIO",
+"set": "loja",
+"expr": "confused",
+"side": "R"
+}
+],
+[
+"046",
+null,
+"telefone_fixo",
+{
+"set": "loja",
+"texto": "FILIAL UBATUBA"
+}
+],
+[
+"047",
+[
+0,
+1
+],
+"cena",
+{
+"set": "praia_vazia",
+"chars": [],
+"z": [
+1.3,
+1.4
+],
+"x": -470,
+"y": 150
+}
+],
+[
+"047",
+[
+2,
+3
+],
+"cena",
+{
+"set": "praia_vazia",
+"chars": [],
+"z": [
+1.3,
+1.4
+],
+"x": -470,
+"y": 150,
+"texto": "SÓ VENDIA EM FERIADÃO"
+}
+],
+[
+"048",
+null,
+"cena",
+{
+"set": "praia_vazia",
+"chars": [
+{
+"k": "ZE",
+"x": 1450,
+"expr": "sad",
+"facing": -1
+}
+],
+"z": [
+1.0,
+1.05
+]
+}
+],
+[
+"049",
+null,
+"close",
+{
+"k": "ZE",
+"set": "praia_vazia",
+"expr": "sad",
+"side": "R"
+}
+],
+[
+"050",
+null,
+"cadeia",
+{
+"itens": [
+"PEIXE",
+"CADEIRA",
+"SORVETE",
+"GUARDA-SOL\n(NA SUA LOJA)"
+],
+"titulo": "O FERIADÃO DO SEU ZÉ"
+}
+],
+[
+"051",
+null,
+"close",
+{
+"k": "FABIO",
+"set": "praia_vazia",
+"expr": "shocked"
+}
+],
+[
+"052",
+null,
+"close",
+{
+"k": "ZE",
+"set": "praia_vazia",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"053",
+null,
+"cartela",
+{
+"linhas": [
+"FECHAVA EM SANTO ANDRÉ",
+"ENCHIA EM UBATUBA"
+],
+"cores": [
+"#ef9a9a",
+"#a5d6a7"
+],
+"fundo": "#263238"
+}
+],
+[
+"054",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "neutral"
+}
+],
+[
+"055",
+[
+0,
+0
+],
+"numero",
+{
+"pre": "−R$ ",
+"ate": 17,
+"suf": " BI",
+"rotulo": "COMÉRCIO DE SP COM FERIADOS EM 2026",
+"fundo": "rays_vermelho"
+}
+],
+[
+"055",
+[
+1,
+2
+],
+"pct",
+{
+"pct": 1.1,
+"dec": 1,
+"rotulo": "DO QUE O VAREJO VENDE NO ANO",
+"cor": "#ef5350",
+"fundo": "#212121"
+}
+],
+[
+"056",
+null,
+"balanca",
+{
+"em": "outro",
+"sub": "+ R$ 4 BI EM HOSPEDAGEM E COMIDA NOS FERIADOS DE NOVEMBRO EM SP"
+}
+],
+[
+"057",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smile"
+}
+],
+[
+"058",
+null,
+"ranking",
+{
+"em": [
+"nepal",
+"treze",
+"dez",
+"dez"
+]
+}
+],
+[
+"059",
+null,
+"close",
+{
+"k": "FABIO",
+"set": "reparticao",
+"expr": "shocked",
+"side": "R"
+}
+],
+[
+"060",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smug"
+}
+],
+[
+"061",
+null,
+"mesa_ceu",
+{
+"k": "CONTADOR",
+"expr": "neutral",
+"reparticao": true,
+"texto": "PODE SER DESFEITO. UMA VEZ.",
+"textoY": 1000
+}
+],
+[
+"062",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smile"
+}
+],
+[
+"063",
+null,
+"caderno",
+{
+"titulo": "RESERVAS — POUSADA DO ZÉ",
+"linhas": [
+[
+"JUL",
+"—"
+],
+[
+"AGO",
+"—"
+],
+[
+"SET",
+"—"
+],
+[
+"OUT",
+"—"
+],
+[
+"NOV",
+"—"
+]
+]
+}
+],
+[
+"064",
+null,
+"close",
+{
+"k": "FABIO",
+"set": "praia_vazia",
+"expr": "sad",
+"side": "R"
+}
+],
+[
+"065",
+null,
+"close",
+{
+"k": "ZE",
+"set": "praia_vazia",
+"expr": "smile"
+}
+],
+[
+"066",
+[
+0,
+1
+],
+"rede",
+{}
+],
+[
+"066",
+[
+2,
+3
+],
+"close",
+{
+"k": "FABIO",
+"set": "praia_vazia",
+"expr": "sad",
+"side": "R"
+}
+],
+[
+"067",
+null,
+"close",
+{
+"k": "FABIO",
+"set": "praia_vazia",
+"expr": "neutral",
+"side": "R"
+}
+],
+[
+"068",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "surprised"
+}
+],
+[
+"069",
+null,
+"calendario",
+{
+"riscar": [],
+"destaque": 8,
+"texto": "VOLTA TUDO",
+"textoCor": "#2e7d32"
+}
+],
+[
+"070",
+null,
+"carimbo",
+{
+"num": "312",
+"linhas": [
+"RECLAMANTE: FÁBIO",
+"PEDIDO: DESFAZER",
+"DECISÃO: VOLTA TUDO"
+],
+"em": 99
+}
+],
+[
+"071",
+null,
+"carimbo",
+{
+"num": "312",
+"linhas": [
+"RECLAMANTE: FÁBIO",
+"PEDIDO: DESFAZER",
+"DECISÃO: VOLTA TUDO"
+],
+"em": "calendario",
+"txt": "RESTAURADO"
+}
+],
+[
+"072",
+null,
+"calendario",
+{
+"destaque": 8,
+"z": [
+1.3,
+1.4
+],
+"cy": 330,
+"texto": "SEXTA 20/11: FERIADÃO",
+"textoCor": "#2e7d32"
+}
+],
+[
+"073",
+null,
+"pote",
+{
+"quebrado": true,
+"em": "quebrou",
+"texto": "R$ 440",
+"textoEm": "quatrocentos",
+"textoCor": "#2e7d32"
+}
+],
+[
+"074",
+null,
+"cena",
+{
+"set": "loja",
+"chars": [
+{
+"k": "ROSE",
+"x": 700,
+"expr": "smile"
+},
+{
+"k": "FABIO",
+"x": 1200,
+"facing": -1,
+"expr": "neutral"
+}
+]
+}
+],
+[
+"075",
+null,
+"close",
+{
+"k": "FABIO",
+"set": "loja",
+"expr": "smile",
+"side": "R"
+}
+],
+[
+"076",
+null,
+"mar",
+{
+"em": "correu"
+}
+],
+[
+"077",
+null,
+"close",
+{
+"k": "LARA",
+"set": "praia_cheia",
+"expr": "happy"
+}
+],
+[
+"078",
+[
+0,
+0
+],
+"cena",
+{
+"set": "praia_cheia",
+"chars": [],
+"z": [
+1.0,
+1.04
+]
+}
+],
+[
+"078",
+[
+1,
+1
+],
+"rede",
+{
+"ze": false
+}
+],
+[
+"079",
+null,
+"rede",
+{
+"ze": true
+}
+],
+[
+"080",
+null,
+"rede",
+{
+"ze": true
+}
+],
+[
+"081",
+[
+0,
+0
+],
+"mesa_ceu",
+{
+"k": "CONTADOR",
+"expr": "smile",
+"reparticao": true,
+"texto": "PROTOCOLO 312: ARQUIVADO",
+"textoY": 1000
+}
+],
+[
+"081",
+[
+1,
+2
+],
+"calendario",
+{
+"z": [
+1.0,
+1.05
+],
+"texto": "TODOS DE VOLTA",
+"textoCor": "#2e7d32"
+}
+],
+[
+"082",
+[
+0,
+2
+],
+"comenta2",
+{
+"pergunta": "SE SÓ PUDESSE FICAR UM,\nQUAL VOCÊ SALVAVA?",
+"botao": "CONTA AQUI EMBAIXO"
+}
+],
+[
+"082",
+[
+3,
+4
+],
+"mar",
+{
+"em": 0.1,
+"texto": "ALGUÉM VAI FICAR SEM O MAR"
+}
+]
+]

@@ -1,0 +1,88 @@
+﻿clipe;personagem;status;problemas;texto do roteiro;o que foi ouvido;duração (s);tentativas
+001;NARRADOR;ERRO;"faltando: de reais; sobrando: reais";Trezentos e noventa e nove bilhões de reais. É o dinheiro que cai no bolso dos brasileiros entre novembro e dezembro. Só de décimo terceiro salário.;R$ 399 bilhões. É o dinheiro que cai no bolso dos brasileiros entre novembro e dezembro, só de décimo terceiro salário.;8.13;2
+002;NARRADOR;OK;;São noventa e nove milhões e setecentas mil pessoas. Em média, três mil setecentos e vinte reais pra cada uma.;São 99 milhões e 700 mil pessoas, em média 3.720 reais para cada uma.;6.75;1
+003;NARRADOR;OK;;Agora imagina que, num ano, esse dinheiro simplesmente não viesse.;Agora, imagina que, num ano, esse dinheiro simplesmente não viesse.;4.75;1
+004;SEU NONATO;OK;;Não precisa imaginar, não. Eu pedi.;Não precisa imaginar não, eu pedi.;1.62;1
+005;NARRADOR;OK;;Esse é o Seu Nonato. E ele pediu pro Universo acabar com o décimo terceiro.;Esse é o seu nonato, e ele pediu pro universo acabar com o décimo terceiro.;4.74;1
+006;CRIS;OK;;Ele pediu o quê?;Ele pediu o que?;1.18;1
+007;NARRADOR;ERRO;faltando: um decimo terceiro;Hoje a gente vai ver o que acontece com um Natal sem décimo terceiro. Com quem paga, com quem recebe e com quem vende.;Hoje, a gente vai ver o que acontece com o Natal 100ª com quem paga, com quem recebe e com quem vende.;7.23;2
+008;NARRADOR;OK;;E você? O seu décimo terceiro já tem dono? Guarda essa resposta. Fica até o fim, porque o Universo atendeu o pedido do Seu Nonato. Do jeito dele.;E você, o seu décimo terceiro já tem dono? Guarda essa resposta. Fica até o fim porque o universo atendeu o pedido do seu nonato, do jeito dele.;10.22;1
+009;NARRADOR;OK;;O Seu Nonato tem sessenta e um anos. Há trinta, tem uma loja de brinquedos e presentes na Rua Vinte e Cinco de Março, em São Paulo.;O seu nonato tem 61 anos. A 30 tem uma loja de brinquedos e presentes na rua 25 de março, em São Paulo.;6.8;1
+010;NARRADOR;OK;;Quatro funcionários. Uma vitrine com um Papai Noel que mexe o braço. E uma frase que ele repete todo ano.;quatro funcionários, uma vitrine com um papai Noel que mexe o braço e uma frase que ele repete todo ano.;6.35;1
+011;SEU NONATO;OK;;Dezembro paga o ano. Se dezembro for bom, o resto eu aguento.;Dezembro paga o ano. Se o desembro for bom, o resto eu aguento.;3.89;1
+012;NARRADOR;OK;;A vendedora mais antiga é a Cris. Trinta e quatro anos, nove de loja. Sabe o preço de cada carrinho de cabeça.;A vendedora mais antiga é a Cris, 34 anos, 9 de loja. Sabe o preço de cada carrinho de cabeça.;7.11;1
+013;CRIS;OK;;Seu Nonato, o Papai Noel parou de mexer o braço de novo.;Seu nonato, o Papai Noel parou de mexer o braço de novo.;3.01;1
+014;SEU NONATO;OK;;Dá um tapinha nele que volta.;Dá um tapinha nele que volta.;1.4;1
+015;NARRADOR;OK;;E tem a cliente mais fiel da loja. A Dona Lurdes, aposentada, três netos.;e tem a cliente mais fiel da loja, a Dona Lourdes, aposentada, três netos.;5.37;1
+016;DONA LURDES;OK;;Todo ano eu compro aqui. E todo ano eu pago com o décimo terceiro.;Todo ano eu compro aqui e todo ano eu pago com o décimo terceiro.;4.12;1
+017;NARRADOR;OK;;Só que antes de dezembro vem novembro. E novembro é o mês que o Seu Nonato mais tem medo.;Só que antes de dezembro vem novembro. E novembro é o mês que o seu nonato mais tem medo.;6.27;1
+018;NARRADOR;OK;;A lei manda pagar a primeira parcela do décimo terceiro até o dia trinta de novembro. E a segunda, até o dia vinte de dezembro.;A lei manda pagar a primeira parcela do décimo terceiro até o dia 30 de novembro, e a segunda até o dia 20 de dezembro.;7.44;1
+019;NARRADOR;OK;;A folha da loja é de dez mil reais por mês. O décimo terceiro dá mais dez mil. Com o Fundo de Garantia, dez mil e oitocentos.;A folha da loja é de 10 mil reais por mês. O décimo terceiro dá mais 10 mil, com o fundo de garantia, 10.800.;8.86;1
+020;SEU NONATO;OK;;Dez mil e oitocentos. No mês em que eu ainda não vendi o Natal.;10.800, no mês em que eu ainda não vendi o Natal.;3.87;1
+021;NARRADOR;OK;;O contador da loja, o daqui da Terra, dá o mesmo conselho todo ano: guardar novecentos reais por mês, desde janeiro.;O contador da loja, o daqui da terra, dá o mesmo conselho todo ano. Guardar 900 reais por mês desde janeiro.;8.68;1
+022;SEU NONATO;OK;;Em janeiro eu guardei. Em fevereiro o telhado pingou. Em março eu esqueci. Em abril eu desisti.;Em janeiro eu guardei, em fevereiro o telhado pingou, em março eu esqueci, em abril eu desisti.;6.33;1
+023;NARRADOR;OK;;Do outro lado do balcão, a Cris já fez a conta do décimo terceiro dela.;Do outro lado do balcão, a Cris já fez a conta do décimo terceiro dela.;4.11;1
+024;NARRADOR;ERRO;sobrando: reais;Ela ganha dois mil e quatrocentos reais por mês. A primeira parcela vem inteira: mil e duzentos. A segunda vem com o desconto do INSS.;Ela ganha R$ 2.400 por mês, a primeira parcela vem inteira, R$ 1.200, a segunda vem com o desconto do INSS.;8.62;2
+025;CRIS;OK;;Primeira parcela: fatura do cartão. Segunda parcela: o resto da fatura do cartão.;Primeira parcela, a fatura do cartão, segunda parcela, o resto da fatura do cartão.;5.44;1
+026;CRIS;OK;;E se sobrar alguma coisa, o presente do meu filho. Daqui da loja. Com desconto de funcionária.;E se sobrar alguma coisa, o presente do meu filho, daqui da loja, com desconto de funcionária.;6.12;1
+027;NARRADOR;OK;;Numa pesquisa da Serasa, quatro em cada dez pessoas disseram que iam usar o décimo terceiro principalmente pra pagar dívida.;Numa pesquisa da Serasa, quatro em cada dez pessoas disseram que iam usar o décimo terceiro principalmente para pagar dívida.;7.74;1
+028;NARRADOR;OK;;E a Dona Lurdes também tem o dela. Os aposentados e pensionistas do INSS são trinta e seis milhões de pessoas. E recebem, juntos, setenta bilhões e oitocentos milhões de reais de décimo terceiro.;E a Dona Lourdes também tem o dela. Os aposentados e pensionistas do INSS são 36 milhões de pessoas e recebem juntos 70 bilhões e 800 milhões de reais de décimo terceiro.;12.82;1
+029;DONA LURDES;OK;;É o único mês do ano em que eu sou rica. Dura uma semana. Mas eu sou.;É o único mês do ano em que eu sou rica. Dura uma semana, mas eu sou.;4.95;1
+030;NARRADOR;OK;;E foi numa noite de novembro, fechando o caixa, que o Seu Nonato escreveu um pedido.;Me foi numa noite de novembro fechando caixa que o seu nonato escreveu um pedido.;4.67;1
+031;SEU NONATO;OK;;Querido Universo. Só esse ano. Um ano sem décimo terceiro. Eu juro que no ano que vem eu guardo os novecentos. Assinado, Nonato.;Querido universo, só esse ano, um ano sem décimo terceiro, eu juro que no ano que vem eu guardo os 900 assinados no NATO.;10.06;2
+032;NARRADOR;OK;;E o pedido subiu. Direto pra Repartição do Universo.;e o pedido subiu, direto para repartição do universo.;3.25;1
+033;CONTADOR;OK;;Hum. Pedido número dois mil e vinte e seis, barra, treze. Um ano sem décimo terceiro.;Hmm. Pedido número 2026 barra 13. 1 ano 100 décimo terceiro.;7.23;1
+034;TÉCNICO;OK;;Isso pode? Não é lei?;Isso pode? Não é lei?;1.64;1
+035;CONTADOR;OK;;Está na lei desde mil novecentos e sessenta e dois. E na Constituição. Mas aqui na Repartição tem um botão pra suspender.;Está na lei desde 1962 e na Constituição, mas aqui na repartição tem um botão para suspender.;8.08;1
+036;TÉCNICO;OK;;Suspender só pra ele, ou pro Brasil inteiro?;Suspender só para ele ou para o Brasil inteiro.;2.71;1
+037;CONTADOR;OK;;O pedido não especificou. Brasil inteiro.;O pedido não especificou. Brasil inteiro.;3.09;1
+038;TÉCNICO;OK;;Isso não vai dar certo.;Isso não vai dar certo.;1.05;1
+039;CONTADOR;OK;;Deferido.;Deferido.;0.6;1
+040;NARRADOR;ERRO;"faltando: decimo terceiro; sobrando: treze";No dia seguinte, o décimo terceiro tinha sumido. Da lei, dos holerites, do aplicativo do banco. Do Brasil inteiro.;No dia seguinte, o 13º tinha sumido da lei, dos olerites, do aplicativo do banco, do Brasil inteiro.;8.02;2
+041;SEU NONATO;OK;;Dez mil e oitocentos reais economizados. Universo, você é um gênio.;10.800 reais economizados, universo, você é um gênio.;4.69;1
+042;CRIS;OK;;Seu Nonato... cadê o meu décimo terceiro?;Seu nonato, cadê o meu décimo terceiro?;2.73;1
+043;SEU NONATO;OK;;Esse ano não tem, Cris. Pra ninguém. Não fui eu. Foi o Universo.;E se não não tem, Cris? Pra ninguém. Não fui eu, foi o universo.;4.49;1
+044;CRIS;OK;;E a fatura do cartão? Também foi o Universo?;e a fatura do cartão. Também foi o universo.;2.71;1
+045;NARRADOR;OK;;A fatura da Cris não sumiu. Os juros do cartão também não. Só sumiu o dinheiro que ia pagar eles.;A fatura da crise não sumiu, os juros do cartão também não, só sumiu o dinheiro que ia pagar eles.;5.6;1
+046;DONA LURDES;OK;;Moço do banco, o meu décimo terceiro não caiu.;Moço do banco, o meu décimo terceiro não caiu?;2.83;1
+047;NARRADOR;OK;;O da Dona Lurdes também não. Nem o de mais trinta e seis milhões de aposentados e pensionistas.;O da Dona Lourdes também não, nem o de mais 36 milhões de aposentados e pensionistas.;5.07;1
+048;NARRADOR;OK;;No Brasil inteiro, trezentos e noventa e nove bilhões de reais deixaram de cair no bolso das pessoas. Quase três por cento de tudo o que o país produz num ano.;No Brasil inteiro, 399 bilhões de reais deixaram de cair no bolso das pessoas. Quase 3% de tudo o que o país produz num ano.;9.58;1
+049;NARRADOR;OK;;E aí chegou dezembro. O mês que paga o ano.;E aí chegou dezembro, o mês que pago o ano.;3.38;2
+050;NARRADOR;OK;;A Vinte e Cinco de Março, que nessa época mal dá pra andar, estava com espaço pra jogar bola.;A 25 de março, que nessa época mal dá pra andar, estava com espaço pra jogar bola.;4.71;1
+051;SEU NONATO;OK;;Cris, cadê o povo?;Cris, cadê o povo?;1.36;1
+052;CRIS;OK;;O povo está em casa, Seu Nonato. Sem décimo terceiro.;O povo está em casa, seu nonato, sem décimo terceiro.;3.17;1
+053;NARRADOR;OK;;A Dona Lurdes apareceu. Olhou a vitrine. Olhou a carteira.;A dona Lourdes apareceu. Olhou a vitrine, olhou a carteira.;4.29;1
+054;DONA LURDES;OK;;Esse ano os netos vão ganhar um abraço. Bem apertado. É de graça e não quebra.;Esse ano os netos vão ganhar um abraço, bem apertado, é de graça e não quebra.;5.21;1
+055;NARRADOR;OK;;E o Universo, que é muito organizado, percebeu um problema.;e o universo que é muito organizado percebeu um problema.;3.14;1
+056;CONTADOR;OK;;Natal sem dinheiro pra presente. Então não precisa de Natal. Corta o Natal.;Natal sem dinheiro para presente, então não precisa de natal. Corta o natal.;5.76;1
+057;TÉCNICO;OK;;Corta o Natal?!;Corte o Natal.;0.82;1
+058;CONTADOR;OK;;A partir de hoje, dezembro se chama novembro, parte dois.;A partir de hoje, dezembro, se chama novembro, parte 2.;3.27;1
+059;NARRADOR;OK;;E o Papai Noel da vitrine parou de mexer o braço de vez. Ele foi suspenso também.;E o papai Noel Davitrini parou de mexer o braço de vez. Ele foi suspenso também.;5.43;1
+060;NARRADOR;OK;;No fim do mês, o Seu Nonato fez as contas. Economizou dez mil e oitocentos de décimo terceiro. E deixou de vender quase quarenta mil reais.;No fim do mês, o seu nonato fez as contas, economizou 10.800 de Décimo Terceiro e deixou de vender quase 40 mil reais.;9.45;1
+061;SEU NONATO;OK;;Eu economizei o décimo terceiro... e o Natal foi junto.;Eu economizei o décimo terceiro e o natal foi junto.;2.94;1
+062;SEU NONATO;OK;;Universo! Devolve!;o universo devolve.;1.55;1
+063;CONTADOR;OK;;Pedido cancelado. Desfaz tudo. Devolve o Natal.;Pedido cancelado, desfaz tudo, devolve o Natal.;3.71;1
+064;TÉCNICO;OK;;Eu avisei.;Eu avisei.;0.73;2
+065;NARRADOR;OK;;E já que o décimo terceiro voltou, vale saber de onde ele veio.;e, já que o décimo terceiro voltou, vale saber de onde ele veio.;3.92;1
+066;NARRADOR;OK;;Antes de mil novecentos e sessenta e dois, algumas empresas davam um abono de Natal. Outras não. Dependia do patrão.;Antes de 1962, algumas empresas davam um abono de natal, outras não, dependia do patrão.;7.47;1
+067;NARRADOR;OK;;Os trabalhadores fizeram greve pra isso virar lei. Em julho de sessenta e dois, teve até greve geral.;Os trabalhadores fizeram greve para isso virar lei. Em julho de 62, teve até greve geral.;6.45;2
+068;NARRADOR;OK;;E no dia treze de julho daquele ano, o presidente João Goulart sancionou a lei. Gratificação de Natal. Um doze avos do salário por mês trabalhado.;E no dia 13 de julho daquele ano, o presidente João Goulart sancionou a lei, gratificação de Natal, um 12 avos do salário por mês trabalhado.;10.02;1
+069;NARRADOR;OK;;Na época, um grande jornal publicou que um décimo terceiro mês de salário seria desastroso para o país.;Na época, um grande jornal publicou que um décimo terceiro mês de salário seria desastroso para o país.;6.32;1
+070;NARRADOR;OK;;Sessenta e quatro anos depois, ele está aí. E o Brasil não é o único. Argentina e México têm o aguinaldo. A Itália tem a tredicesima. Portugal tem o subsídio de Natal.;64 anos depois, ele está aí, e o Brasil não é o único. Argentina e México têm o aguinaldo, a Itália tem a tridecima, Portugal tem o subsídio de natal.;11.2;1
+071;NARRADOR;OK;;Já nos Estados Unidos e no Reino Unido, a lei não obriga nada parecido.;Já nos Estados Unidos e no Reino Unido, a lei não obriga nada parecida.;3.89;1
+072;CONTADOR;OK;;E agora a Repartição faz a conta direito. Dos dois lados.;e agora a repartição faz a conta direito dos dois lados.;3.91;1
+073;CONTADOR;ERRO;"faltando: decimo terceiro decimo terceiro; sobrando: treze treze";Primeiro, um mito. Tem gente que diz que o décimo terceiro é só o pagamento das semanas que sobram no ano. Não é. O salário cobre o mês inteiro. O décimo terceiro é um a mais, criado por lei.;Primeiro, um mito. Tem gente que diz que o 13º é só o pagamento das semanas que sobram no ano. Não é. O salário cobre o mês inteiro. O 13º é uma mais, criado por lei.;11.42;1
+074;CONTADOR;ERRO;"faltando: decimo terceiro avos; sobrando: treze";Lado de quem paga: pra empresa, o décimo terceiro custa um doze avos da folha todo mês, mais os encargos. Pra uma loja pequena como a do Seu Nonato, novembro aperta de verdade.;Lado de quem paga. Pra empresa, o 13º custa 1,12 da folha todo mês, mais os encargos. Pra uma loja pequena, como a do seu nonato, novembro aperta de verdade.;10.2;1
+075;NARRADOR;OK;;E tem economista que lembra que contratar com carteira no Brasil custa caro. E que esse custo empurra muita gente pra informalidade.;E tem economista que lembra que contratar com carteira no Brasil custa caro e que esse custo empurra muita gente para a informalidade.;7.41;1
+076;CONTADOR;OK;;Lado de quem recebe: são quase cem milhões de pessoas. E muita gente usa esse dinheiro pra pagar dívida, comprar presente, consertar a casa.;Lado de quem recebe, são quase 100 milhões de pessoas, e muita gente usa esse dinheiro para pagar dívida, comprar presente, consertar a casa.;8.1;1
+077;NARRADOR;OK;;E tem economista que lembra do outro lado: boa parte desse dinheiro volta pro comércio no mesmo mês. Pra loja do Seu Nonato, inclusive.;E tem economista que lembra do outro lado. Boa parte desse dinheiro volta para o comércio no mesmo mês, para a loja do seu nonato, inclusive.;7.6;1
+078;CONTADOR;OK;;E tem um detalhe que não aparece na conta. Trinta e oito milhões e oitocentas mil pessoas trabalham na informalidade, segundo o IBGE. Pra elas, o décimo terceiro nunca existiu.;E tem um detalhe que não aparece na conta. Trinta e oito milhões e oitocentas mil pessoas trabalham na informalidade, segundo o IBGE. Para elas, o décimo terceiro nunca existiu.;11.03;1
+079;NARRADOR;OK;;Novembro de novo. Dessa vez, com décimo terceiro.;Novembro de novo. Dessa vez com o décimo terceiro.;3.2;1
+080;NARRADOR;OK;;A Cris pagou a fatura. Quase toda.;a Cris pagou a fatura, quase toda.;2.45;1
+081;CRIS;OK;;Sobraram cento e vinte reais. Seu Nonato, o caminhão de bombeiro sai por quanto com desconto de funcionária?;Sobraram R$120. Seu nonato, o caminhão de bombeiro sai por quanto com o desconto de funcionária?;6.82;1
+082;SEU NONATO;OK;;Pra você? Cento e vinte.;Para você, 120.;2.3;1
+083;NARRADOR;OK;;A Dona Lurdes voltou. Três netos, três presentes.;A dona Lourdes voltou. Três netos, três presentes.;3.48;1
+084;DONA LURDES;OK;;E mais um pro Papai Noel da vitrine. Uma pilha nova.;e mais um para o Papai Noel da Vitrine, uma pilha nova.;3.2;1
+085;NARRADOR;OK;;E o Seu Nonato abriu uma conta separada no banco. Deu até nome pra ela: décimo terceiro do ano que vem.;E o seu nonato abriu uma conta separada no banco. Deu até nome para ela. Décimo terceiro dono que vem.;5.73;1
+086;SEU NONATO;ERRO;sobrando: de;Janeiro: novecentos reais. Guardado. Fevereiro... a gente vê.;de janeiro 900 reais guardado fevereiro a gente vê;4.42;1
+087;NARRADOR;ERRO;"faltando: decimo terceiro; sobrando: treze";E você? O seu décimo terceiro já tem dono? Vai pra dívida, pra presente ou pra guardar? E se você tem um pequeno negócio: novembro aperta aí também? Conta aqui embaixo. A gente lê tudo.;E você? O seu 13º já tem dono, vai para dívida, para presente ou para guardar. E se você tem um pequeno negócio, novembro aperta aí também? Conta aqui embaixo, a gente lê tudo.;12.48;1

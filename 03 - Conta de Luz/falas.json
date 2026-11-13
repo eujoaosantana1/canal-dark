@@ -1,0 +1,686 @@
+[
+ {
+  "n": "001",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Onze da noite. A casa inteira escura. Só uma luzinha vermelha acesa. A da televisão."
+ },
+ {
+  "n": "002",
+  "spk": "DONA NEIDE",
+  "sec": 1,
+  "txt": "Te peguei."
+ },
+ {
+  "n": "003",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "E tirou da tomada."
+ },
+ {
+  "n": "004",
+  "spk": "GUI",
+  "sec": 1,
+  "txt": "Vó, a geladeira não!"
+ },
+ {
+  "n": "005",
+  "spk": "DONA NEIDE",
+  "sec": 1,
+  "txt": "A geladeira eu deixo. Por enquanto."
+ },
+ {
+  "n": "006",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "No ano passado, nesse mesmo mês, a Dona Neide gastou duzentos quilowatts-hora. Pagou cento e oitenta e dois reais."
+ },
+ {
+  "n": "007",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Esse ano ela apagou luz, cortou banho, tirou tudo da tomada. Gastou cento e oitenta. Dez por cento a menos."
+ },
+ {
+  "n": "008",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "E a conta veio cento e oitenta e seis."
+ },
+ {
+  "n": "009",
+  "spk": "DONA NEIDE",
+  "sec": 1,
+  "txt": "Gui. Me explica isso."
+ },
+ {
+  "n": "010",
+  "spk": "GUI",
+  "sec": 1,
+  "txt": "Vó, eu sou de humanas."
+ },
+ {
+  "n": "011",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "E você? A sua conta também subiu mesmo você economizando? Fica até o fim. Porque um pedaço da conta da Dona Neide nem era dela. E ela descobriu de quem era."
+ },
+ {
+  "n": "012",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Neide. Sessenta e três anos. Costureira em Mauá. Faz barra de calça pra metade do bairro numa máquina de 1979."
+ },
+ {
+  "n": "013",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Banho? Cinco minutos. Tem uma ampulheta grudada no azulejo."
+ },
+ {
+  "n": "014",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "E todo dia, às sete da manhã, ela vai até o relógio de luz e anota o número num caderno. Faz isso há onze anos."
+ },
+ {
+  "n": "015",
+  "spk": "GUI",
+  "sec": 2,
+  "txt": "Vó, isso aparece no aplicativo."
+ },
+ {
+  "n": "016",
+  "spk": "DONA NEIDE",
+  "sec": 2,
+  "txt": "Aplicativo gasta bateria. Bateria gasta luz."
+ },
+ {
+  "n": "017",
+  "spk": "GUI",
+  "sec": 2,
+  "txt": "Não é bem assim que…"
+ },
+ {
+  "n": "018",
+  "spk": "DONA NEIDE",
+  "sec": 2,
+  "txt": "Gui. Tira o carregador da tomada."
+ },
+ {
+  "n": "019",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "Do outro lado do muro mora o Marcão."
+ },
+ {
+  "n": "020",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "Ar-condicionado ligado desde março. Piscina de plástico com bomba. Luz da garagem acesa de dia, que é pra ladrão ver que tem gente."
+ },
+ {
+  "n": "021",
+  "spk": "MARCÃO",
+  "sec": 3,
+  "txt": "Neide, relaxa. Energia é barata."
+ },
+ {
+  "n": "022",
+  "spk": "DONA NEIDE",
+  "sec": 3,
+  "txt": "Barata? Quanto veio a sua?"
+ },
+ {
+  "n": "023",
+  "spk": "MARCÃO",
+  "sec": 3,
+  "txt": "Trinta e oito reais."
+ },
+ {
+  "n": "024",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "A Dona Neide ficou olhando pro ar-condicionado. Depois pra piscina. Depois pro Marcão."
+ },
+ {
+  "n": "025",
+  "spk": "DONA NEIDE",
+  "sec": 3,
+  "txt": "Trinta e oito."
+ },
+ {
+  "n": "026",
+  "spk": "MARCÃO",
+  "sec": 3,
+  "txt": "É que eu sou econômico."
+ },
+ {
+  "n": "027",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "Ninguém percebeu um fio meio torto saindo do poste. Ainda."
+ },
+ {
+  "n": "028",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Naquela noite, a Dona Neide ligou pra central de atendimento. Ficou quarenta minutos na espera. E, em algum momento da música de espera, a ligação caiu num lugar que não devia."
+ },
+ {
+  "n": "029",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "No Suporte Técnico do Universo."
+ },
+ {
+  "n": "030",
+  "spk": "TÉCNICO",
+  "sec": 4,
+  "txt": "Suporte Técnico do Universo, boa noite. Já tentou desligar e ligar de novo?"
+ },
+ {
+  "n": "031",
+  "spk": "DONA NEIDE",
+  "sec": 4,
+  "txt": "Moço, eu desliguei tudo. Esse é o problema."
+ },
+ {
+  "n": "032",
+  "spk": "TÉCNICO",
+  "sec": 4,
+  "txt": "Hm. Isso não é comigo. Vou transferir pra Repartição."
+ },
+ {
+  "n": "033",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "E do outro lado atendeu um senhor de auréola, óculos na ponta do nariz e um carimbo na mão. O Contador do Universo."
+ },
+ {
+  "n": "034",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "Protocolo recebido. Reclamação: economizei e a conta subiu."
+ },
+ {
+  "n": "035",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "É a reclamação mais repetida desse ano. A senhora quer saber pra onde vai cada centavo?"
+ },
+ {
+  "n": "036",
+  "spk": "DONA NEIDE",
+  "sec": 4,
+  "txt": "Quero."
+ },
+ {
+  "n": "037",
+  "spk": "CONTADOR",
+  "sec": 4,
+  "txt": "Então abre a porta."
+ },
+ {
+  "n": "038",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "A Dona Neide abriu a porta. E a conta de luz saiu de dentro da bolsa, desdobrou sozinha, e virou uma fila."
+ },
+ {
+  "n": "039",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Cinco cobradores, de crachá, dentro da sala dela. Cada um com um pedaço dos cento e oitenta e seis reais."
+ },
+ {
+  "n": "040",
+  "spk": "CONTADOR",
+  "sec": 5,
+  "txt": "De cada cem reais da sua conta, uns dezoito são imposto. O resto, a gente divide entre os outros quatro."
+ },
+ {
+  "n": "041",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "O primeiro da fila: a Energia. Ele mesmo, o que acende a lâmpada."
+ },
+ {
+  "n": "042",
+  "spk": "ENERGIA",
+  "sec": 5,
+  "txt": "Eu sou o que a senhora usou de verdade. E eu sou menos da metade da conta."
+ },
+ {
+  "n": "043",
+  "spk": "DONA NEIDE",
+  "sec": 5,
+  "txt": "Menos da metade?"
+ },
+ {
+  "n": "044",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "O segundo: a Distribuição. O poste, o fio, o relógio, o caminhão que vem quando o transformador estoura."
+ },
+ {
+  "n": "045",
+  "spk": "DISTRIBUIÇÃO",
+  "sec": 5,
+  "txt": "Eu trago a luz da rua até a sua tomada. De cada cem reais, uns vinte e cinco são meus."
+ },
+ {
+  "n": "046",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "O terceiro: a Transmissão. Veio de longe, cansado. Trouxe a energia da usina por centenas de quilômetros de torre."
+ },
+ {
+  "n": "047",
+  "spk": "TRANSMISSÃO",
+  "sec": 5,
+  "txt": "Seis de cada cem. E vim a pé."
+ },
+ {
+  "n": "048",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "O quarto não falou nada. Só entregou um envelope."
+ },
+ {
+  "n": "049",
+  "spk": "CONTADOR",
+  "sec": 5,
+  "txt": "Esse é o Encargo. É o pedaço da conta que não paga a sua luz. Paga a luz dos outros."
+ },
+ {
+  "n": "050",
+  "spk": "DONA NEIDE",
+  "sec": 5,
+  "txt": "Como assim, dos outros?"
+ },
+ {
+  "n": "051",
+  "spk": "CONTADOR",
+  "sec": 5,
+  "txt": "Programas e descontos que o governo decidiu pagar pela conta de luz, e não pelo orçamento. A família de baixa renda que tem luz de graça até oitenta quilowatts. A luz que chega em comunidade isolada na Amazônia. O desconto de quem tem painel solar no telhado. Incentivo pra usina. Tudo dividido entre todo mundo que paga."
+ },
+ {
+  "n": "052",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Esse fundo tem nome: Conta de Desenvolvimento Energético. Em 2026, são cinquenta e dois bilhões e meio de reais. Quarenta e sete bilhões e oitocentos milhões saem direto da conta de luz. Quinze por cento a mais que no ano anterior."
+ },
+ {
+  "n": "053",
+  "spk": "DONA NEIDE",
+  "sec": 5,
+  "txt": "Tá. Ajudar quem precisa eu entendo. Mas ninguém me perguntou."
+ },
+ {
+  "n": "054",
+  "spk": "CONTADOR",
+  "sec": 5,
+  "txt": "Ninguém pergunta, Dona Neide. Vem tudo junto no boleto."
+ },
+ {
+  "n": "055",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "E o quinto, o Imposto, nem esperou a vez. Já foi sentando no sofá."
+ },
+ {
+  "n": "056",
+  "spk": "IMPOSTO",
+  "sec": 5,
+  "txt": "ICMS, PIS e Cofins. O ICMS é a maior parte. E eu cobro em cima de todos eles. Até em cima do Encargo."
+ },
+ {
+  "n": "057",
+  "spk": "DONA NEIDE",
+  "sec": 5,
+  "txt": "Imposto em cima de encargo?"
+ },
+ {
+  "n": "058",
+  "spk": "IMPOSTO",
+  "sec": 5,
+  "txt": "Imposto em cima de tudo, minha senhora."
+ },
+ {
+  "n": "059",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "E ainda tinha uma coisa pendurada na parede. Uma bandeirinha."
+ },
+ {
+  "n": "060",
+  "spk": "CONTADOR",
+  "sec": 6,
+  "txt": "Essa aqui muda de cor todo mês. Choveu, as hidrelétricas enchem, a bandeira fica verde. Não choveu, liga usina térmica, que é mais cara. Aí fica amarela ou vermelha."
+ },
+ {
+  "n": "061",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Esse ano ficou verde até abril. De maio a setembro, amarela: um real e oitenta e oito a mais a cada cem quilowatts-hora. Na vermelha mais forte, são sete e oitenta e sete."
+ },
+ {
+  "n": "062",
+  "spk": "DONA NEIDE",
+  "sec": 6,
+  "txt": "Então eu pago pela chuva."
+ },
+ {
+  "n": "063",
+  "spk": "CONTADOR",
+  "sec": 6,
+  "txt": "A senhora paga pela falta dela."
+ },
+ {
+  "n": "064",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "E por cima de tudo, o preço do quilowatt sobe todo ano, no aniversário de contrato da distribuidora. Para 2026, a Aneel projeta alta média de nove vírgula quatro por cento nas tarifas. Quase o dobro da inflação."
+ },
+ {
+  "n": "065",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Em quinze anos, a conta de luz residencial subiu cento e setenta e sete por cento. A inflação, cento e vinte e dois."
+ },
+ {
+  "n": "066",
+  "spk": "CONTADOR",
+  "sec": 6,
+  "txt": "Ou seja, a senhora economizou dez por cento de luz. Mas o preço de cada pedacinho subiu mais que isso."
+ },
+ {
+  "n": "067",
+  "spk": "DONA NEIDE",
+  "sec": 6,
+  "txt": "Então eu economizei à toa?"
+ },
+ {
+  "n": "068",
+  "spk": "CONTADOR",
+  "sec": 6,
+  "txt": "Não. Sem economizar, a sua conta vinha mais de duzentos. A senhora correu pra ficar no mesmo lugar."
+ },
+ {
+  "n": "069",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Aí a Dona Neide contou de novo. Cinco cobradores de crachá. Mas tinha um sexto. Lá no fim da fila. Sem crachá, de boné, tentando não ser visto."
+ },
+ {
+  "n": "070",
+  "spk": "DONA NEIDE",
+  "sec": 7,
+  "txt": "E esse aí?"
+ },
+ {
+  "n": "071",
+  "spk": "CONTADOR",
+  "sec": 7,
+  "txt": "Esse é o Gato."
+ },
+ {
+  "n": "072",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Gato é como o Brasil chama a ligação clandestina. O fio puxado direto do poste, sem passar pelo relógio."
+ },
+ {
+  "n": "073",
+  "spk": "CONTADOR",
+  "sec": 7,
+  "txt": "A luz que ele usa ninguém paga. Então ela entra como perda. E a perda volta no reajuste. Na conta de quem paga certo."
+ },
+ {
+  "n": "074",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "As perdas comerciais, que incluem furto de energia, têm média de quatorze vírgula três por cento no país. E esse custo é repassado nos reajustes das distribuidoras."
+ },
+ {
+  "n": "075",
+  "spk": "DONA NEIDE",
+  "sec": 7,
+  "txt": "E esse gato aí… mora onde?"
+ },
+ {
+  "n": "076",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "O Gato apontou pro muro."
+ },
+ {
+  "n": "077",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Pro ar-condicionado ligado desde março."
+ },
+ {
+  "n": "078",
+  "spk": "DONA NEIDE",
+  "sec": 7,
+  "txt": "Marcão."
+ },
+ {
+  "n": "079",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Trinta e oito reais. Econômico."
+ },
+ {
+  "n": "080",
+  "spk": "CONTADOR",
+  "sec": 8,
+  "txt": "Dona Neide, a Repartição tem uma regra. Toda reclamação aceita ganha um carimbo."
+ },
+ {
+  "n": "081",
+  "spk": "CONTADOR",
+  "sec": 8,
+  "txt": "A senhora pode tirar um da fila. Um só. Esse sai da sua conta pra sempre."
+ },
+ {
+  "n": "082",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "E a Dona Neide olhou a fila."
+ },
+ {
+  "n": "083",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "O Imposto, esparramado no sofá. Tirando ele, a conta caía dezoito por cento."
+ },
+ {
+  "n": "084",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "O Encargo, com o envelope. Mas dentro do envelope tinha a luz da Dona Lurdes, da casa da frente, que vive com um salário mínimo e paga zero até oitenta quilowatts."
+ },
+ {
+  "n": "085",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "A Bandeira. A Distribuição. A Energia, que era a única coisa que ela usava de verdade."
+ },
+ {
+  "n": "086",
+  "spk": "DONA NEIDE",
+  "sec": 8,
+  "txt": "Pode tirar qualquer um?"
+ },
+ {
+  "n": "087",
+  "spk": "CONTADOR",
+  "sec": 8,
+  "txt": "Qualquer um."
+ },
+ {
+  "n": "088",
+  "spk": "DONA NEIDE",
+  "sec": 8,
+  "txt": "Então tira o Gato."
+ },
+ {
+  "n": "089",
+  "spk": "CONTADOR",
+  "sec": 8,
+  "txt": "A senhora tem certeza? O Imposto é dezoito por cento."
+ },
+ {
+  "n": "090",
+  "spk": "DONA NEIDE",
+  "sec": 8,
+  "txt": "Imposto a gente briga na eleição. Encargo a gente briga no jornal. Mas o Gato, moço, o Gato é o único que tá pendurado no meu muro."
+ },
+ {
+  "n": "091",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "E o carimbo desceu."
+ },
+ {
+  "n": "092",
+  "spk": "CONTADOR",
+  "sec": 8,
+  "txt": "Deferido."
+ },
+ {
+  "n": "093",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "No dia seguinte, um caminhão da distribuidora parou na rua. Dois homens subiram no poste. E o fio torto não estava mais lá."
+ },
+ {
+  "n": "094",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "Meio-dia. O ar-condicionado do Marcão parou. A piscina parou. A luz da garagem, que era pra ladrão ver que tinha gente, apagou."
+ },
+ {
+  "n": "095",
+  "spk": "MARCÃO",
+  "sec": 9,
+  "txt": "Neide! Neide, acabou a luz aqui!"
+ },
+ {
+  "n": "096",
+  "spk": "DONA NEIDE",
+  "sec": 9,
+  "txt": "Aqui não acabou não."
+ },
+ {
+  "n": "097",
+  "spk": "MARCÃO",
+  "sec": 9,
+  "txt": "Me empresta uma tomada? Só pra carregar o celular."
+ },
+ {
+  "n": "098",
+  "spk": "DONA NEIDE",
+  "sec": 9,
+  "txt": "Empresto. Mas aqui é no relógio. Eu anoto."
+ },
+ {
+  "n": "099",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "E o Marcão descobriu o preço da luz."
+ },
+ {
+  "n": "100",
+  "spk": "MARCÃO",
+  "sec": 9,
+  "txt": "Duzentos e quarenta reais?"
+ },
+ {
+  "n": "101",
+  "spk": "DONA NEIDE",
+  "sec": 9,
+  "txt": "Bem-vindo, Marcão. Agora você também paga a sua."
+ },
+ {
+  "n": "102",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Um mês depois, chegou a conta nova. A Dona Neide abriu devagar."
+ },
+ {
+  "n": "103",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E dessa vez, antes de olhar o valor, ela olhou outra linha. A dos quilowatts-hora."
+ },
+ {
+  "n": "104",
+  "spk": "DONA NEIDE",
+  "sec": 10,
+  "txt": "Cento e setenta e dois."
+ },
+ {
+  "n": "105",
+  "spk": "GUI",
+  "sec": 10,
+  "txt": "Vó, o valor é ali embaixo."
+ },
+ {
+  "n": "106",
+  "spk": "DONA NEIDE",
+  "sec": 10,
+  "txt": "O valor eu não mando, Gui. Esse número aqui eu mando."
+ },
+ {
+  "n": "107",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Porque essa é a parte da conta que é só sua. O preço, a bandeira, o encargo e o imposto vêm de fora. O quilowatt-hora sai da sua casa."
+ },
+ {
+  "n": "108",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E a Dona Neide tinha razão sobre a luzinha vermelha. Somados, os aparelhos em modo de espera podem chegar a doze por cento do consumo de uma casa."
+ },
+ {
+  "n": "109",
+  "spk": "GUI",
+  "sec": 10,
+  "txt": "Vó. A TV tá fora da tomada de novo."
+ },
+ {
+  "n": "110",
+  "spk": "DONA NEIDE",
+  "sec": 10,
+  "txt": "Tá. Tira o carregador também."
+ },
+ {
+  "n": "111",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "A Dona Neide não consegue mudar o preço da luz. Ninguém consegue sozinho. Mas a parte dela ela paga. Só a dela."
+ },
+ {
+  "n": "112",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Lá em cima, na Repartição do Universo, o Contador arquivou o protocolo e puxou o próximo."
+ },
+ {
+  "n": "113",
+  "spk": "CONTADOR",
+  "sec": 10,
+  "txt": "Meu vizinho tem trinta e oito reais de conta e ar-condicionado ligado. Hm. Esse eu já conheço."
+ },
+ {
+  "n": "114",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E você? Pega a sua última conta de luz. Quantos quilowatts-hora você gastou? E quanto pagou? Conta aqui embaixo. E se tiver um Marcão na sua rua, não precisa dizer o nome."
+ }
+]

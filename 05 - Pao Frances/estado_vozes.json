@@ -1,0 +1,588 @@
+{
+ "001": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Seis da manhã, Paris, uma padaria pequena numa esquina, e um senhor de chapéu de padeiro com uma cesta de pão debaixo do braço, falando português.",
+  "dur": 10.8,
+  "tent": 1
+ },
+ "006": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O Brasil vende mais de 2 milhões de toneladas de pão francês por ano. É o pão mais vendido das padarias do país. E na França, ninguém nunca ouviu falar dele.",
+  "dur": 10.55,
+  "tent": 1
+ },
+ "007": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você? Já sabia disso? Fica até o fim, porque o que aconteceu com a cesta do seu neném em Paris ninguém esperava, nem os franceses.",
+  "dur": 8.71,
+  "tent": 1
+ },
+ "008": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Você talvez lembre dele, seu nenê, 67 anos, dono da padaria do nenê em Guarulhos.",
+  "dur": 7.24,
+  "tent": 1
+ },
+ "009": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "acorda as 3h40 a 45 anos. A primeira fornada sai a 6 em ponto, nunca atrasou, nem no dia do casamento.",
+  "dur": 8.52,
+  "tent": 1
+ },
+ "010": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "casca fina, que estala quando aperta, miolo branquinho, um pão de 50 gramas, quentinho com manteiga derretendo.",
+  "dur": 8.79,
+  "tent": 1
+ },
+ "012": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E todo dia, a 6 e 5 entre o Valdir. Pede um pingado, agora vem cheio.",
+  "dur": 5.67,
+  "tent": 1
+ },
+ "013": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Até que um dia, do outro lado da rua, abriu uma apadaria nova. Meson Gabriel, fermentação natural, pão de 40 reais, fila na porta.",
+  "dur": 10.2,
+  "tent": 1
+ },
+ "014": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o dono Gabriel, 29 anos, avental de linho, bigode inserado, 180 mil seguidores.",
+  "dur": 7.79,
+  "tent": 1
+ },
+ "019": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A clientela riu, mas naquela semana metade dela atravessou a rua.",
+  "dur": 4.57,
+  "tent": 1
+ },
+ "020": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o seu nenê, pela primeira vez em 45 anos, ficou com pão sobrando no balcão.",
+  "dur": 5.38,
+  "tent": 1
+ },
+ "021": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Naquela madrugada, enquanto a massa crescia, o seu nenê escreveu num papel de embrulhar pão.",
+  "dur": 6.0,
+  "tent": 2
+ },
+ "023": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E como já aconteceu com o Valdir, com a Dona Neide e com o Doutor Fábio, o papel foi parar num lugar que não devia, na repartição do universo.",
+  "dur": 8.79,
+  "tent": 1
+ },
+ "029": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o carimbo desceu.",
+  "dur": 1.1,
+  "tent": 1
+ },
+ "031": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E foi assim que o seu nenê foi parar numa esquina de Paris às 6 da manhã com 40 panzinhos quentes debaixo do braço.",
+  "dur": 7.43,
+  "tent": 1
+ },
+ "032": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e foi assim que ele ouviu de um padeiro francês de verdade a frase que você viu no começo.",
+  "dur": 5.0,
+  "tent": 1
+ },
+ "034": {
+  "status": "ERRO",
+  "problemas": [
+   "sobrando: um"
+  ],
+  "ouvido": "Um monsieur Luc pegou um, apertou, craque.",
+  "dur": 3.43,
+  "tent": 3
+ },
+ "039": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Começo do século 20, quem tinha dinheiro no Brasil viajava para Paris e voltava apaixonado por um pão comprido de casca dourada e miolo branco, a baguete.",
+  "dur": 10.48,
+  "tent": 1
+ },
+ "040": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Chegando aqui, essa gente pedia para os padeiros. Faz igual de Paris.",
+  "dur": 3.99,
+  "tent": 1
+ },
+ "041": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Só que o trigo era outro, o forno era outro, o clima era outro e muitos padeiros eram imigrantes, portugueses, italianos, que nunca tinham visto uma baguete na vida.",
+  "dur": 11.06,
+  "tent": 1
+ },
+ "042": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Cada padaria foi adaptando do seu jeito. Encurtou, amaciou, fez a casca mais fina e o que saiu do forno não era francês. Era outra coisa, mas o nome pegou.",
+  "dur": 10.91,
+  "tent": 1
+ },
+ "044": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E nenhum nome é o mesmo no país inteiro. No Rio Grande do Sul é Cacetinho, em Minas, Pão de Sal, no Ceará, Carioquinha, e em São Paulo, Pãozinho.",
+  "dur": 10.63,
+  "tent": 1
+ },
+ "045": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hoje, ele é mais de 1 terço de tudo que as padarias do Brasil vendem.",
+  "dur": 4.2,
+  "tent": 1
+ },
+ "046": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E aí aconteceu uma coisa que nenhum livro de história previa.",
+  "dur": 3.65,
+  "tent": 1
+ },
+ "047": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: luc",
+   "sobrando: luke"
+  ],
+  "ouvido": "O Messier Luke comeu o primeiro pão, depois o segundo, depois chamou a mulher, a mulher chamou a vizinha.",
+  "dur": 7.36,
+  "tent": 3
+ },
+ "051": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "às 8h da manhã tinha a fila na esquina, às 9h acabou a cesta.",
+  "dur": 4.93,
+  "tent": 1
+ },
+ "052": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O pão que não existe na França fez fila em Paris.",
+  "dur": 3.64,
+  "tent": 1
+ },
+ "054": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Enquanto isso, em Guarulhos, a padaria do nenê estava fechada pela primeira vez em 45 anos, e o Valdir estava parado na porta, sem pingado.",
+  "dur": 10.34,
+  "tent": 1
+ },
+ "056": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: centavos virgula"
+  ],
+  "ouvido": "Numa pesquisa do Procon de São Paulo este ano, o quilo do pão francês na capital saiu em média por R$ 24,69, 4,4% mais caro que no ano anterior.",
+  "dur": 11.9,
+  "tent": 3
+ },
+ "057": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E sabe que pesa no preço? A energia elétrica. Ela é quase 30% do custo de produção das padarias. O forno é luz.",
+  "dur": 8.01,
+  "tent": 1
+ },
+ "060": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Desde o plano real, o pãozinho subiu mais que a inflação, uns 43% acima.",
+  "dur": 5.01,
+  "tent": 1
+ },
+ "061": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E mesmo assim continua sendo pão de quem acorda cedo. As padarias do Brasil atendem perto de 47 milhões de pessoas por dia.",
+  "dur": 8.82,
+  "tent": 1
+ },
+ "063": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o seu nenê olhou a esquina de Paris. Bonita, fila, gente elogiando...",
+  "dur": 6.3,
+  "tent": 1
+ },
+ "064": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Depois lembrou do Valdir, parado na porta, sem pingado.",
+  "dur": 3.65,
+  "tent": 1
+ },
+ "068": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Antes de ir embora, ele deixou a receita num papel de pão em cima do balcão do Monsieur Liu.",
+  "dur": 5.13,
+  "tent": 1
+ },
+ "072": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o carimbo desceu.",
+  "dur": 1.75,
+  "tent": 1
+ },
+ "073": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No dia seguinte, 13.40, a massa crescendo, e as 6 em ponto, a fornada saiu.",
+  "dur": 7.1,
+  "tent": 1
+ },
+ "074": {
+  "status": "ERRO",
+  "problemas": [
+   "início diferente"
+  ],
+  "ouvido": "A 6 e 5 entrou o Valdir. Pidi um pingado. Veio cheio.",
+  "dur": 4.88,
+  "tent": 3
+ },
+ "075": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e às 6 e 10 entrou mais alguém. Avental de linho, bigode inserado.",
+  "dur": 6.21,
+  "tent": 2
+ },
+ "080": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Lá em cima, na repartição do universo, o contador abriu um pacote de papel. Dentro, um pãozinho ainda quente. Crac!",
+  "dur": 9.16,
+  "tent": 2
+ },
+ "081": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E, em Paris, numa esquina, uma plaquinha nova apareceu na vitrine do Monsieur Luc. Pa Brasilian, 2 euros.",
+  "dur": 7.75,
+  "tent": 2
+ },
+ "082": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você? Na sua cidade esse pão chama como? Pãozinho? Cassetinho? Pão de sal? Carioquinha? Conta aqui embaixo. Vamos ver qual nome ganha.",
+  "dur": 13.37,
+  "tent": 1
+ },
+ "002": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Bom dia. Eu vim trazer o pão de vocês de volta.",
+  "dur": 3.24,
+  "tent": 1
+ },
+ "004": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Como assim que pão no pão francês?",
+  "dur": 2.52,
+  "tent": 1
+ },
+ "011": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Pô, francês bom, a gente conhece pelo barulho. Escuta. Crac.",
+  "dur": 4.89,
+  "tent": 2
+ },
+ "016": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Como não? Está no nome, menino. Pão francês.",
+  "dur": 3.73,
+  "tent": 2
+ },
+ "018": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O meu leva 3 horas e o povo come no mesmo dia.",
+  "dur": 3.72,
+  "tent": 1
+ },
+ "022": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "pedido, provar que o meu pão é francês.",
+  "dur": 3.14,
+  "tent": 1
+ },
+ "025": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "o próprio.",
+  "dur": 0.75,
+  "tent": 1
+ },
+ "027": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Até lá, onde?",
+  "dur": 1.01,
+  "tent": 1
+ },
+ "036": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "nasceu em Guarulhos.",
+  "dur": 1.17,
+  "tent": 1
+ },
+ "049": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Lá em casa, R$1,20.",
+  "dur": 2.13,
+  "tent": 1
+ },
+ "058": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Na conta de luz, igual a da dona Neide.",
+  "dur": 3.29,
+  "tent": 2
+ },
+ "065": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: monsieur luc as",
+   "início diferente"
+  ],
+  "ouvido": "Obrigado, mas eu tenho uma fornada 6.",
+  "dur": 2.71,
+  "tent": 3
+ },
+ "067": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Em Guarulhos eu já sou, pra umas 300 pessoas, dá e sobra.",
+  "dur": 5.46,
+  "tent": 1
+ },
+ "070": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "É de guarulhos!",
+  "dur": 1.81,
+  "tent": 1
+ },
+ "077": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Pão de mentira, menino!",
+  "dur": 2.28,
+  "tent": 1
+ },
+ "079": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Leva 4. O quarto é de graça. E amanhã, 13h40, vem aprender a fazer.",
+  "dur": 6.42,
+  "tent": 1
+ },
+ "003": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Perdão, que pão é este?",
+  "dur": 1.69,
+  "tent": 2
+ },
+ "005": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Monsieur, eu sou padeiro em Paris há 40 anos, este pão eu nunca vi na vida.",
+  "dur": 4.33,
+  "tent": 1
+ },
+ "033": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Este pão eu nunca vi na vida.",
+  "dur": 1.78,
+  "tent": 1
+ },
+ "035": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hum, a casca é fina demais para ser baguete, o miolo é macio demais, e é pequeno. Parece um pão que pediram para ser francês, mas que nasceu em outro lugar.",
+  "dur": 9.7,
+  "tent": 1
+ },
+ "037": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ah, isto explica.",
+  "dur": 1.52,
+  "tent": 1
+ },
+ "048": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Monsieur Nene, quanto custa um?",
+  "dur": 2.0,
+  "tent": 1
+ },
+ "050": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Aqui o senhor vende por 2 euros.",
+  "dur": 1.97,
+  "tent": 1
+ },
+ "053": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Fica, Messier! Abre uma padaria aqui. Le Pan Brasilien. Vai ficar rico!",
+  "dur": 5.36,
+  "tent": 1
+ },
+ "066": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas em Paris o senhor seria famoso!",
+  "dur": 1.93,
+  "tent": 1
+ },
+ "015": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Seu nenê, com todo respeito, esse pão nem é francês, na França ninguém come isso.",
+  "dur": 5.43,
+  "tent": 1
+ },
+ "017": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O nome engana. É pão de mentira. Pão de verdade leva 3 dias pra ficar pronto.",
+  "dur": 4.46,
+  "tent": 1
+ },
+ "076": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Seu nenê, me vê dois panzinhos?",
+  "dur": 2.79,
+  "tent": 1
+ },
+ "078": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Pão de verdade leva 3 dias, mas fome a gente tem todo dia.",
+  "dur": 4.1,
+  "tent": 1
+ },
+ "024": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ora, ora, seu nenê. A gente já se conhece. O senhor era o da padaria, do meio copo.",
+  "dur": 6.53,
+  "tent": 1
+ },
+ "026": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Pedido de origem. Esse é rápido. O senhor vai até lá e pergunta.",
+  "dur": 4.57,
+  "tent": 1
+ },
+ "028": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Paris. Uma manhã só. Leva a cesta.",
+  "dur": 3.17,
+  "tent": 1
+ },
+ "030": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Deferido! Boa viagem!",
+  "dur": 1.7,
+  "tent": 1
+ },
+ "038": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Senta-se a nenê, deixa eu te contar de onde veio seu pão.",
+  "dur": 3.5,
+  "tent": 1
+ },
+ "043": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O seu pão é filho de uma imitação que deu errado, e por isso deu tão certo.",
+  "dur": 4.96,
+  "tent": 1
+ },
+ "055": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Seu nenê, antes de decidir, olha a conta da sua padaria.",
+  "dur": 3.55,
+  "tent": 1
+ },
+ "059": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Igualzinha.",
+  "dur": 1.04,
+  "tent": 1
+ },
+ "062": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Então, seu nenê, paris 2 euros o pão, fila na porta, ou guarulhos, 1 real e 20, 3 e 40 da manhã.",
+  "dur": 8.19,
+  "tent": 1
+ },
+ "069": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Pedido encerrado. Resultado, o pão não é francês.",
+  "dur": 4.66,
+  "tent": 1
+ },
+ "071": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "é do Brasil.",
+  "dur": 0.99,
+  "tent": 1
+ }
+}

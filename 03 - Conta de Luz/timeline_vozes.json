@@ -1,0 +1,917 @@
+{
+ "total": 585.898,
+ "lines": [
+  {
+   "clip": "001",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 0.4,
+   "end": 6.397,
+   "text": "Onze da noite. A casa inteira escura. Só uma luzinha vermelha acesa. A da televisão."
+  },
+  {
+   "clip": "002",
+   "who": "DONA NEIDE",
+   "sec": 1,
+   "start": 6.847,
+   "end": 7.603,
+   "text": "Te peguei."
+  },
+  {
+   "clip": "003",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 8.053,
+   "end": 9.544,
+   "text": "E tirou da tomada."
+  },
+  {
+   "clip": "004",
+   "who": "GUI",
+   "sec": 1,
+   "start": 9.994,
+   "end": 12.319,
+   "text": "Vó, a geladeira não!"
+  },
+  {
+   "clip": "005",
+   "who": "DONA NEIDE",
+   "sec": 1,
+   "start": 12.769,
+   "end": 14.834,
+   "text": "A geladeira eu deixo. Por enquanto."
+  },
+  {
+   "clip": "006",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 15.284,
+   "end": 23.064,
+   "text": "No ano passado, nesse mesmo mês, a Dona Neide gastou duzentos quilowatts-hora. Pagou cento e oitenta e dois reais."
+  },
+  {
+   "clip": "007",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 23.414,
+   "end": 31.383,
+   "text": "Esse ano ela apagou luz, cortou banho, tirou tudo da tomada. Gastou cento e oitenta. Dez por cento a menos."
+  },
+  {
+   "clip": "008",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 31.733,
+   "end": 34.212,
+   "text": "E a conta veio cento e oitenta e seis."
+  },
+  {
+   "clip": "009",
+   "who": "DONA NEIDE",
+   "sec": 1,
+   "start": 34.662,
+   "end": 36.187,
+   "text": "Gui. Me explica isso."
+  },
+  {
+   "clip": "010",
+   "who": "GUI",
+   "sec": 1,
+   "start": 36.637,
+   "end": 38.064,
+   "text": "Vó, eu sou de humanas."
+  },
+  {
+   "clip": "011",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 38.514,
+   "end": 49.27,
+   "text": "E você? A sua conta também subiu mesmo você economizando? Fica até o fim. Porque um pedaço da conta da Dona Neide nem era dela. E ela descobriu de quem era."
+  },
+  {
+   "clip": "012",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 50.17,
+   "end": 59.191,
+   "text": "Neide. Sessenta e três anos. Costureira em Mauá. Faz barra de calça pra metade do bairro numa máquina de 1979."
+  },
+  {
+   "clip": "013",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 59.541,
+   "end": 63.666,
+   "text": "Banho? Cinco minutos. Tem uma ampulheta grudada no azulejo."
+  },
+  {
+   "clip": "014",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 64.016,
+   "end": 71.417,
+   "text": "E todo dia, às sete da manhã, ela vai até o relógio de luz e anota o número num caderno. Faz isso há onze anos."
+  },
+  {
+   "clip": "015",
+   "who": "GUI",
+   "sec": 2,
+   "start": 71.867,
+   "end": 74.024,
+   "text": "Vó, isso aparece no aplicativo."
+  },
+  {
+   "clip": "016",
+   "who": "DONA NEIDE",
+   "sec": 2,
+   "start": 74.474,
+   "end": 77.431,
+   "text": "Aplicativo gasta bateria. Bateria gasta luz."
+  },
+  {
+   "clip": "017",
+   "who": "GUI",
+   "sec": 2,
+   "start": 77.881,
+   "end": 79.011,
+   "text": "Não é bem assim que…"
+  },
+  {
+   "clip": "018",
+   "who": "DONA NEIDE",
+   "sec": 2,
+   "start": 79.461,
+   "end": 81.543,
+   "text": "Gui. Tira o carregador da tomada."
+  },
+  {
+   "clip": "019",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 82.443,
+   "end": 84.439,
+   "text": "Do outro lado do muro mora o Marcão."
+  },
+  {
+   "clip": "020",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 84.789,
+   "end": 92.808,
+   "text": "Ar-condicionado ligado desde março. Piscina de plástico com bomba. Luz da garagem acesa de dia, que é pra ladrão ver que tem gente."
+  },
+  {
+   "clip": "021",
+   "who": "MARCÃO",
+   "sec": 3,
+   "start": 93.258,
+   "end": 95.768,
+   "text": "Neide, relaxa. Energia é barata."
+  },
+  {
+   "clip": "022",
+   "who": "DONA NEIDE",
+   "sec": 3,
+   "start": 96.218,
+   "end": 98.055,
+   "text": "Barata? Quanto veio a sua?"
+  },
+  {
+   "clip": "023",
+   "who": "MARCÃO",
+   "sec": 3,
+   "start": 98.505,
+   "end": 99.69,
+   "text": "Trinta e oito reais."
+  },
+  {
+   "clip": "024",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 100.14,
+   "end": 105.244,
+   "text": "A Dona Neide ficou olhando pro ar-condicionado. Depois pra piscina. Depois pro Marcão."
+  },
+  {
+   "clip": "025",
+   "who": "DONA NEIDE",
+   "sec": 3,
+   "start": 105.694,
+   "end": 106.655,
+   "text": "Trinta e oito."
+  },
+  {
+   "clip": "026",
+   "who": "MARCÃO",
+   "sec": 3,
+   "start": 107.105,
+   "end": 108.538,
+   "text": "É que eu sou econômico."
+  },
+  {
+   "clip": "027",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 108.988,
+   "end": 113.15,
+   "text": "Ninguém percebeu um fio meio torto saindo do poste. Ainda."
+  },
+  {
+   "clip": "028",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 114.05,
+   "end": 124.667,
+   "text": "Naquela noite, a Dona Neide ligou pra central de atendimento. Ficou quarenta minutos na espera. E, em algum momento da música de espera, a ligação caiu num lugar que não devia."
+  },
+  {
+   "clip": "029",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 125.017,
+   "end": 127.016,
+   "text": "No Suporte Técnico do Universo."
+  },
+  {
+   "clip": "030",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 127.466,
+   "end": 131.971,
+   "text": "Suporte Técnico do Universo, boa noite. Já tentou desligar e ligar de novo?"
+  },
+  {
+   "clip": "031",
+   "who": "DONA NEIDE",
+   "sec": 4,
+   "start": 132.421,
+   "end": 136.143,
+   "text": "Moço, eu desliguei tudo. Esse é o problema."
+  },
+  {
+   "clip": "032",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 136.593,
+   "end": 140.516,
+   "text": "Hm. Isso não é comigo. Vou transferir pra Repartição."
+  },
+  {
+   "clip": "033",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 140.966,
+   "end": 148.82,
+   "text": "E do outro lado atendeu um senhor de auréola, óculos na ponta do nariz e um carimbo na mão. O Contador do Universo."
+  },
+  {
+   "clip": "034",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 149.27,
+   "end": 153.581,
+   "text": "Protocolo recebido. Reclamação: economizei e a conta subiu."
+  },
+  {
+   "clip": "035",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 153.931,
+   "end": 159.38,
+   "text": "É a reclamação mais repetida desse ano. A senhora quer saber pra onde vai cada centavo?"
+  },
+  {
+   "clip": "036",
+   "who": "DONA NEIDE",
+   "sec": 4,
+   "start": 159.83,
+   "end": 160.741,
+   "text": "Quero."
+  },
+  {
+   "clip": "037",
+   "who": "CONTADOR",
+   "sec": 4,
+   "start": 161.191,
+   "end": 162.57,
+   "text": "Então abre a porta."
+  },
+  {
+   "clip": "038",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 163.47,
+   "end": 169.91,
+   "text": "A Dona Neide abriu a porta. E a conta de luz saiu de dentro da bolsa, desdobrou sozinha, e virou uma fila."
+  },
+  {
+   "clip": "039",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 170.26,
+   "end": 177.061,
+   "text": "Cinco cobradores, de crachá, dentro da sala dela. Cada um com um pedaço dos cento e oitenta e seis reais."
+  },
+  {
+   "clip": "040",
+   "who": "CONTADOR",
+   "sec": 5,
+   "start": 177.511,
+   "end": 184.11,
+   "text": "De cada cem reais da sua conta, uns dezoito são imposto. O resto, a gente divide entre os outros quatro."
+  },
+  {
+   "clip": "041",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 184.56,
+   "end": 189.389,
+   "text": "O primeiro da fila: a Energia. Ele mesmo, o que acende a lâmpada."
+  },
+  {
+   "clip": "042",
+   "who": "ENERGIA",
+   "sec": 5,
+   "start": 189.839,
+   "end": 194.863,
+   "text": "Eu sou o que a senhora usou de verdade. E eu sou menos da metade da conta."
+  },
+  {
+   "clip": "043",
+   "who": "DONA NEIDE",
+   "sec": 5,
+   "start": 195.313,
+   "end": 196.742,
+   "text": "Menos da metade?"
+  },
+  {
+   "clip": "044",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 197.192,
+   "end": 204.162,
+   "text": "O segundo: a Distribuição. O poste, o fio, o relógio, o caminhão que vem quando o transformador estoura."
+  },
+  {
+   "clip": "045",
+   "who": "DISTRIBUIÇÃO",
+   "sec": 5,
+   "start": 204.612,
+   "end": 211.155,
+   "text": "Eu trago a luz da rua até a sua tomada. De cada cem reais, uns vinte e cinco são meus."
+  },
+  {
+   "clip": "046",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 211.605,
+   "end": 219.658,
+   "text": "O terceiro: a Transmissão. Veio de longe, cansado. Trouxe a energia da usina por centenas de quilômetros de torre."
+  },
+  {
+   "clip": "047",
+   "who": "TRANSMISSÃO",
+   "sec": 5,
+   "start": 220.108,
+   "end": 222.509,
+   "text": "Seis de cada cem. E vim a pé."
+  },
+  {
+   "clip": "048",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 222.959,
+   "end": 225.807,
+   "text": "O quarto não falou nada. Só entregou um envelope."
+  },
+  {
+   "clip": "049",
+   "who": "CONTADOR",
+   "sec": 5,
+   "start": 226.257,
+   "end": 232.103,
+   "text": "Esse é o Encargo. É o pedaço da conta que não paga a sua luz. Paga a luz dos outros."
+  },
+  {
+   "clip": "050",
+   "who": "DONA NEIDE",
+   "sec": 5,
+   "start": 232.553,
+   "end": 233.944,
+   "text": "Como assim, dos outros?"
+  },
+  {
+   "clip": "051",
+   "who": "CONTADOR",
+   "sec": 5,
+   "start": 234.394,
+   "end": 253.364,
+   "text": "Programas e descontos que o governo decidiu pagar pela conta de luz, e não pelo orçamento. A família de baixa renda que tem luz de graça até oitenta quilowatts. A luz que chega em comunidade isolada na Amazônia. O desconto de quem tem painel solar no telhado. Incentivo pra usina. Tudo dividido entre todo mundo que paga."
+  },
+  {
+   "clip": "052",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 253.814,
+   "end": 269.731,
+   "text": "Esse fundo tem nome: Conta de Desenvolvimento Energético. Em 2026, são cinquenta e dois bilhões e meio de reais. Quarenta e sete bilhões e oitocentos milhões saem direto da conta de luz. Quinze por cento a mais que no ano anterior."
+  },
+  {
+   "clip": "053",
+   "who": "DONA NEIDE",
+   "sec": 5,
+   "start": 270.181,
+   "end": 274.6,
+   "text": "Tá. Ajudar quem precisa eu entendo. Mas ninguém me perguntou."
+  },
+  {
+   "clip": "054",
+   "who": "CONTADOR",
+   "sec": 5,
+   "start": 275.05,
+   "end": 278.09,
+   "text": "Ninguém pergunta, Dona Neide. Vem tudo junto no boleto."
+  },
+  {
+   "clip": "055",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 278.54,
+   "end": 282.905,
+   "text": "E o quinto, o Imposto, nem esperou a vez. Já foi sentando no sofá."
+  },
+  {
+   "clip": "056",
+   "who": "IMPOSTO",
+   "sec": 5,
+   "start": 283.355,
+   "end": 292.183,
+   "text": "ICMS, PIS e Cofins. O ICMS é a maior parte. E eu cobro em cima de todos eles. Até em cima do Encargo."
+  },
+  {
+   "clip": "057",
+   "who": "DONA NEIDE",
+   "sec": 5,
+   "start": 292.633,
+   "end": 294.409,
+   "text": "Imposto em cima de encargo?"
+  },
+  {
+   "clip": "058",
+   "who": "IMPOSTO",
+   "sec": 5,
+   "start": 294.859,
+   "end": 297.338,
+   "text": "Imposto em cima de tudo, minha senhora."
+  },
+  {
+   "clip": "059",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 298.238,
+   "end": 301.695,
+   "text": "E ainda tinha uma coisa pendurada na parede. Uma bandeirinha."
+  },
+  {
+   "clip": "060",
+   "who": "CONTADOR",
+   "sec": 6,
+   "start": 302.145,
+   "end": 311.925,
+   "text": "Essa aqui muda de cor todo mês. Choveu, as hidrelétricas enchem, a bandeira fica verde. Não choveu, liga usina térmica, que é mais cara. Aí fica amarela ou vermelha."
+  },
+  {
+   "clip": "061",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 312.375,
+   "end": 322.913,
+   "text": "Esse ano ficou verde até abril. De maio a setembro, amarela: um real e oitenta e oito a mais a cada cem quilowatts-hora. Na vermelha mais forte, são sete e oitenta e sete."
+  },
+  {
+   "clip": "062",
+   "who": "DONA NEIDE",
+   "sec": 6,
+   "start": 323.363,
+   "end": 325.055,
+   "text": "Então eu pago pela chuva."
+  },
+  {
+   "clip": "063",
+   "who": "CONTADOR",
+   "sec": 6,
+   "start": 325.505,
+   "end": 327.593,
+   "text": "A senhora paga pela falta dela."
+  },
+  {
+   "clip": "064",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 328.043,
+   "end": 342.913,
+   "text": "E por cima de tudo, o preço do quilowatt sobe todo ano, no aniversário de contrato da distribuidora. Para 2026, a Aneel projeta alta média de nove vírgula quatro por cento nas tarifas. Quase o dobro da inflação."
+  },
+  {
+   "clip": "065",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 343.263,
+   "end": 350.585,
+   "text": "Em quinze anos, a conta de luz residencial subiu cento e setenta e sete por cento. A inflação, cento e vinte e dois."
+  },
+  {
+   "clip": "066",
+   "who": "CONTADOR",
+   "sec": 6,
+   "start": 351.035,
+   "end": 357.59,
+   "text": "Ou seja, a senhora economizou dez por cento de luz. Mas o preço de cada pedacinho subiu mais que isso."
+  },
+  {
+   "clip": "067",
+   "who": "DONA NEIDE",
+   "sec": 6,
+   "start": 358.04,
+   "end": 359.507,
+   "text": "Então eu economizei à toa?"
+  },
+  {
+   "clip": "068",
+   "who": "CONTADOR",
+   "sec": 6,
+   "start": 359.957,
+   "end": 367.186,
+   "text": "Não. Sem economizar, a sua conta vinha mais de duzentos. A senhora correu pra ficar no mesmo lugar."
+  },
+  {
+   "clip": "069",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 368.086,
+   "end": 379.549,
+   "text": "Aí a Dona Neide contou de novo. Cinco cobradores de crachá. Mas tinha um sexto. Lá no fim da fila. Sem crachá, de boné, tentando não ser visto."
+  },
+  {
+   "clip": "070",
+   "who": "DONA NEIDE",
+   "sec": 7,
+   "start": 379.999,
+   "end": 380.616,
+   "text": "E esse aí?"
+  },
+  {
+   "clip": "071",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 381.066,
+   "end": 381.86,
+   "text": "Esse é o Gato."
+  },
+  {
+   "clip": "072",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 382.31,
+   "end": 388.415,
+   "text": "Gato é como o Brasil chama a ligação clandestina. O fio puxado direto do poste, sem passar pelo relógio."
+  },
+  {
+   "clip": "073",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 388.865,
+   "end": 397.036,
+   "text": "A luz que ele usa ninguém paga. Então ela entra como perda. E a perda volta no reajuste. Na conta de quem paga certo."
+  },
+  {
+   "clip": "074",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 397.486,
+   "end": 407.261,
+   "text": "As perdas comerciais, que incluem furto de energia, têm média de quatorze vírgula três por cento no país. E esse custo é repassado nos reajustes das distribuidoras."
+  },
+  {
+   "clip": "075",
+   "who": "DONA NEIDE",
+   "sec": 7,
+   "start": 407.711,
+   "end": 409.322,
+   "text": "E esse gato aí… mora onde?"
+  },
+  {
+   "clip": "076",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 409.772,
+   "end": 411.078,
+   "text": "O Gato apontou pro muro."
+  },
+  {
+   "clip": "077",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 411.428,
+   "end": 413.862,
+   "text": "Pro ar-condicionado ligado desde março."
+  },
+  {
+   "clip": "078",
+   "who": "DONA NEIDE",
+   "sec": 7,
+   "start": 414.312,
+   "end": 414.985,
+   "text": "Marcão."
+  },
+  {
+   "clip": "079",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 415.435,
+   "end": 417.767,
+   "text": "Trinta e oito reais. Econômico."
+  },
+  {
+   "clip": "080",
+   "who": "CONTADOR",
+   "sec": 8,
+   "start": 418.667,
+   "end": 424.366,
+   "text": "Dona Neide, a Repartição tem uma regra. Toda reclamação aceita ganha um carimbo."
+  },
+  {
+   "clip": "081",
+   "who": "CONTADOR",
+   "sec": 8,
+   "start": 424.716,
+   "end": 429.595,
+   "text": "A senhora pode tirar um da fila. Um só. Esse sai da sua conta pra sempre."
+  },
+  {
+   "clip": "082",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 430.045,
+   "end": 431.97,
+   "text": "E a Dona Neide olhou a fila."
+  },
+  {
+   "clip": "083",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 432.32,
+   "end": 439.157,
+   "text": "O Imposto, esparramado no sofá. Tirando ele, a conta caía dezoito por cento."
+  },
+  {
+   "clip": "084",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 439.507,
+   "end": 450.436,
+   "text": "O Encargo, com o envelope. Mas dentro do envelope tinha a luz da Dona Lurdes, da casa da frente, que vive com um salário mínimo e paga zero até oitenta quilowatts."
+  },
+  {
+   "clip": "085",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 450.786,
+   "end": 457.372,
+   "text": "A Bandeira. A Distribuição. A Energia, que era a única coisa que ela usava de verdade."
+  },
+  {
+   "clip": "086",
+   "who": "DONA NEIDE",
+   "sec": 8,
+   "start": 457.822,
+   "end": 458.786,
+   "text": "Pode tirar qualquer um?"
+  },
+  {
+   "clip": "087",
+   "who": "CONTADOR",
+   "sec": 8,
+   "start": 459.236,
+   "end": 459.923,
+   "text": "Qualquer um."
+  },
+  {
+   "clip": "088",
+   "who": "DONA NEIDE",
+   "sec": 8,
+   "start": 460.373,
+   "end": 461.716,
+   "text": "Então tira o Gato."
+  },
+  {
+   "clip": "089",
+   "who": "CONTADOR",
+   "sec": 8,
+   "start": 462.166,
+   "end": 465.195,
+   "text": "A senhora tem certeza? O Imposto é dezoito por cento."
+  },
+  {
+   "clip": "090",
+   "who": "DONA NEIDE",
+   "sec": 8,
+   "start": 465.645,
+   "end": 474.198,
+   "text": "Imposto a gente briga na eleição. Encargo a gente briga no jornal. Mas o Gato, moço, o Gato é o único que tá pendurado no meu muro."
+  },
+  {
+   "clip": "091",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 474.648,
+   "end": 476.1,
+   "text": "E o carimbo desceu."
+  },
+  {
+   "clip": "092",
+   "who": "CONTADOR",
+   "sec": 8,
+   "start": 476.55,
+   "end": 477.257,
+   "text": "Deferido."
+  },
+  {
+   "clip": "093",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 478.157,
+   "end": 485.964,
+   "text": "No dia seguinte, um caminhão da distribuidora parou na rua. Dois homens subiram no poste. E o fio torto não estava mais lá."
+  },
+  {
+   "clip": "094",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 486.314,
+   "end": 494.593,
+   "text": "Meio-dia. O ar-condicionado do Marcão parou. A piscina parou. A luz da garagem, que era pra ladrão ver que tinha gente, apagou."
+  },
+  {
+   "clip": "095",
+   "who": "MARCÃO",
+   "sec": 9,
+   "start": 495.043,
+   "end": 497.268,
+   "text": "Neide! Neide, acabou a luz aqui!"
+  },
+  {
+   "clip": "096",
+   "who": "DONA NEIDE",
+   "sec": 9,
+   "start": 497.718,
+   "end": 498.75,
+   "text": "Aqui não acabou não."
+  },
+  {
+   "clip": "097",
+   "who": "MARCÃO",
+   "sec": 9,
+   "start": 499.2,
+   "end": 501.31,
+   "text": "Me empresta uma tomada? Só pra carregar o celular."
+  },
+  {
+   "clip": "098",
+   "who": "DONA NEIDE",
+   "sec": 9,
+   "start": 501.76,
+   "end": 504.697,
+   "text": "Empresto. Mas aqui é no relógio. Eu anoto."
+  },
+  {
+   "clip": "099",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 505.147,
+   "end": 507.312,
+   "text": "E o Marcão descobriu o preço da luz."
+  },
+  {
+   "clip": "100",
+   "who": "MARCÃO",
+   "sec": 9,
+   "start": 507.762,
+   "end": 509.567,
+   "text": "Duzentos e quarenta reais?"
+  },
+  {
+   "clip": "101",
+   "who": "DONA NEIDE",
+   "sec": 9,
+   "start": 510.017,
+   "end": 513.04,
+   "text": "Bem-vindo, Marcão. Agora você também paga a sua."
+  },
+  {
+   "clip": "102",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 513.94,
+   "end": 517.692,
+   "text": "Um mês depois, chegou a conta nova. A Dona Neide abriu devagar."
+  },
+  {
+   "clip": "103",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 518.042,
+   "end": 523.734,
+   "text": "E dessa vez, antes de olhar o valor, ela olhou outra linha. A dos quilowatts-hora."
+  },
+  {
+   "clip": "104",
+   "who": "DONA NEIDE",
+   "sec": 10,
+   "start": 524.184,
+   "end": 525.773,
+   "text": "Cento e setenta e dois."
+  },
+  {
+   "clip": "105",
+   "who": "GUI",
+   "sec": 10,
+   "start": 526.223,
+   "end": 528.206,
+   "text": "Vó, o valor é ali embaixo."
+  },
+  {
+   "clip": "106",
+   "who": "DONA NEIDE",
+   "sec": 10,
+   "start": 528.656,
+   "end": 532.141,
+   "text": "O valor eu não mando, Gui. Esse número aqui eu mando."
+  },
+  {
+   "clip": "107",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 532.591,
+   "end": 541.401,
+   "text": "Porque essa é a parte da conta que é só sua. O preço, a bandeira, o encargo e o imposto vêm de fora. O quilowatt-hora sai da sua casa."
+  },
+  {
+   "clip": "108",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 541.751,
+   "end": 550.017,
+   "text": "E a Dona Neide tinha razão sobre a luzinha vermelha. Somados, os aparelhos em modo de espera podem chegar a doze por cento do consumo de uma casa."
+  },
+  {
+   "clip": "109",
+   "who": "GUI",
+   "sec": 10,
+   "start": 550.467,
+   "end": 553.264,
+   "text": "Vó. A TV tá fora da tomada de novo."
+  },
+  {
+   "clip": "110",
+   "who": "DONA NEIDE",
+   "sec": 10,
+   "start": 553.714,
+   "end": 554.95,
+   "text": "Tá. Tira o carregador também."
+  },
+  {
+   "clip": "111",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 555.4,
+   "end": 562.181,
+   "text": "A Dona Neide não consegue mudar o preço da luz. Ninguém consegue sozinho. Mas a parte dela ela paga. Só a dela."
+  },
+  {
+   "clip": "112",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 562.531,
+   "end": 568.291,
+   "text": "Lá em cima, na Repartição do Universo, o Contador arquivou o protocolo e puxou o próximo."
+  },
+  {
+   "clip": "113",
+   "who": "CONTADOR",
+   "sec": 10,
+   "start": 568.741,
+   "end": 574.411,
+   "text": "Meu vizinho tem trinta e oito reais de conta e ar-condicionado ligado. Hm. Esse eu já conheço."
+  },
+  {
+   "clip": "114",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 574.861,
+   "end": 584.698,
+   "text": "E você? Pega a sua última conta de luz. Quantos quilowatts-hora você gastou? E quanto pagou? Conta aqui embaixo. E se tiver um Marcão na sua rua, não precisa dizer o nome."
+  }
+ ]
+}

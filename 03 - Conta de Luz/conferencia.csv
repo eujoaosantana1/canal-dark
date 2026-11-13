@@ -1,0 +1,115 @@
+﻿clipe;personagem;status;problemas;texto do roteiro;o que foi ouvido;duração (s);tentativas
+001;NARRADOR;OK;;Onze da noite. A casa inteira escura. Só uma luzinha vermelha acesa. A da televisão.;Onze da noite. A casa inteira e escura. Só uma luizinha vermelha e acesa. A da televisão.;6.0;1
+002;DONA NEIDE;OK;;Te peguei.;Te peguei!;0.76;1
+003;NARRADOR;OK;;E tirou da tomada.;e tirou da tomada.;1.49;1
+004;GUI;OK;;Vó, a geladeira não!;Vó, geladeira, não!;2.33;1
+005;DONA NEIDE;OK;;A geladeira eu deixo. Por enquanto.;A geladeira eu deixo, por enquanto.;2.06;1
+006;NARRADOR;OK;;No ano passado, nesse mesmo mês, a Dona Neide gastou duzentos quilowatts-hora. Pagou cento e oitenta e dois reais.;No ano passado, nesse mesmo mês, a dona Neide gastou 200 kilowatts hora, pagou 182 reais.;7.78;2
+007;NARRADOR;OK;;Esse ano ela apagou luz, cortou banho, tirou tudo da tomada. Gastou cento e oitenta. Dez por cento a menos.;Esse ano ela apagou luz, cortou banho, tirou tudo da tomada, gastou 180, 10% a menos.;7.97;1
+008;NARRADOR;OK;;E a conta veio cento e oitenta e seis.;e a conta veio 186.;2.48;1
+009;DONA NEIDE;OK;;Gui. Me explica isso.;Gui, me explica isso.;1.52;1
+010;GUI;OK;;Vó, eu sou de humanas.;Vó, eu sou de humanas.;1.43;1
+011;NARRADOR;OK;;E você? A sua conta também subiu mesmo você economizando? Fica até o fim. Porque um pedaço da conta da Dona Neide nem era dela. E ela descobriu de quem era.;E você? A sua conta também subiu mesmo você economizando? Fica até o fim, porque um pedaço da conta da dona Neide nem era dela. E ela descobriu de quem era.;10.76;1
+012;NARRADOR;OK;;Neide. Sessenta e três anos. Costureira em Mauá. Faz barra de calça pra metade do bairro numa máquina de 1979.;Neide, 63 anos, costureira em Mauá, faz barra de calça pra metade do bairro numa máquina de 1979.;9.02;1
+013;NARRADOR;OK;;Banho? Cinco minutos. Tem uma ampulheta grudada no azulejo.;Banho, 5 minutos, tem uma ampulheta grudada no azulejo.;4.12;1
+014;NARRADOR;OK;;E todo dia, às sete da manhã, ela vai até o relógio de luz e anota o número num caderno. Faz isso há onze anos.;E todo dia, às 7 da manhã, ela vai até o relógio de luz e anota o número num caderno. Faz isso há 11 anos.;7.4;1
+015;GUI;OK;;Vó, isso aparece no aplicativo.;Vó, isso aparece no aplicativo.;2.16;1
+016;DONA NEIDE;OK;;Aplicativo gasta bateria. Bateria gasta luz.;Aplicativo gasta a bateria. Bateria gasta a luz.;2.96;1
+017;GUI;OK;;Não é bem assim que…;Não é bem assim que...;1.13;1
+018;DONA NEIDE;OK;;Gui. Tira o carregador da tomada.;Gui, tiro o carregador da tomada.;2.08;1
+019;NARRADOR;OK;;Do outro lado do muro mora o Marcão.;Do outro lado do muro, mora o marcão.;2.0;1
+020;NARRADOR;OK;;Ar-condicionado ligado desde março. Piscina de plástico com bomba. Luz da garagem acesa de dia, que é pra ladrão ver que tem gente.;ar-condicionado ligado desde março, piscina de plástico com bomba, luz da garagem acesa de dia que é para ladrão ver que tem gente.;8.02;1
+021;MARCÃO;OK;;Neide, relaxa. Energia é barata.;Neide, relaxa, energia é barata.;2.51;1
+022;DONA NEIDE;OK;;Barata? Quanto veio a sua?;Barata? Quanto veio a sua?;1.84;1
+023;MARCÃO;OK;;Trinta e oito reais.;38 reais.;1.18;1
+024;NARRADOR;OK;;A Dona Neide ficou olhando pro ar-condicionado. Depois pra piscina. Depois pro Marcão.;A dona Nade ficou olhando para o ar-condicionado, depois para a piscina, depois para o marcão.;5.1;1
+025;DONA NEIDE;OK;;Trinta e oito.;38.;0.96;2
+026;MARCÃO;OK;;É que eu sou econômico.;É que eu sou econômico.;1.43;2
+027;NARRADOR;OK;;Ninguém percebeu um fio meio torto saindo do poste. Ainda.;Ninguém percebeu um fio meio torto saindo do poste, ainda.;4.16;1
+028;NARRADOR;OK;;Naquela noite, a Dona Neide ligou pra central de atendimento. Ficou quarenta minutos na espera. E, em algum momento da música de espera, a ligação caiu num lugar que não devia.;Naquela noite, a dona Nade ligou para a central de atendimento. Ficou 40 minutos na espera. Em algum momento da música de espera, a ligação caiu no lugar que não devia.;10.62;1
+029;NARRADOR;OK;;No Suporte Técnico do Universo.;no suporte técnico do universo.;2.0;1
+030;TÉCNICO;OK;;Suporte Técnico do Universo, boa noite. Já tentou desligar e ligar de novo?;suporte técnico do universo boa noite já tentou desligar e ligar de novo;4.5;1
+031;DONA NEIDE;OK;;Moço, eu desliguei tudo. Esse é o problema.;Moço, eu desliguei tudo. Esse é o problema.;3.72;1
+032;TÉCNICO;OK;;Hm. Isso não é comigo. Vou transferir pra Repartição.;Isso não é comigo. Vou transferir para a repartição.;3.92;1
+033;NARRADOR;OK;;E do outro lado atendeu um senhor de auréola, óculos na ponta do nariz e um carimbo na mão. O Contador do Universo.;E, do outro lado, atender um senhor de aurela, óculos na ponta do nariz e um carimbo na mão, o contador do universo.;7.85;1
+034;CONTADOR;OK;;Protocolo recebido. Reclamação: economizei e a conta subiu.;protocolo recebido, reclamação, economizei e a conta subiu.;4.31;1
+035;CONTADOR;OK;;É a reclamação mais repetida desse ano. A senhora quer saber pra onde vai cada centavo?;é a reclamação mais repetida desse ano. A senhora quer saber para onde vai cada centavo?;5.45;1
+036;DONA NEIDE;OK;;Quero.;Quero!;0.91;1
+037;CONTADOR;OK;;Então abre a porta.;Então, abre a porta.;1.38;1
+038;NARRADOR;OK;;A Dona Neide abriu a porta. E a conta de luz saiu de dentro da bolsa, desdobrou sozinha, e virou uma fila.;A dona Nade abriu a porta e a conta de luz saiu de dentro da bolsa, desdobrou sozinha e virou uma fila.;6.44;1
+039;NARRADOR;OK;;Cinco cobradores, de crachá, dentro da sala dela. Cada um com um pedaço dos cento e oitenta e seis reais.;cinco cobradores de crachar dentro da sala dela, cada um com um pedaço dos R$ 186.;6.8;2
+040;CONTADOR;OK;;De cada cem reais da sua conta, uns dezoito são imposto. O resto, a gente divide entre os outros quatro.;De cada 100 reais da sua conta, uns 18 são imposto. O resto a gente divide entre os outros quatro.;6.6;1
+041;NARRADOR;OK;;O primeiro da fila: a Energia. Ele mesmo, o que acende a lâmpada.;O primeiro da fila é a energia, ele mesmo, o que acende a lâmpada.;4.83;1
+042;ENERGIA;OK;;Eu sou o que a senhora usou de verdade. E eu sou menos da metade da conta.;Eu sou o que a senhora usou de verdade e eu sou menos da metade da conta.;5.02;1
+043;DONA NEIDE;OK;;Menos da metade?;menos da metade;1.43;1
+044;NARRADOR;OK;;O segundo: a Distribuição. O poste, o fio, o relógio, o caminhão que vem quando o transformador estoura.;O segundo, a distribuição. O poste, o fio, o relógio, o caminhão que vem quando o transformador estoura.;6.97;1
+045;DISTRIBUIÇÃO;OK;;Eu trago a luz da rua até a sua tomada. De cada cem reais, uns vinte e cinco são meus.;Eu trago a luz da rua até a sua tomada. De cada 100 reais, uns 25 são meus.;6.54;1
+046;NARRADOR;OK;;O terceiro: a Transmissão. Veio de longe, cansado. Trouxe a energia da usina por centenas de quilômetros de torre.;O terceiro, a transmissão. Teio de longe, cansado, trouxe a energia da usina por centenas de quilômetros de torre.;8.05;1
+047;TRANSMISSÃO;OK;;Seis de cada cem. E vim a pé.;6 de cada 100 e vim a pé.;2.4;1
+048;NARRADOR;OK;;O quarto não falou nada. Só entregou um envelope.;O quarto não falou nada, só entregou um envelope.;2.85;1
+049;CONTADOR;OK;;Esse é o Encargo. É o pedaço da conta que não paga a sua luz. Paga a luz dos outros.;Esse é o encargo. É o pedaço da conta que não paga a sua luz, paga a luz dos outros.;5.85;1
+050;DONA NEIDE;OK;;Como assim, dos outros?;Como assim dos outros?;1.39;1
+051;CONTADOR;ERRO;"faltando: quilowatts; sobrando: kw";Programas e descontos que o governo decidiu pagar pela conta de luz, e não pelo orçamento. A família de baixa renda que tem luz de graça até oitenta quilowatts. A luz que chega em comunidade isolada na Amazônia. O desconto de quem tem painel solar no telhado. Incentivo pra usina. Tudo dividido entre todo mundo que paga.;Programas e descontos que o governo decidiu pagar pela conta de luz e não pelo orçamento. A família de Baixa-Renda, que tem luz de graça até 80 kW, a luz que chega em comunidade isolada na Amazônia, o desconto de quem tem painel solar no telhado, incentivo para a usina, tudo dividido entre todo mundo que paga.;18.97;2
+052;NARRADOR;OK;;Esse fundo tem nome: Conta de Desenvolvimento Energético. Em 2026, são cinquenta e dois bilhões e meio de reais. Quarenta e sete bilhões e oitocentos milhões saem direto da conta de luz. Quinze por cento a mais que no ano anterior.;Esse fundo tem nome, Conta de Desenvolvimento Energético. Em 2026, são 52 bilhões e meio de reais. 47 bilhões e 800 milhões saem direto da conta de luz, 15% a mais que no ano anterior.;15.92;2
+053;DONA NEIDE;OK;;Tá. Ajudar quem precisa eu entendo. Mas ninguém me perguntou.;Tá, ajudar quem precisa, eu entendo, mas ninguém me perguntou.;4.42;1
+054;CONTADOR;OK;;Ninguém pergunta, Dona Neide. Vem tudo junto no boleto.;Ninguém pergunta, dona Neide. Vem tudo junto no boleto.;3.04;1
+055;NARRADOR;OK;;E o quinto, o Imposto, nem esperou a vez. Já foi sentando no sofá.;E o quinto, o imposto, nem esperou a vez, já foi sentando no sofá.;4.36;1
+056;IMPOSTO;OK;;ICMS, PIS e Cofins. O ICMS é a maior parte. E eu cobro em cima de todos eles. Até em cima do Encargo.;ICMS, PES e COFINS. O ICMS é a maior parte. E eu cobro em cima de todos eles. Até em cima do encargo.;8.83;1
+057;DONA NEIDE;OK;;Imposto em cima de encargo?;imposto em cima de encargo.;1.78;1
+058;IMPOSTO;OK;;Imposto em cima de tudo, minha senhora.;imposto em cima de tudo, minha senhora.;2.48;1
+059;NARRADOR;OK;;E ainda tinha uma coisa pendurada na parede. Uma bandeirinha.;e ainda tinha uma coisa pendurada na parede, uma bandeirinha.;3.46;1
+060;CONTADOR;OK;;Essa aqui muda de cor todo mês. Choveu, as hidrelétricas enchem, a bandeira fica verde. Não choveu, liga usina térmica, que é mais cara. Aí fica amarela ou vermelha.;Essa aqui muda de cor todo mês. Choveu, as hidrelétricas enchem, a bandeira fica verde. Não choveu, liga a usina térmica, que é mais cara. Aí fica amarela ou vermelha.;9.78;1
+061;NARRADOR;OK;;Esse ano ficou verde até abril. De maio a setembro, amarela: um real e oitenta e oito a mais a cada cem quilowatts-hora. Na vermelha mais forte, são sete e oitenta e sete.;Esse ano ficou verde até abril, de maio a setembro amarela, um real e oitenta e oito a mais a cada cem quilowatts hora. Na vermelha mais forte são sete e oitenta e sete.;10.54;2
+062;DONA NEIDE;OK;;Então eu pago pela chuva.;Então eu pago pela chuva?;1.69;1
+063;CONTADOR;OK;;A senhora paga pela falta dela.;a senhora paga pela falta dela.;2.09;1
+064;NARRADOR;ERRO;faltando: virgula;E por cima de tudo, o preço do quilowatt sobe todo ano, no aniversário de contrato da distribuidora. Para 2026, a Aneel projeta alta média de nove vírgula quatro por cento nas tarifas. Quase o dobro da inflação.;e por cima de tudo, o preço do kilowatt sobe todo ano, no aniversário de contrato da distribuidora. Para 2026, a Anel projeta alta média de 9,4% nas tarifas, quase o dobro da inflação.;14.87;2
+065;NARRADOR;OK;;Em quinze anos, a conta de luz residencial subiu cento e setenta e sete por cento. A inflação, cento e vinte e dois.;Em 15 anos, a conta de luz residencial subiu 177%. A inflação, 122.;7.32;2
+066;CONTADOR;OK;;Ou seja, a senhora economizou dez por cento de luz. Mas o preço de cada pedacinho subiu mais que isso.;Ou seja, a senhora economizou 10% de luz, mas o preço de cada pedacinho subiu mais que isso.;6.56;1
+067;DONA NEIDE;OK;;Então eu economizei à toa?;Então eu economizei a toa.;1.47;1
+068;CONTADOR;OK;;Não. Sem economizar, a sua conta vinha mais de duzentos. A senhora correu pra ficar no mesmo lugar.;Não! Sem economizar, a sua conta vinha mais de 200. A senhora correu para ficar no mesmo lugar.;7.23;1
+069;NARRADOR;OK;;Aí a Dona Neide contou de novo. Cinco cobradores de crachá. Mas tinha um sexto. Lá no fim da fila. Sem crachá, de boné, tentando não ser visto.;Daí a dona Nade contou de novo 5 cobradores de crachar, mas tinha um sexto lá no fim da fila, sem crachar, de boné, tentando não ser visto.;11.46;1
+070;DONA NEIDE;ERRO;"faltando: esse; início diferente; final diferente; sobrando: ate proxima";E esse aí?;e até a próxima!;0.62;2
+071;CONTADOR;OK;;Esse é o Gato.;e esse é o gato.;0.79;1
+072;NARRADOR;OK;;Gato é como o Brasil chama a ligação clandestina. O fio puxado direto do poste, sem passar pelo relógio.;Gato é como o Brasil chama a ligação com a Andestina, o fio puxado direto do post, sem passar pelo relógio.;6.1;1
+073;CONTADOR;OK;;A luz que ele usa ninguém paga. Então ela entra como perda. E a perda volta no reajuste. Na conta de quem paga certo.;A luz que ele usa ninguém paga, então ela entra como perda, e a perda volta no reajuste, na conta de quem paga certo.;8.17;1
+074;NARRADOR;ERRO;faltando: virgula;As perdas comerciais, que incluem furto de energia, têm média de quatorze vírgula três por cento no país. E esse custo é repassado nos reajustes das distribuidoras.;As perdas comerciais, que incluem furto de energia, têm média de 14,3% no país. E esse custo é repassado nos reajustes das distribuidoras.;9.78;2
+075;DONA NEIDE;OK;;E esse gato aí… mora onde?;E esse gato aí, mora onde?;1.61;1
+076;NARRADOR;OK;;O Gato apontou pro muro.;O gato apontou pro muro.;1.31;1
+077;NARRADOR;OK;;Pro ar-condicionado ligado desde março.;para o ar condicionado, ligado desde março.;2.43;1
+078;DONA NEIDE;OK;;Marcão.;Marcão.;0.67;1
+079;NARRADOR;OK;;Trinta e oito reais. Econômico.;38 reais. Econômico.;2.33;1
+080;CONTADOR;OK;;Dona Neide, a Repartição tem uma regra. Toda reclamação aceita ganha um carimbo.;Dona Nade, a repartição tem uma regra. Toda reclamação aceita ganha um carimbo.;5.7;1
+081;CONTADOR;OK;;A senhora pode tirar um da fila. Um só. Esse sai da sua conta pra sempre.;A senhora pode tirar um da fila, um só, esse sai da sua conta para sempre.;4.88;1
+082;NARRADOR;OK;;E a Dona Neide olhou a fila.;E a dona Neide olhou a fila.;1.93;1
+083;NARRADOR;OK;;O Imposto, esparramado no sofá. Tirando ele, a conta caía dezoito por cento.;O imposto, esparramado no sofá, tirando ele, a conta caía 18%.;6.84;1
+084;NARRADOR;OK;;O Encargo, com o envelope. Mas dentro do envelope tinha a luz da Dona Lurdes, da casa da frente, que vive com um salário mínimo e paga zero até oitenta quilowatts.;O encargo com o envelope, mas dentro do envelope, tinha a luz da dona Lourdes, da casa da frente, que vive com um salário mínimo e paga zero até 80 kilowatts.;10.93;1
+085;NARRADOR;OK;;A Bandeira. A Distribuição. A Energia, que era a única coisa que ela usava de verdade.;a bandeira, a distribuição, a energia, que era a única coisa que ela usava de verdade.;6.59;1
+086;DONA NEIDE;OK;;Pode tirar qualquer um?;Pode tirar qualquer um.;0.96;1
+087;CONTADOR;OK;;Qualquer um.;Qual que é um?;0.69;1
+088;DONA NEIDE;OK;;Então tira o Gato.;Então, tira o gato.;1.34;1
+089;CONTADOR;OK;;A senhora tem certeza? O Imposto é dezoito por cento.;A senhora tem certeza, o imposto é 18%.;3.03;1
+090;DONA NEIDE;OK;;Imposto a gente briga na eleição. Encargo a gente briga no jornal. Mas o Gato, moço, o Gato é o único que tá pendurado no meu muro.;Imposto a gente briga na eleição, encargo a gente briga no jornal. Mas o gato, moço, o gato é o único que está pendurado no meu muro?;8.55;1
+091;NARRADOR;OK;;E o carimbo desceu.;e o carimbo desceu.;1.45;1
+092;CONTADOR;OK;;Deferido.;Deferido.;0.71;1
+093;NARRADOR;OK;;No dia seguinte, um caminhão da distribuidora parou na rua. Dois homens subiram no poste. E o fio torto não estava mais lá.;No dia seguinte, um caminhão da distribuidora parou na rua, dois homens subiram no poste e o fio torto não estava mais lá.;7.81;1
+094;NARRADOR;OK;;Meio-dia. O ar-condicionado do Marcão parou. A piscina parou. A luz da garagem, que era pra ladrão ver que tinha gente, apagou.;Meio dia. O ar condicionado do marcão parou. A piscina parou. A luz da garagem, que era para a ladrão ver que tinha gente, apagou.;8.28;1
+095;MARCÃO;OK;;Neide! Neide, acabou a luz aqui!;Neide! Neide! Acabou a luz aqui!;2.23;1
+096;DONA NEIDE;OK;;Aqui não acabou não.;Aqui não acabou não.;1.03;1
+097;MARCÃO;OK;;Me empresta uma tomada? Só pra carregar o celular.;Me empreste uma tomada só pra carregar o celular.;2.11;1
+098;DONA NEIDE;OK;;Empresto. Mas aqui é no relógio. Eu anoto.;Impresso, mas aqui é no relógio. Eu anoto.;2.94;1
+099;NARRADOR;OK;;E o Marcão descobriu o preço da luz.;e o marcão descobriu o preço da luz.;2.16;1
+100;MARCÃO;OK;;Duzentos e quarenta reais?;R$240.;1.81;1
+101;DONA NEIDE;OK;;Bem-vindo, Marcão. Agora você também paga a sua.;Bem-vindo, Marcão. Agora você também paga a sua.;3.02;1
+102;NARRADOR;OK;;Um mês depois, chegou a conta nova. A Dona Neide abriu devagar.;Um mês depois chegou a conta nova, a dona Nade abriu devagar.;3.75;1
+103;NARRADOR;OK;;E dessa vez, antes de olhar o valor, ela olhou outra linha. A dos quilowatts-hora.;E dessa vez, antes de olhar o valor, ela olhou outra linha, a dos kilowatts hora.;5.69;2
+104;DONA NEIDE;OK;;Cento e setenta e dois.;172.;1.59;1
+105;GUI;OK;;Vó, o valor é ali embaixo.;Vó, o valor é ali embaixo.;1.98;1
+106;DONA NEIDE;OK;;O valor eu não mando, Gui. Esse número aqui eu mando.;O valor eu não mando, Gui. Esse número aqui eu mando.;3.49;2
+107;NARRADOR;OK;;Porque essa é a parte da conta que é só sua. O preço, a bandeira, o encargo e o imposto vêm de fora. O quilowatt-hora sai da sua casa.;Porque essa é a parte da conta que é só sua. O preço, a bandeira, o encargo e o imposto vêm de fora. O quilovatso fora sai da sua casa.;8.81;1
+108;NARRADOR;OK;;E a Dona Neide tinha razão sobre a luzinha vermelha. Somados, os aparelhos em modo de espera podem chegar a doze por cento do consumo de uma casa.;E a dona Nade tinha razão sobre a luzinha vermelha. Somados, os aparelhos em modo de espera podem chegar a 12% do consumo de uma casa.;8.27;1
+109;GUI;OK;;Vó. A TV tá fora da tomada de novo.;Vó, a TV tá fora da tomada de novo.;2.8;1
+110;DONA NEIDE;OK;;Tá. Tira o carregador também.;Tá, tira o carregador também.;1.24;1
+111;NARRADOR;OK;;A Dona Neide não consegue mudar o preço da luz. Ninguém consegue sozinho. Mas a parte dela ela paga. Só a dela.;A dona Neide não consegue mudar o processo da luz. Ninguém consegue sozinho. Mas a parte dela, ela paga. Só a dela.;6.78;1
+112;NARRADOR;OK;;Lá em cima, na Repartição do Universo, o Contador arquivou o protocolo e puxou o próximo.;Lá em cima, na repartição do universo, o contador arquivou o protocolo e puxou o próximo.;5.76;1
+113;CONTADOR;OK;;Meu vizinho tem trinta e oito reais de conta e ar-condicionado ligado. Hm. Esse eu já conheço.;Meu vizinho tem 38 reais de conta e ar-condicionado ligado, esse eu já conheço.;5.67;1
+114;NARRADOR;ERRO;"faltando: hora; sobrando: valzora";E você? Pega a sua última conta de luz. Quantos quilowatts-hora você gastou? E quanto pagou? Conta aqui embaixo. E se tiver um Marcão na sua rua, não precisa dizer o nome.;E você? Pega a sua última conta de luz. Quantos quilos a válzora você gastou? E quanto pagou? Conta aqui embaixo. E se tiver um marcão na sua rua, não precisa dizer o nome.;9.84;1

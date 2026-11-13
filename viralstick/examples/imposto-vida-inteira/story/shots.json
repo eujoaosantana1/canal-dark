@@ -1,0 +1,3308 @@
+{
+ "title": "Ele descobriu quanto pagou de imposto na vida inteira",
+ "duration": 604.452,
+ "shots": [
+  {
+   "id": "c001",
+   "start": 0,
+   "end": 1.723,
+   "line": "Um pingado, por favor.",
+   "scene": "padaria_wide",
+   "clip": "001",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "padaria_wide"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c002",
+   "start": 1.723,
+   "end": 2.568,
+   "line": "Tá aqui.",
+   "scene": "padaria_entrega",
+   "clip": "002",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "padaria_entrega"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c003",
+   "start": 2.568,
+   "end": 3.724,
+   "line": "Meio copo.",
+   "scene": "meio_copo",
+   "clip": "003",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "meio_copo"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "c004",
+   "start": 3.724,
+   "end": 6.1,
+   "line": "Nenê... cadê o resto?",
+   "scene": "close",
+   "clip": "004",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "VALDIR",
+    "set": "padaria",
+    "expr": "confused",
+    "q": 1
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c005",
+   "start": 6.1,
+   "end": 9.529,
+   "line": "O resto é imposto, Valdir. Hoje ele veio separado.",
+   "scene": "close",
+   "clip": "005",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "NENE",
+    "set": "padaria",
+    "expr": "smile",
+    "side": "R"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c006",
+   "start": 9.529,
+   "end": 16.899,
+   "line": "E caiu no balcão uma moedinha. Depois outra. Depois uma chuva de moeda que não parava mais.",
+   "scene": "chuva_padaria",
+   "clip": "006",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "chuva_padaria"
+   },
+   "sfx": [
+    {
+     "at": 1.1,
+     "name": "ding",
+     "gain": -12
+    },
+    {
+     "at": 2.5,
+     "name": "ding",
+     "gain": -12
+    },
+    {
+     "at": 3.94,
+     "name": "shimmer",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c007",
+   "start": 16.899,
+   "end": 21.089,
+   "line": "Quinhentos e sessenta e três mil reais. Foi isso que o Valdir pagou de imposto na vida inteira.",
+   "scene": "contador563",
+   "clip": "006",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "contador563"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "impact",
+     "gain": -8
+    },
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   }
+  },
+  {
+   "id": "c008",
+   "start": 21.089,
+   "end": 23.209,
+   "line": "Sem nunca ver a cor desse dinheiro.",
+   "scene": "carteira",
+   "clip": "006",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "carteira"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c009",
+   "start": 23.209,
+   "end": 26.109,
+   "line": "E você? Quanto acha que já pagou?",
+   "scene": "voce",
+   "clip": "006",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "voce"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "c010",
+   "start": 26.109,
+   "end": 27.589,
+   "line": "Fica até o fim.",
+   "scene": "fica",
+   "clip": "006",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "fica"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "hit",
+     "gain": -8
+    }
+   ]
+  },
+  {
+   "id": "c011",
+   "start": 27.589,
+   "end": 31.749,
+   "line": "Esse ano, o brasileiro trabalhou cento e cinquenta dias só pra pagar imposto.",
+   "scene": "calendario",
+   "clip": "006",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "calendario"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "c012",
+   "start": 31.749,
+   "end": 35.35,
+   "line": "E o final dessa conta... não é o que você tá pensando.",
+   "scene": "cupom_misterio",
+   "clip": "006",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cupom_misterio"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "riser",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "c013",
+   "start": 35.35,
+   "end": 37.65,
+   "line": "Valdir. Quarenta e oito anos.",
+   "scene": "ficha",
+   "clip": "007",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "ficha",
+    "k": "VALDIR",
+    "nome": "VALDIR",
+    "linhas": [
+     "48 ANOS",
+     "MOTORISTA"
+    ]
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c014",
+   "start": 37.65,
+   "end": 40.63,
+   "line": "Motorista da linha Pimentas Centro, em Guarulhos.",
+   "scene": "onibus_rua",
+   "clip": "007",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "onibus_rua"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "carpass",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "c015",
+   "start": 40.63,
+   "end": 42.67,
+   "line": "Vinte e seis anos de carteira assinada.",
+   "scene": "carteira_trabalho",
+   "clip": "007",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "carteira_trabalho"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c016",
+   "start": 42.67,
+   "end": 44.03,
+   "line": "Nunca atrasou um boleto.",
+   "scene": "boletos",
+   "clip": "007",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "boletos"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "c017",
+   "start": 44.03,
+   "end": 46.31,
+   "line": "Pede CPF na nota até no chiclete.",
+   "scene": "chiclete",
+   "clip": "007",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "chiclete"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c018",
+   "start": 46.31,
+   "end": 51.242,
+   "line": "E guarda todos os cupons fiscais numa caixa de sapato. Desde mil novecentos e noventa e nove.",
+   "scene": "caixa_sapato",
+   "clip": "007",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "caixa_sapato"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c019",
+   "start": 51.242,
+   "end": 54.072,
+   "line": "Pai, pra que essa caixa?",
+   "scene": "cena",
+   "clip": "008",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cena",
+    "set": "sala",
+    "chars": [
+     {
+      "k": "VALDIR",
+      "x": 760,
+      "pose": "sit",
+      "casa": 1,
+      "prop": "box"
+     },
+     {
+      "k": "BIA",
+      "x": 1180,
+      "facing": -1
+     }
+    ]
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c020",
+   "start": 54.072,
+   "end": 55.34,
+   "line": "Garantia, filha.",
+   "scene": "close",
+   "clip": "009",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "VALDIR",
+    "set": "sala",
+    "expr": "smile",
+    "casa": 1
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c021",
+   "start": 55.34,
+   "end": 56.448,
+   "line": "Garantia do quê?",
+   "scene": "close",
+   "clip": "010",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "BIA",
+    "set": "sala",
+    "expr": "confused",
+    "side": "R"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c022",
+   "start": 56.448,
+   "end": 60.034,
+   "line": "Ainda não sei. Mas um dia serve.",
+   "scene": "cena",
+   "clip": "011",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cena",
+    "set": "sala",
+    "chars": [
+     {
+      "k": "VALDIR",
+      "x": 760,
+      "pose": "sit",
+      "casa": 1,
+      "prop": "box",
+      "expr": "smile"
+     },
+     {
+      "k": "BIA",
+      "x": 1180,
+      "facing": -1,
+      "expr": "confused"
+     }
+    ],
+    "z": [
+     1.15,
+     1.25
+    ]
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c023",
+   "start": 60.034,
+   "end": 64.974,
+   "line": "Sábado. Aniversário do Valdir. Churrasco na casa do cunhado.",
+   "scene": "quintal_wide",
+   "clip": "012",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "quintal_wide"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   },
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c024",
+   "start": 64.974,
+   "end": 67.574,
+   "line": "Marquinhos. \"Empresário\".",
+   "scene": "apresenta",
+   "clip": "012",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "apresenta",
+    "k": "MARQUINHOS",
+    "set": "quintal",
+    "titulo": "\"EMPRESÁRIO\""
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c025",
+   "start": 67.574,
+   "end": 69.314,
+   "line": "Tudo no Pix, nada na nota.",
+   "scene": "pix",
+   "clip": "012",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "pix"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c026",
+   "start": 69.314,
+   "end": 70.698,
+   "line": "Hilux na garagem.",
+   "scene": "hilux_garagem",
+   "clip": "012",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "hilux_garagem"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c027",
+   "start": 70.698,
+   "end": 74.328,
+   "line": "Valdir, a cerveja é contigo, né? Aniversariante paga!",
+   "scene": "cena",
+   "clip": "013",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cena",
+    "set": "quintal",
+    "mesa": 1,
+    "chars": [
+     {
+      "k": "MARQUINHOS",
+      "x": 1250,
+      "facing": -1,
+      "pose": "point",
+      "expr": "happy"
+     },
+     {
+      "k": "VALDIR",
+      "x": 650,
+      "casa": 1,
+      "expr": "neutral"
+     }
+    ]
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c028",
+   "start": 74.328,
+   "end": 76.848,
+   "line": "Paga sempre. Faz onze anos.",
+   "scene": "onze_anos",
+   "clip": "014",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "onze_anos"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "c029",
+   "start": 76.848,
+   "end": 83.028,
+   "line": "Na mesa, o assunto da semana: os óculos da Bia. Quatrocentos e oitenta reais.",
+   "scene": "oculos_preco",
+   "clip": "014",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "oculos_preco"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c030",
+   "start": 83.028,
+   "end": 88.152,
+   "line": "A Bia senta na primeira fila... e mesmo assim não enxerga a lousa.",
+   "scene": "sala_aula",
+   "clip": "014",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "sala_aula"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c031",
+   "start": 88.152,
+   "end": 89.748,
+   "line": "Mês que vem eu compro, filha.",
+   "scene": "close",
+   "clip": "015",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "VALDIR",
+    "set": "quintal",
+    "expr": "sad",
+    "casa": 1
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c032",
+   "start": 89.748,
+   "end": 91.228,
+   "line": "Mês que vem?",
+   "scene": "cena",
+   "clip": "016",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cena",
+    "set": "quintal",
+    "mesa": 1,
+    "chars": [
+     {
+      "k": "MARQUINHOS",
+      "x": 1250,
+      "facing": -1,
+      "pose": "shrug",
+      "expr": "smug"
+     },
+     {
+      "k": "VALDIR",
+      "x": 650,
+      "casa": 1,
+      "expr": "sad"
+     }
+    ]
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   },
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c033",
+   "start": 91.228,
+   "end": 100.864,
+   "line": "Ô Valdir, vinte e seis anos pagando imposto certinho e não tem quatrocentos e oitenta conto? Imposto é pra trouxa.",
+   "scene": "close",
+   "clip": "016",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "MARQUINHOS",
+    "set": "quintal",
+    "expr": "smug",
+    "side": "R"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c034",
+   "start": 100.864,
+   "end": 103.404,
+   "line": "Riram. O Valdir também. Por educação.",
+   "scene": "risada",
+   "clip": "017",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "risada"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "cheer",
+     "gain": -16
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c035",
+   "start": 103.404,
+   "end": 109.149,
+   "line": "Na TV da sala, o jornal: brasileiro trabalhou cento e cinquenta dias este ano só para pagar impostos.",
+   "scene": "tv_jornal",
+   "clip": "017",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "tv_jornal",
+    "manchete": [
+     "BRASILEIRO TRABALHOU",
+     "150 DIAS SÓ PARA",
+     "PAGAR IMPOSTOS"
+    ]
+   },
+   "sfx": []
+  },
+  {
+   "id": "c036",
+   "start": 109.149,
+   "end": 115.411,
+   "line": "Cento e cinquenta dias! Tá vendo? Você trabalhou até maio pro governo, Valdir. De graça!",
+   "scene": "cena",
+   "clip": "018",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cena",
+    "set": "quintal",
+    "mesa": 1,
+    "chars": [
+     {
+      "k": "MARQUINHOS",
+      "x": 1250,
+      "facing": -1,
+      "pose": "point",
+      "expr": "happy"
+     },
+     {
+      "k": "VALDIR",
+      "x": 650,
+      "casa": 1,
+      "expr": "tired"
+     }
+    ],
+    "texto": "150 DIAS!"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c037",
+   "start": 115.411,
+   "end": 117.755,
+   "line": "Quanto será que eu já paguei na vida?",
+   "scene": "close",
+   "clip": "019",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "VALDIR",
+    "set": "quintal",
+    "expr": "worried",
+    "casa": 1,
+    "look": [
+     0.6,
+     -0.6
+    ]
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c038",
+   "start": 117.755,
+   "end": 122.113,
+   "line": "Sei lá. Pergunta pra tua caixa de sapato.",
+   "scene": "close",
+   "clip": "020",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "MARQUINHOS",
+    "set": "quintal",
+    "expr": "happy",
+    "side": "R"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c039",
+   "start": 122.113,
+   "end": 123.74,
+   "line": "Ele perguntou.",
+   "scene": "cena",
+   "clip": "021",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cena",
+    "set": "sala_noite",
+    "chars": [
+     {
+      "k": "VALDIR",
+      "x": 1300,
+      "pose": "think",
+      "casa": 1,
+      "expr": "worried",
+      "look": [
+       0.8,
+       -0.4
+      ]
+     }
+    ],
+    "z": [
+     1.0,
+     1.12
+    ],
+    "x": 300
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c040",
+   "start": 123.74,
+   "end": 125.38,
+   "line": "Três da madrugada.",
+   "scene": "relogio3",
+   "clip": "022",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "relogio3"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "clock",
+     "gain": -12
+    }
+   ],
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c041",
+   "start": 125.38,
+   "end": 130.34,
+   "line": "No andar de cima do universo tem um setor que ninguém visita: a Receita Federal do Céu.",
+   "scene": "sobe_ceu",
+   "clip": "022",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "sobe_ceu"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "riser",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "c042",
+   "start": 130.34,
+   "end": 133.8,
+   "line": "Lá tem um contador. Óculos na ponta do nariz.",
+   "scene": "close",
+   "clip": "022",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "CONTADOR",
+    "set": "ceu",
+    "expr": "tired"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c043",
+   "start": 133.8,
+   "end": 135.56,
+   "line": "Oito bilhões de CPFs.",
+   "scene": "cpfs",
+   "clip": "022",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cpfs"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c044",
+   "start": 135.56,
+   "end": 138.459,
+   "line": "E uma regra antiga, que ninguém nunca usou.",
+   "scene": "regra_antiga",
+   "clip": "022",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "regra_antiga"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c045",
+   "start": 138.459,
+   "end": 147.197,
+   "line": "Quem provar, com nota, todo imposto que pagou na vida... recebe de volta.",
+   "scene": "contador_mesa",
+   "clip": "023",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "contador_mesa",
+    "expr": "smug",
+    "prop": "pergaminho"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c046",
+   "start": 147.197,
+   "end": 152.237,
+   "line": "Em toda a história da humanidade, ninguém tinha provado. Até aquela noite.",
+   "scene": "zero_pedidos",
+   "clip": "024",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "zero_pedidos"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c047",
+   "start": 152.237,
+   "end": 154.237,
+   "line": "A caixa de sapato do Valdir caiu da estante.",
+   "scene": "caixa_cai",
+   "clip": "024",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "caixa_cai"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "hit",
+     "gain": -6
+    }
+   ]
+  },
+  {
+   "id": "c048",
+   "start": 154.237,
+   "end": 159.416,
+   "line": "E os cupons espalhados no chão formaram... um pedido de restituição.",
+   "scene": "pedido_chao",
+   "clip": "024",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "pedido_chao"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "c049",
+   "start": 159.416,
+   "end": 163.996,
+   "line": "Vinte e seis anos de cupom. CPF em todos.",
+   "scene": "contador_lupa",
+   "clip": "025",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "contador_lupa"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c050",
+   "start": 163.996,
+   "end": 169.416,
+   "line": "Rodapé com valor aproximado dos tributos. Hum.",
+   "scene": "rodape_zoom",
+   "clip": "025",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "rodape_zoom"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c051",
+   "start": 169.416,
+   "end": 171.875,
+   "line": "Esse aqui guardou até o do chiclete.",
+   "scene": "contador_mesa",
+   "clip": "025",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "contador_mesa",
+    "expr": "surprised",
+    "prop": "chiclete"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c052",
+   "start": 171.875,
+   "end": 174.675,
+   "line": "Carimbo. Deferido.",
+   "scene": "carimbo",
+   "clip": "026",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "carimbo",
+    "txt": "DEFERIDO"
+   },
+   "sfx": [
+    {
+     "at": 1.66,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   }
+  },
+  {
+   "id": "c053",
+   "start": 174.675,
+   "end": 181.275,
+   "line": "Mas o universo não paga de uma vez. Paga do jeito que cobrou: aos pouquinhos, escondido em cada compra.",
+   "scene": "aos_pouquinhos",
+   "clip": "026",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "aos_pouquinhos"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c054",
+   "start": 181.275,
+   "end": 184.242,
+   "line": "Só que agora... ao contrário.",
+   "scene": "ao_contrario",
+   "clip": "026",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "ao_contrario"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ]
+  },
+  {
+   "id": "c055",
+   "start": 184.242,
+   "end": 188.666,
+   "line": "Seis da manhã. Padaria do Seu Nenê. Você já viu essa parte.",
+   "scene": "hora_cena",
+   "clip": "027",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "hora_cena",
+    "hora": "6:00",
+    "set": "padaria"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   },
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c056",
+   "start": 188.666,
+   "end": 195.363,
+   "line": "O pingado é seis reais. Um real e pouco é imposto. Voltou pra você.",
+   "scene": "padaria_troco",
+   "clip": "028",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "padaria_troco"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c057",
+   "start": 195.363,
+   "end": 197.865,
+   "line": "Sete horas. Posto de gasolina.",
+   "scene": "hora_cena",
+   "clip": "029",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "hora_cena",
+    "hora": "7:00",
+    "set": "posto"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c058",
+   "start": 197.865,
+   "end": 199.155,
+   "line": "Completa?",
+   "scene": "cena",
+   "clip": "030",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cena",
+    "set": "posto",
+    "chars": [
+     {
+      "k": "FRENTISTA",
+      "x": 1150,
+      "facing": -1,
+      "pose": "talk",
+      "expr": "smile"
+     },
+     {
+      "k": "VALDIR",
+      "x": 600
+     }
+    ],
+    "bomba": 1
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c059",
+   "start": 199.155,
+   "end": 200.375,
+   "line": "Encheu o tanque.",
+   "scene": "bomba_close",
+   "clip": "031",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "bomba_close",
+    "moedas": 0
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "c060",
+   "start": 200.375,
+   "end": 205.275,
+   "line": "E de cada litro, uns quarenta por cento voltaram em moeda pela bomba.",
+   "scene": "bomba_close",
+   "clip": "031",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "bomba_close",
+    "moedas": 1,
+    "pct": "40%"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "c061",
+   "start": 205.275,
+   "end": 209.034,
+   "line": "Caiu tanto troco que o frentista precisou de um balde.",
+   "scene": "balde",
+   "clip": "031",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "balde"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "c062",
+   "start": 209.034,
+   "end": 211.399,
+   "line": "Moço... isso é normal?",
+   "scene": "close",
+   "clip": "032",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "FRENTISTA",
+    "set": "posto",
+    "expr": "surprised",
+    "side": "R"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c063",
+   "start": 211.399,
+   "end": 215.225,
+   "line": "Pelo jeito, sempre foi. Eu é que não via.",
+   "scene": "close",
+   "clip": "033",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "VALDIR",
+    "set": "posto",
+    "expr": "tired"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c064",
+   "start": 215.225,
+   "end": 217.385,
+   "line": "Nove horas. Mercado.",
+   "scene": "hora_cena",
+   "clip": "034",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "hora_cena",
+    "hora": "9:00",
+    "set": "mercado"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c065",
+   "start": 217.385,
+   "end": 221.725,
+   "line": "O arroz: quase nada voltou. Uns dez por cento.",
+   "scene": "produto",
+   "clip": "034",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "produto",
+    "nome": "ARROZ",
+    "pct": 10,
+    "cor": "#fafafa"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c066",
+   "start": 221.725,
+   "end": 224.845,
+   "line": "O sorvete da Bia: voltou mais de um terço.",
+   "scene": "produto",
+   "clip": "034",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "produto",
+    "nome": "SORVETE",
+    "pct": 36,
+    "cor": "#f8bbd0"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c067",
+   "start": 224.845,
+   "end": 227.697,
+   "line": "A cerveja: voltou quase metade.",
+   "scene": "produto",
+   "clip": "034",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "produto",
+    "nome": "CERVEJA",
+    "pct": 47,
+    "cor": "#ffca28"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c068",
+   "start": 227.697,
+   "end": 230.228,
+   "line": "Por que a cerveja devolve mais que o arroz?",
+   "scene": "cena",
+   "clip": "035",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cena",
+    "set": "mercado",
+    "caixa": 1,
+    "chars": [
+     {
+      "k": "CAIXA",
+      "x": 1350,
+      "facing": -1
+     },
+     {
+      "k": "VALDIR",
+      "x": 620,
+      "expr": "confused"
+     }
+    ]
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c069",
+   "start": 230.228,
+   "end": 233.908,
+   "line": "Porque o governo cobra mais no que acha que você não precisa.",
+   "scene": "close",
+   "clip": "036",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "CAIXA",
+    "set": "mercado",
+    "expr": "smile",
+    "side": "R"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c070",
+   "start": 233.908,
+   "end": 237.33,
+   "line": "Arroz é necessidade. Cerveja é opção.",
+   "scene": "necessidade",
+   "clip": "036",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "necessidade"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c071",
+   "start": 237.33,
+   "end": 241.321,
+   "line": "Então eu pago mais imposto na cerveja do Marquinhos do que no meu arroz.",
+   "scene": "close",
+   "clip": "037",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "VALDIR",
+    "set": "mercado",
+    "expr": "shocked"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c072",
+   "start": 241.321,
+   "end": 243.836,
+   "line": "Há onze anos, pelo jeito.",
+   "scene": "close",
+   "clip": "038",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "CAIXA",
+    "set": "mercado",
+    "expr": "smug",
+    "side": "R"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c073",
+   "start": 243.836,
+   "end": 249.996,
+   "line": "Era isso. O imposto do brasileiro não mora só no contracheque. Mora no preço.",
+   "scene": "contracheque_preco",
+   "clip": "039",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "contracheque_preco"
+   },
+   "sfx": [],
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c074",
+   "start": 249.996,
+   "end": 258.216,
+   "line": "Dos cento e cinquenta dias que você trabalha pro governo, mais da metade, oitenta e quatro dias, é imposto escondido no que você compra.",
+   "scene": "barra150",
+   "clip": "039",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "barra150"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "c075",
+   "start": 258.216,
+   "end": 265.056,
+   "line": "Tá escrito, inclusive. No rodapé do cupom, letra miudinha: valor aproximado dos tributos.",
+   "scene": "rodape_zoom",
+   "clip": "039",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "rodape_zoom",
+    "fundo": "escuro"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c076",
+   "start": 265.056,
+   "end": 267.756,
+   "line": "Desde dois mil e treze, por lei.",
+   "scene": "lei",
+   "clip": "039",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "lei"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "c077",
+   "start": 267.756,
+   "end": 268.776,
+   "line": "Ninguém lê.",
+   "scene": "lixo_cupons",
+   "clip": "039",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "lixo_cupons"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c078",
+   "start": 268.776,
+   "end": 272.38,
+   "line": "O Valdir lia. Guardou vinte e seis anos.",
+   "scene": "valdir_le",
+   "clip": "039",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "valdir_le"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c079",
+   "start": 272.38,
+   "end": 274.84,
+   "line": "Meio-dia, a moedinha virou notícia.",
+   "scene": "tv_jornal",
+   "clip": "040",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "tv_jornal",
+    "manchete": [
+     "MOTORISTA RECEBE",
+     "IMPOSTO DE VOLTA",
+     "EM MOEDINHAS"
+    ],
+    "ao_vivo": 1
+   },
+   "sfx": [],
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c080",
+   "start": 274.84,
+   "end": 277.08,
+   "line": "Meio Guarulhos na porta dele.",
+   "scene": "multidao",
+   "clip": "040",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "multidao"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c081",
+   "start": 277.08,
+   "end": 281.355,
+   "line": "E na frente de todos, de Hilux... o Marquinhos.",
+   "scene": "hilux_chega",
+   "clip": "040",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "hilux_chega"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "carpass",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c082",
+   "start": 281.355,
+   "end": 286.787,
+   "line": "Valdirzão! Meu cunhado, meu irmão, meu sócio!",
+   "scene": "cena",
+   "clip": "041",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cena",
+    "set": "rua",
+    "chars": [
+     {
+      "k": "MARQUINHOS",
+      "x": 1200,
+      "facing": -1,
+      "pose": "cheer",
+      "expr": "happy"
+     },
+     {
+      "k": "VALDIR",
+      "x": 640
+     }
+    ],
+    "hilux": 1
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c083",
+   "start": 286.787,
+   "end": 288.023,
+   "line": "Sócio de quê?",
+   "scene": "close",
+   "clip": "042",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "VALDIR",
+    "set": "rua",
+    "expr": "confused"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c084",
+   "start": 288.023,
+   "end": 290.607,
+   "line": "Do que você quiser. Me ensina o esquema.",
+   "scene": "close",
+   "clip": "043",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "MARQUINHOS",
+    "set": "rua",
+    "expr": "smug",
+    "side": "R"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c085",
+   "start": 290.607,
+   "end": 295.115,
+   "line": "Não tem esquema. É nota. Pede CPF e guarda.",
+   "scene": "cena",
+   "clip": "044",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cena",
+    "set": "rua",
+    "chars": [
+     {
+      "k": "MARQUINHOS",
+      "x": 1200,
+      "facing": -1,
+      "pose": "relaxed",
+      "expr": "neutral"
+     },
+     {
+      "k": "VALDIR",
+      "x": 640,
+      "pose": "explain",
+      "expr": "smile"
+     }
+    ],
+    "hilux": 1,
+    "texto": "PEDE CPF E GUARDA."
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c086",
+   "start": 295.115,
+   "end": 296.132,
+   "line": "...Nota?",
+   "scene": "close",
+   "clip": "045",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "MARQUINHOS",
+    "set": "rua",
+    "expr": "shocked",
+    "side": "R"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c087",
+   "start": 296.132,
+   "end": 297.099,
+   "line": "Nota.",
+   "scene": "close",
+   "clip": "046",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "VALDIR",
+    "set": "rua",
+    "expr": "smug"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c088",
+   "start": 297.099,
+   "end": 299.873,
+   "line": "Ah, não. Aí não dá.",
+   "scene": "cena",
+   "clip": "047",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cena",
+    "set": "rua",
+    "chars": [
+     {
+      "k": "MARQUINHOS",
+      "x": 1200,
+      "facing": -1,
+      "pose": "facepalm",
+      "expr": "sad"
+     },
+     {
+      "k": "VALDIR",
+      "x": 640,
+      "expr": "smile"
+     }
+    ],
+    "hilux": 1
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c089",
+   "start": 299.873,
+   "end": 304.913,
+   "line": "O Marquinhos tinha uma Hilux, três empresas... e zero cupons.",
+   "scene": "marquinhos_ficha",
+   "clip": "048",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "marquinhos_ficha"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c090",
+   "start": 304.913,
+   "end": 311.053,
+   "line": "À tarde, o Valdir fez as contas. Somou o que o universo ia devolver em trinta dias.",
+   "scene": "contas_mesa",
+   "clip": "048",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "contas_mesa"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c091",
+   "start": 311.053,
+   "end": 316.753,
+   "line": "Quinhentos e sessenta e três mil reais. Foi o primeiro brasileiro a ver o número inteiro.",
+   "scene": "contador563",
+   "clip": "048",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "contador563",
+    "sub": "O NÚMERO INTEIRO"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "impact",
+     "gain": -8
+    },
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   }
+  },
+  {
+   "id": "c092",
+   "start": 316.753,
+   "end": 319.773,
+   "line": "Tinha pago uma casa. Talvez duas.",
+   "scene": "casas",
+   "clip": "048",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "casas"
+   },
+   "sfx": [
+    {
+     "at": 0.7,
+     "name": "pop",
+     "gain": -10
+    },
+    {
+     "at": 2.0,
+     "name": "pop",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "c093",
+   "start": 319.773,
+   "end": 323.773,
+   "line": "Em suaves prestações de vinte e seis anos, sem saber.",
+   "scene": "prestacoes",
+   "clip": "048",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "prestacoes"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c094",
+   "start": 323.773,
+   "end": 328.442,
+   "line": "Os óculos da Bia? Comprou no mesmo dia. E ainda voltou troco.",
+   "scene": "otica_cena",
+   "clip": "048",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "otica_cena"
+   },
+   "sfx": [
+    {
+     "at": 1.58,
+     "name": "shimmer",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "c095",
+   "start": 328.442,
+   "end": 331.107,
+   "line": "Pai! Eu tô vendo a placa do ônibus!",
+   "scene": "ponto_onibus",
+   "clip": "049",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "ponto_onibus",
+    "fala": "BIA"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "carpass",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "c096",
+   "start": 331.107,
+   "end": 332.098,
+   "line": "Que linha?",
+   "scene": "close",
+   "clip": "050",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "VALDIR",
+    "set": "rua",
+    "expr": "smile",
+    "casa": 1
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c097",
+   "start": 332.098,
+   "end": 333.882,
+   "line": "Pimentas Centro!",
+   "scene": "placa_onibus",
+   "clip": "051",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "placa_onibus"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c098",
+   "start": 333.882,
+   "end": 335.36,
+   "line": "É a do pai.",
+   "scene": "close",
+   "clip": "052",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "VALDIR",
+    "set": "rua",
+    "expr": "happy",
+    "casa": 1
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c099",
+   "start": 335.36,
+   "end": 342.0,
+   "line": "Mas o universo também tem rodapé. E o Valdir, que lia todos... não leu esse.",
+   "scene": "rodape_universo",
+   "clip": "053",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "rodape_universo"
+   },
+   "sfx": [],
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c100",
+   "start": 342.0,
+   "end": 350.7,
+   "line": "Dia três. A linha dele tá lá. A rua, não. Só no trajeto do ônibus do Valdir, o asfalto virou terra.",
+   "scene": "rua_terra",
+   "clip": "053",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "rua_terra"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "carpass",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c101",
+   "start": 350.7,
+   "end": 359.18,
+   "line": "Dia quatro. O poste da frente da casa apaga. Só o dele. A rua toda acesa, e o Valdir no escuro.",
+   "scene": "poste_apagado",
+   "clip": "053",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "poste_apagado"
+   },
+   "sfx": [
+    {
+     "at": 2.88,
+     "name": "glitch",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c102",
+   "start": 359.18,
+   "end": 365.27,
+   "line": "Dia cinco. Dona Cida, a mãe, vai pegar o remédio da pressão no posto de saúde.",
+   "scene": "cida_caminha",
+   "clip": "053",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cida_caminha"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c103",
+   "start": 365.27,
+   "end": 374.429,
+   "line": "Dona Cida, o remédio da senhora tá... bloqueado. O CPF do seu filho tá constando como sem imposto.",
+   "scene": "cena",
+   "clip": "054",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cena",
+    "set": "postoSaude",
+    "balcao": 1,
+    "chars": [
+     {
+      "k": "ATENDENTE",
+      "x": 1300,
+      "facing": -1,
+      "y": 940,
+      "expr": "worried"
+     },
+     {
+      "k": "CIDA",
+      "x": 620,
+      "expr": "neutral"
+     }
+    ]
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c104",
+   "start": 374.429,
+   "end": 376.119,
+   "line": "E quanto custa?",
+   "scene": "close",
+   "clip": "055",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "CIDA",
+    "set": "postoSaude",
+    "expr": "worried"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c105",
+   "start": 376.119,
+   "end": 379.551,
+   "line": "Na farmácia? Uns trezentos por mês.",
+   "scene": "close",
+   "clip": "056",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "ATENDENTE",
+    "set": "postoSaude",
+    "expr": "sad",
+    "side": "R",
+    "texto": "R$ 300/MÊS"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c106",
+   "start": 379.551,
+   "end": 385.331,
+   "line": "Dia seis. Bilhete da escola da Bia: favor providenciar professora.",
+   "scene": "bilhete",
+   "clip": "057",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "bilhete"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c107",
+   "start": 385.331,
+   "end": 391.243,
+   "line": "E aí chegou a carta. Papel timbrado. Receita Federal do Céu.",
+   "scene": "carta_chega",
+   "clip": "057",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "carta_chega"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "c108",
+   "start": 391.243,
+   "end": 400.673,
+   "line": "Prezado Valdir. Devolvemos seu imposto. Por coerência, devolvemos também o que ele pagava. Atenciosamente.",
+   "scene": "contador_mesa",
+   "clip": "058",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "contador_mesa",
+    "expr": "neutral",
+    "prop": "carta"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c109",
+   "start": 400.673,
+   "end": 406.431,
+   "line": "O Valdir sentou na guia, no escuro do único poste apagado do bairro. E entendeu.",
+   "scene": "guia_escura",
+   "clip": "059",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "guia_escura"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c110",
+   "start": 406.431,
+   "end": 414.404,
+   "line": "Então era isso. O imposto não sumia. Virava rua. Virava poste. Virava o remédio da minha mãe.",
+   "scene": "valdir_entende",
+   "clip": "060",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "valdir_entende"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c111",
+   "start": 414.404,
+   "end": 416.988,
+   "line": "Uma parte, sim.",
+   "scene": "guia_escura",
+   "clip": "061",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "guia_escura",
+    "z": 1.3,
+    "texto": "UMA PARTE."
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c112",
+   "start": 416.988,
+   "end": 422.668,
+   "line": "Porque o Valdir é motorista... mas é teimoso. E mandou uma carta de volta.",
+   "scene": "escreve_carta",
+   "clip": "062",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "escreve_carta"
+   },
+   "sfx": [],
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c113",
+   "start": 422.668,
+   "end": 432.132,
+   "line": "Prezado contador. Tudo bem, eu devolvo. Mas antes eu quero o extrato. Pra onde foi cada real dos meus quinhentos e sessenta e três mil.",
+   "scene": "carta_sobe",
+   "clip": "063",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "carta_sobe"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "c114",
+   "start": 432.132,
+   "end": 438.162,
+   "line": "Ninguém nunca tinha pedido isso pro universo. O contador demorou três dias pra responder.",
+   "scene": "contador_mesa",
+   "clip": "064",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "contador_mesa",
+    "expr": "worried",
+    "prop": "suor",
+    "texto": "3 DIAS DEPOIS..."
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c115",
+   "start": 438.162,
+   "end": 440.672,
+   "line": "Veio um rolo de papel do tamanho da rua.",
+   "scene": "rolo_rua",
+   "clip": "064",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "rolo_rua"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c116",
+   "start": 440.672,
+   "end": 446.132,
+   "line": "Tinha posto de saúde. Tinha escola. Tinha asfalto, poste, a aposentadoria da Dona Cida. Tinha juros da dívida do governo.",
+   "scene": "extrato",
+   "clip": "064",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "extrato"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c117",
+   "start": 446.132,
+   "end": 449.882,
+   "line": "E tinha linha que nem o contador soube explicar direito.",
+   "scene": "extrato_confuso",
+   "clip": "064",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "extrato_confuso"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c118",
+   "start": 449.882,
+   "end": 455.34,
+   "line": "Essa aqui... é complicado.",
+   "scene": "close",
+   "clip": "065",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "CONTADOR",
+    "set": "ceu",
+    "expr": "worried"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c119",
+   "start": 455.34,
+   "end": 457.397,
+   "line": "Pra mim também foi complicado ganhar.",
+   "scene": "close",
+   "clip": "066",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "VALDIR",
+    "set": "sala",
+    "expr": "smug",
+    "casa": 1
+   },
+   "sfx": [],
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c120",
+   "start": 457.397,
+   "end": 461.137,
+   "line": "E aqui o Valdir aprendeu a coisa mais importante.",
+   "scene": "lampada",
+   "clip": "067",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "lampada"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -8
+    }
+   ],
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c121",
+   "start": 461.137,
+   "end": 465.137,
+   "line": "Imposto não é roubo. E também não é favor. É preço.",
+   "scene": "roubo_favor_preco",
+   "clip": "067",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "roubo_favor_preco"
+   },
+   "sfx": [
+    {
+     "at": 0.82,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 2.26,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 3.26,
+     "name": "ding",
+     "gain": -8
+    }
+   ]
+  },
+  {
+   "id": "c122",
+   "start": 465.137,
+   "end": 470.357,
+   "line": "Preço da rua, do poste, do posto. E preço... a gente confere.",
+   "scene": "etiquetas",
+   "clip": "067",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "etiquetas"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c123",
+   "start": 470.357,
+   "end": 474.317,
+   "line": "O problema nunca foi só pagar. É pagar sem ver.",
+   "scene": "paga_sem_ver",
+   "clip": "067",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "paga_sem_ver"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c124",
+   "start": 474.317,
+   "end": 482.457,
+   "line": "Em mil novecentos e oitenta e seis, eram oitenta e dois dias de trabalho por ano pra pagar imposto. Hoje são cento e cinquenta. Quase o dobro.",
+   "scene": "dias_1986",
+   "clip": "067",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "dias_1986"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "c125",
+   "start": 482.457,
+   "end": 484.377,
+   "line": "E quase ninguém sabe o próprio número.",
+   "scene": "voce",
+   "clip": "067",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "voce",
+    "qm": 1
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "c126",
+   "start": 484.377,
+   "end": 493.957,
+   "line": "Quem ganha até três mil reais trabalha cento e trinta e quatro dias por ano pro imposto. Quem ganha entre três e dez mil, cento e cinquenta e sete.",
+   "scene": "faixas",
+   "clip": "067",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "faixas"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -14
+    }
+   ]
+  },
+  {
+   "id": "c127",
+   "start": 493.957,
+   "end": 498.431,
+   "line": "É a turma do Valdir. A que mais trabalha pro governo no Brasil.",
+   "scene": "turma_valdir",
+   "clip": "067",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "turma_valdir"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c128",
+   "start": 498.431,
+   "end": 502.392,
+   "line": "Dia trinta. Último dia. O universo deu a opção.",
+   "scene": "calendario30",
+   "clip": "068",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "calendario30"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "tick",
+     "gain": -10
+    }
+   ],
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c129",
+   "start": 502.392,
+   "end": 514.526,
+   "line": "Fica com os quinhentos e sessenta e três mil e paga tudo por fora: escola, remédio, poste, rua. Ou devolve, e volta tudo como era.",
+   "scene": "balanca",
+   "clip": "069",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "balanca"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c130",
+   "start": 514.526,
+   "end": 515.893,
+   "line": "O Marquinhos ligou.",
+   "scene": "telefone_toca",
+   "clip": "070",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "telefone_toca"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "phonering",
+     "gain": -8
+    }
+   ]
+  },
+  {
+   "id": "c131",
+   "start": 515.893,
+   "end": 519.649,
+   "line": "Fica com o dinheiro, Valdir! Compra uma Hilux!",
+   "scene": "telefone",
+   "clip": "071",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "telefone",
+    "fala": "MARQUINHOS"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c132",
+   "start": 519.649,
+   "end": 522.54,
+   "line": "E o asfalto pra ela andar, Marquinhos? Compro também?",
+   "scene": "telefone",
+   "clip": "072",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "telefone",
+    "fala": "VALDIR"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c133",
+   "start": 522.54,
+   "end": 529.6,
+   "line": "O Valdir fez conta de motorista: rua, escola, remédio, aposentadoria, poste.",
+   "scene": "conta_motorista",
+   "clip": "073",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "conta_motorista"
+   },
+   "sfx": [],
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c134",
+   "start": 529.6,
+   "end": 535.66,
+   "line": "Quinhentos e sessenta e três mil não pagavam vinte e seis anos disso tudo. Nem pra uma família só.",
+   "scene": "nao_paga",
+   "clip": "073",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "nao_paga"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c135",
+   "start": 535.66,
+   "end": 539.012,
+   "line": "Ele devolveu. Quase tudo.",
+   "scene": "devolve",
+   "clip": "073",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "devolve"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "riser",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "c136",
+   "start": 539.012,
+   "end": 543.271,
+   "line": "Só uma coisa, contador. Os quatrocentos e oitenta dos óculos da Bia.",
+   "scene": "conversa_ceu",
+   "clip": "074",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "conversa_ceu",
+    "fala": "VALDIR",
+    "texto": "R$ 480"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c137",
+   "start": 543.271,
+   "end": 544.311,
+   "line": "O que tem?",
+   "scene": "close",
+   "clip": "075",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "CONTADOR",
+    "set": "ceu",
+    "expr": "confused"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c138",
+   "start": 544.311,
+   "end": 549.887,
+   "line": "É o imposto da cerveja que eu paguei pro Marquinhos em onze anos de churrasco. Deixa comigo.",
+   "scene": "conversa_ceu",
+   "clip": "076",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "conversa_ceu",
+    "fala": "VALDIR",
+    "cerveja": 1
+   },
+   "sfx": []
+  },
+  {
+   "id": "c139",
+   "start": 549.887,
+   "end": 552.592,
+   "line": "...Justo. Deferido.",
+   "scene": "carimbo",
+   "clip": "077",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "carimbo",
+    "txt": "DEFERIDO",
+    "contador": 1
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   }
+  },
+  {
+   "id": "c140",
+   "start": 552.592,
+   "end": 557.917,
+   "line": "Lá em cima, o contador fechou a pasta do Valdir. E abriu a próxima da pilha.",
+   "scene": "pastas",
+   "clip": "078",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "pastas"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   },
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c141",
+   "start": 557.917,
+   "end": 567.329,
+   "line": "Marcos Antônio. Três empresas. Uma Hilux. Zero notas.",
+   "scene": "contador_mesa",
+   "clip": "079",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "contador_mesa",
+    "expr": "smug",
+    "prop": "pasta_marcos"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c142",
+   "start": 567.329,
+   "end": 571.661,
+   "line": "O dedo dele parou em cima de um botão vermelho: malha fina.",
+   "scene": "botao_malha",
+   "clip": "080",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "botao_malha"
+   },
+   "sfx": [
+    {
+     "at": 2.92,
+     "name": "buzz",
+     "gain": -8
+    }
+   ],
+   "in": {
+    "type": "flash",
+    "dur": 0.35
+   }
+  },
+  {
+   "id": "c143",
+   "start": 571.661,
+   "end": 574.353,
+   "line": "Esse aqui eu vou conferir com calma.",
+   "scene": "close",
+   "clip": "081",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "CONTADOR",
+    "set": "ceu",
+    "expr": "angry"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c144",
+   "start": 574.353,
+   "end": 578.693,
+   "line": "Domingo, dez da manhã. Poste aceso. Rua asfaltada.",
+   "scene": "rua_domingo",
+   "clip": "082",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "rua_domingo"
+   },
+   "sfx": [],
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c145",
+   "start": 578.693,
+   "end": 581.853,
+   "line": "A Bia lendo a placa de todo ônibus que passa.",
+   "scene": "ponto_onibus",
+   "clip": "082",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "ponto_onibus",
+    "fala": null,
+    "oculos": 1
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "carpass",
+     "gain": -12
+    }
+   ]
+  },
+  {
+   "id": "c146",
+   "start": 581.853,
+   "end": 583.668,
+   "line": "E o Valdir na padaria.",
+   "scene": "padaria_wide",
+   "clip": "082",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "padaria_wide",
+    "final": 1
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c147",
+   "start": 583.668,
+   "end": 586.083,
+   "line": "Um pingado, Nenê. Inteiro.",
+   "scene": "padaria_inteiro",
+   "clip": "083",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "padaria_inteiro"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c148",
+   "start": 586.083,
+   "end": 588.165,
+   "line": "Inteiro. Com imposto e tudo.",
+   "scene": "close",
+   "clip": "084",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "NENE",
+    "set": "padaria",
+    "expr": "smile",
+    "side": "R"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c149",
+   "start": 588.165,
+   "end": 589.39,
+   "line": "E me dá o cupom.",
+   "scene": "close",
+   "clip": "085",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "VALDIR",
+    "set": "padaria",
+    "expr": "smile"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c150",
+   "start": 589.39,
+   "end": 590.37,
+   "line": "Vai guardar?",
+   "scene": "close",
+   "clip": "086",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "NENE",
+    "set": "padaria",
+    "expr": "surprised",
+    "side": "R"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c151",
+   "start": 590.37,
+   "end": 591.227,
+   "line": "Vou ler.",
+   "scene": "close",
+   "clip": "087",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "close",
+    "k": "VALDIR",
+    "set": "padaria",
+    "expr": "smug"
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c152",
+   "start": 591.227,
+   "end": 596.387,
+   "line": "Agora ele sabe quanto custa a rua acesa. E sabe o que perguntar quando ela apagar.",
+   "scene": "rua_noite_acesa",
+   "clip": "088",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "rua_noite_acesa"
+   },
+   "sfx": [],
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   }
+  },
+  {
+   "id": "c153",
+   "start": 596.387,
+   "end": 597.387,
+   "line": "E você?",
+   "scene": "voce",
+   "clip": "088",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "voce"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -10
+    }
+   ]
+  },
+  {
+   "id": "c154",
+   "start": 597.387,
+   "end": 602.267,
+   "line": "Pega o último cupom que tá na sua carteira e olha o rodapé. Quanto foi de imposto?",
+   "scene": "cupom_carteira",
+   "clip": "088",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "cupom_carteira"
+   },
+   "sfx": []
+  },
+  {
+   "id": "c155",
+   "start": 602.267,
+   "end": 604.452,
+   "line": "Conta aí embaixo.",
+   "scene": "comenta",
+   "clip": "088",
+   "vignette": false,
+   "bars": "none",
+   "params": {
+    "kind": "comenta"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -8
+    }
+   ]
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 35.35,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 35.35,
+   "end": 60.03,
+   "mood": "hopeful",
+   "intensity": 0.35
+  },
+  {
+   "start": 60.03,
+   "end": 89.75,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 89.75,
+   "end": 123.74,
+   "mood": "sad",
+   "intensity": 0.4
+  },
+  {
+   "start": 123.74,
+   "end": 184.24,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 184.24,
+   "end": 243.84,
+   "mood": "playful",
+   "intensity": 0.55
+  },
+  {
+   "start": 243.84,
+   "end": 272.38,
+   "mood": "calm",
+   "intensity": 0.35
+  },
+  {
+   "start": 272.38,
+   "end": 335.36,
+   "mood": "triumph",
+   "intensity": 0.5
+  },
+  {
+   "start": 335.36,
+   "end": 416.99,
+   "mood": "dark",
+   "intensity": 0.45
+  },
+  {
+   "start": 416.99,
+   "end": 457.4,
+   "mood": "mystery",
+   "intensity": 0.35
+  },
+  {
+   "start": 457.4,
+   "end": 498.43,
+   "mood": "wonder",
+   "intensity": 0.4
+  },
+  {
+   "start": 498.43,
+   "end": 522.54,
+   "mood": "tension",
+   "intensity": 0.45
+  },
+  {
+   "start": 522.54,
+   "end": 552.59,
+   "mood": "hopeful",
+   "intensity": 0.45
+  },
+  {
+   "start": 552.59,
+   "end": 574.35,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 574.35,
+   "end": 591.23,
+   "mood": "calm",
+   "intensity": 0.4
+  },
+  {
+   "start": 591.23,
+   "end": 604.45,
+   "mood": "hopeful",
+   "intensity": 0.5
+  }
+ ],
+ "sfx": []
+}

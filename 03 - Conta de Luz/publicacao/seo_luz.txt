@@ -1,0 +1,67 @@
+PACOTE SEO — "Por que a conta de luz sobe mesmo quando você economiza?"
+Vídeo: VIDEO_FINAL_luz.mp4 (9:46)
+
+======================================================================
+TÍTULOS (escolha 1; use os outros no teste A/B do YouTube Studio)
+======================================================================
+1. Ela economizou luz o ano todo… e a conta subiu
+   -> combina com a CAPA A (ECONOMIZEI E A CONTA SUBIU (Dona Neide com a conta na mão))  [46 caracteres]
+2. Por que a conta de luz sobe mesmo quando você economiza?
+   -> combina com a CAPA B (A FILA DA CONTA (cobradores saindo da conta))  [56 caracteres]
+3. Quem mais come a sua conta de luz? Ela descobriu
+   -> combina com a CAPA C (O 6º DA FILA (o gato sem crachá))  [48 caracteres]
+
+Recomendação para a estreia: título 1 + capa A. É o mais direto e não entrega o final.
+
+======================================================================
+DESCRIÇÃO (copiar a partir da linha abaixo)
+======================================================================
+A Dona Neide, costureira em Mauá, apagou luz, cortou banho e tirou tudo da tomada. Gastou 10% menos energia. E a conta veio mais cara. Então ela abriu um protocolo na Repartição do Universo e descobriu quem divide cada R$ 100 da conta de luz com ela.
+
+Pega a sua última conta de luz: quantos kWh você gastou e quanto pagou? Conta aqui embaixo.
+
+CAPÍTULOS
+0:00 A conta que subiu
+0:50 Quem é a Dona Neide
+1:22 O vizinho
+1:53 O protocolo
+2:43 A fila na sala
+4:58 A cor da bandeira
+6:07 O sexto da fila
+6:58 A proposta do Universo
+7:58 No dia seguinte
+8:33 A conta seguinte
+
+DADOS USADOS NO VÍDEO
+- Bandeiras tarifárias de 2026 e valores a cada 100 kWh: Aneel
+- Composição média da tarifa residencial (energia, distribuição, encargos, transmissão) e alta média projetada para 2026: Aneel, boletim InfoTarifas
+- Tributos: cerca de 18% da conta, ICMS como maior parte: Abradee, com dados da Aneel
+- CDE 2026: Aneel
+- Tarifa social (gratuidade até 80 kWh para baixa renda): Lei 15.235/2025
+- Perdas comerciais, incluindo furto de energia (média de 14,3%): estudo do CLP
+- Conta de luz residencial +177% em 15 anos: Abraceel
+- Aparelhos em stand-by: cartilha Eletrobras Procel
+
+A Dona Neide, o Marcão, os valores da conta dela, a fila de cobradores e a Repartição do Universo são ficção, criados para explicar como a conta de luz é formada.
+
+#contadeluz #animação #historiasanimadas
+
+======================================================================
+TAGS (colar no campo "Tags"; 354 de 500 caracteres, 21 tags)
+======================================================================
+conta de luz, por que a conta de luz sobe, conta de luz cara, bandeira tarifária, bandeira amarela, tarifa de energia, Aneel, economizar energia, composição da conta de luz, ICMS conta de luz, CDE, tarifa social de energia, furto de energia, gato de energia, stand-by, energia elétrica, animação, história animada, e se, educação financeira, curiosidades
+
+======================================================================
+COMENTÁRIO FIXADO (postar logo após publicar e fixar)
+======================================================================
+Pega a última conta de luz aí: quantos kWh você gastou e quanto pagou? 👇 (Se tiver um Marcão na sua rua, não precisa dizer o nome.)
+
+======================================================================
+CONFIGURAÇÕES NO UPLOAD
+======================================================================
+- Categoria: Educação
+- Idioma do vídeo e das legendas: Português (Brasil)
+- Público: "Não, não é conteúdo para crianças" (tema do dia a dia adulto: contas, trabalho, economia)
+- Conteúdo alterado ou sintético: "Não". É animação claramente fictícia; a regra do YouTube vale para conteúdo realista que possa enganar.
+- Capítulos automáticos: desligado (os capítulos já estão na descrição)
+- Teste de miniaturas (A/B): subir as capas A, B e C juntas

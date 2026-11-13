@@ -1,0 +1,619 @@
+{
+ "001": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Seis dias de trabalho, um de folga. Durante décadas foi assim a semana de milhões de brasileiros.",
+  "dur": 6.5,
+  "tent": 1
+ },
+ "002": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: por um",
+   "final diferente"
+  ],
+  "ouvido": "Só em 2025 eram 14 milhões e 800 mil trabalhadores com carteira assinada na escala 6x1.",
+  "dur": 7.11,
+  "tent": 2
+ },
+ "003": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mais em outubro, o Congresso aprovou o fim dela, e a partir de dezembro, a regra muda.",
+  "dur": 5.25,
+  "tent": 1
+ },
+ "005": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Essa é a Josie. Ela trabalha no caixa de um supermercado, seis por um, há onze anos.",
+  "dur": 6.31,
+  "tent": 2
+ },
+ "006": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hoje a gente vai acompanhar a última semana da Josie na escala 6 por 1 e o pedido que ela fez para o universo antes da lei mudar.",
+  "dur": 7.66,
+  "tent": 1
+ },
+ "007": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você trabalha em qual escala? Guarda essa resposta. Fica até o fim, porque o universo atendeu o pedido da Josie. Do jeito dele.",
+  "dur": 9.1,
+  "tent": 1
+ },
+ "008": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A Josie tem 31 anos, mora em Recife com a filha, Baluana, de 9.",
+  "dur": 4.73,
+  "tent": 1
+ },
+ "009": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Segundo a sábado, ela pega o ônibus às 6 da manhã, volta às 8 da noite. Folga terça-feira.",
+  "dur": 6.47,
+  "tent": 1
+ },
+ "011": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "7 horas e 20 minutos por dia, 6 dias por semana. 44 horas, o máximo que a lei deixava, até agora.",
+  "dur": 7.69,
+  "tent": 1
+ },
+ "015": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Não era, mas a Luana queria muito que a mãe visse.",
+  "dur": 3.43,
+  "tent": 1
+ },
+ "016": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A Josie foi falar com o Gerente, o seu hélio.",
+  "dur": 2.35,
+  "tent": 1
+ },
+ "020": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E é aí que está o problema de uma escala apertada. Uma folga mexe na de todo mundo.",
+  "dur": 5.36,
+  "tent": 1
+ },
+ "022": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Naquela noite, a Josie chegou em casa às oito e meia. A Luana já tinha dormido com a fantasia de árvore do lado da cama.",
+  "dur": 7.75,
+  "tent": 1
+ },
+ "023": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e foi nessa noite que a Jos escreveu um pedido.",
+  "dur": 2.99,
+  "tent": 1
+ },
+ "025": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o pedido subiu, direto para a repartição do universo.",
+  "dur": 3.41,
+  "tent": 1
+ },
+ "033": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E no sábado seguinte, o Brasil inteiro fogou. Todo mundo, ao mesmo tempo.",
+  "dur": 4.84,
+  "tent": 1
+ },
+ "034": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A Josie acordou sem despertador, pela primeira vez em 11 anos num sábado.",
+  "dur": 5.69,
+  "tent": 1
+ },
+ "036": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Elas foram para o ponto e o ônibus não passou. O motorista também estava de folga.",
+  "dur": 5.12,
+  "tent": 1
+ },
+ "037": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Foram a pé, chegaram na escola, por tão fechado.",
+  "dur": 4.02,
+  "tent": 1
+ },
+ "039": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A apresentação foi cancelada. Os professores tinham folga. A merendeira tinha folga. O porteiro tinha folga.",
+  "dur": 7.66,
+  "tent": 1
+ },
+ "041": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O supermercado estava fechado com uma placa, fechado por folga coletiva, assinado universo.",
+  "dur": 7.36,
+  "tent": 1
+ },
+ "043": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E não era só o mercado, a padaria, a farmácia, o posto de gasolina, tudo fechado.",
+  "dur": 6.65,
+  "tent": 1
+ },
+ "044": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O pronto socorro funcionou, mas o médico de plantão estava de folga, então quem atendia era o próprio universo. Ele não sabia medir pressão.",
+  "dur": 8.61,
+  "tent": 1
+ },
+ "049": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No fim do dia, a Josie e a Luana comeram miojo, o único que tinha em casa e viram a apresentação de árvore na sala, com a Luana de árvore e a Josie de plateia.",
+  "dur": 10.57,
+  "tent": 1
+ },
+ "055": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O universo errou numa coisa. Folga não precisa ser todo mundo no mesmo dia.",
+  "dur": 4.31,
+  "tent": 1
+ },
+ "056": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A emenda aprovada em outubro, diz o seguinte, 60 dias depois de promulgada, todo trabalhador passa a ter dois dias de descanso remunerado por semana, de preferência um deles no domingo.",
+  "dur": 11.34,
+  "tent": 1
+ },
+ "057": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A jornada máxima cai de 44 para 42 horas e um ano depois para 40, sem redução de salário.",
+  "dur": 7.86,
+  "tent": 1
+ },
+ "058": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O mercado continua aberto no sábado, o ônibus continua passando. Só que a escala vira um quebra-cabeça maior, cada um folga em dias diferentes.",
+  "dur": 8.85,
+  "tent": 1
+ },
+ "060": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: tem",
+   "início diferente",
+   "sobrando: tenho"
+  ],
+  "ouvido": "E tenho uma exceção. Por acordo ou convenção coletiva, empresas sindicato podem combinar outras escalas, em casos excepcionais até 6 por 1.",
+  "dur": 9.01,
+  "tent": 1
+ },
+ "061": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E aqui tem dois lados, e os números dos dois são grandes.",
+  "dur": 3.3,
+  "tent": 1
+ },
+ "062": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A Confederação Nacional do Comércio calculou um custo de 122 bilhões de reais por ano só para o comércio e disse que os preços podem subir até 13%.",
+  "dur": 9.07,
+  "tent": 1
+ },
+ "063": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: virgula"
+  ],
+  "ouvido": "A confederação da indústria estimou que o PIB pode ficar 0,7% menor.",
+  "dur": 4.83,
+  "tent": 1
+ },
+ "065": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: virgula"
+  ],
+  "ouvido": "Do outro lado, o IPA, que é um instituto de pesquisa do governo, calculou que o custo médio do trabalho sobe 7,84%.",
+  "dur": 8.71,
+  "tent": 1
+ },
+ "066": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e que na indústria e no comércio isso dá menos de 1% do custo total das empresas, parecido com reajustes do salário mínimo, que, no passado, não derrubaram o emprego.",
+  "dur": 10.76,
+  "tent": 1
+ },
+ "068": {
+  "status": "ERRO",
+  "problemas": [
+   "faltando: por um"
+  ],
+  "ouvido": "Numa pesquisa do Instituto Nexus, 73% dos brasileiros disseram ser a favor do fim da 6x1, desde que sem redução de salário.",
+  "dur": 9.16,
+  "tent": 1
+ },
+ "076": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Dezembro. Primeira Semana da Escala Nova.",
+  "dur": 2.79,
+  "tent": 1
+ },
+ "082": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No domingo, a escola abriu, o ônibus passou. O mercado estava aberto, com outra pessoa no caixa da Josie.",
+  "dur": 7.41,
+  "tent": 1
+ },
+ "083": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e na primeira fila, sentados juntos, a jose e o seu hélio, vendo duas árvores.",
+  "dur": 6.35,
+  "tent": 1
+ },
+ "086": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você? Trabalha em qual escala? O que você faria com um dia a mais de folga? E se você é dono de um pequeno negócio, como vai fazer a escala nova? Conta aqui embaixo. A gente lê tudo.",
+  "dur": 11.02,
+  "tent": 1
+ },
+ "004": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Muda pra mim também, ou só pra quem trabalha em escritório.",
+  "dur": 2.94,
+  "tent": 1
+ },
+ "010": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Terça é ótima, o banco está aberto, o poço de saúde está aberto, só a minha filha que está na escola.",
+  "dur": 5.25,
+  "tent": 1
+ },
+ "013": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Sábado é o trabalho, filha.",
+  "dur": 1.73,
+  "tent": 1
+ },
+ "018": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Troca a minha terça pelo sábado, só essa vez.",
+  "dur": 2.44,
+  "tent": 1
+ },
+ "024": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Querido universo, eu só quero um dia mais de folga, um só, pra ver a minha filha ser árvore. Obrigada, Josie.",
+  "dur": 9.4,
+  "tent": 2
+ },
+ "035": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Luana, bora pra escola. Hoje a mãe vai ver a árvore.",
+  "dur": 4.2,
+  "tent": 2
+ },
+ "040": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tudo bem, filha. A gente faz um almoço especial. Vamos no mercado.",
+  "dur": 3.92,
+  "tent": 1
+ },
+ "042": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Eu trabalho aqui e não consigo nem comprar arroz.",
+  "dur": 3.04,
+  "tent": 1
+ },
+ "046": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O técnico de geladeira está de folga, seu hélio.",
+  "dur": 2.56,
+  "tent": 1
+ },
+ "048": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ninguém. Esse era o pedido.",
+  "dur": 1.85,
+  "tent": 1
+ },
+ "051": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Foi a única filha.",
+  "dur": 1.35,
+  "tent": 1
+ },
+ "052": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O universo eu agradeço, mas não era isso, desfaz.",
+  "dur": 4.42,
+  "tent": 1
+ },
+ "067": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Eu só sei que um dia mais em casa é um dia mais com minha filha.",
+  "dur": 4.05,
+  "tent": 1
+ },
+ "078": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "domingo? Seu hélio, faz 11 anos que eu não fogo domingo.",
+  "dur": 3.73,
+  "tent": 1
+ },
+ "080": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E como o Senhor sabe?",
+  "dur": 1.02,
+  "tent": 1
+ },
+ "085": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Vim, filha, e sábado que vem eu venho de novo.",
+  "dur": 3.2,
+  "tent": 1
+ },
+ "012": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mãe, sábado tem apresentação na escola. Eu vou ser a árvore.",
+  "dur": 4.82,
+  "tent": 1
+ },
+ "014": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas a árvore é a personagem principal.",
+  "dur": 2.43,
+  "tent": 1
+ },
+ "038": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mãe, a professora tão bem fogo!",
+  "dur": 2.67,
+  "tent": 1
+ },
+ "050": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Foi a melhor apresentação, mãe.",
+  "dur": 2.14,
+  "tent": 1
+ },
+ "084": {
+  "status": "AVISO",
+  "problemas": [
+   "pausa longa (5 car/s)"
+  ],
+  "ouvido": "Mãe, você veio!",
+  "dur": 2.67,
+  "tent": 1
+ },
+ "017": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Sábado, Josie. Sábado é o dia que mais vende. Se eu tiro você, tenho que tirar alguém de outro dia.",
+  "dur": 5.62,
+  "tent": 1
+ },
+ "019": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Se eu troco a sua, tenho que trocar da Patrícia, que troca com Juninho, que já trocou o codonabete.",
+  "dur": 5.28,
+  "tent": 1
+ },
+ "021": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Vou ver o que dá pra fazer, mas não promete nada pra menina.",
+  "dur": 3.53,
+  "tent": 1
+ },
+ "045": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Josie, eu tô de folga, mas a geladeira do mercado parou, quem conserta?",
+  "dur": 5.15,
+  "tent": 1
+ },
+ "047": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e quem está trabalhando.",
+  "dur": 1.01,
+  "tent": 1
+ },
+ "059": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ou seja, eu vou precisar de mais gente no caixa ou de mais hora extra ou de fechar mais cedo.",
+  "dur": 5.47,
+  "tent": 1
+ },
+ "064": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mercado pequeno não tem de onde tirar, ou contrata, ou aumenta o preço ou fecha mais cedo.",
+  "dur": 4.91,
+  "tent": 1
+ },
+ "077": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Josie, saiu a escala. Você folga domingo segunda.",
+  "dur": 2.99,
+  "tent": 1
+ },
+ "079": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E tem uma coisa, a apresentação de fim de ano da escola é domingo, né?",
+  "dur": 3.63,
+  "tent": 1
+ },
+ "081": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A minha neta também vai ser árvore.",
+  "dur": 1.53,
+  "tent": 1
+ },
+ "026": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hmm, pedido número 2.026 barra 6 por 1, um dia mais de folga.",
+  "dur": 6.37,
+  "tent": 1
+ },
+ "028": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Para ela só, e a Patrícia, e o Juninho, e a Dona Bete, todo mundo tem filho que vira árvore.",
+  "dur": 5.55,
+  "tent": 1
+ },
+ "030": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "para todo mundo, no mesmo dia, fica mais organizado.",
+  "dur": 3.34,
+  "tent": 1
+ },
+ "032": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Deferido.",
+  "dur": 0.54,
+  "tent": 1
+ },
+ "053": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Desfeito. Folga a coletiva cancelada.",
+  "dur": 2.75,
+  "tent": 1
+ },
+ "069": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e a repartição fez a conta, mas a conta da Josie não é do país.",
+  "dur": 4.77,
+  "tent": 1
+ },
+ "070": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Nas seis por um, a Josie tinha 52 folgas por ano, uma por semana.",
+  "dur": 5.36,
+  "tent": 1
+ },
+ "071": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Na 5x2 são 104, o dobro.",
+  "dur": 3.11,
+  "tent": 1
+ },
+ "072": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "44 horas por semana viram 40. São 4 horas a menos. Em um ano, mais de 200 horas.",
+  "dur": 7.2,
+  "tent": 1
+ },
+ "074": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Todas, inclusive as ensaiadas em casa.",
+  "dur": 2.97,
+  "tent": 1
+ },
+ "075": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Agora, quem paga essas horas e como é a parte que o Brasil ainda vai descobrir? A repartição só cuida dos pedidos. Esse foi o primeiro que a lei atendeu antes da gente.",
+  "dur": 10.35,
+  "tent": 1
+ },
+ "027": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E esse é simples, dar a folga para ela no sábado.",
+  "dur": 2.85,
+  "tent": 1
+ },
+ "029": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Então, dá um dia a mais para todo mundo.",
+  "dur": 3.26,
+  "tent": 1
+ },
+ "031": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso não vai dar certo.",
+  "dur": 1.8,
+  "tent": 1
+ },
+ "054": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Deu a viser!",
+  "dur": 0.59,
+  "tent": 1
+ },
+ "073": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "200 horas dá pra ver quantas apresentações de árvore.",
+  "dur": 4.17,
+  "tent": 1
+ }
+}

@@ -1,0 +1,8 @@
+{
+ "NARRADOR": {"voz": "Bodi"},
+ "ROSE": {"voz": "Kira"},
+ "LARA": {"voz": "voice_3dygquwe63ua", "nome_ai_studio": "Bia 2"},
+ "FÁBIO": {"voz": "Ludo", "obs": "provisória: trocar pela voz criada no Voice Design (ver voz_fabio.txt)"},
+ "SEU ZÉ": {"voz": "voice_tdjugc9saz8n", "nome_ai_studio": "Jura 3"},
+ "CONTADOR": {"voz": "Mako"}
+}

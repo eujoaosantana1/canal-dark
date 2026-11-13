@@ -1,0 +1,83 @@
+﻿clipe;personagem;status;problemas;texto do roteiro;o que foi ouvido;duração (s);tentativas
+001;NARRADOR;OK;;Seis da manhã. Paris. Uma padaria pequena numa esquina. E um senhor de chapéu de padeiro, com uma cesta de pão debaixo do braço, falando português.;Seis da manhã, Paris, uma padaria pequena numa esquina, e um senhor de chapéu de padeiro com uma cesta de pão debaixo do braço, falando português.;10.8;1
+002;SEU NENÊ;OK;;Bom dia! Eu vim trazer o pão de vocês de volta!;Bom dia. Eu vim trazer o pão de vocês de volta.;3.24;1
+003;LUC;OK;;Pardon. Que pão é este?;Perdão, que pão é este?;1.69;2
+004;SEU NENÊ;OK;;Como assim, que pão? É o pão francês!;Como assim que pão no pão francês?;2.52;1
+005;LUC;OK;;Monsieur, eu sou padeiro em Paris há quarenta anos. Este pão eu nunca vi na vida.;Monsieur, eu sou padeiro em Paris há 40 anos, este pão eu nunca vi na vida.;4.33;1
+006;NARRADOR;OK;;O Brasil vende mais de dois milhões de toneladas de pão francês por ano. É o pão mais vendido das padarias do país. E na França ninguém nunca ouviu falar dele.;O Brasil vende mais de 2 milhões de toneladas de pão francês por ano. É o pão mais vendido das padarias do país. E na França, ninguém nunca ouviu falar dele.;10.55;1
+007;NARRADOR;OK;;E você? Já sabia disso? Fica até o fim. Porque o que aconteceu com a cesta do Seu Nenê em Paris ninguém esperava. Nem os franceses.;E você? Já sabia disso? Fica até o fim, porque o que aconteceu com a cesta do seu neném em Paris ninguém esperava, nem os franceses.;8.71;1
+008;NARRADOR;OK;;Você talvez lembre dele. Seu Nenê. Sessenta e sete anos. Dono da Padaria do Nenê, em Guarulhos.;Você talvez lembre dele, seu nenê, 67 anos, dono da padaria do nenê em Guarulhos.;7.24;1
+009;NARRADOR;OK;;Acorda às três e quarenta há quarenta e cinco anos. A primeira fornada sai às seis em ponto. Nunca atrasou. Nem no dia do casamento.;acorda as 3h40 a 45 anos. A primeira fornada sai a 6 em ponto, nunca atrasou, nem no dia do casamento.;8.52;1
+010;NARRADOR;OK;;Casca fina, que estala quando aperta. Miolo branquinho. Um pão de cinquenta gramas, quentinho, com manteiga derretendo.;casca fina, que estala quando aperta, miolo branquinho, um pão de 50 gramas, quentinho com manteiga derretendo.;8.79;1
+011;SEU NENÊ;OK;;Pão francês bom a gente conhece pelo barulho. Escuta. Craque.;Pô, francês bom, a gente conhece pelo barulho. Escuta. Crac.;4.89;2
+012;NARRADOR;OK;;E todo dia, às seis e cinco, entra o Valdir. Pede um pingado. Agora vem cheio.;E todo dia, a 6 e 5 entre o Valdir. Pede um pingado, agora vem cheio.;5.67;1
+013;NARRADOR;OK;;Até que um dia, do outro lado da rua, abriu uma padaria nova. Maison Gabriel. Fermentação natural. Pão de quarenta reais. Fila na porta.;Até que um dia, do outro lado da rua, abriu uma apadaria nova. Meson Gabriel, fermentação natural, pão de 40 reais, fila na porta.;10.2;1
+014;NARRADOR;OK;;E o dono, Gabriel. Vinte e nove anos. Avental de linho, bigode encerado, cento e oitenta mil seguidores.;E o dono Gabriel, 29 anos, avental de linho, bigode inserado, 180 mil seguidores.;7.79;1
+015;GABRIEL;OK;;Seu Nenê, com todo respeito. Esse pão aí nem é francês. Na França ninguém come isso.;Seu nenê, com todo respeito, esse pão nem é francês, na França ninguém come isso.;5.43;1
+016;SEU NENÊ;OK;;Como não? Tá no nome, menino. Pão francês.;Como não? Está no nome, menino. Pão francês.;3.73;2
+017;GABRIEL;OK;;O nome engana. É pão de mentira. Pão de verdade leva três dias pra ficar pronto.;O nome engana. É pão de mentira. Pão de verdade leva 3 dias pra ficar pronto.;4.46;1
+018;SEU NENÊ;OK;;O meu leva três horas. E o povo come no mesmo dia.;O meu leva 3 horas e o povo come no mesmo dia.;3.72;1
+019;NARRADOR;OK;;A clientela riu. Mas naquela semana metade dela atravessou a rua.;A clientela riu, mas naquela semana metade dela atravessou a rua.;4.57;1
+020;NARRADOR;OK;;E o Seu Nenê, pela primeira vez em quarenta e cinco anos, ficou com pão sobrando no balcão.;E o seu nenê, pela primeira vez em 45 anos, ficou com pão sobrando no balcão.;5.38;1
+021;NARRADOR;OK;;Naquela madrugada, enquanto a massa crescia, o Seu Nenê escreveu num papel de embrulhar pão.;Naquela madrugada, enquanto a massa crescia, o seu nenê escreveu num papel de embrulhar pão.;6.0;2
+022;SEU NENÊ;OK;;Pedido: provar que o meu pão é francês.;pedido, provar que o meu pão é francês.;3.14;1
+023;NARRADOR;OK;;E, como já aconteceu com o Valdir, com a Dona Neide e com o Doutor Fábio, o papel foi parar num lugar que não devia. Na Repartição do Universo.;E como já aconteceu com o Valdir, com a Dona Neide e com o Doutor Fábio, o papel foi parar num lugar que não devia, na repartição do universo.;8.79;1
+024;CONTADOR;OK;;Ora, ora. Seu Nenê. A gente já se conhece. O senhor era o da padaria do meio copo.;Ora, ora, seu nenê. A gente já se conhece. O senhor era o da padaria, do meio copo.;6.53;1
+025;SEU NENÊ;OK;;O próprio.;o próprio.;0.75;1
+026;CONTADOR;OK;;Pedido de origem. Esse é rápido. O senhor vai até lá e pergunta.;Pedido de origem. Esse é rápido. O senhor vai até lá e pergunta.;4.57;1
+027;SEU NENÊ;OK;;Até lá onde?;Até lá, onde?;1.01;1
+028;CONTADOR;OK;;Paris. Uma manhã só. Leva a cesta.;Paris. Uma manhã só. Leva a cesta.;3.17;1
+029;NARRADOR;OK;;E o carimbo desceu.;e o carimbo desceu.;1.1;1
+030;CONTADOR;OK;;Deferido. Boa viagem.;Deferido! Boa viagem!;1.7;1
+031;NARRADOR;OK;;E foi assim que o Seu Nenê foi parar numa esquina de Paris, às seis da manhã, com quarenta pãezinhos quentes debaixo do braço.;E foi assim que o seu nenê foi parar numa esquina de Paris às 6 da manhã com 40 panzinhos quentes debaixo do braço.;7.43;1
+032;NARRADOR;OK;;E foi assim que ele ouviu, de um padeiro francês de verdade, a frase que você viu no começo.;e foi assim que ele ouviu de um padeiro francês de verdade a frase que você viu no começo.;5.0;1
+033;LUC;OK;;Este pão eu nunca vi na vida.;Este pão eu nunca vi na vida.;1.78;1
+034;NARRADOR;ERRO;sobrando: um;O Monsieur Luc pegou um. Apertou. Craque.;Um monsieur Luc pegou um, apertou, craque.;3.43;3
+035;LUC;OK;;Hm. A casca é fina demais pra ser baguete. O miolo é macio demais. E é pequeno. Parece um pão que pediram pra ser francês… mas que nasceu em outro lugar.;Hum, a casca é fina demais para ser baguete, o miolo é macio demais, e é pequeno. Parece um pão que pediram para ser francês, mas que nasceu em outro lugar.;9.7;1
+036;SEU NENÊ;OK;;Nasceu em Guarulhos.;nasceu em Guarulhos.;1.17;1
+037;LUC;OK;;Ah. Isto explica.;Ah, isto explica.;1.52;1
+038;CONTADOR;OK;;Senta, Seu Nenê. Deixa eu te contar de onde veio o seu pão.;Senta-se a nenê, deixa eu te contar de onde veio seu pão.;3.5;1
+039;NARRADOR;OK;;Começo do século vinte. Quem tinha dinheiro no Brasil viajava pra Paris. E voltava apaixonado por um pão comprido, de casca dourada e miolo branco. A baguete.;Começo do século 20, quem tinha dinheiro no Brasil viajava para Paris e voltava apaixonado por um pão comprido de casca dourada e miolo branco, a baguete.;10.48;1
+040;NARRADOR;OK;;Chegando aqui, essa gente pedia pros padeiros: faz igual o de Paris.;Chegando aqui, essa gente pedia para os padeiros. Faz igual de Paris.;3.99;1
+041;NARRADOR;OK;;Só que o trigo era outro. O forno era outro. O clima era outro. E muitos padeiros eram imigrantes, portugueses, italianos, que nunca tinham visto uma baguete na vida.;Só que o trigo era outro, o forno era outro, o clima era outro e muitos padeiros eram imigrantes, portugueses, italianos, que nunca tinham visto uma baguete na vida.;11.06;1
+042;NARRADOR;OK;;Cada padaria foi adaptando do seu jeito. Encurtou, amaciou, fez a casca mais fina. E o que saiu do forno não era francês. Era outra coisa. Mas o nome pegou.;Cada padaria foi adaptando do seu jeito. Encurtou, amaciou, fez a casca mais fina e o que saiu do forno não era francês. Era outra coisa, mas o nome pegou.;10.91;1
+043;CONTADOR;OK;;O seu pão é filho de uma imitação que deu errado. E por isso deu tão certo.;O seu pão é filho de uma imitação que deu errado, e por isso deu tão certo.;4.96;1
+044;NARRADOR;OK;;E nem o nome é o mesmo no país inteiro. No Rio Grande do Sul é cacetinho. Em Minas, pão de sal. No Ceará, carioquinha. E em São Paulo, pãozinho.;E nenhum nome é o mesmo no país inteiro. No Rio Grande do Sul é Cacetinho, em Minas, Pão de Sal, no Ceará, Carioquinha, e em São Paulo, Pãozinho.;10.63;1
+045;NARRADOR;OK;;Hoje ele é mais de um terço de tudo que as padarias do Brasil vendem.;Hoje, ele é mais de 1 terço de tudo que as padarias do Brasil vendem.;4.2;1
+046;NARRADOR;OK;;E aí aconteceu uma coisa que nenhum livro de história previa.;E aí aconteceu uma coisa que nenhum livro de história previa.;3.65;1
+047;NARRADOR;ERRO;"faltando: luc; sobrando: luke";O Monsieur Luc comeu o primeiro pão. Depois o segundo. Depois chamou a mulher. A mulher chamou a vizinha.;O Messier Luke comeu o primeiro pão, depois o segundo, depois chamou a mulher, a mulher chamou a vizinha.;7.36;3
+048;LUC;OK;;Monsieur Nenê. Quanto custa um?;Monsieur Nene, quanto custa um?;2.0;1
+049;SEU NENÊ;OK;;Lá em casa, um real e vinte.;Lá em casa, R$1,20.;2.13;1
+050;LUC;OK;;Aqui o senhor vende por dois euros.;Aqui o senhor vende por 2 euros.;1.97;1
+051;NARRADOR;OK;;Às oito da manhã tinha fila na esquina. Às nove, acabou a cesta.;às 8h da manhã tinha a fila na esquina, às 9h acabou a cesta.;4.93;1
+052;NARRADOR;OK;;O pão que não existe na França fez fila em Paris.;O pão que não existe na França fez fila em Paris.;3.64;1
+053;LUC;OK;;Fica, Monsieur. Abre uma padaria aqui. Le Pain Brésilien. Vai ficar rico.;Fica, Messier! Abre uma padaria aqui. Le Pan Brasilien. Vai ficar rico!;5.36;1
+054;NARRADOR;OK;;Enquanto isso, em Guarulhos, a Padaria do Nenê estava fechada pela primeira vez em quarenta e cinco anos. E o Valdir estava parado na porta, sem pingado.;Enquanto isso, em Guarulhos, a padaria do nenê estava fechada pela primeira vez em 45 anos, e o Valdir estava parado na porta, sem pingado.;10.34;1
+055;CONTADOR;OK;;Seu Nenê, antes de decidir, olha a conta da sua padaria.;Seu nenê, antes de decidir, olha a conta da sua padaria.;3.55;1
+056;NARRADOR;ERRO;faltando: centavos virgula;Numa pesquisa do Procon de São Paulo esse ano, o quilo do pão francês na capital saiu em média por vinte e quatro reais e sessenta e nove centavos. Quatro vírgula quatro por cento mais caro que no ano anterior.;Numa pesquisa do Procon de São Paulo este ano, o quilo do pão francês na capital saiu em média por R$ 24,69, 4,4% mais caro que no ano anterior.;11.9;3
+057;NARRADOR;OK;;E sabe o que pesa no preço? A energia elétrica. Ela é quase trinta por cento do custo de produção das padarias. Forno é luz.;E sabe que pesa no preço? A energia elétrica. Ela é quase 30% do custo de produção das padarias. O forno é luz.;8.01;1
+058;SEU NENÊ;OK;;A conta de luz. Igual a da Dona Neide.;Na conta de luz, igual a da dona Neide.;3.29;2
+059;CONTADOR;OK;;Igualzinha.;Igualzinha.;1.04;1
+060;NARRADOR;OK;;Desde o Plano Real, o pãozinho subiu mais que a inflação. Uns quarenta e três por cento acima.;Desde o plano real, o pãozinho subiu mais que a inflação, uns 43% acima.;5.01;1
+061;NARRADOR;OK;;E mesmo assim continua sendo o pão de quem acorda cedo. As padarias do Brasil atendem perto de quarenta e sete milhões de pessoas por dia.;E mesmo assim continua sendo pão de quem acorda cedo. As padarias do Brasil atendem perto de 47 milhões de pessoas por dia.;8.82;1
+062;CONTADOR;OK;;Então, Seu Nenê. Paris, dois euros o pão, fila na porta. Ou Guarulhos, um real e vinte, três e quarenta da manhã.;Então, seu nenê, paris 2 euros o pão, fila na porta, ou guarulhos, 1 real e 20, 3 e 40 da manhã.;8.19;1
+063;NARRADOR;OK;;E o Seu Nenê olhou a esquina de Paris. Bonita. Fila. Gente elogiando.;E o seu nenê olhou a esquina de Paris. Bonita, fila, gente elogiando...;6.3;1
+064;NARRADOR;OK;;Depois lembrou do Valdir parado na porta, sem pingado.;Depois lembrou do Valdir, parado na porta, sem pingado.;3.65;1
+065;SEU NENÊ;ERRO;"faltando: monsieur luc as; início diferente";Monsieur Luc, obrigado. Mas eu tenho uma fornada às seis.;Obrigado, mas eu tenho uma fornada 6.;2.71;3
+066;LUC;OK;;Mas em Paris o senhor seria famoso!;Mas em Paris o senhor seria famoso!;1.93;1
+067;SEU NENÊ;OK;;Em Guarulhos eu já sou. Pra umas trezentas pessoas. Dá e sobra.;Em Guarulhos eu já sou, pra umas 300 pessoas, dá e sobra.;5.46;1
+068;NARRADOR;OK;;Antes de ir embora, ele deixou a receita num papel de pão, em cima do balcão do Monsieur Luc.;Antes de ir embora, ele deixou a receita num papel de pão em cima do balcão do Monsieur Liu.;5.13;1
+069;CONTADOR;OK;;Pedido encerrado. Resultado: o pão não é francês.;Pedido encerrado. Resultado, o pão não é francês.;4.66;1
+070;SEU NENÊ;OK;;É de Guarulhos.;É de guarulhos!;1.81;1
+071;CONTADOR;OK;;É do Brasil.;é do Brasil.;0.99;1
+072;NARRADOR;OK;;E o carimbo desceu.;E o carimbo desceu.;1.75;1
+073;NARRADOR;OK;;No dia seguinte, três e quarenta. A massa crescendo. E às seis em ponto, a fornada saiu.;No dia seguinte, 13.40, a massa crescendo, e as 6 em ponto, a fornada saiu.;7.1;1
+074;NARRADOR;ERRO;início diferente;Às seis e cinco, entrou o Valdir. Pediu um pingado. Veio cheio.;A 6 e 5 entrou o Valdir. Pidi um pingado. Veio cheio.;4.88;3
+075;NARRADOR;OK;;E às seis e dez, entrou mais alguém. Avental de linho. Bigode encerado.;e às 6 e 10 entrou mais alguém. Avental de linho, bigode inserado.;6.21;2
+076;GABRIEL;OK;;Seu Nenê… me vê dois pãezinhos?;Seu nenê, me vê dois panzinhos?;2.79;1
+077;SEU NENÊ;OK;;Pão de mentira, menino?;Pão de mentira, menino!;2.28;1
+078;GABRIEL;OK;;Pão de verdade leva três dias, mas… fome a gente tem todo dia.;Pão de verdade leva 3 dias, mas fome a gente tem todo dia.;4.1;1
+079;SEU NENÊ;OK;;Leva quatro. O quarto é de graça. E amanhã, três e quarenta, vem aprender a fazer.;Leva 4. O quarto é de graça. E amanhã, 13h40, vem aprender a fazer.;6.42;1
+080;NARRADOR;OK;;Lá em cima, na Repartição do Universo, o Contador abriu um pacote de papel. Dentro, um pãozinho ainda quente. Craque.;Lá em cima, na repartição do universo, o contador abriu um pacote de papel. Dentro, um pãozinho ainda quente. Crac!;9.16;2
+081;NARRADOR;OK;;E em Paris, numa esquina, uma plaquinha nova apareceu na vitrine do Monsieur Luc. Pain Brésilien. Dois euros.;E, em Paris, numa esquina, uma plaquinha nova apareceu na vitrine do Monsieur Luc. Pa Brasilian, 2 euros.;7.75;2
+082;NARRADOR;OK;;E você? Na sua cidade, esse pão chama como? Pãozinho, cacetinho, pão de sal, carioquinha? Conta aqui embaixo. Vamos ver qual nome ganha.;E você? Na sua cidade esse pão chama como? Pãozinho? Cassetinho? Pão de sal? Carioquinha? Conta aqui embaixo. Vamos ver qual nome ganha.;13.37;1

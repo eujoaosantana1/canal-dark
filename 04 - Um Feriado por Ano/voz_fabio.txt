@@ -1,0 +1,14 @@
+VOZ DO DOUTOR FÁBIO — para criar no Voice Design do Google AI Studio
+
+Nome sugerido: Fabio Moveis
+
+Descrição (cole no campo de descrição da voz):
+Brazilian Portuguese (São Paulo) male voice, early 50s. A self-made furniture store owner who stars in his own TV commercials: confident, loud, fast, salesman energy, slightly nasal, with a big smile you can hear. Speaks like he is always closing a deal, ends sentences on a high note as if announcing a promotion ("Loja aberta trezentos e sessenta e quatro dias por ano!"). Paulistano accent, crisp consonants, a bit of a showman, a little arrogant but not mean. Medium-low pitch, strong projection, energetic pace.
+
+Frase de teste (cole no campo de texto):
+Feriado é coisa de país preguiçoso. Loja fechada, funcionário em casa, e o aluguel correndo! Fábio Móveis: aqui o sofá não tira folga!
+
+Frase de teste 2 (o lado frágil, para conferir se a voz aguenta o final do vídeo):
+Meu pai me trouxe aqui uma vez. Num feriado. Eu tinha uns dez anos. Foi a única vez.
+
+Depois de salvar: clique em "Copy voice ID" e me mande o código (começa com voice_). Eu troco no elenco.json.

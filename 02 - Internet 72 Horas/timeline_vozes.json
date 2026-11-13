@@ -1,0 +1,813 @@
+{
+ "total": 553.867,
+ "lines": [
+  {
+   "clip": "001",
+   "who": "CAIXA",
+   "sec": 1,
+   "start": 0.4,
+   "end": 1.883,
+   "text": "Débito ou crédito?"
+  },
+  {
+   "clip": "002",
+   "who": "CLIENTE",
+   "sec": 1,
+   "start": 2.333,
+   "end": 3.045,
+   "text": "Débito."
+  },
+  {
+   "clip": "003",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 3.495,
+   "end": 8.221,
+   "text": "A maquininha pensou. Pensou. E respondeu: sem conexão."
+  },
+  {
+   "clip": "004",
+   "who": "CLIENTE",
+   "sec": 1,
+   "start": 8.671,
+   "end": 9.824,
+   "text": "Faz no Pix, então."
+  },
+  {
+   "clip": "005",
+   "who": "CAIXA",
+   "sec": 1,
+   "start": 10.274,
+   "end": 11.921,
+   "text": "O Pix também caiu, senhora."
+  },
+  {
+   "clip": "006",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 12.371,
+   "end": 22.088,
+   "text": "Sexta-feira, seis da tarde. Dia de pagamento. Fila do mercado até a calçada. E ninguém, ninguém mesmo, tinha uma nota de dez no bolso."
+  },
+  {
+   "clip": "007",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 22.438,
+   "end": 32.629,
+   "text": "Numa sexta-feira de pagamento, o Brasil já fez trezentos e dezenove milhões de Pix num dia só. Naquela sexta, fez zero. E ficou assim por setenta e duas horas."
+  },
+  {
+   "clip": "008",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 32.979,
+   "end": 42.821,
+   "text": "E você? Quanto tempo aguentaria? Fica até o fim. Porque o mais estranho dessas setenta e duas horas não foi o que parou. Foi quem continuou funcionando."
+  },
+  {
+   "clip": "009",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 43.721,
+   "end": 50.856,
+   "text": "Jurandir. Seu Jura. setenta e um anos. Dono do Mercadinho do Jura, em Carapicuíba, há trinta e oito anos."
+  },
+  {
+   "clip": "010",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 51.206,
+   "end": 56.038,
+   "text": "Não tem Pix. Não tem WhatsApp. Não sabe a senha do wi-fi da própria casa."
+  },
+  {
+   "clip": "011",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 56.388,
+   "end": 65.536,
+   "text": "Tem um rádio de pilha, uma lata de biscoito cheia de troco e um caderninho de fiado. O mesmo caderninho desde mil novecentos e oitenta e oito."
+  },
+  {
+   "clip": "012",
+   "who": "DUDA",
+   "sec": 2,
+   "start": 65.986,
+   "end": 68.184,
+   "text": "Vô, por que o senhor não aceita Pix?"
+  },
+  {
+   "clip": "013",
+   "who": "SEU JURA",
+   "sec": 2,
+   "start": 68.634,
+   "end": 70.829,
+   "text": "Porque o caderninho nunca caiu."
+  },
+  {
+   "clip": "014",
+   "who": "DUDA",
+   "sec": 2,
+   "start": 71.279,
+   "end": 72.878,
+   "text": "Caderninho não cai, vô."
+  },
+  {
+   "clip": "015",
+   "who": "SEU JURA",
+   "sec": 2,
+   "start": 73.328,
+   "end": 73.746,
+   "text": "Pois é."
+  },
+  {
+   "clip": "016",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 74.646,
+   "end": 82.814,
+   "text": "Domingo. Almoço na casa da filha. E na cabeceira, o genro. Thiago. Ou, como ele se apresenta: Thiago Trends."
+  },
+  {
+   "clip": "017",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 83.164,
+   "end": 87.668,
+   "text": "Dois milhões de seguidores. Vende curso de como ficar rico pelo celular."
+  },
+  {
+   "clip": "018",
+   "who": "THIAGO",
+   "sec": 3,
+   "start": 88.118,
+   "end": 91.633,
+   "text": "Seu Jura, me diz uma coisa. Quantos clientes o senhor tem?"
+  },
+  {
+   "clip": "019",
+   "who": "SEU JURA",
+   "sec": 3,
+   "start": 92.083,
+   "end": 96.034,
+   "text": "Uns duzentos. Conheço todos pelo nome."
+  },
+  {
+   "clip": "020",
+   "who": "THIAGO",
+   "sec": 3,
+   "start": 96.484,
+   "end": 102.763,
+   "text": "Duzentos! Eu tenho dois milhões. E não conheço nenhum. Isso é escala, Seu Jura."
+  },
+  {
+   "clip": "021",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 103.213,
+   "end": 104.146,
+   "text": "E aí veio a frase."
+  },
+  {
+   "clip": "022",
+   "who": "THIAGO",
+   "sec": 3,
+   "start": 104.596,
+   "end": 106.774,
+   "text": "Quem não tá na internet não existe."
+  },
+  {
+   "clip": "023",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 107.224,
+   "end": 113.346,
+   "text": "Riram. A Duda não. Ela olhou pro avô, raspando o prato em silêncio, e pensou: mas ele existe."
+  },
+  {
+   "clip": "024",
+   "who": "THIAGO",
+   "sec": 3,
+   "start": 113.796,
+   "end": 117.93,
+   "text": "Faz assim: eu coloco o mercadinho no Instagram. De graça. Família é pra isso."
+  },
+  {
+   "clip": "025",
+   "who": "SEU JURA",
+   "sec": 3,
+   "start": 118.38,
+   "end": 121.85,
+   "text": "E o fiado que você me deve desde dois mil e dezenove? Também é de graça?"
+  },
+  {
+   "clip": "026",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 122.3,
+   "end": 123.859,
+   "text": "Ninguém riu dessa."
+  },
+  {
+   "clip": "027",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 124.759,
+   "end": 132.467,
+   "text": "Três da madrugada. No andar de cima do universo tem um setor que ninguém lembra que existe: o Suporte Técnico do Universo."
+  },
+  {
+   "clip": "028",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 132.817,
+   "end": 138.68,
+   "text": "Fone na orelha. Caneca de café. E uma tela com oito bilhões de pessoas conectadas."
+  },
+  {
+   "clip": "029",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 139.13,
+   "end": 146.734,
+   "text": "Protocolo número um: a internet tá lenta. Protocolo número dois: a internet tá lenta. Protocolo número três..."
+  },
+  {
+   "clip": "030",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 147.184,
+   "end": 151.985,
+   "text": "Bilhões de reclamações iguais. Então ele fez o que todo técnico do mundo manda fazer."
+  },
+  {
+   "clip": "031",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 152.435,
+   "end": 154.211,
+   "text": "Já tentaram desligar e ligar de novo?"
+  },
+  {
+   "clip": "032",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 154.661,
+   "end": 155.536,
+   "text": "E puxou o cabo."
+  },
+  {
+   "clip": "033",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 155.986,
+   "end": 160.081,
+   "text": "Reinicialização completa. Previsão de volta: setenta e duas horas."
+  },
+  {
+   "clip": "034",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 160.431,
+   "end": 162.526,
+   "text": "Hm. Esqueci de avisar."
+  },
+  {
+   "clip": "035",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 163.426,
+   "end": 170.21,
+   "text": "Hora zero. Você já viu essa parte. O mercado grande travou. A farmácia travou. O posto travou."
+  },
+  {
+   "clip": "036",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 170.56,
+   "end": 173.459,
+   "text": "Menos uma porta. A do Mercadinho do Jura."
+  },
+  {
+   "clip": "037",
+   "who": "SEU JURA",
+   "sec": 5,
+   "start": 173.909,
+   "end": 176.0,
+   "text": "Aqui é no dinheiro ou no caderninho."
+  },
+  {
+   "clip": "038",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 176.45,
+   "end": 179.024,
+   "text": "Em meia hora, a fila do mercadinho dobrou a esquina."
+  },
+  {
+   "clip": "039",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 179.374,
+   "end": 190.248,
+   "text": "Hora dois. O grupo da família ficou em silêncio pela primeira vez em dez anos. O WhatsApp tá em quase todo celular do Brasil. E de repente ninguém sabia o telefone de ninguém de cabeça."
+  },
+  {
+   "clip": "040",
+   "who": "DONA LURDES",
+   "sec": 5,
+   "start": 190.698,
+   "end": 193.569,
+   "text": "Seu Jura, o senhor sabe o número da minha filha?"
+  },
+  {
+   "clip": "041",
+   "who": "SEU JURA",
+   "sec": 5,
+   "start": 194.019,
+   "end": 198.272,
+   "text": "Sei. Tá aqui no caderninho. Ela me deve dois litros de leite."
+  },
+  {
+   "clip": "042",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 198.722,
+   "end": 203.829,
+   "text": "Hora seis. Um motoboy parado no meio da avenida, olhando pro celular. Sem mapa."
+  },
+  {
+   "clip": "043",
+   "who": "MOTOBOY",
+   "sec": 5,
+   "start": 204.279,
+   "end": 206.383,
+   "text": "Moço, como é que eu chego na Rua das Flores?"
+  },
+  {
+   "clip": "044",
+   "who": "SEU JURA",
+   "sec": 5,
+   "start": 206.833,
+   "end": 210.526,
+   "text": "Segunda à direita, depois da padaria que fechou em noventa e oito."
+  },
+  {
+   "clip": "045",
+   "who": "MOTOBOY",
+   "sec": 5,
+   "start": 210.976,
+   "end": 214.593,
+   "text": "E como é que eu vou saber qual padaria fechou em noventa e oito?"
+  },
+  {
+   "clip": "046",
+   "who": "SEU JURA",
+   "sec": 5,
+   "start": 215.043,
+   "end": 217.008,
+   "text": "Pergunta pra qualquer um com mais de sessenta."
+  },
+  {
+   "clip": "047",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 217.458,
+   "end": 226.96,
+   "text": "Hora doze. Sábado de manhã. A única notícia do país vinha do rádio de pilha do Seu Jura. Tinha gente sentada na calçada, ouvindo junto. Igual mil novecentos e setenta."
+  },
+  {
+   "clip": "048",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 227.31,
+   "end": 240.818,
+   "text": "E o dinheiro vivo, aquela nota esquecida no fundo da gaveta, virou ouro. Hoje, dinheiro em espécie é só uns doze por cento do que o brasileiro paga nas lojas. Naquele sábado, era cem por cento."
+  },
+  {
+   "clip": "049",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 241.168,
+   "end": 246.44,
+   "text": "E a lata de biscoito do Seu Jura virou o único caixa eletrônico funcionando no bairro."
+  },
+  {
+   "clip": "050",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 247.34,
+   "end": 251.4,
+   "text": "Hora vinte e quatro. Domingo. Quem bate na porta do mercadinho?"
+  },
+  {
+   "clip": "051",
+   "who": "THIAGO",
+   "sec": 6,
+   "start": 251.85,
+   "end": 255.751,
+   "text": "Seu Juuura! Meu sogro, meu ídolo, meu mestre!"
+  },
+  {
+   "clip": "052",
+   "who": "SEU JURA",
+   "sec": 6,
+   "start": 256.201,
+   "end": 257.051,
+   "text": "Mestre de quê?"
+  },
+  {
+   "clip": "053",
+   "who": "THIAGO",
+   "sec": 6,
+   "start": 257.501,
+   "end": 263.447,
+   "text": "De tudo! Eu tô sem nada, Seu Jura. Dois milhões de seguidores e nenhum me empresta dez reais."
+  },
+  {
+   "clip": "054",
+   "who": "SEU JURA",
+   "sec": 6,
+   "start": 263.897,
+   "end": 264.774,
+   "text": "Escala, né?"
+  },
+  {
+   "clip": "055",
+   "who": "THIAGO",
+   "sec": 6,
+   "start": 265.224,
+   "end": 266.127,
+   "text": "...Escala."
+  },
+  {
+   "clip": "056",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 266.577,
+   "end": 276.15,
+   "text": "O Thiago tinha dois milhões de seguidores. E sabia de cabeça o telefone de exatamente uma pessoa: a mãe dele. Que também tava sem internet."
+  },
+  {
+   "clip": "057",
+   "who": "THIAGO",
+   "sec": 6,
+   "start": 276.6,
+   "end": 278.49,
+   "text": "Me coloca no caderninho, Seu Jura?"
+  },
+  {
+   "clip": "058",
+   "who": "SEU JURA",
+   "sec": 6,
+   "start": 278.94,
+   "end": 282.578,
+   "text": "Já tá. Página quarenta e dois. Desde dois mil e dezenove."
+  },
+  {
+   "clip": "059",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 283.478,
+   "end": 286.416,
+   "text": "Mas na hora trinta, o caderninho começou a pesar."
+  },
+  {
+   "clip": "060",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 286.766,
+   "end": 292.346,
+   "text": "O bairro inteiro comprando fiado. O estoque acabando. E o caminhão do fornecedor não veio."
+  },
+  {
+   "clip": "061",
+   "who": "MOTORISTA",
+   "sec": 7,
+   "start": 292.796,
+   "end": 301.61,
+   "text": "Seu Jura, a carga tá no caminhão. Mas a nota é eletrônica, a rota é no aplicativo e o pedido é no sistema. Sem internet, o caminhão cheio fica parado."
+  },
+  {
+   "clip": "062",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 302.06,
+   "end": 306.575,
+   "text": "Hora quarenta. Seu Jura foi buscar o remédio da pressão no posto de saúde."
+  },
+  {
+   "clip": "063",
+   "who": "ATENDENTE",
+   "sec": 7,
+   "start": 307.025,
+   "end": 310.585,
+   "text": "Seu Jurandir, tá sem sistema. Não consigo liberar."
+  },
+  {
+   "clip": "064",
+   "who": "SEU JURA",
+   "sec": 7,
+   "start": 311.035,
+   "end": 313.147,
+   "text": "Mas eu nem uso internet."
+  },
+  {
+   "clip": "065",
+   "who": "ATENDENTE",
+   "sec": 7,
+   "start": 313.597,
+   "end": 315.911,
+   "text": "O senhor não. Mas o seu remédio usa."
+  },
+  {
+   "clip": "066",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 316.361,
+   "end": 325.006,
+   "text": "Hora quarenta e oito. Dia de cair a aposentadoria. A aposentadoria cai na conta. A conta mora no banco. E o banco mora na internet."
+  },
+  {
+   "clip": "067",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 325.356,
+   "end": 331.281,
+   "text": "Foi aí que o Seu Jura entendeu. Ele não usava a internet. Mas tudo que ele usava, usava."
+  },
+  {
+   "clip": "068",
+   "who": "SEU JURA",
+   "sec": 7,
+   "start": 331.731,
+   "end": 334.87,
+   "text": "Então eu também tava ligado nesse fio. Só não sabia."
+  },
+  {
+   "clip": "069",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 335.77,
+   "end": 343.006,
+   "text": "E aqui a história do Seu Jura ensina uma coisa que quase ninguém sabe: a internet não é uma nuvem. É cabo."
+  },
+  {
+   "clip": "070",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 343.356,
+   "end": 359.69,
+   "text": "Quase todos os dados que saem do Brasil pro mundo viajam por cabos no fundo do mar. E a maioria chega num lugar só: a Praia do Futuro, em Fortaleza. Dezesseis cabos. Por ali passa perto de noventa por cento do tráfego de internet entre o Brasil e o resto do mundo."
+  },
+  {
+   "clip": "071",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 360.04,
+   "end": 374.935,
+   "text": "Então, se esses cabos rompessem, o Brasil apagava? Não. E essa é a parte boa: de setenta a oitenta por cento do que a gente acessa já fica aqui dentro, no próprio país. A internet ia ficar lenta, esquisita... mas não sumia."
+  },
+  {
+   "clip": "072",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 375.285,
+   "end": 393.118,
+   "text": "Na vida real, a internet não cai de uma vez. Ela cai aos pedaços. Em outubro de dois mil e vinte e um, um erro de configuração derrubou WhatsApp, Instagram e Facebook no mundo inteiro por umas seis horas. Seis horas. E o Brasil sentiu como se fosse uma semana."
+  },
+  {
+   "clip": "073",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 393.468,
+   "end": 407.221,
+   "text": "Hoje, nove em cada dez brasileiros usam internet. E os quase dezoito milhões que não usam, iguais ao Seu Jura, dependem dela do mesmo jeito. Pelo remédio. Pela aposentadoria. Pelo caminhão."
+  },
+  {
+   "clip": "074",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 407.571,
+   "end": 415.645,
+   "text": "O problema nunca foi usar a internet. É depender só dela. Quem tem um caminho só não tem caminho. Tem sorte."
+  },
+  {
+   "clip": "075",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 416.545,
+   "end": 423.339,
+   "text": "Hora setenta. O telefone fixo do mercadinho tocou. Aquele telefone que ninguém ligava desde dois mil e dez."
+  },
+  {
+   "clip": "076",
+   "who": "TÉCNICO",
+   "sec": 9,
+   "start": 423.789,
+   "end": 431.335,
+   "text": "Alô? Seu Jurandir? Suporte Técnico do Universo. O senhor foi o único no Brasil que não abriu reclamação."
+  },
+  {
+   "clip": "077",
+   "who": "SEU JURA",
+   "sec": 9,
+   "start": 431.785,
+   "end": 433.635,
+   "text": "Eu não tenho internet pra reclamar."
+  },
+  {
+   "clip": "078",
+   "who": "TÉCNICO",
+   "sec": 9,
+   "start": 434.085,
+   "end": 446.321,
+   "text": "Justamente. Tenho uma proposta. Posso religar tudo. Ou posso deixar o seu bairro desligado pra sempre. O senhor vira o homem mais importante daqui. O único que funciona."
+  },
+  {
+   "clip": "079",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 446.771,
+   "end": 448.481,
+   "text": "O Thiago tava do lado, ouvindo."
+  },
+  {
+   "clip": "080",
+   "who": "THIAGO",
+   "sec": 9,
+   "start": 448.931,
+   "end": 451.605,
+   "text": "Aceita, Seu Jura! O senhor vai ser rei!"
+  },
+  {
+   "clip": "081",
+   "who": "SEU JURA",
+   "sec": 9,
+   "start": 452.055,
+   "end": 459.346,
+   "text": "E o remédio da Dona Lurdes, Thiago? E o caminhão? E a minha aposentadoria? Rei de bairro sem remédio é só um velho com caderninho."
+  },
+  {
+   "clip": "082",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 459.796,
+   "end": 467.151,
+   "text": "O Seu Jura fez conta de comerciante: um mercadinho não abastece um bairro. E um caderninho não substitui um país."
+  },
+  {
+   "clip": "083",
+   "who": "SEU JURA",
+   "sec": 9,
+   "start": 467.601,
+   "end": 468.302,
+   "text": "Pode religar."
+  },
+  {
+   "clip": "084",
+   "who": "TÉCNICO",
+   "sec": 9,
+   "start": 468.752,
+   "end": 469.534,
+   "text": "Religando."
+  },
+  {
+   "clip": "085",
+   "who": "SEU JURA",
+   "sec": 9,
+   "start": 469.984,
+   "end": 470.912,
+   "text": "Só uma coisa, moço."
+  },
+  {
+   "clip": "086",
+   "who": "TÉCNICO",
+   "sec": 9,
+   "start": 471.362,
+   "end": 471.877,
+   "text": "Pois não?"
+  },
+  {
+   "clip": "087",
+   "who": "SEU JURA",
+   "sec": 9,
+   "start": 472.327,
+   "end": 477.196,
+   "text": "Antes de voltar o Pix, o Thiago paga o fiado. Em dinheiro. Página quarenta e dois."
+  },
+  {
+   "clip": "088",
+   "who": "TÉCNICO",
+   "sec": 9,
+   "start": 477.646,
+   "end": 480.425,
+   "text": "...Justo. Aguardando pagamento."
+  },
+  {
+   "clip": "089",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 480.875,
+   "end": 487.87,
+   "text": "O Thiago pagou. Trezentos e doze reais, em nota. Com o dinheiro que o próprio Seu Jura tinha emprestado pra ele no sábado."
+  },
+  {
+   "clip": "090",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 488.22,
+   "end": 492.206,
+   "text": "A dívida continuou exatamente do mesmo tamanho. Só mudou de página."
+  },
+  {
+   "clip": "091",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 493.106,
+   "end": 499.11,
+   "text": "Lá em cima, o técnico apertou o botão. A internet voltou. E ele abriu o próximo protocolo da fila."
+  },
+  {
+   "clip": "092",
+   "who": "TÉCNICO",
+   "sec": 10,
+   "start": 499.56,
+   "end": 506.889,
+   "text": "Thiago Trends. Dois milhões de seguidores. Reclamação: fiquei setenta e duas horas sem existir."
+  },
+  {
+   "clip": "093",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 507.339,
+   "end": 511.455,
+   "text": "O dedo dele parou em cima de um botão: Encerrar chamado."
+  },
+  {
+   "clip": "094",
+   "who": "TÉCNICO",
+   "sec": 10,
+   "start": 511.905,
+   "end": 514.839,
+   "text": "Esse aqui vai aprender a anotar um telefone no papel."
+  },
+  {
+   "clip": "095",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 515.289,
+   "end": 528.635,
+   "text": "Segunda-feira, oito da manhã. Mercadinho do Jura. Na porta, uma plaquinha nova: o QR Code do Pix. E logo embaixo, escrito à mão: Aceito também dinheiro e caderninho."
+  },
+  {
+   "clip": "096",
+   "who": "DUDA",
+   "sec": 10,
+   "start": 529.085,
+   "end": 531.767,
+   "text": "Vô! O senhor colocou Pix!"
+  },
+  {
+   "clip": "097",
+   "who": "SEU JURA",
+   "sec": 10,
+   "start": 532.217,
+   "end": 534.61,
+   "text": "Coloquei. Mas o caderninho fica."
+  },
+  {
+   "clip": "098",
+   "who": "DUDA",
+   "sec": 10,
+   "start": 535.06,
+   "end": 535.649,
+   "text": "Por quê?"
+  },
+  {
+   "clip": "099",
+   "who": "SEU JURA",
+   "sec": 10,
+   "start": 536.099,
+   "end": 538.104,
+   "text": "Porque o caderninho nunca caiu."
+  },
+  {
+   "clip": "100",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 538.554,
+   "end": 545.293,
+   "text": "De noite, a Duda pegou uma folha e escreveu à mão o telefone de todo mundo da família. E colou na geladeira."
+  },
+  {
+   "clip": "101",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 545.643,
+   "end": 552.667,
+   "text": "E você? Se a internet caísse agora, quantos números de telefone você sabe de cabeça? Conta aí embaixo."
+  }
+ ]
+}

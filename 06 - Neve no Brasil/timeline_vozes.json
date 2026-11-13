@@ -1,0 +1,669 @@
+{
+ "total": 491.538,
+ "lines": [
+  {
+   "clip": "001",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 0.4,
+   "end": 5.592,
+   "text": "Teresina. Meio-dia. A cidade onde o termômetro passa dos quarenta graus."
+  },
+  {
+   "clip": "002",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 5.942,
+   "end": 10.864,
+   "text": "E naquele meio-dia, o termômetro da praça marcava menos três."
+  },
+  {
+   "clip": "003",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 11.214,
+   "end": 17.655,
+   "text": "E caía neve. Em cima da ponte. Em cima das mangueiras. Em cima do carrinho de dindin da Dona Chiquinha."
+  },
+  {
+   "clip": "004",
+   "who": "CHIQUINHA",
+   "sec": 1,
+   "start": 18.105,
+   "end": 21.621,
+   "text": "Meu Deus do céu. O dindin tá mais quente que a rua."
+  },
+  {
+   "clip": "005",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 22.071,
+   "end": 30.817,
+   "text": "Esse ano, a capital mais quente do Brasil chegou a quarenta e um graus. E o lugar mais frio do país, em Santa Catarina, já marcou mais de oito graus abaixo de zero."
+  },
+  {
+   "clip": "006",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 31.167,
+   "end": 36.159,
+   "text": "Naquela semana, o Brasil inteiro virou Santa Catarina no inverno. Ou pior."
+  },
+  {
+   "clip": "007",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 36.509,
+   "end": 47.33,
+   "text": "E você? Aguentaria uma semana de neve na sua cidade? Fica até o fim. Porque quem mais sofreu com a neve não foi Teresina. Foi justamente o lugar que mais entende de frio."
+  },
+  {
+   "clip": "008",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 48.23,
+   "end": 55.346,
+   "text": "Francisca. Dona Chiquinha. Cinquenta e quatro anos. Vende dindin há trinta anos numa praça de Teresina."
+  },
+  {
+   "clip": "009",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 55.696,
+   "end": 64.322,
+   "text": "Dindin de cajá, de coco, de goiaba. Um real cada. Num carrinho de isopor que ela empurra debaixo do sol."
+  },
+  {
+   "clip": "010",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 64.672,
+   "end": 66.979,
+   "text": "Nunca teve um casaco. Nunca precisou."
+  },
+  {
+   "clip": "011",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 67.329,
+   "end": 72.545,
+   "text": "E tem um sonho que ela nunca contou pra ninguém. Ver neve. Uma vez só na vida."
+  },
+  {
+   "clip": "012",
+   "who": "CHIQUINHA",
+   "sec": 2,
+   "start": 72.995,
+   "end": 75.545,
+   "text": "Só pra saber se é gelado igual dindin."
+  },
+  {
+   "clip": "013",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 76.445,
+   "end": 84.093,
+   "text": "E todo mês de julho, o celular da Dona Chiquinha toca. É o primo Arlindo, de Urupema, a cidade mais fria do Brasil."
+  },
+  {
+   "clip": "014",
+   "who": "ARLINDO",
+   "sec": 3,
+   "start": 84.543,
+   "end": 87.544,
+   "text": "Prima! Olha aqui a janela! Nevou de novo!"
+  },
+  {
+   "clip": "015",
+   "who": "CHIQUINHA",
+   "sec": 3,
+   "start": 87.994,
+   "end": 91.276,
+   "text": "Bonito, Arlindo. Aqui tá trinta e oito."
+  },
+  {
+   "clip": "016",
+   "who": "ARLINDO",
+   "sec": 3,
+   "start": 91.726,
+   "end": 96.081,
+   "text": "Trinta e oito! Vocês aí acham que vinte graus é frio."
+  },
+  {
+   "clip": "017",
+   "who": "CHIQUINHA",
+   "sec": 3,
+   "start": 96.531,
+   "end": 98.741,
+   "text": "E vocês aí acham que trinta é calor."
+  },
+  {
+   "clip": "018",
+   "who": "ARLINDO",
+   "sec": 3,
+   "start": 99.191,
+   "end": 103.864,
+   "text": "Neve é coisa pra pouca gente, prima. Você nunca vai ver isso aí em Teresina."
+  },
+  {
+   "clip": "019",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 104.314,
+   "end": 108.765,
+   "text": "Ela riu. Desligou. E ficou um tempão olhando pro isopor."
+  },
+  {
+   "clip": "020",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 109.665,
+   "end": 117.465,
+   "text": "Naquela noite, no andar de cima do universo, o Técnico do Suporte Técnico do Universo estava atolado de protocolos."
+  },
+  {
+   "clip": "021",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 117.915,
+   "end": 123.485,
+   "text": "Protocolo: tá muito calor. Protocolo: tá muito calor. Protocolo: tá muito calor."
+  },
+  {
+   "clip": "022",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 123.835,
+   "end": 130.657,
+   "text": "Opa. Esse é diferente. Remetente: Francisca, Teresina. Pedido: ver neve uma vez na vida."
+  },
+  {
+   "clip": "023",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 131.007,
+   "end": 135.648,
+   "text": "Esse dá pra resolver. Neve… Brasil… confirmar."
+  },
+  {
+   "clip": "024",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 136.098,
+   "end": 141.857,
+   "text": "Ele devia ter escrito Teresina, uma tarde. Escreveu Brasil, sete dias."
+  },
+  {
+   "clip": "025",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 142.307,
+   "end": 144.733,
+   "text": "Hm. Esqueci de avisar de novo."
+  },
+  {
+   "clip": "026",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 145.633,
+   "end": 147.287,
+   "text": "Dia um. O encanto."
+  },
+  {
+   "clip": "027",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 147.637,
+   "end": 156.148,
+   "text": "Nevou em Teresina, em Salvador, em Manaus, em Copacabana. Criança fazendo boneco de neve na areia. Gente filmando tudo."
+  },
+  {
+   "clip": "028",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 156.498,
+   "end": 162.176,
+   "text": "E a Dona Chiquinha, no meio da praça, de chinelo, com os braços abertos, rindo sozinha."
+  },
+  {
+   "clip": "029",
+   "who": "CHIQUINHA",
+   "sec": 5,
+   "start": 162.626,
+   "end": 165.163,
+   "text": "É gelado igual dindin! Igualzinho!"
+  },
+  {
+   "clip": "030",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 165.613,
+   "end": 168.218,
+   "text": "Dia dois. O frio entrou em casa."
+  },
+  {
+   "clip": "031",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 168.568,
+   "end": 183.563,
+   "text": "E aí o Brasil descobriu uma coisa: a maioria das casas daqui foi feita pra aguentar calor, não frio. Parede fina, piso de cerâmica, telha sem forro, janela com fresta. Não tem aquecimento. O frio entra e fica."
+  },
+  {
+   "clip": "032",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 183.913,
+   "end": 191.412,
+   "text": "Ninguém tinha casaco. A Dona Chiquinha vestiu três camisas de time, duas meias em cada pé, e enrolou uma toalha na cabeça."
+  },
+  {
+   "clip": "033",
+   "who": "CHIQUINHA",
+   "sec": 5,
+   "start": 191.862,
+   "end": 195.477,
+   "text": "Tô parecendo um dindin de três sabores."
+  },
+  {
+   "clip": "034",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 195.927,
+   "end": 197.483,
+   "text": "Dia três. O chuveiro."
+  },
+  {
+   "clip": "035",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 197.833,
+   "end": 208.814,
+   "text": "Sete da manhã. Milhões de brasileiros girando o chuveiro elétrico pro inverno ao mesmo tempo. Um chuveiro desses puxa de três mil e duzentos a sete mil e setecentos watts."
+  },
+  {
+   "clip": "036",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 209.164,
+   "end": 216.082,
+   "text": "Em inverno normal, o chuveiro e companhia já podem deixar a conta de luz até trinta por cento mais cara. Imagina com neve."
+  },
+  {
+   "clip": "037",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 216.432,
+   "end": 223.358,
+   "text": "O disjuntor da Dona Chiquinha caiu. O da vizinha caiu. O do bairro caiu."
+  },
+  {
+   "clip": "038",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 223.708,
+   "end": 226.312,
+   "text": "Dia quatro. O cafezinho."
+  },
+  {
+   "clip": "039",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 226.662,
+   "end": 241.691,
+   "text": "Café é planta de clima quente. Em julho de 2021, uma geada forte atingiu entre cento e cinquenta e duzentos mil hectares de café em Minas Gerais. Em uma semana, a saca subiu mais de quinze por cento."
+  },
+  {
+   "clip": "040",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 242.041,
+   "end": 249.398,
+   "text": "Foi uma geada. Numa região. Com neve no país inteiro, não ia sobrar café nem pra passar o susto."
+  },
+  {
+   "clip": "041",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 249.748,
+   "end": 257.186,
+   "text": "E o dindin? Ninguém comprou um. Pela primeira vez em trinta anos, a Dona Chiquinha voltou pra casa com o isopor cheio."
+  },
+  {
+   "clip": "042",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 258.086,
+   "end": 264.309,
+   "text": "Dia cinco. O celular tocou de novo. Era o Arlindo. Mas a voz era outra."
+  },
+  {
+   "clip": "043",
+   "who": "ARLINDO",
+   "sec": 6,
+   "start": 264.759,
+   "end": 267.293,
+   "text": "Prima. Tô com a pousada vazia."
+  },
+  {
+   "clip": "044",
+   "who": "CHIQUINHA",
+   "sec": 6,
+   "start": 267.743,
+   "end": 270.521,
+   "text": "Vazia? Em pleno inverno? Com neve?"
+  },
+  {
+   "clip": "045",
+   "who": "ARLINDO",
+   "sec": 6,
+   "start": 270.971,
+   "end": 277.506,
+   "text": "Com neve no Brasil inteiro, prima. Quem é que vai subir a serra pra ver neve, se tem neve na porta de casa?"
+  },
+  {
+   "clip": "046",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 277.956,
+   "end": 286.045,
+   "text": "Urupema tem uns dois mil e setecentos moradores. E vive de quem sobe a serra no inverno pra ver aquilo que o resto do Brasil não tem."
+  },
+  {
+   "clip": "047",
+   "who": "ARLINDO",
+   "sec": 6,
+   "start": 286.495,
+   "end": 292.863,
+   "text": "A gente aqui sabe viver no frio. Tem lareira, tem lenha, tem casaco. A gente tá quentinho."
+  },
+  {
+   "clip": "048",
+   "who": "ARLINDO",
+   "sec": 6,
+   "start": 293.213,
+   "end": 296.772,
+   "text": "Mas a neve daqui só valia porque era só daqui."
+  },
+  {
+   "clip": "049",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 297.222,
+   "end": 302.74,
+   "text": "O lugar mais preparado pro frio estava aquecido, vestido e sem nenhum cliente."
+  },
+  {
+   "clip": "050",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 303.64,
+   "end": 305.72,
+   "text": "E por que o Brasil não neva, afinal?"
+  },
+  {
+   "clip": "051",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 306.07,
+   "end": 319.583,
+   "text": "Pra nevar, precisa de duas coisas ao mesmo tempo: o ar abaixo de zero e umidade no céu. No Brasil, as duas só se encontram de verdade num pedacinho do mapa. Nas serras do Sul, acima de mil metros de altitude."
+  },
+  {
+   "clip": "052",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 319.933,
+   "end": 325.236,
+   "text": "Na Serra Catarinense, a neve é rara, mas aparece quase todo ano, entre maio e agosto."
+  },
+  {
+   "clip": "053",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 325.586,
+   "end": 344.413,
+   "text": "O recorde oficial recente de frio em Santa Catarina é de dez vírgula nove graus abaixo de zero, em Bom Jardim da Serra, em 2023. E no Morro da Igreja, em Urubici, já marcaram menos dezessete vírgula oito, em 1996. Sem estação oficial, mas marcaram."
+  },
+  {
+   "clip": "054",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 344.763,
+   "end": 353.917,
+   "text": "O resto do país é tropical. E tudo aqui foi pensado pra isso: a casa, o chuveiro, a roupa, a plantação. Até o dindin."
+  },
+  {
+   "clip": "055",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 354.817,
+   "end": 361.711,
+   "text": "Dia seis. O telefone da Dona Chiquinha tocou mais uma vez. Só que dessa vez não era o Arlindo."
+  },
+  {
+   "clip": "056",
+   "who": "TÉCNICO",
+   "sec": 8,
+   "start": 362.161,
+   "end": 368.244,
+   "text": "Dona Francisca? Aqui é do Suporte Técnico do Universo. Seu pedido de neve foi atendido."
+  },
+  {
+   "clip": "057",
+   "who": "CHIQUINHA",
+   "sec": 8,
+   "start": 368.694,
+   "end": 370.352,
+   "text": "Atendido demais, moço."
+  },
+  {
+   "clip": "058",
+   "who": "TÉCNICO",
+   "sec": 8,
+   "start": 370.802,
+   "end": 378.022,
+   "text": "Pois é. Eu posso desligar agora. Mas aí a senhora não vê mais neve. Ou posso deixar até o fim da semana."
+  },
+  {
+   "clip": "059",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 378.472,
+   "end": 384.43,
+   "text": "A Dona Chiquinha olhou pela janela. A praça branquinha. A coisa mais bonita que ela já tinha visto."
+  },
+  {
+   "clip": "060",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 384.78,
+   "end": 390.204,
+   "text": "Depois lembrou do disjuntor do bairro. Do café. Do isopor cheio. E da voz do primo."
+  },
+  {
+   "clip": "061",
+   "who": "CHIQUINHA",
+   "sec": 8,
+   "start": 390.654,
+   "end": 391.592,
+   "text": "Desliga, moço."
+  },
+  {
+   "clip": "062",
+   "who": "TÉCNICO",
+   "sec": 8,
+   "start": 392.042,
+   "end": 392.895,
+   "text": "Tem certeza?"
+  },
+  {
+   "clip": "063",
+   "who": "CHIQUINHA",
+   "sec": 8,
+   "start": 393.345,
+   "end": 398.445,
+   "text": "Tenho. Mas deixa a neve onde ela mora. Lá em Urupema. O Arlindo precisa dela mais que eu."
+  },
+  {
+   "clip": "064",
+   "who": "TÉCNICO",
+   "sec": 8,
+   "start": 398.895,
+   "end": 403.685,
+   "text": "Desligando. Brasil, modo tropical. Confirmar."
+  },
+  {
+   "clip": "065",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 404.135,
+   "end": 413.632,
+   "text": "E em cinco minutos, Teresina voltou pros trinta e oito graus. A neve escorreu pelo meio-fio. E o primeiro dindin do dia foi vendido às cinco e meia da tarde."
+  },
+  {
+   "clip": "066",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 414.532,
+   "end": 418.914,
+   "text": "Sete meses depois, julho. O celular da Dona Chiquinha tocou."
+  },
+  {
+   "clip": "067",
+   "who": "ARLINDO",
+   "sec": 9,
+   "start": 419.364,
+   "end": 423.13,
+   "text": "Prima. A pousada tá lotada. E eu guardei um quarto."
+  },
+  {
+   "clip": "068",
+   "who": "CHIQUINHA",
+   "sec": 9,
+   "start": 423.58,
+   "end": 424.419,
+   "text": "Pra quem?"
+  },
+  {
+   "clip": "069",
+   "who": "ARLINDO",
+   "sec": 9,
+   "start": 424.869,
+   "end": 429.39,
+   "text": "Pra você. Passagem paga com o lucro do inverno. Traz casaco."
+  },
+  {
+   "clip": "070",
+   "who": "CHIQUINHA",
+   "sec": 9,
+   "start": 429.84,
+   "end": 431.503,
+   "text": "Eu não tenho casaco, Arlindo."
+  },
+  {
+   "clip": "071",
+   "who": "ARLINDO",
+   "sec": 9,
+   "start": 431.953,
+   "end": 433.326,
+   "text": "Eu sei. Já comprei."
+  },
+  {
+   "clip": "072",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 433.776,
+   "end": 444.551,
+   "text": "E foi assim que a Dona Chiquinha viu neve pela segunda vez na vida. Dessa vez no lugar certo. Numa varanda de Urupema, de casaco emprestado, segurando um chocolate quente."
+  },
+  {
+   "clip": "073",
+   "who": "CHIQUINHA",
+   "sec": 9,
+   "start": 445.001,
+   "end": 446.176,
+   "text": "Sabe que é mais bonita aqui?"
+  },
+  {
+   "clip": "074",
+   "who": "ARLINDO",
+   "sec": 9,
+   "start": 446.626,
+   "end": 448.625,
+   "text": "É que aqui ela é de casa."
+  },
+  {
+   "clip": "075",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 449.525,
+   "end": 458.234,
+   "text": "E em dezembro, quem desceu de ônibus em Teresina foi o Arlindo. Quarenta graus na sombra. Camisa grudada nas costas."
+  },
+  {
+   "clip": "076",
+   "who": "ARLINDO",
+   "sec": 10,
+   "start": 458.684,
+   "end": 461.067,
+   "text": "Prima, como é que vocês vivem aqui?"
+  },
+  {
+   "clip": "077",
+   "who": "CHIQUINHA",
+   "sec": 10,
+   "start": 461.517,
+   "end": 464.171,
+   "text": "Do mesmo jeito que vocês vivem lá. Cada um com o seu."
+  },
+  {
+   "clip": "078",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 464.621,
+   "end": 465.701,
+   "text": "Ela abriu o isopor."
+  },
+  {
+   "clip": "079",
+   "who": "CHIQUINHA",
+   "sec": 10,
+   "start": 466.151,
+   "end": 468.143,
+   "text": "Toma. De cajá. Por conta da casa."
+  },
+  {
+   "clip": "080",
+   "who": "ARLINDO",
+   "sec": 10,
+   "start": 468.593,
+   "end": 470.314,
+   "text": "É gelado igual neve."
+  },
+  {
+   "clip": "081",
+   "who": "CHIQUINHA",
+   "sec": 10,
+   "start": 470.764,
+   "end": 471.648,
+   "text": "Igualzinho."
+  },
+  {
+   "clip": "082",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 472.098,
+   "end": 480.315,
+   "text": "Lá em cima, o Técnico do Universo arquivou o protocolo. E colou um bilhete no monitor: Neve. Só em Urupema. Não mexer."
+  },
+  {
+   "clip": "083",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 480.665,
+   "end": 490.338,
+   "text": "E você? Já viu neve de verdade? Ou já encarou quarenta graus na sombra? Conta aqui embaixo de onde você é, e qual é o clima que você não troca por nada."
+  }
+ ]
+}

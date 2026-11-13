@@ -1,0 +1,1339 @@
+[
+[
+"001",
+[
+0,
+2
+],
+"paris_cena",
+{
+"nene": false,
+"luc": false,
+"z": [
+1.0,
+1.05
+]
+}
+],
+[
+"001",
+[
+3,
+3
+],
+"paris_cena",
+{
+"luc": false,
+"neneExpr": "happy"
+}
+],
+[
+"002",
+null,
+"paris_cena",
+{
+"neneExpr": "happy",
+"lucExpr": "neutral",
+"nenePose": "wave"
+}
+],
+[
+"003",
+null,
+"close",
+{
+"k": "LUC",
+"set": "paris",
+"expr": "confused",
+"side": "R"
+}
+],
+[
+"004",
+null,
+"close",
+{
+"k": "NENE",
+"set": "paris",
+"expr": "surprised"
+}
+],
+[
+"005",
+null,
+"close",
+{
+"k": "LUC",
+"set": "paris",
+"expr": "neutral",
+"side": "R",
+"texto": "NUNCA VI NA VIDA"
+}
+],
+[
+"006",
+[
+0,
+1
+],
+"numero",
+{
+"ate": 2,
+"suf": " MILHÕES",
+"rotulo": "TONELADAS DE PÃO FRANCÊS POR ANO",
+"fundo": "rays_azul",
+"tam": 170
+}
+],
+[
+"006",
+[
+2,
+2
+],
+"cartela",
+{
+"linhas": [
+"NA FRANÇA:",
+"NINGUÉM CONHECE"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#1a237e"
+}
+],
+[
+"007",
+[
+0,
+1
+],
+"voce2",
+{
+"balao": "JÁ SABIA?"
+}
+],
+[
+"007",
+[
+2,
+2
+],
+"fica2",
+{
+"k": "NENE",
+"set": "padaria"
+}
+],
+[
+"007",
+[
+3,
+4
+],
+"paris_cena",
+{
+"luc": false,
+"neneExpr": "worried",
+"texto": "O QUE ACONTECEU COM A CESTA?"
+}
+],
+[
+"008",
+null,
+"ficha2",
+{
+"k": "NENE",
+"nome": "SEU NENÊ",
+"linhas": [
+"67 ANOS",
+"PADARIA DO NENÊ",
+"GUARULHOS (SP)"
+],
+"em": [
+"sessenta",
+"dono",
+"guarulhos"
+],
+"cor": "#c62828"
+}
+],
+[
+"009",
+[
+0,
+1
+],
+"forno",
+{
+"noite": true,
+"hora": "3:40",
+"texto": "HÁ 45 ANOS",
+"textoEm": "quarenta"
+}
+],
+[
+"009",
+[
+2,
+3
+],
+"forno",
+{
+"sai": true,
+"em": "fornada",
+"hora": "6:00"
+}
+],
+[
+"010",
+null,
+"pao_close",
+{
+"som": false,
+"manteiga": true,
+"fundo": "padaria"
+}
+],
+[
+"011",
+[
+0,
+1
+],
+"cena",
+{
+"set": "padaria",
+"chars": [
+{
+"k": "NENE",
+"x": 1350,
+"expr": "smile",
+"pose": "holdFront"
+}
+],
+"z": [
+1.1,
+1.2
+],
+"x": 300
+}
+],
+[
+"011",
+[
+2,
+2
+],
+"pao_close",
+{
+"em": "craque"
+}
+],
+[
+"012",
+null,
+"cena",
+{
+"set": "padaria",
+"chars": [
+{
+"k": "NENE",
+"x": 1350,
+"expr": "happy"
+},
+{
+"k": "VALDIR",
+"x": 560,
+"facing": 1,
+"expr": "happy"
+}
+],
+"texto": "O PINGADO AGORA VEM CHEIO",
+"textoEm": "cheio"
+}
+],
+[
+"013",
+[
+0,
+3
+],
+"cena",
+{
+"set": "rua_padarias_fila",
+"chars": [],
+"z": [
+1.0,
+1.05
+]
+}
+],
+[
+"013",
+[
+4,
+4
+],
+"cena",
+{
+"set": "rua_padarias_fila",
+"chars": [],
+"z": [
+1.3,
+1.4
+],
+"x": 520,
+"y": 60,
+"texto": "FILA NA PORTA"
+}
+],
+[
+"014",
+null,
+"ficha2",
+{
+"k": "GABRIEL",
+"nome": "GABRIEL",
+"linhas": [
+"29 ANOS",
+"FERMENTAÇÃO NATURAL",
+"180 MIL SEGUIDORES"
+],
+"em": [
+"vinte",
+"linho",
+"seguidores"
+],
+"cor": "#37474f"
+}
+],
+[
+"015",
+null,
+"cena",
+{
+"set": "padaria",
+"chars": [
+{
+"k": "NENE",
+"x": 1350,
+"expr": "neutral"
+},
+{
+"k": "GABRIEL",
+"x": 560,
+"facing": 1,
+"expr": "smug",
+"pose": "explain"
+}
+]
+}
+],
+[
+"016",
+null,
+"close",
+{
+"k": "NENE",
+"set": "padaria",
+"expr": "angry",
+"side": "R"
+}
+],
+[
+"017",
+null,
+"close",
+{
+"k": "GABRIEL",
+"set": "rua_padarias",
+"expr": "smug",
+"texto": "PÃO DE MENTIRA",
+"textoEm": "mentira"
+}
+],
+[
+"018",
+null,
+"close",
+{
+"k": "NENE",
+"set": "padaria",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"019",
+null,
+"cena",
+{
+"set": "rua_padarias_fila",
+"chars": [],
+"z": [
+1.0,
+1.05
+],
+"texto": "METADE ATRAVESSOU A RUA",
+"textoEm": "metade"
+}
+],
+[
+"020",
+null,
+"balcao",
+{
+"chars": [
+{
+"k": "NENE",
+"x": 1350,
+"expr": "sad"
+}
+],
+"sobra": 12
+}
+],
+[
+"021",
+null,
+"forno",
+{
+"noite": true,
+"hora": "3:40"
+}
+],
+[
+"022",
+null,
+"carimbo",
+{
+"num": "2026-501",
+"linhas": [
+"RECLAMANTE: NENÊ",
+"PEDIDO: PROVAR QUE O",
+"MEU PÃO É FRANCÊS"
+],
+"em": 99
+}
+],
+[
+"023",
+[
+0,
+0
+],
+"cadeia",
+{
+"itens": [
+"VALDIR\n(VÍDEO 1)",
+"DONA NEIDE\n(CONTA DE LUZ)",
+"DOUTOR FÁBIO\n(FERIADOS)",
+"SEU NENÊ\n(HOJE)"
+],
+"titulo": "OS PROTOCOLOS DO UNIVERSO"
+}
+],
+[
+"023",
+[
+1,
+1
+],
+"cartela",
+{
+"linhas": [
+"REPARTIÇÃO",
+"DO UNIVERSO"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#5e35b1"
+}
+],
+[
+"024",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smile"
+}
+],
+[
+"025",
+null,
+"close",
+{
+"k": "NENE",
+"set": "padaria_noite",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"026",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "neutral"
+}
+],
+[
+"027",
+null,
+"close",
+{
+"k": "NENE",
+"set": "padaria_noite",
+"expr": "confused",
+"side": "R"
+}
+],
+[
+"028",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smug",
+"texto": "PARIS. UMA MANHÃ SÓ."
+}
+],
+[
+"029",
+null,
+"carimbo",
+{
+"num": "2026-501",
+"linhas": [
+"RECLAMANTE: NENÊ",
+"PEDIDO: PROVAR QUE O",
+"MEU PÃO É FRANCÊS",
+"DESTINO: PARIS"
+],
+"em": 99
+}
+],
+[
+"030",
+null,
+"carimbo",
+{
+"num": "2026-501",
+"linhas": [
+"RECLAMANTE: NENÊ",
+"PEDIDO: PROVAR QUE O",
+"MEU PÃO É FRANCÊS",
+"DESTINO: PARIS"
+],
+"em": "deferido"
+}
+],
+[
+"031",
+null,
+"paris_cena",
+{
+"luc": false,
+"neneExpr": "happy",
+"paes": 8
+}
+],
+[
+"032",
+null,
+"paris_cena",
+{
+"lucExpr": "neutral"
+}
+],
+[
+"033",
+null,
+"close",
+{
+"k": "LUC",
+"set": "paris",
+"expr": "confused",
+"side": "R"
+}
+],
+[
+"034",
+[
+0,
+1
+],
+"paris_cena",
+{
+"lucExpr": "confused",
+"lucPose": "holdFront",
+"z": [
+1.2,
+1.3
+],
+"cx": 150
+}
+],
+[
+"034",
+[
+2,
+2
+],
+"pao_close",
+{
+"em": "craque",
+"fundo": "rays"
+}
+],
+[
+"035",
+null,
+"versus",
+{
+"em": "macio"
+}
+],
+[
+"036",
+null,
+"close",
+{
+"k": "NENE",
+"set": "paris",
+"expr": "smug"
+}
+],
+[
+"037",
+null,
+"close",
+{
+"k": "LUC",
+"set": "paris",
+"expr": "smile",
+"side": "R"
+}
+],
+[
+"038",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smile"
+}
+],
+[
+"039",
+[
+0,
+1
+],
+"cartela",
+{
+"linhas": [
+"COMEÇO DO",
+"SÉCULO 20"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#5d4037"
+}
+],
+[
+"039",
+[
+2,
+3
+],
+"versus",
+{
+"em": 99
+}
+],
+[
+"040",
+null,
+"cadeia",
+{
+"itens": [
+"RICO VOLTA\nDE PARIS",
+"FAZ IGUAL\nO DE PARIS!",
+"PADEIRO\nIMIGRANTE",
+"TRIGO E FORNO\nDAQUI"
+],
+"titulo": "COMO NASCEU"
+}
+],
+[
+"041",
+null,
+"cadeia",
+{
+"itens": [
+"OUTRO\nTRIGO",
+"OUTRO\nFORNO",
+"OUTRO\nCLIMA",
+"PADEIROS\nPORTUGUESES\nE ITALIANOS"
+],
+"em": [
+"trigo",
+"forno",
+"clima",
+"imigrantes"
+],
+"titulo": "SÓ QUE..."
+}
+],
+[
+"042",
+[
+0,
+1
+],
+"versus",
+{
+"em": 0.2
+}
+],
+[
+"042",
+[
+2,
+4
+],
+"pao_close",
+{
+"som": false,
+"texto": "NÃO ERA FRANCÊS. MAS O NOME PEGOU.",
+"textoEm": "nome"
+}
+],
+[
+"043",
+null,
+"cartela",
+{
+"linhas": [
+"FILHO DE UMA IMITAÇÃO",
+"QUE DEU ERRADO"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "rays_verde",
+"sub": "E POR ISSO DEU CERTO"
+}
+],
+[
+"044",
+null,
+"mapa_nomes",
+{
+"em": [
+"cacetinho",
+"minas",
+"ceara",
+"paulo"
+],
+"texto": "O MESMO PÃO, VÁRIOS NOMES"
+}
+],
+[
+"045",
+null,
+"pct",
+{
+"pct": 34,
+"rotulo": "DE TUDO QUE AS PADARIAS VENDEM",
+"cor": "#ffd23f",
+"fundo": "#5d4037",
+"texto": "PÃO FRANCÊS"
+}
+],
+[
+"046",
+null,
+"paris_cena",
+{
+"lucExpr": "surprised",
+"lucPose": "holdFront"
+}
+],
+[
+"047",
+null,
+"paris_cena",
+{
+"lucExpr": "happy",
+"lucPose": "holdFront",
+"z": [
+1.15,
+1.25
+],
+"cx": 120
+}
+],
+[
+"048",
+null,
+"close",
+{
+"k": "LUC",
+"set": "paris",
+"expr": "happy",
+"side": "R"
+}
+],
+[
+"049",
+null,
+"close",
+{
+"k": "NENE",
+"set": "paris",
+"expr": "smile"
+}
+],
+[
+"050",
+null,
+"close",
+{
+"k": "LUC",
+"set": "paris",
+"expr": "smug",
+"side": "R",
+"texto": "2 EUROS"
+}
+],
+[
+"051",
+null,
+"paris_cena",
+{
+"fila": true,
+"lucX": 1080,
+"neneX": 460,
+"neneExpr": "happy",
+"lucExpr": "happy",
+"z": [
+1.0,
+1.04
+]
+}
+],
+[
+"052",
+null,
+"cartela",
+{
+"linhas": [
+"O PÃO QUE NÃO EXISTE NA FRANÇA",
+"FEZ FILA EM PARIS"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "rays_azul",
+"tam": 88
+}
+],
+[
+"053",
+null,
+"paris_cena",
+{
+"placa": true,
+"fila": true,
+"lucExpr": "happy",
+"lucPose": "explain",
+"lucX": 1080,
+"neneX": 460,
+"neneExpr": "surprised",
+"texto": "LE PAIN BRÉSILIEN",
+"textoEm": "brasilien"
+}
+],
+[
+"054",
+null,
+"cena",
+{
+"set": "rua_padarias",
+"chars": [
+{
+"k": "VALDIR",
+"x": 640,
+"facing": 1,
+"expr": "sad",
+"pose": "crossArms"
+}
+],
+"texto": "FECHADO",
+"textoEm": "fechada"
+}
+],
+[
+"055",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "neutral"
+}
+],
+[
+"056",
+[
+0,
+0
+],
+"numero",
+{
+"pre": "R$ ",
+"ate": 24.69,
+"dec": 2,
+"rotulo": "QUILO DO PÃO FRANCÊS EM SP (PROCON 2026)",
+"fundo": "rays_azul"
+}
+],
+[
+"056",
+[
+1,
+1
+],
+"pct",
+{
+"pct": 4.4,
+"dec": 1,
+"rotulo": "MAIS CARO QUE EM 2025",
+"cor": "#ef5350",
+"fundo": "#212121"
+}
+],
+[
+"057",
+null,
+"pct",
+{
+"pct": 30,
+"rotulo": "ENERGIA NO CUSTO DA PADARIA",
+"cor": "#fdd835",
+"fundo": "#263238",
+"texto": "FORNO É LUZ"
+}
+],
+[
+"058",
+null,
+"close",
+{
+"k": "NENE",
+"set": "padaria",
+"expr": "tired",
+"side": "R",
+"texto": "IGUAL À DONA NEIDE"
+}
+],
+[
+"059",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smug"
+}
+],
+[
+"060",
+null,
+"pct",
+{
+"pct": 43,
+"rotulo": "ACIMA DA INFLAÇÃO DESDE O PLANO REAL",
+"cor": "#ffd23f",
+"fundo": "#3e2723",
+"texto": "PÃOZINHO"
+}
+],
+[
+"061",
+null,
+"numero",
+{
+"ate": 47,
+"suf": " MILHÕES",
+"rotulo": "DE PESSOAS NA PADARIA TODO DIA",
+"fundo": "rays",
+"tam": 170
+}
+],
+[
+"062",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "neutral"
+}
+],
+[
+"063",
+null,
+"paris_cena",
+{
+"fila": true,
+"placa": true,
+"luc": false,
+"neneExpr": "think",
+"nenePose": "think",
+"z": [
+1.0,
+1.05
+]
+}
+],
+[
+"064",
+null,
+"cena",
+{
+"set": "rua_padarias",
+"chars": [
+{
+"k": "VALDIR",
+"x": 380,
+"facing": 1,
+"expr": "sad",
+"pose": "crossArms"
+}
+],
+"z": [
+1.2,
+1.3
+],
+"x": -400,
+"y": 150
+}
+],
+[
+"065",
+null,
+"paris_cena",
+{
+"lucExpr": "surprised",
+"neneExpr": "smile",
+"cesta": false
+}
+],
+[
+"066",
+null,
+"close",
+{
+"k": "LUC",
+"set": "paris",
+"expr": "worried",
+"side": "R"
+}
+],
+[
+"067",
+null,
+"close",
+{
+"k": "NENE",
+"set": "paris",
+"expr": "happy",
+"texto": "300 PESSOAS. DÁ E SOBRA.",
+"textoEm": "trezentas"
+}
+],
+[
+"068",
+null,
+"caderno",
+{
+"titulo": "RECEITA DO NENÊ",
+"linhas": [
+[
+"FARINHA",
+"1 KG"
+],
+[
+"ÁGUA",
+"600 ML"
+],
+[
+"FERMENTO",
+"20 G"
+],
+[
+"SAL",
+"20 G"
+],
+[
+"AMOR",
+"3:40 DA MANHÃ"
+]
+],
+"destaque": 4
+}
+],
+[
+"069",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "neutral"
+}
+],
+[
+"070",
+null,
+"close",
+{
+"k": "NENE",
+"set": "paris",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"071",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smile"
+}
+],
+[
+"072",
+null,
+"carimbo",
+{
+"num": "2026-501",
+"linhas": [
+"RECLAMANTE: NENÊ",
+"PEDIDO: PROVAR QUE O",
+"MEU PÃO É FRANCÊS",
+"RESULTADO: É DO BRASIL"
+],
+"em": "desceu",
+"txt": "ENCERRADO"
+}
+],
+[
+"073",
+[
+0,
+1
+],
+"forno",
+{
+"noite": true,
+"hora": "3:40"
+}
+],
+[
+"073",
+[
+2,
+2
+],
+"forno",
+{
+"sai": true,
+"em": "seis",
+"hora": "6:00"
+}
+],
+[
+"074",
+null,
+"cena",
+{
+"set": "padaria",
+"chars": [
+{
+"k": "NENE",
+"x": 1350,
+"expr": "happy"
+},
+{
+"k": "VALDIR",
+"x": 560,
+"facing": 1,
+"expr": "happy"
+}
+],
+"texto": "VEIO CHEIO",
+"textoEm": "cheio"
+}
+],
+[
+"075",
+null,
+"cena",
+{
+"set": "padaria",
+"chars": [
+{
+"k": "NENE",
+"x": 1350,
+"expr": "surprised"
+},
+{
+"k": "VALDIR",
+"x": 400,
+"facing": 1,
+"expr": "smile"
+},
+{
+"k": "GABRIEL",
+"x": 760,
+"facing": 1,
+"expr": "sad"
+}
+]
+}
+],
+[
+"076",
+null,
+"close",
+{
+"k": "GABRIEL",
+"set": "padaria",
+"expr": "sad"
+}
+],
+[
+"077",
+null,
+"close",
+{
+"k": "NENE",
+"set": "padaria",
+"expr": "smug",
+"side": "R"
+}
+],
+[
+"078",
+null,
+"close",
+{
+"k": "GABRIEL",
+"set": "padaria",
+"expr": "smile"
+}
+],
+[
+"079",
+null,
+"cena",
+{
+"set": "padaria",
+"chars": [
+{
+"k": "NENE",
+"x": 1350,
+"expr": "happy",
+"pose": "holdFront"
+},
+{
+"k": "GABRIEL",
+"x": 760,
+"facing": 1,
+"expr": "happy"
+}
+],
+"texto": "AMANHÃ, 3:40",
+"textoEm": "amanha"
+}
+],
+[
+"080",
+null,
+"mesa_ceu",
+{
+"k": "CONTADOR",
+"expr": "happy",
+"reparticao": true,
+"texto": "CRAQUE.",
+"textoY": 1000
+}
+],
+[
+"081",
+null,
+"paris_cena",
+{
+"placa": true,
+"nene": false,
+"lucExpr": "happy",
+"z": [
+1.7,
+1.8
+],
+"cx": 130,
+"cy": 175,
+"luc": false
+}
+],
+[
+"082",
+[
+0,
+1
+],
+"mapa_nomes",
+{
+"em": [
+0,
+0.2,
+0.4,
+0.6
+],
+"texto": "NA SUA CIDADE, CHAMA COMO?"
+}
+],
+[
+"082",
+[
+2,
+4
+],
+"comenta2",
+{
+"pergunta": "PÃOZINHO? CACETINHO?\nPÃO DE SAL? CARIOQUINHA?",
+"botao": "CONTA AQUI EMBAIXO"
+}
+]
+]

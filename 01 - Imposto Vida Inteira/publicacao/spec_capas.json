@@ -1,0 +1,75 @@
+[
+ {
+  "nome": "A",
+  "t": 20.0,
+  "textos": [
+   {
+    "txt": "SÓ DE IMPOSTO",
+    "x": 0.66,
+    "y": 0.86,
+    "tam": 104,
+    "cor": "#FFFFFF",
+    "fundo": "#E62B2B",
+    "esp": 0
+   }
+  ],
+  "seta": [
+   0.42,
+   0.8,
+   0.2,
+   0.66
+  ]
+ },
+ {
+  "nome": "B",
+  "t": 17.0,
+  "zoom": 1.2,
+  "foco": [
+   0.38,
+   0.6
+  ],
+  "textos": [
+   {
+    "txt": "O TROCO",
+    "x": 0.97,
+    "y": 0.62,
+    "tam": 118,
+    "cor": "#FFFFFF",
+    "ancora": "rm"
+   },
+   {
+    "txt": "ERA IMPOSTO",
+    "x": 0.97,
+    "y": 0.81,
+    "tam": 104,
+    "cor": "#FFE14D",
+    "ancora": "rm"
+   }
+  ]
+ },
+ {
+  "nome": "C",
+  "t": 372.0,
+  "zoom": 1.1,
+  "foco": [
+   0.5,
+   0.42
+  ],
+  "textos": [
+   {
+    "txt": "DEVOLVERAM O IMPOSTO...",
+    "x": 0.5,
+    "y": 0.76,
+    "tam": 82,
+    "cor": "#FFFFFF"
+   },
+   {
+    "txt": "E O POSTE APAGOU",
+    "x": 0.5,
+    "y": 0.91,
+    "tam": 82,
+    "cor": "#FFE14D"
+   }
+  ]
+ }
+]

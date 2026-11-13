@@ -1,0 +1,102 @@
+﻿clipe;personagem;status;problemas;texto do roteiro;o que foi ouvido;duração (s);tentativas
+001;CAIXA;OK;;Débito ou crédito?;débito ou crédito.;1.48;1
+002;CLIENTE;OK;;Débito.;Débito!;0.71;1
+003;NARRADOR;OK;;A maquininha pensou. Pensou. E respondeu: sem conexão.;A maquininha pensou, pensou e respondeu sem conexão.;4.73;1
+004;CLIENTE;OK;;Faz no Pix, então.;Faz no Pix, então.;1.15;1
+005;CAIXA;OK;;O Pix também caiu, senhora.;O Pix também caiu senhora.;1.65;1
+006;NARRADOR;OK;;Sexta-feira, seis da tarde. Dia de pagamento. Fila do mercado até a calçada. E ninguém, ninguém mesmo, tinha uma nota de dez no bolso.;sexta-feira seis da tarde dia de pagamento fila do mercado até a calçada e ninguém ninguém mesmo tinha uma nota de 10 no bolso;9.72;1
+007;NARRADOR;ERRO;"faltando: pix duas; sobrando: piques dois";Numa sexta-feira de pagamento, o Brasil já fez trezentos e dezenove milhões de Pix num dia só. Naquela sexta, fez zero. E ficou assim por setenta e duas horas.;Numa sexta-feira de pagamento, o Brasil já fez 319 milhões de piques num dia só. Naquela sexta, fez zero. E ficou assim por 72 horas.;10.19;3
+008;NARRADOR;ERRO;"faltando: duas; sobrando: dois";E você? Quanto tempo aguentaria? Fica até o fim. Porque o mais estranho dessas setenta e duas horas não foi o que parou. Foi quem continuou funcionando.;E você, quanto tempo aguentaria? Fica até o fim, porque o mais estranho dessas 72 horas não foi o que parou, foi quem continuou funcionando.;9.84;3
+009;NARRADOR;OK;;Jurandir. Seu Jura. setenta e um anos. Dono do Mercadinho do Jura, em Carapicuíba, há trinta e oito anos.;Jurandir, seu jura, 71 anos, dono do Mercadinho do Jura, em Carápico, Iba, a 38 anos.;7.13;1
+010;NARRADOR;OK;;Não tem Pix. Não tem WhatsApp. Não sabe a senha do wi-fi da própria casa.;Não tem Pix, não tem WhatsApp, não sabe a senha do wi-fi da própria casa.;4.83;1
+011;NARRADOR;OK;;Tem um rádio de pilha, uma lata de biscoito cheia de troco e um caderninho de fiado. O mesmo caderninho desde mil novecentos e oitenta e oito.;Tem um rádio de pilha, uma lata de biscoito cheia de troco e um caderninho de fiado. O mesmo caderninho desde 1988.;9.15;1
+012;DUDA;OK;;Vô, por que o senhor não aceita Pix?;Vou, porque o senhor não aceita PIX!;2.2;1
+013;SEU JURA;OK;;Porque o caderninho nunca caiu.;Porque o caderninho nunca caiu.;2.2;1
+014;DUDA;OK;;Caderninho não cai, vô.;Caderminho não caiu, vo!;1.6;1
+015;SEU JURA;OK;;Pois é.;Pois é.;0.42;1
+016;NARRADOR;OK;;Domingo. Almoço na casa da filha. E na cabeceira, o genro. Thiago. Ou, como ele se apresenta: Thiago Trends.;Domingo, almoço na casa da filha e na cabeceira o genho Tiago, ou como ele se apresenta Tiago Trends.;8.17;1
+017;NARRADOR;OK;;Dois milhões de seguidores. Vende curso de como ficar rico pelo celular.;Dois milhões de seguidores vem de curso de como ficar rico pelo celular.;4.5;1
+018;THIAGO;OK;;Seu Jura, me diz uma coisa. Quantos clientes o senhor tem?;Se eu jura, me diz uma coisa, quantos clientes o senhor tem?;3.52;1
+019;SEU JURA;OK;;Uns duzentos. Conheço todos pelo nome.;uns 200 conheço todos pelo nome.;3.95;1
+020;THIAGO;OK;;Duzentos! Eu tenho dois milhões. E não conheço nenhum. Isso é escala, Seu Jura.;200? Eu tenho 2 milhões. E não conheço nenhum. Isso é escala, se eu jura.;6.28;1
+021;NARRADOR;OK;;E aí veio a frase.;E aí veio a frase.;0.93;1
+022;THIAGO;OK;;Quem não tá na internet não existe.;Quem não tá na internet não existe!;2.18;2
+023;NARRADOR;OK;;Riram. A Duda não. Ela olhou pro avô, raspando o prato em silêncio, e pensou: mas ele existe.;Riram. A dúvida não. Ela olhou pro avô, raspando o prato em silêncio e pensou. Mas ele existe.;6.12;1
+024;THIAGO;OK;;Faz assim: eu coloco o mercadinho no Instagram. De graça. Família é pra isso.;Faz assim, eu coloco o Mercadinho no Instagram, de graça, família pra isso.;4.13;2
+025;SEU JURA;OK;;E o fiado que você me deve desde dois mil e dezenove? Também é de graça?;E o fiado que você me deve desde 2019. Também é de graça?;3.47;1
+026;NARRADOR;OK;;Ninguém riu dessa.;Ninguém riu dessa.;1.56;2
+027;NARRADOR;OK;;Três da madrugada. No andar de cima do universo tem um setor que ninguém lembra que existe: o Suporte Técnico do Universo.;3 da madrugada. No andar de cima do universo, tem um setor que ninguém lembra que existe. O suporte técnico do universo.;7.71;1
+028;NARRADOR;OK;;Fone na orelha. Caneca de café. E uma tela com oito bilhões de pessoas conectadas.;fone na orelha, caneca de café e uma tela com 8 bilhões de pessoas conectadas.;5.86;1
+029;TÉCNICO;OK;;Protocolo número um: a internet tá lenta. Protocolo número dois: a internet tá lenta. Protocolo número três...;Protocolo número 1, a internet está lenta. Protocolo número 2, a internet está lenta. Protocolo número 3.;7.6;1
+030;NARRADOR;OK;;Bilhões de reclamações iguais. Então ele fez o que todo técnico do mundo manda fazer.;bilhões de reclamações iguais, então ele fez o que todo técnico do mundo manda fazer.;4.8;1
+031;TÉCNICO;OK;;Já tentaram desligar e ligar de novo?;Já tentar não desligar e ligar de novo.;1.78;1
+032;NARRADOR;OK;;E puxou o cabo.;e puxou o cabo.;0.88;1
+033;TÉCNICO;ERRO;"faltando: duas; sobrando: dois";Reinicialização completa. Previsão de volta: setenta e duas horas.;Reinicialização completa, previsão de volta a 72 horas.;4.1;3
+034;TÉCNICO;OK;;Hm. Esqueci de avisar.;Esqueci de avisa.;2.09;1
+035;NARRADOR;OK;;Hora zero. Você já viu essa parte. O mercado grande travou. A farmácia travou. O posto travou.;Ora 0. Você já viu essa parte? O mercado grande travou, a farmácia travou, o posto travou.;6.78;1
+036;NARRADOR;OK;;Menos uma porta. A do Mercadinho do Jura.;menos uma porta, a do Mercadinho do Jura.;2.9;1
+037;SEU JURA;OK;;Aqui é no dinheiro ou no caderninho.;Aqui é no dinheiro ou no caderninho.;2.09;1
+038;NARRADOR;OK;;Em meia hora, a fila do mercadinho dobrou a esquina.;Em meia hora, a fila do mercadinho dobrou a esquina.;2.57;1
+039;NARRADOR;OK;;Hora dois. O grupo da família ficou em silêncio pela primeira vez em dez anos. O WhatsApp tá em quase todo celular do Brasil. E de repente ninguém sabia o telefone de ninguém de cabeça.;Hora 2 O grupo da família ficou em silêncio pela primeira vez em 10 anos. O WhatsApp está em quase todo o celular do Brasil, e de repente ninguém sabia o telefone de ninguém de cabeça.;10.87;1
+040;DONA LURDES;OK;;Seu Jura, o senhor sabe o número da minha filha?;Se eu jura, o senhor sabe o número da minha filha.;2.87;1
+041;SEU JURA;OK;;Sei. Tá aqui no caderninho. Ela me deve dois litros de leite.;sei, está aqui no caderninho. Ela me deve 2 litros de leite.;4.25;1
+042;NARRADOR;OK;;Hora seis. Um motoboy parado no meio da avenida, olhando pro celular. Sem mapa.;Hora 6, um motoboy parado no meio da avenida, olhando para o celular, sem mapa.;5.11;1
+043;MOTOBOY;OK;;Moço, como é que eu chego na Rua das Flores?;Moço, como é que eu chego na rua das flores?;2.1;1
+044;SEU JURA;OK;;Segunda à direita, depois da padaria que fechou em noventa e oito.;Segunda direita, depois da padaria que fechou em 98.;3.69;1
+045;MOTOBOY;OK;;E como é que eu vou saber qual padaria fechou em noventa e oito?;E como é que eu vou saber qual padaria fechou em 98?;3.62;1
+046;SEU JURA;OK;;Pergunta pra qualquer um com mais de sessenta.;Pergunta pra qualquer um com mais de 60.;1.97;1
+047;NARRADOR;OK;;Hora doze. Sábado de manhã. A única notícia do país vinha do rádio de pilha do Seu Jura. Tinha gente sentada na calçada, ouvindo junto. Igual mil novecentos e setenta.;Hora 12, sábado de manhã, a única notícia do país vinha do rádio de pilha do seu jura. Tinha gente sentada na calçada ouvindo junto, igual 1970.;9.5;1
+048;NARRADOR;OK;;E o dinheiro vivo, aquela nota esquecida no fundo da gaveta, virou ouro. Hoje, dinheiro em espécie é só uns doze por cento do que o brasileiro paga nas lojas. Naquele sábado, era cem por cento.;E o dinheiro vivo, aquela nota esquecida no fundo da gaveta, virou ouro. Hoje, dinheiro em espécie é só uns 12% do que o brasileiro paga nas lojas. Naquele sábado era 100%.;13.51;1
+049;NARRADOR;OK;;E a lata de biscoito do Seu Jura virou o único caixa eletrônico funcionando no bairro.;e a lata de biscoito do seu jura virou o único caixa eletrônico funcionando no bairro.;5.27;1
+050;NARRADOR;OK;;Hora vinte e quatro. Domingo. Quem bate na porta do mercadinho?;Hora 24, Domingo, quem bate na porta do Mercadinho.;4.06;1
+051;THIAGO;OK;;Seu Juuura! Meu sogro, meu ídolo, meu mestre!;Seu jurua, meu sogro, meu ídolo, meu mestre!;3.9;2
+052;SEU JURA;OK;;Mestre de quê?;Mestre de quê?;0.85;1
+053;THIAGO;OK;;De tudo! Eu tô sem nada, Seu Jura. Dois milhões de seguidores e nenhum me empresta dez reais.;De tudo. Eu tô sem nada, seu jura. Dois milhões de seguidores e nenhum me empresta dez reais.;5.95;1
+054;SEU JURA;OK;;Escala, né?;Scala, né?;0.88;1
+055;THIAGO;OK;;...Escala.;e escala.;0.9;1
+056;NARRADOR;OK;;O Thiago tinha dois milhões de seguidores. E sabia de cabeça o telefone de exatamente uma pessoa: a mãe dele. Que também tava sem internet.;O Thiago tinha 2 milhões de seguidores e sabia de cabeça o telefone de exatamente uma pessoa, a mãe dele, que também estava sem internet.;9.57;1
+057;THIAGO;OK;;Me coloca no caderninho, Seu Jura?;Me coloca no caderninho se eu jura.;1.89;1
+058;SEU JURA;OK;;Já tá. Página quarenta e dois. Desde dois mil e dezenove.;Já tá. Pagina 42, desde 2019.;3.64;1
+059;NARRADOR;OK;;Mas na hora trinta, o caderninho começou a pesar.;Mas na hora 30, o caderninho começou a pesar.;2.94;1
+060;NARRADOR;OK;;O bairro inteiro comprando fiado. O estoque acabando. E o caminhão do fornecedor não veio.;O bairro inteiro comprando fiado, o estoque acabando e o caminhão do fornecedor não veio.;5.58;1
+061;MOTORISTA;OK;;Seu Jura, a carga tá no caminhão. Mas a nota é eletrônica, a rota é no aplicativo e o pedido é no sistema. Sem internet, o caminhão cheio fica parado.;Seu juré, a carga está no caminhão, mas a nota é eletrônica, a rota é no aplicativo e o pedido é no sistema. Sem internet o caminhão cheio fica parado.;8.81;1
+062;NARRADOR;OK;;Hora quarenta. Seu Jura foi buscar o remédio da pressão no posto de saúde.;Hora 40. Seu jura foi buscar o remédio da pressão no posto de saúde.;4.52;1
+063;ATENDENTE;OK;;Seu Jurandir, tá sem sistema. Não consigo liberar.;Seu Jorandir está sem sistema. Não consigo liberar.;3.56;1
+064;SEU JURA;OK;;Mas eu nem uso internet.;Mas eu nem uso internet.;2.11;1
+065;ATENDENTE;OK;;O senhor não. Mas o seu remédio usa.;O senhor não, mas o seu remédio usa.;2.31;1
+066;NARRADOR;OK;;Hora quarenta e oito. Dia de cair a aposentadoria. A aposentadoria cai na conta. A conta mora no banco. E o banco mora na internet.;Hora 48, dia de cair a aposentadoria. A aposentadoria cai na conta. A conta mora no banco e o banco mora na internet.;8.65;1
+067;NARRADOR;OK;;Foi aí que o Seu Jura entendeu. Ele não usava a internet. Mas tudo que ele usava, usava.;Foi aí que o seu jura entendeu. Ele não usava a internet, mas tudo que ele usava, usava.;5.93;1
+068;SEU JURA;OK;;Então eu também tava ligado nesse fio. Só não sabia.;Então eu também estava ligado nesse fio, só não sabia.;3.14;1
+069;NARRADOR;OK;;E aqui a história do Seu Jura ensina uma coisa que quase ninguém sabe: a internet não é uma nuvem. É cabo.;E aqui a história do seu jura ensina uma coisa que quase ninguém sabe, a internet não é uma nuvem, é cabo.;7.24;1
+070;NARRADOR;OK;;Quase todos os dados que saem do Brasil pro mundo viajam por cabos no fundo do mar. E a maioria chega num lugar só: a Praia do Futuro, em Fortaleza. Dezesseis cabos. Por ali passa perto de noventa por cento do tráfego de internet entre o Brasil e o resto do mundo.;Quase todos os dados que saem do Brasil para o mundo viajam por cabos no fundo do mar. E a maioria chega num lugar só, a Praia do Futuro, em Fortaleza. 16 cabos. Por ali, passa perto de 90% do tráfego de internet entre o Brasil e o resto do mundo.;16.33;1
+071;NARRADOR;OK;;Então, se esses cabos rompessem, o Brasil apagava? Não. E essa é a parte boa: de setenta a oitenta por cento do que a gente acessa já fica aqui dentro, no próprio país. A internet ia ficar lenta, esquisita... mas não sumia.;Então, se esses cabos rompessem, o Brasil apagava? Não. E essa é a parte boa. De 70 a 80% do que a gente acessa já fica aqui dentro, no próprio país. A internet ia ficar lenta, esquisita, mas não sumia.;14.9;1
+072;NARRADOR;OK;;Na vida real, a internet não cai de uma vez. Ela cai aos pedaços. Em outubro de dois mil e vinte e um, um erro de configuração derrubou WhatsApp, Instagram e Facebook no mundo inteiro por umas seis horas. Seis horas. E o Brasil sentiu como se fosse uma semana.;Na vida real, a internet não cai de uma vez. Ela cai aos pedaços. Em outubro de 2021, um erro de configuração derrubou o WhatsApp, Instagram e Facebook no mundo inteiro por umas seis horas. Seis horas. E o Brasil sentiu como se fosse uma semana.;17.83;1
+073;NARRADOR;OK;;Hoje, nove em cada dez brasileiros usam internet. E os quase dezoito milhões que não usam, iguais ao Seu Jura, dependem dela do mesmo jeito. Pelo remédio. Pela aposentadoria. Pelo caminhão.;Hoje, 9 em cada 10 brasileiros usam internet, e os quase 18 milhões que não usam, iguais ao seu jura, dependem dela do mesmo jeito, pelo remédio, pela aposentadoria, pelo caminhão.;13.75;1
+074;NARRADOR;OK;;O problema nunca foi usar a internet. É depender só dela. Quem tem um caminho só não tem caminho. Tem sorte.;O problema nunca foi usar a internet, é depender só dela. Quem tem um caminho só, não tem caminho, tem sorte.;8.07;1
+075;NARRADOR;OK;;Hora setenta. O telefone fixo do mercadinho tocou. Aquele telefone que ninguém ligava desde dois mil e dez.;Hora setenta. O telefone fixo do Mercadinho tocou. Aquele telefone que ninguém ligava desde 2010.;6.79;1
+076;TÉCNICO;OK;;Alô? Seu Jurandir? Suporte Técnico do Universo. O senhor foi o único no Brasil que não abriu reclamação.;Alô, seu Jorandir, suporte técnico do universo. O senhor foi o único no Brasil que não abriu reclamação.;7.55;1
+077;SEU JURA;OK;;Eu não tenho internet pra reclamar.;Eu não tenho internet para reclamar.;1.85;1
+078;TÉCNICO;OK;;Justamente. Tenho uma proposta. Posso religar tudo. Ou posso deixar o seu bairro desligado pra sempre. O senhor vira o homem mais importante daqui. O único que funciona.;justamente tenho uma proposta posso religar tudo ou posso deixar o seu bairro desligado para sempre o senhor vira o homem mais importante daqui o único que funciona;12.24;1
+079;NARRADOR;OK;;O Thiago tava do lado, ouvindo.;O Thiago estava do lado, ouvindo.;1.71;1
+080;THIAGO;OK;;Aceita, Seu Jura! O senhor vai ser rei!;Aceita, seu jura. O senhor vai ser rei.;2.67;1
+081;SEU JURA;OK;;E o remédio da Dona Lurdes, Thiago? E o caminhão? E a minha aposentadoria? Rei de bairro sem remédio é só um velho com caderninho.;e o remédio da dona Lourdes Thiago, e o caminhão, e a minha aposentadoria. Rei de bairro sem remédio é só um véio com caderninho.;7.29;1
+082;NARRADOR;OK;;O Seu Jura fez conta de comerciante: um mercadinho não abastece um bairro. E um caderninho não substitui um país.;O seu jura fez conta de comerciante. Um mercadinho não abastece um bairro. E um caderninho não substitui um país.;7.36;1
+083;SEU JURA;OK;;Pode religar.;Põe de heliga.;0.7;1
+084;TÉCNICO;OK;;Religando.;Heligand.;0.78;2
+085;SEU JURA;OK;;Só uma coisa, moço.;Só uma coisa moço.;0.93;1
+086;TÉCNICO;OK;;Pois não?;Pois não.;0.51;1
+087;SEU JURA;OK;;Antes de voltar o Pix, o Thiago paga o fiado. Em dinheiro. Página quarenta e dois.;Antes de voltar ao Pix, o Tiago paga o fiado em dinheiro, página 42.;4.87;1
+088;TÉCNICO;OK;;...Justo. Aguardando pagamento.;Ah, é justo, aguardando o pagamento.;2.78;1
+089;NARRADOR;OK;;O Thiago pagou. Trezentos e doze reais, em nota. Com o dinheiro que o próprio Seu Jura tinha emprestado pra ele no sábado.;O Thiago pagou R$ 312, em nota, com o dinheiro que o próprio seu jura tinha emprestado para ele no sábado.;7.0;1
+090;NARRADOR;OK;;A dívida continuou exatamente do mesmo tamanho. Só mudou de página.;A dívida continua exatamente do mesmo tamanho. Só mudou de página.;3.99;1
+091;NARRADOR;OK;;Lá em cima, o técnico apertou o botão. A internet voltou. E ele abriu o próximo protocolo da fila.;Lá em cima, o técnico apertou o botão, a internet voltou e ele abriu o próximo protocolo da fila.;6.0;1
+092;TÉCNICO;ERRO;"faltando: duas; sobrando: dois";Thiago Trends. Dois milhões de seguidores. Reclamação: fiquei setenta e duas horas sem existir.;Tiago Trends, 2 milhões de seguidores, reclamação. Fiquei 72 horas sem existir.;7.33;3
+093;NARRADOR;OK;;O dedo dele parou em cima de um botão: Encerrar chamado.;O dedo dele parou em cima de um botão, encerrar chamado.;4.12;1
+094;TÉCNICO;OK;;Esse aqui vai aprender a anotar um telefone no papel.;Esse aqui vai aprender a anotar um telefone no papel.;2.93;1
+095;NARRADOR;OK;;Segunda-feira, oito da manhã. Mercadinho do Jura. Na porta, uma plaquinha nova: o QR Code do Pix. E logo embaixo, escrito à mão: Aceito também dinheiro e caderninho.;Segunda-feira, oito da manhã. Mercadinho do Jura. Na porta, uma plaquinha nova. O QR-code do PIX. E logo embaixo, escrito à mão, aceito também dinheiro e caderninho.;13.35;1
+096;DUDA;OK;;Vô! O senhor colocou Pix!;Vou! O senhor colocou PIX!;2.68;1
+097;SEU JURA;OK;;Coloquei. Mas o caderninho fica.;Coloquei, mas o caderninho fica.;2.39;1
+098;DUDA;OK;;Por quê?;Por que?;0.59;1
+099;SEU JURA;OK;;Porque o caderninho nunca caiu.;Porque o caderninho nunca caiu.;2.0;1
+100;NARRADOR;OK;;De noite, a Duda pegou uma folha e escreveu à mão o telefone de todo mundo da família. E colou na geladeira.;De noite, a Duda pegou uma folha e escreveu à mão o telefone de todo mundo da família e colônia geladeira.;6.74;1
+101;NARRADOR;OK;;E você? Se a internet caísse agora, quantos números de telefone você sabe de cabeça? Conta aí embaixo.;E você, se a internet cair-se agora, quantos números de telefone você sabe de cabeça? Conta aí embaixo.;7.02;1

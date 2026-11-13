@@ -1,0 +1,17 @@
+{
+ "NARRADOR": {
+  "voz": "Bodi"
+ },
+ "CHIQUINHA": {
+  "voz": "voice_t7ak8r4q261a",
+  "nome_ai_studio": "Chiquinha Teresina 1"
+ },
+ "ARLINDO": {
+  "voz": "voice_z5tpz5zlqlcc",
+  "nome_ai_studio": "Arlindo Serra 1"
+ },
+ "TÉCNICO": {
+  "voz": "voice_dzwwrtu23gc8",
+  "nome_ai_studio": "Tecnico do Universo 3"
+ }
+}
