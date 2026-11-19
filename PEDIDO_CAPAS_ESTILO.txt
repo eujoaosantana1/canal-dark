@@ -1,0 +1,27 @@
+Refaça as capas dos vídeos 03, 04, 05, 06 e 07 no estilo oficial do canal, o mesmo que você já fez para o 08, 09 e 10 com o tools\capas_estilo.py.
+
+Para cada vídeo, um de cada vez:
+1. Mova as capas atuais (capa_A/B/C.jpg, comparacao_capas.jpg e spec_capas.json) para publicacao\capas_antigas\.
+2. Gere os recortes em publicacao\capa_assets\, do mesmo jeito que fez nos vídeos 08 a 10:
+   - personagens em PNG com fundo transparente;
+   - cenários bg_*.jpg sem personagem.
+   Use as expressões mais fortes (choque, deboche, cansaço).
+3. Crie a função capas_NN() no capas_estilo.py e registre a pasta no dicionário "pastas".
+4. Cada capa (A, B, C) precisa combinar com o título A, B ou C do arquivo publicacao\seo_<apelido>.txt. O texto da capa complementa o título, sem repeti-lo inteiro.
+   Regras do padrão:
+   - selo colorido no alto;
+   - 2 ou 3 linhas em Luckiest Guy, com a primeira branca e o destaque em amarelo;
+   - personagem grande à direita;
+   - um elemento de apoio com o número real do vídeo (conta, extrato, placa, etc.).
+5. Rode "python tools\capas_estilo.py NN" e confira cada capa e a comparacao_capas.jpg. Verifique que:
+   - nenhum texto corta na borda;
+   - nenhum texto cobre o rosto do personagem;
+   - tudo continua legível em tamanho de miniatura.
+   Ajuste e gere de novo se precisar.
+
+Não altere os vídeos, os SEO nem as capas do 08, 09 e 10.
+
+No fim:
+- monte uma folha única "capas_videos_3_a_7_estilo.jpg" na raiz do Canal Dark, com as comparações dos 5 vídeos uma embaixo da outra;
+- me diga quais títulos e capas recomenda para a estreia de cada vídeo;
+- atualize o CLAUDE.md dizendo que o padrão de capa é o capas_estilo.py.

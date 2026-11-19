@@ -1,0 +1,560 @@
+[
+ {
+  "n": "001",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Na sexta-feira, treze de novembro, o céu dos Estados Unidos simplesmente parou."
+ },
+ {
+  "n": "002",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Por quatro horas e vinte e cinco minutos, nenhum avião decolou de nenhum aeroporto americano."
+ },
+ {
+  "n": "003",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Foi a parada nacional mais longa em vinte e cinco anos. Em dois dias, mais de dezesseis mil voos foram cancelados."
+ },
+ {
+  "n": "004",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "O motivo? Uma empresa trocando cabos antigos por fibra óptica. E um sistema que o próprio governo chamou de velho demais."
+ },
+ {
+  "n": "005",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Aqui no Brasil, os voos noturnos de Guarulhos para Boston, Nova York, Miami e Los Angeles ficaram no chão."
+ },
+ {
+  "n": "006",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "Agora imagina isso no Brasil inteiro. Não por quatro horas. Por uma semana."
+ },
+ {
+  "n": "007",
+  "spk": "NARRADOR",
+  "sec": 1,
+  "txt": "E imagina que quem pediu foi um taxista."
+ },
+ {
+  "n": "008",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Esse é o Seu Valdemar. Há vinte anos ele trabalha no ponto de táxi do aeroporto de Guarulhos."
+ },
+ {
+  "n": "009",
+  "spk": "SEU VALDEMAR",
+  "sec": 2,
+  "txt": "Vinte anos ouvindo turbina na orelha. Vinte anos! Eu durmo e sonho com avião decolando."
+ },
+ {
+  "n": "010",
+  "spk": "NENÊ",
+  "sec": 2,
+  "txt": "Ô Valdemar, mas é aeroporto. Queria ouvir passarinho?"
+ },
+ {
+  "n": "011",
+  "spk": "SEU VALDEMAR",
+  "sec": 2,
+  "txt": "Queria ouvir eu mesmo pensando, Nenê. Uma vez na vida."
+ },
+ {
+  "n": "012",
+  "spk": "DONA SÔNIA",
+  "sec": 2,
+  "txt": "Ele chega em casa falando alto, gente. Acha que todo mundo tá do lado de uma turbina."
+ },
+ {
+  "n": "013",
+  "spk": "SEU VALDEMAR",
+  "sec": 2,
+  "txt": "Porque eu tô! Eu vivo do lado de uma turbina!"
+ },
+ {
+  "n": "014",
+  "spk": "NARRADOR",
+  "sec": 2,
+  "txt": "Naquela noite, irritado, o Seu Valdemar fez o que todo brasileiro faz quando cansa. Reclamou pro Universo."
+ },
+ {
+  "n": "015",
+  "spk": "SEU VALDEMAR",
+  "sec": 2,
+  "txt": "Universo, eu só quero uma semana. Uma semana de silêncio no céu. Nenhum avião. É pedir muito?"
+ },
+ {
+  "n": "016",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "E o pedido chegou na Repartição do Universo."
+ },
+ {
+  "n": "017",
+  "spk": "ATENDENTE",
+  "sec": 3,
+  "txt": "Pedido número dois mil e vinte e seis barra mil cento e catorze. Uma semana sem avião no céu do Brasil."
+ },
+ {
+  "n": "018",
+  "spk": "CONTADOR",
+  "sec": 3,
+  "txt": "Só do Brasil? Ele não pediu do mundo?"
+ },
+ {
+  "n": "019",
+  "spk": "ATENDENTE",
+  "sec": 3,
+  "txt": "Só do Brasil. Ele foi modesto."
+ },
+ {
+  "n": "020",
+  "spk": "CONTADOR",
+  "sec": 3,
+  "txt": "Modesto. São dois mil cento e cinquenta voos domésticos por dia. Vezes sete dias, quinze mil voos."
+ },
+ {
+  "n": "021",
+  "spk": "CONTADOR",
+  "sec": 3,
+  "txt": "E duzentos e setenta e sete mil passageiros por dia. Quase dois milhões de pessoas na semana."
+ },
+ {
+  "n": "022",
+  "spk": "ATENDENTE",
+  "sec": 3,
+  "txt": "Tá dentro do limite de pedidos?"
+ },
+ {
+  "n": "023",
+  "spk": "CONTADOR",
+  "sec": 3,
+  "txt": "Tecnicamente tá. Não tem nenhuma regra dizendo que não pode."
+ },
+ {
+  "n": "024",
+  "spk": "ATENDENTE",
+  "sec": 3,
+  "txt": "Então carimba. Aprovado."
+ },
+ {
+  "n": "025",
+  "spk": "NARRADOR",
+  "sec": 3,
+  "txt": "E assim, à meia-noite, todos os voos do Brasil foram cancelados."
+ },
+ {
+  "n": "026",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Seis da manhã. O Seu Valdemar chega no ponto e escuta uma coisa que nunca tinha escutado ali."
+ },
+ {
+  "n": "027",
+  "spk": "SEU VALDEMAR",
+  "sec": 4,
+  "txt": "Nenê... você tá ouvindo isso?"
+ },
+ {
+  "n": "028",
+  "spk": "NENÊ",
+  "sec": 4,
+  "txt": "Ouvindo o quê? Não tem barulho nenhum."
+ },
+ {
+  "n": "029",
+  "spk": "SEU VALDEMAR",
+  "sec": 4,
+  "txt": "Exatamente! É isso! É o som do nada! Que coisa linda!"
+ },
+ {
+  "n": "030",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Os painéis do aeroporto mostravam uma palavra só, em todas as linhas. Cancelado."
+ },
+ {
+  "n": "031",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Em Congonhas, a ponte aérea para o Rio, que tem cento e três voos por dia, a oitava rota mais movimentada do mundo, ficou vazia."
+ },
+ {
+  "n": "032",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "Um executivo que precisava estar no Rio às nove da manhã descobriu que de ônibus eram seis horas. Se o trânsito deixasse."
+ },
+ {
+  "n": "033",
+  "spk": "NENÊ",
+  "sec": 4,
+  "txt": "Valdemar, tem uma fila de gente querendo táxi pro Rio de Janeiro."
+ },
+ {
+  "n": "034",
+  "spk": "SEU VALDEMAR",
+  "sec": 4,
+  "txt": "Pro Rio? De táxi? Quatrocentos e trinta quilômetros?"
+ },
+ {
+  "n": "035",
+  "spk": "NENÊ",
+  "sec": 4,
+  "txt": "Eles tão pagando o que você pedir."
+ },
+ {
+  "n": "036",
+  "spk": "SEU VALDEMAR",
+  "sec": 4,
+  "txt": "Olha só. O silêncio ainda dá lucro."
+ },
+ {
+  "n": "037",
+  "spk": "NARRADOR",
+  "sec": 4,
+  "txt": "No primeiro dia, o Seu Valdemar fez a melhor corrida da vida. E achou que o Universo tinha acertado em cheio."
+ },
+ {
+  "n": "038",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Mas o Brasil não é só São Paulo e Rio. O Brasil é enorme. E tem lugar onde o avião não é luxo. É a única porta."
+ },
+ {
+  "n": "039",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Marechal Thaumaturgo, no Acre. Dezessete mil habitantes. Nenhuma estrada chega lá."
+ },
+ {
+  "n": "040",
+  "spk": "RAIMUNDO",
+  "sec": 5,
+  "txt": "Aqui é assim. Ou é noventa minutos de avião pequeno de Cruzeiro do Sul, ou é barco. E de barco pode levar até duas semanas."
+ },
+ {
+  "n": "041",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Remédio, combustível, comida que não dá na região. Muita coisa chega pelo céu."
+ },
+ {
+  "n": "042",
+  "spk": "RAIMUNDO",
+  "sec": 5,
+  "txt": "Uma semana sem avião a gente aguenta. A gente é acostumado. Mas o remédio da farmácia não espera o rio encher."
+ },
+ {
+  "n": "043",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "E não é só cidade pequena. Manaus tem cerca de dois milhões de habitantes e nenhuma estrada pavimentada ligando ao resto do país."
+ },
+ {
+  "n": "044",
+  "spk": "NARRADOR",
+  "sec": 5,
+  "txt": "Peça de fábrica, celular, encomenda urgente. Tudo que tinha pressa ficou parado no porto ou no galpão."
+ },
+ {
+  "n": "045",
+  "spk": "CONTADOR",
+  "sec": 5,
+  "txt": "Atualizando. A aviação comercial responde por quase um por cento do PIB do Brasil. E por mais de um por cento dos empregos."
+ },
+ {
+  "n": "046",
+  "spk": "ATENDENTE",
+  "sec": 5,
+  "txt": "Um por cento parece pouco."
+ },
+ {
+  "n": "047",
+  "spk": "CONTADOR",
+  "sec": 5,
+  "txt": "Um por cento do Brasil é muita gente sem trabalhar numa semana."
+ },
+ {
+  "n": "048",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Agora a parte que quase ninguém lembra quando pensa em avião."
+ },
+ {
+  "n": "049",
+  "spk": "DOUTORA LÚCIA",
+  "sec": 6,
+  "txt": "Chegou um coração compatível em Recife. O paciente está aqui em São Paulo."
+ },
+ {
+  "n": "050",
+  "spk": "DOUTORA LÚCIA",
+  "sec": 6,
+  "txt": "Um coração aguenta poucas horas fora do corpo. De avião dá tempo. De estrada, não dá."
+ },
+ {
+  "n": "051",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "No Brasil, uma lei garante que órgãos para transplante viajem de graça e com prioridade nos voos comerciais."
+ },
+ {
+  "n": "052",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Só em dois mil e vinte e cinco, foram quatro mil oitocentos e oito voos levando órgãos. Mais de treze por dia."
+ },
+ {
+  "n": "053",
+  "spk": "CONTADOR",
+  "sec": 6,
+  "txt": "Treze por dia. Vezes sete dias. Noventa e uma viagens que não decolaram."
+ },
+ {
+  "n": "054",
+  "spk": "ATENDENTE",
+  "sec": 6,
+  "txt": "Isso não estava no pedido."
+ },
+ {
+  "n": "055",
+  "spk": "CONTADOR",
+  "sec": 6,
+  "txt": "Nunca está. Ninguém pede pra cancelar transplante. Pede silêncio. O transplante vem junto."
+ },
+ {
+  "n": "056",
+  "spk": "NARRADOR",
+  "sec": 6,
+  "txt": "Os aviões da Força Aérea ajudam nessas horas. Mas, na nossa história, o céu inteiro estava fechado. Para todo mundo."
+ },
+ {
+  "n": "057",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Isso tudo parece exagero? O mundo já viu um pedaço disso acontecer."
+ },
+ {
+  "n": "058",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Em dois mil e dez, um vulcão na Islândia soltou uma nuvem de cinzas sobre a Europa."
+ },
+ {
+  "n": "059",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Em seis dias, cerca de cem mil voos foram cancelados. As companhias aéreas perderam mais de um bilhão e setecentos milhões de dólares."
+ },
+ {
+  "n": "060",
+  "spk": "CONTADOR",
+  "sec": 7,
+  "txt": "E isso foi só a conta das companhias. Não entra hotel vazio, reunião perdida, turista que não veio."
+ },
+ {
+  "n": "061",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "No Brasil da nossa história, os hotéis de Fortaleza, Natal e Foz do Iguaçu começaram a receber cancelamentos em massa."
+ },
+ {
+  "n": "062",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "A pousada que vive do turista que chega de avião ficou com a chave na mão e o quarto arrumado."
+ },
+ {
+  "n": "063",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "É bom ser justo: tem quem ganhe. Rodoviária lotada, ônibus com passagem esgotada, aluguel de carro sem um carro sobrando no pátio."
+ },
+ {
+  "n": "064",
+  "spk": "NARRADOR",
+  "sec": 7,
+  "txt": "Mas pra cada passagem de ônibus vendida, tinha uma viagem que simplesmente deixou de acontecer."
+ },
+ {
+  "n": "065",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "E tem gente que nem estava no Brasil quando o céu fechou."
+ },
+ {
+  "n": "066",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Brasileiros em Lisboa, em Miami, em Buenos Aires, todos com a passagem de volta na mão. E nenhum avião pra pousar aqui."
+ },
+ {
+  "n": "067",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Isso também já aconteceu de verdade. No onze de setembro de dois mil e um, os Estados Unidos fecharam o espaço aéreo por cerca de quatro dias."
+ },
+ {
+  "n": "068",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "Trinta e oito aviões foram parar em Gander, uma cidadezinha do Canadá com uns dez mil moradores."
+ },
+ {
+  "n": "069",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "De repente, chegaram seis mil cento e vinte e dois passageiros e quatrocentos e setenta e três tripulantes. A cidade quase dobrou de tamanho."
+ },
+ {
+  "n": "070",
+  "spk": "NARRADOR",
+  "sec": 8,
+  "txt": "E os moradores abriram escola, igreja e até a própria casa pra receber desconhecidos."
+ },
+ {
+  "n": "071",
+  "spk": "DONA SÔNIA",
+  "sec": 8,
+  "txt": "Tá vendo, Valdemar? Quando o céu fecha, quem salva é gente."
+ },
+ {
+  "n": "072",
+  "spk": "SEU VALDEMAR",
+  "sec": 8,
+  "txt": "Eu sei, Sônia. Eu sei."
+ },
+ {
+  "n": "073",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "Terceiro dia. O ponto de táxi de Guarulhos estava cheio. Cheio de táxi."
+ },
+ {
+  "n": "074",
+  "spk": "NENÊ",
+  "sec": 9,
+  "txt": "Valdemar, a gente tá aqui desde as cinco. Nenhum passageiro."
+ },
+ {
+  "n": "075",
+  "spk": "SEU VALDEMAR",
+  "sec": 9,
+  "txt": "Ninguém quer ir pro Rio hoje?"
+ },
+ {
+  "n": "076",
+  "spk": "NENÊ",
+  "sec": 9,
+  "txt": "Quem precisava ir já foi de ônibus. E ninguém mais chega. Não tem avião, não tem passageiro."
+ },
+ {
+  "n": "077",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "Pela primeira vez, o Seu Valdemar olhou pro céu vazio e não sentiu alívio."
+ },
+ {
+  "n": "078",
+  "spk": "SEU VALDEMAR",
+  "sec": 9,
+  "txt": "Vinte anos reclamando do barulho... e o barulho era o meu salário."
+ },
+ {
+  "n": "079",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "Cada turbina que ele odiava era um passageiro descendo com mala. Cada decolagem era uma corrida no taxímetro."
+ },
+ {
+  "n": "080",
+  "spk": "NARRADOR",
+  "sec": 9,
+  "txt": "E não era só ele. O carregador de malas, a moça do café, o motorista do ônibus do estacionamento. Todos sentados, esperando um barulho."
+ },
+ {
+  "n": "081",
+  "spk": "DONA SÔNIA",
+  "sec": 9,
+  "txt": "E então? Ainda quer silêncio?"
+ },
+ {
+  "n": "082",
+  "spk": "SEU VALDEMAR",
+  "sec": 9,
+  "txt": "Quero silêncio em casa, Sônia. No trabalho eu quero turbina."
+ },
+ {
+  "n": "083",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Naquela noite, o Seu Valdemar fez um novo pedido."
+ },
+ {
+  "n": "084",
+  "spk": "SEU VALDEMAR",
+  "sec": 10,
+  "txt": "Universo, pode devolver. Pode devolver os aviões. Eu reclamei sem saber."
+ },
+ {
+  "n": "085",
+  "spk": "ATENDENTE",
+  "sec": 10,
+  "txt": "Pedido de cancelamento do pedido. Prazo mínimo de sete dias. Ele vai ter que esperar até domingo."
+ },
+ {
+  "n": "086",
+  "spk": "CONTADOR",
+  "sec": 10,
+  "txt": "Regra é regra."
+ },
+ {
+  "n": "087",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "No domingo de manhã, às seis em ponto, o primeiro avião decolou de Guarulhos."
+ },
+ {
+  "n": "088",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "O barulho atravessou o ponto de táxi inteiro. E o Seu Valdemar sorriu."
+ },
+ {
+  "n": "089",
+  "spk": "NENÊ",
+  "sec": 10,
+  "txt": "Olha ele, rindo de turbina!"
+ },
+ {
+  "n": "090",
+  "spk": "SEU VALDEMAR",
+  "sec": 10,
+  "txt": "Isso aí, Nenê, não é barulho. É freguês chegando."
+ },
+ {
+  "n": "091",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "Nos Estados Unidos, o céu ficou parado por quatro horas e já virou notícia no mundo inteiro."
+ },
+ {
+  "n": "092",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "No Brasil, seriam quinze mil voos, quase dois milhões de passageiros e noventa e uma viagens de órgãos em uma semana."
+ },
+ {
+  "n": "093",
+  "spk": "NARRADOR",
+  "sec": 10,
+  "txt": "E você? Se todos os voos do Brasil fossem cancelados por uma semana, quem você acha que sofreria mais? Deixa aqui nos comentários."
+ }
+]

@@ -1,0 +1,51 @@
+Vamos fazer o vídeo 11, sobre o apagão da Microsoft de hoje (12/11/2026). O roteiro já está pronto e aprovado em "11 - Apagao Nuvem\roteiro_apagao_nuvem.txt". Pule as etapas 1 e 2 do PEDIDO_NOVO_TEMA.txt e comece direto pela montagem. Leia o CLAUDE.md e use a pasta "10 - Escala 6x1" como modelo mais recente.
+
+É um assunto do dia: quanto antes sair, melhor. Prioridade é publicar amanhã de manhã.
+
+FORMATO NOVO: TELEJORNAL
+- O vídeo é o "Jornal do Universo". O Seu Jura (o mesmo boneco e o mercadinho do vídeo 2, projeto do 72h) assiste a uma TV de tubo no balcão do mercadinho, à noite, com a porta meio baixada.
+- Cenários novos (scenes\sets\apagao.js):
+  1. mercadinho_noite: o set do mercadinho do vídeo 2, à noite, com a TV no balcão;
+  2. estudio_jornal: bancada, telão atrás e logo "JORNAL DO UNIVERSO";
+  3. nuvem_datacenter: o repórter "ao vivo da nuvem", com corredores de servidores em cima de nuvens;
+  4. home_office: a casa do Rafa, notebook com o Teams em branco.
+- Cenas novas (scenes\shots\cenasapagao.js, no padrão do cenassal.js):
+  - tv_moldura: a cena do estúdio aparecendo dentro da tela da TV, com o Seu Jura de costas ou de lado assistindo. Use nas falas da APRESENTADORA quando houver um comentário do Seu Jura logo antes ou logo depois;
+  - gc: barra de legenda de telejornal com nome e cargo ("TÉCNICO DO UNIVERSO — AO VIVO DA NUVEM", "CONTADOR DO UNIVERSO — COMENTARISTA") e o selo "AO VIVO";
+  - vinheta: abertura do Jornal do Universo, uns 3 segundos, no início e no PLANTÃO (seção 9);
+  - relembre: cartela "RELEMBRE" com data grande (20/10/2025, 19/07/2024, 18/11/2025) e o logo genérico da empresa em texto simples. Não use logos reais;
+  - grafico_pico: curva estilo Downdetector subindo até 138.058 (EUA) e 7.800 (Brasil);
+  - tela_azul: tela azul de computador com rosto triste, em vários monitores de aeroporto;
+  - lista_dns: lista telefônica com uma linha em branco;
+  - emails_chegando: contador subindo até 47 e-mails, com "Re: Re: Re:".
+  Reaproveite os kinds que já existem (cartela, numero, pct, close, cena, carimbo, mesa_ceu...).
+- Sons novos no SFX_KIND:
+  - vinheta: ding forte mais shimmer;
+  - tela_azul e grafico_pico: glitch;
+  - emails_chegando: vários ding;
+  - telefone fixo (seção 9): phonebuzz.
+  Confira se "nuvem", "servidor", "e-mail", "reunião" e "caiu" merecem som por palavra. Se sim, acrescente ao PALAVRAS sem exagerar.
+- Duração esperada: uns 12 a 13 minutos, com 116 falas.
+
+VOZES (elenco.json)
+- NARRADOR: Bodi.
+- SEU JURA: voice_tdjugc9saz8n, ritmo 1.08.
+- THIAGO: voice_to6v4mxre2l5.
+- TÉCNICO: voice_dzwwrtu23gc8.
+- CONTADOR: Mako.
+- APRESENTADORA: Sola.
+- RAFA: Koda.
+Antes de gerar tudo, rode o .\1_testar_vozes.bat e me mostre a APRESENTADORA e o RAFA.
+
+COTA
+Hoje já foram gastas vozes do vídeo 10. Antes de gerar, confira quanto sobrou no modelo principal e no Lite.
+- Se não der para o vídeo inteiro, gere o que der e me avise. A cota volta às 5h.
+- Também posso usar uma chave gratuita do AI Studio. Antes, teste com uma fala só se as vozes "voice_..." funcionam com ela.
+
+DEPOIS DO VÍDEO
+- SEO no padrão: publicacao\seo_apagao.txt. Títulos com o gancho do dia ("Outlook caiu", "Teams fora do ar", "apagão da Microsoft").
+- Capas no padrão oficial: tools\capas_estilo.py com capa_assets.
+- Me diga:
+  - a duração do vídeo;
+  - quantas falas deram erro na conferência;
+  - quantos sons por palavra entraram.

@@ -1,0 +1,63 @@
+PACOTE SEO — "Jornal do Universo: a nuvem caiu" (vídeo 11)
+Vídeo: VIDEO_FINAL_apagao.mp4 (9:27)
+
+======================================================================
+TÍTULOS (escolha 1; use os outros no teste A/B do YouTube Studio)
+======================================================================
+A. Teams caiu e ninguém trabalhou: os apagões da nuvem   (51 caracteres)  -> CAPA A   <- recomendado para a estreia
+B. Outlook e Teams caíram. Quem segura o trabalho do mundo?   (56 caracteres)  -> CAPA B
+C. 8,5 milhões de telas azuis: os maiores apagões da nuvem   (55 caracteres)  -> CAPA C
+Sem a palavra "internet" no título, para não repetir o vídeo 2.
+
+======================================================================
+DESCRIÇÃO (copiar a partir da linha abaixo)
+======================================================================
+Apagão da Microsoft: na quinta-feira (12/11/2026), Outlook fora do ar, Teams caiu, OneDrive e Copilot também. Mais de cinco horas de problemas no mundo inteiro. No Jornal do Universo, o Seu Jura assiste a tudo da TV do mercadinho, com o caderninho que nunca cai, e relembra os maiores apagões da nuvem: a Amazon (AWS) em 2025 e a tela azul da CrowdStrike em 2024.
+
+O Outlook ou o Teams caiu no seu trabalho? Você comemorou ou entrou em pânico? Conta aqui nos comentários.
+
+CAPÍTULOS
+0:00 Começa o Jornal do Universo
+0:50 A manchete: Outlook e Teams fora do ar
+1:48 Povo fala: a tarde sem reunião
+2:36 Ao vivo da nuvem: o que travou
+3:59 Relembre: o apagão da Amazon (AWS)
+5:00 Relembre: a tela azul da CrowdStrike
+6:03 Comentário: o lado bom e o ruim da nuvem
+7:12 Plantão: o pedido suspeito
+8:00 O telefone fixo do Seu Jura
+8:28 Encerramento
+
+DADOS USADOS NO VÍDEO
+- Microsoft 365, 12/11/2026: falha em Outlook/Exchange Online, Teams, SharePoint, OneDrive e Copilot; pico de 138.058 relatos do Outlook no Downdetector nos EUA (Reuters); mais de 7.800 notificações no Brasil por volta das 15h29 (TechTudo); mais de cinco horas de problemas; segundo a Microsoft, servidores ficaram indisponíveis de forma inesperada e sobrecarregaram o restante.
+- AWS (Amazon), 20/10/2025: cerca de 15 horas de problemas na Virgínia do Norte, 142 serviços afetados; registro de DNS do DynamoDB ficou vazio (relatório oficial da AWS).
+- CrowdStrike, 19/07/2024: 8,5 milhões de computadores Windows (Microsoft); US$ 5,4 bilhões de prejuízo estimado para a Fortune 500 (seguradoras).
+- Cloudflare, 18/11/2025: erro interno de configuração (post-mortem da Cloudflare).
+
+O Seu Jura, o Rafa, o Thiago, o Jornal do Universo e a Repartição do Universo são ficção. Os dados são reais.
+
+Assista também: "E se a internet parasse por 72 horas?", a história do Seu Jura e do caderninho.
+
+#apagaomicrosoft #outlook #animação
+
+======================================================================
+TAGS (colar no campo "Tags"; 336 de 500 caracteres)
+======================================================================
+apagão da microsoft, outlook fora do ar, teams caiu, outlook caiu, microsoft 365 fora do ar, teams fora do ar, apagão da nuvem, aws caiu, apagão amazon, crowdstrike, tela azul, cloudflare caiu, computação em nuvem, o que é a nuvem, plano b, home office, jornal do universo, seu jura, animação, história animada, curiosidades, tecnologia
+
+======================================================================
+COMENTÁRIO FIXADO (postar logo após publicar e fixar)
+======================================================================
+O Teams caiu aí na quinta? Comemorou ou entrou em pânico? 👇
+(E se ainda não viu, a primeira história do Seu Jura: "E se a internet parasse por 72 horas?")
+
+======================================================================
+CONFIGURAÇÕES NO UPLOAD
+======================================================================
+- Categoria: Educação
+- Idioma do vídeo e das legendas: Português (Brasil)
+- Público: "Não, não é conteúdo para crianças"
+- Conteúdo alterado ou sintético: "Não" (animação claramente fictícia)
+- Capítulos automáticos: desligado (os capítulos já estão na descrição)
+- Tela final / cartão: colocar o vídeo 2 ("E se a internet parasse por 72 horas?")
+- Teste de miniaturas (A/B): subir as capas A, B e C juntas (pelo computador)

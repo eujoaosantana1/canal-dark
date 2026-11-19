@@ -1,0 +1,163 @@
+VÍDEO 11 — JORNAL DO UNIVERSO: A NUVEM CAIU
+(tema: o apagão do Microsoft 365 em 12/11/2026 e os grandes apagões da nuvem: AWS 2025 e CrowdStrike 2024; Cloudflare 2025 citado de passagem)
+FORMATO NOVO: telejornal. O Seu Jura (do vídeo 2) assiste ao "Jornal do Universo" na TV do mercadinho. O narrador conta os fatos; a apresentadora, o repórter e o comentarista trazem os dados reais.
+Duração-alvo: 8 a 9 minutos (cerca de 85 falas).
+Diferença para o vídeo 2: lá, a internet do país inteiro parou. Aqui, a internet funciona; quem cai são as poucas empresas que guardam o trabalho de todo mundo. O foco é a nuvem e o trabalho, não "ficar sem internet".
+
+PERSONAGENS
+- SEU JURA, 71 anos, dono do Mercadinho do Seu Jura (vídeo 2). Sem Pix, sem WhatsApp, com o caderninho de fiado desde 1988. Hoje, só assiste.
+- APRESENTADORA do Jornal do Universo. Séria, bancada, telão atrás.
+- TÉCNICO DO UNIVERSO (dos vídeos anteriores), aqui como repórter "ao vivo da nuvem".
+- CONTADOR DO UNIVERSO (dos vídeos anteriores), aqui como comentarista de economia.
+- RAFA, 27 anos, analista de cobrança em home office em São Paulo. Entrevistado do "povo fala".
+- THIAGO (genro do Seu Jura, vídeo 2), participação por telefone.
+Vozes: todas já existem (nenhuma voz nova).
+- NARRADOR: Bodi | SEU JURA: Jura 3 (voice_tdjugc9saz8n, ritmo 1.08) | THIAGO: Thiago Trends 3 (voice_to6v4mxre2l5)
+- TÉCNICO: Tecnico do Universo 3 (voice_dzwwrtu23gc8) | CONTADOR: Mako | APRESENTADORA: Sola | RAFA: Koda
+(Se Sola ou Koda não combinarem, trocar só por vozes prontas já usadas: Kira, Lumi, Nika, Ludo.)
+
+DADOS REAIS USADOS (fontes no fim)
+- Microsoft 365, 12/11/2026 (quinta-feira): falha mundial em Outlook/Exchange Online, Teams, SharePoint, OneDrive e Copilot, entre outros. Relatos dispararam no começo da tarde (horário de Brasília).
+- Pico nos EUA: 138.058 relatos de problema no Outlook no Downdetector, por volta das 13h de Nova York (15h de Brasília).
+- Brasil: pico de mais de 7.800 notificações no Downdetector por volta das 15h29; "Outlook fora do ar" e "Teams caiu" em alta no Google.
+- Mais de cinco horas de problemas. À noite, a Microsoft falava em recuperação gradual, conforme os servidores voltavam.
+- Explicação da Microsoft: um número de servidores ficou indisponível de forma inesperada, sobrecarregando o restante; a carga extra não veio de aumento de tráfego. Um processo responsável por estabelecer conexões seguras ficou sobrecarregado.
+- A Microsoft suspendeu implantações, desviou parte do tráfego e reiniciou os servidores afetados.
+- A agência de emergências da cidade de Nova York avisou que o contato por e-mail com órgãos da cidade podia atrasar.
+- AWS (Amazon), 20/10/2025: cerca de 15 horas de problemas na região da Virgínia do Norte, 142 serviços afetados; causa: falha de automação que deixou vazio o registro de DNS do DynamoDB. Afetou Snapchat, Roblox, Zoom e Slack, entre outros.
+- CrowdStrike, 19/07/2024: atualização com defeito derrubou 8,5 milhões de computadores Windows (tela azul), menos de 1% dos computadores com Windows. Voos cancelados, hospitais e bancos afetados. A IndiGo, da Índia, emitiu cartões de embarque à mão. Seguradoras estimaram US$ 5,4 bilhões de prejuízo só para as empresas da lista Fortune 500.
+- Cloudflare, 18/11/2025: erro interno de configuração derrubou ChatGPT e X, entre outros, por algumas horas. Não foi ataque hacker.
+- Seu Jura, Rafa, Thiago, o Jornal do Universo e a Repartição do Universo são ficção.
+
+========================================
+
+[1. ABERTURA]
+
+NARRADOR: Quinta-feira, doze de novembro de dois mil e vinte e seis. Sete da noite.
+NARRADOR: O Mercadinho do Seu Jura já baixou metade da porta. O caderninho de fiado tá no balcão, onde sempre esteve desde mil novecentos e oitenta e oito.
+SEU JURA: Hoje a internet funcionou, a maquininha funcionou, ninguém pediu fiado. Dia tranquilo.
+APRESENTADORA: Boa noite. Está começando o Jornal do Universo.
+APRESENTADORA: Hoje, a internet não caiu. Mas milhões de pessoas ficaram sem e-mail, sem reunião e sem os próprios arquivos. A nuvem da Microsoft caiu.
+SEU JURA: A nuvem caiu? Choveu onde?
+NARRADOR: E você? Usa Outlook ou Teams no trabalho? Hoje à tarde ele funcionou pra você? Guarda essa resposta. Porque o Seu Jura vai descobrir hoje que o trabalho de meio mundo mora na casa de meia dúzia de empresas.
+
+[2. A MANCHETE]
+
+APRESENTADORA: Começou no início da tarde. O Outlook parou de abrir. O Teams não entrava nas reuniões. Depois vieram o OneDrive, o SharePoint e o Copilot.
+NARRADOR: Isso tudo é o Microsoft trezentos e sessenta e cinco. Programas que rodam nos computadores da própria Microsoft, e não no seu.
+APRESENTADORA: Nos Estados Unidos, o site Downdetector, que junta reclamações de usuários, chegou a cento e trinta e oito mil relatos de problema só no Outlook. Isso às três da tarde, no horário de Brasília.
+APRESENTADORA: No Brasil, às três e meia, o pico passava de sete mil e oitocentas notificações.
+NARRADOR: E no Google, as buscas em alta eram "Outlook fora do ar" e "Teams caiu". O brasileiro, quando o sistema cai, primeiro pergunta pro Google se caiu mesmo.
+APRESENTADORA: Foram mais de cinco horas de problemas. Até a cidade de Nova York avisou a população que o e-mail dos órgãos públicos podia atrasar.
+SEU JURA: Até a prefeitura de Nova York ficou no fiado. Olha só.
+
+[3. O POVO FALA]
+
+APRESENTADORA: Nossa reportagem foi ouvir quem passou a tarde sem sistema.
+NARRADOR: Esse é o Rafa. Vinte e sete anos, analista de cobrança, trabalha de casa em São Paulo.
+RAFA: Eu tinha onze reuniões marcadas hoje. Uma delas era uma reunião pra marcar as outras reuniões.
+RAFA: Aí, umas duas e pouco, o Teams ficou branco. Eu pensei: é hoje. É hoje que eu almoço sentado.
+NARRADOR: Por uns quinze minutos, o Rafa foi a pessoa mais feliz do Brasil.
+RAFA: Aí eu fui abrir a planilha da cobrança. Tava no OneDrive. Não abriu. Fui mandar e-mail pro cliente. Outlook. Não foi.
+NARRADOR: A tarde sem reunião virou a tarde sem nada.
+RAFA: A minha chefe me ligou. De voz. Perguntou se eu tava conseguindo trabalhar. Eu falei: "Tô conseguindo esperar."
+SEU JURA: Esse menino precisava de um caderninho.
+
+[4. AO VIVO DA NUVEM]
+
+APRESENTADORA: Mas afinal, o que aconteceu? Vamos ao vivo com o nosso repórter, direto da nuvem.
+TÉCNICO: Boa noite. Eu tô aqui na nuvem. E já adianto: a nuvem não é uma nuvem.
+TÉCNICO: São prédios enormes, cheios de computadores ligados vinte e quatro horas. Seu e-mail mora num deles.
+SEU JURA: E eu achando que era tudo no ar, igual sinal de rádio.
+TÉCNICO: Segundo a Microsoft, hoje um monte de servidores saiu do ar de repente. E os que sobraram tiveram que segurar o trabalho de todo mundo.
+TÉCNICO: Não foi porque entrou mais gente. O movimento era o de sempre. Faltou foi computador pra atender.
+NARRADOR: É como um supermercado com dez caixas. Cinco quebram ao mesmo tempo. A fila não aumentou. Mas agora ela não anda.
+SEU JURA: Isso eu entendo. Aqui é um caixa só, e é eu.
+TÉCNICO: E travou justamente a parte que confere quem pode entrar. É o porteiro. O porteiro ficou sobrecarregado. Ninguém entrou.
+TÉCNICO: Pra resolver, a Microsoft parou as atualizações, desviou parte do tráfego e foi reiniciando os servidores.
+APRESENTADORA: Reiniciando? Tipo desligar e ligar de novo?
+TÉCNICO: Tipo isso. Só que com milhares de computadores. E milhões de pessoas apertando o botão de atualizar do outro lado.
+NARRADOR: E aqui vale dizer: até esta noite, a Microsoft explicou o que travou, mas ainda não explicou por que esses servidores caíram.
+
+[5. RELEMBRE: A AMAZON]
+
+APRESENTADORA: A falha de hoje não é a primeira. Relembre.
+NARRADOR: Vinte de outubro de dois mil e vinte e cinco. A AWS, a nuvem da Amazon, a maior do mundo, começa a falhar numa região dos Estados Unidos chamada Virgínia do Norte.
+TÉCNICO: Eu tava de plantão nesse dia. Foram cerca de quinze horas de problema. Cento e quarenta e dois serviços da Amazon afetados.
+NARRADOR: E junto com eles, empresas que nem eram a Amazon. Snapchat. Roblox. Zoom. Slack. Gente sem conseguir entrar no próprio jogo.
+SEU JURA: E lá, o que quebrou? Também foi o porteiro?
+TÉCNICO: Foi a lista telefônica. Na internet, todo endereço é procurado numa lista. Um sistema automático da Amazon apagou, sem querer, um endereço importante dessa lista. Ficou em branco.
+NARRADOR: O serviço continuava funcionando. Mas ninguém sabia onde ele estava. Era como mudar de casa e apagar o endereço do cartório.
+SEU JURA: No meu tempo, a gente sabia os endereços de cabeça.
+
+[6. RELEMBRE: A TELA AZUL]
+
+APRESENTADORA: Mas o maior apagão de computador da história aconteceu dentro dos próprios computadores.
+NARRADOR: Dezenove de julho de dois mil e vinte e quatro. Uma empresa de segurança chamada CrowdStrike manda uma atualização com defeito pros clientes dela.
+NARRADOR: Os computadores com Windows que receberam mostraram a famosa tela azul. E não voltavam.
+CONTADOR: Oito milhões e meio de computadores, segundo a Microsoft. Menos de um por cento de todos os computadores com Windows do mundo.
+CONTADOR: O problema é quais eram. Aeroporto. Banco. Hospital. Emissora de televisão.
+NARRADOR: Milhares de voos cancelados. Na Índia, a companhia aérea IndiGo voltou a emitir cartão de embarque escrito à mão.
+SEU JURA: À mão! Tá vendo? A caneta nunca dá tela azul.
+CONTADOR: As seguradoras estimaram cinco bilhões e quatrocentos milhões de dólares de prejuízo. Só nas quinhentas maiores empresas americanas.
+SEU JURA: Tudo isso por causa de uma atualização. Eu tenho medo até de atualizar o WhatsApp da minha filha.
+
+[7. COMENTÁRIO]
+
+APRESENTADORA: Pra entender o que esses apagões têm em comum, nosso comentarista de economia.
+CONTADOR: Boa noite. Repara: Microsoft, Amazon, e no ano passado ainda teve a Cloudflare, que tirou do ar o ChatGPT e o X por algumas horas.
+CONTADOR: Pouquíssimas empresas seguram uma parte gigante do trabalho do mundo. E nenhuma dessas quedas antigas foi ataque hacker. Foi erro de dentro de casa.
+CONTADOR: Isso tem um lado bom. Pra uma empresa, alugar computador na nuvem costuma sair mais barato do que manter servidor próprio. E tem gente cuidando vinte e quatro horas.
+CONTADOR: Na maior parte dos dias do ano, a nuvem funciona melhor do que o computador velho no fundo do escritório.
+CONTADOR: O lado ruim é que, quando cai, cai pra todo mundo junto. A mesma tarde, o mesmo erro, o mesmo prejuízo.
+APRESENTADORA: E qual é a saída?
+CONTADOR: Os especialistas falam em plano B. Cópia dos arquivos importantes em outro lugar. Outro caminho pros sistemas que não podem parar. E testar isso antes do dia da pane.
+CONTADOR: Mas plano B custa dinheiro. E toda empresa acha que dá pra deixar pra depois. Até a tarde em que não dá.
+SEU JURA: Meu plano B é o plano A. O caderninho.
+
+[8. PLANTÃO]
+
+APRESENTADORA: Interrompemos o noticiário pra um plantão. Um boato tomou conta da Repartição do Universo nesta tarde.
+APRESENTADORA: Um pedido feito hoje de manhã, por um morador de São Paulo, teria relação com a queda.
+NARRADOR: O pedido dizia assim:
+RAFA: Querido Universo. Só uma tarde sem reunião. Uma só. Prometo usar pra trabalhar de verdade. Rafa.
+CONTADOR: A Repartição esclarece que o pedido foi recebido, mas não foi atendido.
+CONTADOR: Não porque a gente não quisesse. É que o nosso sistema de pedidos também roda na nuvem. Caiu às duas da tarde.
+TÉCNICO: A gente voltou pro carimbo e pro papel. Ficou uma fila de pedidos até o portão do céu.
+APRESENTADORA: E como a Repartição está funcionando agora?
+CONTADOR: Pegamos emprestado o sistema de um comerciante do bairro. Um caderninho.
+SEU JURA: Opa. Esse aí é meu.
+
+[9. O TELEFONE FIXO]
+
+NARRADOR: O telefone do mercadinho toca. O fixo. Que o Seu Jura nunca desligou.
+THIAGO: Sogro! O senhor tá vendo o jornal? A agência parou. Todos os contratos tão no OneDrive. Não consigo abrir nem a proposta de amanhã.
+SEU JURA: Thiago, o que eu te falei no apagão das setenta e duas horas?
+THIAGO: Anota no papel o que é importante.
+SEU JURA: E você anotou?
+THIAGO: Anotei no bloco de notas do celular.
+SEU JURA: E o bloco de notas tá onde?
+THIAGO: Na nuvem.
+SEU JURA: Então vem amanhã cedo aqui. Eu te empresto uma folha.
+
+[10. ENCERRAMENTO]
+
+APRESENTADORA: Até o fechamento desta edição, a Microsoft dizia que os serviços estavam voltando aos poucos, conforme os servidores eram religados.
+NARRADOR: E foi o que aconteceu com o Rafa. Às nove da noite, chegaram quarenta e sete e-mails ao mesmo tempo.
+RAFA: "Re: alguém tá conseguindo acessar?" "Re: Re: alguém tá conseguindo acessar?" E o último, da minha chefe: "Reunião amanhã às oito, pra conversar sobre a queda de hoje."
+NARRADOR: O Universo, ao que tudo indica, tem senso de humor.
+APRESENTADORA: O Jornal do Universo fica por aqui. Boa noite. E guarde os seus arquivos em mais de um lugar.
+NARRADOR: O Seu Jura desliga a televisão. Abre o caderninho. E anota, com a letra de sempre:
+SEU JURA: Doze de novembro. A nuvem choveu. O caderninho não molhou.
+NARRADOR: E você? Hoje o Outlook ou o Teams caiu no seu trabalho? Comemorou ou entrou em pânico? E na sua empresa, qual é o plano B quando a nuvem cai? Conta aqui embaixo. A gente lê tudo.
+
+========================================
+FONTES
+- Reuters (via NTD, 12/11/2026): mais de cinco horas de falha; pico de 138.058 relatos do Outlook no Downdetector por volta das 13h ET; recuperação limitada às 18h ET.
+- ABC News e ABC7 (12/11/2026): "número de servidores inesperadamente indisponíveis"; processo de conexões seguras sobrecarregado; carga não veio de aumento de tráfego; aviso da NYC Emergency Management.
+- Variety e BleepingComputer (12/11/2026): Exchange Online, Teams, SharePoint Online, Copilot 365; avisos MO1550821 e EX1550543.
+- TechTudo e Correio (12/11/2026): pico de mais de 7.800 notificações no Brasil por volta das 15h29; buscas em alta no Google Trends.
+- Perfil Brasil (12/11/2026): Microsoft suspendeu implantações, desviou tráfego e reiniciou servidores.
+- AWS, resumo oficial do incidente de 19-20/10/2025 (via InfoQ, Heise, ThousandEyes): condição de corrida na automação de DNS do DynamoDB deixou o registro vazio; cerca de 15 horas; 142 serviços; Snapchat, Roblox, Zoom, Slack.
+- Microsoft (via Agência Brasil, Olhar Digital, Tecnoblog, Exame, SBT News): CrowdStrike, 19/07/2024, 8,5 milhões de dispositivos Windows (cerca de 1% da base); US$ 5,4 bilhões para a Fortune 500 (seguradoras); IndiGo com cartões à mão.
+- Cloudflare, post-mortem de 18/11/2025: erro interno de configuração (permissão de banco de dados), não foi ataque; ChatGPT e X afetados.

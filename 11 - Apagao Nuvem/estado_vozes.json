@@ -1,0 +1,632 @@
+{
+ "001": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Quinta-feira, 12 de novembro de 2026, 7 da noite.",
+  "dur": 4.8,
+  "tent": 1
+ },
+ "002": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O Mercadinha do Seujura já baixou metade da porta. O caderninho de fiado está no balcão, onde sempre esteve desde 1988.",
+  "dur": 8.07,
+  "tent": 1
+ },
+ "007": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você? Usa Outlook ou Teams no trabalho. Hoje à tarde, ele funcionou para você? Guarda essa resposta, porque o seu jura vai descobrir hoje que o trabalho de meio mundo mora na casa de meia dúzia de empresas.",
+  "dur": 13.69,
+  "tent": 1
+ },
+ "009": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso tudo é o Microsoft 365, programas que rodam nos computadores da própria Microsoft e não no seu.",
+  "dur": 7.43,
+  "tent": 1
+ },
+ "012": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E no Google as buscas em alta eram Outlook fora do ar e Teams caiu. O brasileiro, quando o sistema cai, primeiro pergunta para o Google se caiu mesmo.",
+  "dur": 10.49,
+  "tent": 1
+ },
+ "016": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esse é o Rafa, 27 anos, analista de cobrança, trabalha de casa em São Paulo.",
+  "dur": 5.71,
+  "tent": 1
+ },
+ "019": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Por uns 15 minutos, o Rafa foi a pessoa mais feliz do Brasil.",
+  "dur": 4.24,
+  "tent": 1
+ },
+ "021": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A tarde sem reunião virou a tarde sem nada.",
+  "dur": 2.93,
+  "tent": 1
+ },
+ "030": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "É como um supermercado com 10 caixas, 5 quebram ao mesmo tempo, a fila não aumentou, mas agora ela não anda.",
+  "dur": 7.21,
+  "tent": 1
+ },
+ "036": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E aqui vale dizer, até esta noite a Microsoft explicou o que travou, mas ainda não explicou por que esses servidores caíram.",
+  "dur": 8.23,
+  "tent": 1
+ },
+ "038": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "20 de outubro de 2025. A AWS, a nuvem da Amazon, a maior do mundo, começa a falhar numa região dos Estados Unidos chamada Virgínia do Norte.",
+  "dur": 11.24,
+  "tent": 1
+ },
+ "040": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E junto com eles, empresas que nem eram a Amazon, Snapchat, Roblox, Zoom, Slack, gente sem conseguir entrar no próprio jogo.",
+  "dur": 9.93,
+  "tent": 1
+ },
+ "043": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O serviço continuava funcionando, mas ninguém sabia onde ele estava. Era como mudar de casa e apagar o endereço do cartório.",
+  "dur": 8.01,
+  "tent": 1
+ },
+ "046": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "19 de julho de 2024. Uma empresa de segurança chamada CrowdStrike manda uma atualização com defeito para os clientes dela.",
+  "dur": 7.79,
+  "tent": 1
+ },
+ "047": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Os computadores com Windows que receberam mostraram a famosa tela azul e não voltavam.",
+  "dur": 5.45,
+  "tent": 1
+ },
+ "050": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "milhares de voos cancelados. Na Índia, a companhia aérea Indigol voltou a emitir cartão de embarque escrito à mão.",
+  "dur": 8.48,
+  "tent": 1
+ },
+ "066": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O pedido dizia sim.",
+  "dur": 1.34,
+  "tent": 1
+ },
+ "074": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O telefone do mercadinho toca, o fixo, que o seu jura nunca desligou.",
+  "dur": 4.42,
+  "tent": 1
+ },
+ "084": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e foi o que aconteceu com o Rafa. As 9 da noite chegaram 47 e-mails ao mesmo tempo.",
+  "dur": 6.19,
+  "tent": 1
+ },
+ "086": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O universo, ao que tudo indica, tem senso de humor.",
+  "dur": 3.96,
+  "tent": 1
+ },
+ "088": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O seu jura desliga a televisão. Abre o caderninho e anota com a letra de sempre.",
+  "dur": 5.86,
+  "tent": 1
+ },
+ "003": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hoje a internet funcionou, a maquininha funcionou, ninguém pediu fiado, dia tranquilo.",
+  "dur": 6.0,
+  "tent": 2
+ },
+ "006": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A nuvem caiu? Choveu onde?",
+  "dur": 2.17,
+  "tent": 2
+ },
+ "014": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "até a prefeitura de Nova York ficou no fiado. Olha só.",
+  "dur": 3.88,
+  "tent": 1
+ },
+ "023": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esse menino precisava de um caderninho.",
+  "dur": 2.42,
+  "tent": 1
+ },
+ "027": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e eu achando que era tudo no ar igual sinal de rádio.",
+  "dur": 3.66,
+  "tent": 1
+ },
+ "031": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso eu entendo. Aqui é um caixa só, e é eu.",
+  "dur": 3.36,
+  "tent": 1
+ },
+ "041": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E lá, o que quebrou? Também foi o porteiro.",
+  "dur": 3.17,
+  "tent": 1
+ },
+ "044": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No meu tempo, a gente sabia os endereços de cabeça.",
+  "dur": 2.62,
+  "tent": 1
+ },
+ "051": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "a mão está vendo a caneta nunca da tela azul",
+  "dur": 4.13,
+  "tent": 1
+ },
+ "053": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tudo isso por causa de uma atualização. Eu tenho medo até de atualizar o WhatsApp da minha filha.",
+  "dur": 5.62,
+  "tent": 1
+ },
+ "063": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Meu plano B é o plano A, o caderninho.",
+  "dur": 2.87,
+  "tent": 1
+ },
+ "073": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Opa! Esse aí é meu.",
+  "dur": 1.56,
+  "tent": 1
+ },
+ "076": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tiago, o que eu te falei no apagão das 72 horas?",
+  "dur": 3.15,
+  "tent": 1
+ },
+ "078": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e você anotou.",
+  "dur": 0.83,
+  "tent": 1
+ },
+ "080": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e o bloco de nota está ontem.",
+  "dur": 1.42,
+  "tent": 1
+ },
+ "082": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Então vê amanhã cedo aqui, eu te empresto uma folha.",
+  "dur": 2.57,
+  "tent": 1
+ },
+ "089": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "12 de novembro, a nuvem choveu, o caderninho não molhou.",
+  "dur": 4.18,
+  "tent": 1
+ },
+ "004": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Boa noite! Está começando o Jornado Universo!",
+  "dur": 2.87,
+  "tent": 1
+ },
+ "005": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Hoje, a internet não caiu, mas milhões de pessoas ficaram sem e-mail, sem reunião e sem os próprios arquivos. A nuvem da Microsoft caiu.",
+  "dur": 9.29,
+  "tent": 1
+ },
+ "008": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Começou no início da tarde. O Outlook parou de abrir, o Teams não entrava nas uniões, depois vieram o OneDrive, o SharePoint e o Copilot.",
+  "dur": 8.79,
+  "tent": 1
+ },
+ "010": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Nos Estados Unidos, o site DownDetector, que junta reclamações de usuários, chegou a 138 mil relatos de problemas só no Outlook, isso às três da tarde, no horário de Brasília.",
+  "dur": 10.78,
+  "tent": 1
+ },
+ "011": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No Brasil, às três e meia, o pico passava de 7.800 notificações.",
+  "dur": 4.88,
+  "tent": 1
+ },
+ "013": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "foram mais de cinco horas de problemas. Até a cidade de Nova York avisou a população que o e-mail dos órgãos públicos podia atrasar.",
+  "dur": 8.15,
+  "tent": 2
+ },
+ "015": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Nossa reportagem foi ouvir quem passou a tarde sem sistema.",
+  "dur": 3.88,
+  "tent": 1
+ },
+ "024": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas afinal, o que aconteceu? Vamos ao vivo com o nosso repórter, direto da nuvem.",
+  "dur": 4.99,
+  "tent": 1
+ },
+ "034": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "reiniciando? Tipo, desligar e ligar de novo?",
+  "dur": 3.89,
+  "tent": 1
+ },
+ "037": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A falha de hoje não é a primeira. Relembre.",
+  "dur": 2.49,
+  "tent": 1
+ },
+ "045": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas o maior apagão de computador da história aconteceu dentro dos pribrios computadores.",
+  "dur": 4.77,
+  "tent": 1
+ },
+ "054": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Para entender o que esses apagões têm em comum, nosso comentarista de economia.",
+  "dur": 3.75,
+  "tent": 1
+ },
+ "060": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E qual é a saída?",
+  "dur": 1.1,
+  "tent": 1
+ },
+ "064": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Interrompemos o noticiário para um plantão. Um boato tomou conta da repartição do universo nesta tarde.",
+  "dur": 5.33,
+  "tent": 1
+ },
+ "065": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Um pedido feito hoje de manhã por um morador de São Paulo teria relação com a queda.",
+  "dur": 4.25,
+  "tent": 1
+ },
+ "071": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e como a repartição está funcionando agora.",
+  "dur": 2.16,
+  "tent": 1
+ },
+ "083": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Até o fechamento desta edição, a Microsoft dizia que os serviços estavam voltando aos poucos conforme os servidores eram religados.",
+  "dur": 6.48,
+  "tent": 1
+ },
+ "087": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O Jornal do Universo fica por aqui. Boa noite e guarde os seus arquivos em mais de um lugar.",
+  "dur": 5.91,
+  "tent": 1
+ },
+ "017": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Eu tinha 11 reuniões marcadas hoje, uma delas era uma reunião para marcar as outras reuniões.",
+  "dur": 5.82,
+  "tent": 1
+ },
+ "018": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Aí umas duas e pouco o teams ficou branco. Eu pensei. É hoje. É hoje que eu almoço sentado.",
+  "dur": 5.64,
+  "tent": 1
+ },
+ "020": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Aí eu fui abrir a planilha da cobrança. Tava no OneDrive, não abriu. Fui mandar e-mail pro cliente. Outlook, não foi.",
+  "dur": 6.73,
+  "tent": 1
+ },
+ "022": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A minha chefe me ligou de voz, perguntou se eu estava conseguindo trabalhar. Eu falei, estou conseguindo esperar.",
+  "dur": 6.08,
+  "tent": 1
+ },
+ "067": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "querido universo. Só uma tarde sem reunião, uma só. Prometo usar pra trabalhar de verdade. Rafa.",
+  "dur": 6.59,
+  "tent": 1
+ },
+ "085": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ré, alguém tá conseguindo acessar? Ré, Ré, alguém tá conseguindo acessar? E o último da minha chefe, reunião amanhã às 8 para conversar sobre a queda de hoje.",
+  "dur": 10.39,
+  "tent": 2
+ },
+ "025": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Boa noite, eu estou aqui na nuvem e já adianto, a nuvem não é uma nuvem.",
+  "dur": 5.0,
+  "tent": 1
+ },
+ "026": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "São prédios enormes cheios de computadores ligados 24 horas, seu e-mail mora num deles.",
+  "dur": 6.01,
+  "tent": 1
+ },
+ "028": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Segundo a Microsoft, hoje um monte de servidores saiu do ar de repente e os que sobraram tiveram que segurar o trabalho de todo mundo.",
+  "dur": 8.04,
+  "tent": 1
+ },
+ "029": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "não foi porque entrou mais gente, o movimento era o de sempre, faltou foi computador para atender",
+  "dur": 4.94,
+  "tent": 1
+ },
+ "032": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E travou justamente a parte que confere quem pode entrar. É o porteiro. O porteiro ficou sobrecarregado. Ninguém entrou.",
+  "dur": 7.58,
+  "tent": 1
+ },
+ "033": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Para resolver, a Microsoft parou as atualizações, desviou parte do tráfego e foi reiniciando os servidores.",
+  "dur": 7.6,
+  "tent": 1
+ },
+ "035": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tipo isso, só que com milhares de computadores e milhões de pessoas apertando o botão de atualizar do outro lado.",
+  "dur": 7.12,
+  "tent": 1
+ },
+ "039": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Eu estava de plantão nesse dia, foram cerca de 15 horas de problema, 142 serviços da Amazon afetados.",
+  "dur": 8.01,
+  "tent": 1
+ },
+ "042": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Foi a lista telefônica. Na internet todo o endereço é procurado numa lista. Um sistema automático da Amazon apagou, sem querer. Um endereço importante dessa lista. Ficou em branco.",
+  "dur": 11.08,
+  "tent": 1
+ },
+ "070": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "a gente voltou para o carimbo e para o papel. Ficou uma fila de pedidos até o portão do céu.",
+  "dur": 5.65,
+  "tent": 1
+ },
+ "048": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "8 milhões e meio de computadores, segundo o Microsoft, menos de 1% de todos os computadores com Windows do mundo.",
+  "dur": 7.94,
+  "tent": 1
+ },
+ "049": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O problema é quais eram a aeroporto, banco, hospital, emissora de televisão?",
+  "dur": 6.59,
+  "tent": 1
+ },
+ "052": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "As seguradoras estimaram 5 bilhões e 400 milhões de dólares de prejuízo, só nas 500 maiores empresas americanas.",
+  "dur": 7.68,
+  "tent": 1
+ },
+ "055": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Boa noite. Repara, Microsoft, Amazon e no ano passado ainda teve a Cloudflare que tirou do ar o chat de PT e UX por algumas horas.",
+  "dur": 8.8,
+  "tent": 1
+ },
+ "056": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "pouquíssimas empresas seguram uma parte gigante do trabalho do mundo, e nenhuma dessas quedas antigas foi ataque hacker. Foi erro, de dentro de casa.",
+  "dur": 8.88,
+  "tent": 1
+ },
+ "057": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso tem um lado bom. Para uma empresa, alugar computador na nuvem costuma sair mais barata do que manter servidor próprio, e tem gente cuidando 24 horas.",
+  "dur": 9.7,
+  "tent": 1
+ },
+ "058": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Na maior parte dos dias do ano, a nuvem funciona melhor do que o computador velho no fundo do escritório.",
+  "dur": 5.19,
+  "tent": 1
+ },
+ "059": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O lado ruim é que quando cai, cai para todo mundo junto. A mesma tarde, o mesmo erro, o mesmo prejuízo.",
+  "dur": 7.66,
+  "tent": 1
+ },
+ "061": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Os especialistas falam em plano B, cópia dos arquivos importantes em outro lugar, outro caminho para os sistemas que não podem parar e testar isso antes do dia da PANI.",
+  "dur": 10.15,
+  "tent": 1
+ },
+ "062": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas plano B custa dinheiro e toda empresa acha que dá para deixar para depois. Até a tarde em que não dá.",
+  "dur": 6.99,
+  "tent": 1
+ },
+ "068": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "A repartição esclarece que o pedido foi recebido, mas não foi atendido.",
+  "dur": 5.02,
+  "tent": 1
+ },
+ "069": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Não porque a gente não quisesse, é que o nosso sistema de pedidos também roda na nuvem, caiu as duas da tarde.",
+  "dur": 7.21,
+  "tent": 1
+ },
+ "072": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Pegamos emprestado o sistema de um comerciante do bairro, um caderninho.",
+  "dur": 4.09,
+  "tent": 1
+ },
+ "075": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Sogro, o senhor está vendo o jornal? A agência parou! Todos os contratos estão no OneDrive, não consigo abrir nem a proposta de amanhã!",
+  "dur": 6.84,
+  "tent": 1
+ },
+ "077": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Anota no papel o que é importante.",
+  "dur": 1.69,
+  "tent": 1
+ },
+ "079": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Anotei no bloco de notas do celular.",
+  "dur": 1.7,
+  "tent": 1
+ },
+ "081": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "na nuvem.",
+  "dur": 0.75,
+  "tent": 1
+ },
+ "090": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você, hoje o Outlook ou o Teams caiu no seu trabalho? Comemorou ou entrou em pânico? E na sua empresa, qual é o plano B quando a nuvem cai? Conta aqui embaixo. A gente lê tudo.",
+  "dur": 11.88,
+  "tent": 1
+ }
+}

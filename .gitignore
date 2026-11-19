@@ -1,6 +1,8 @@
 # ===== SEGREDOS (nunca sobem) =====
 chave_gemini.txt/
 chave_gemini*
+chave_youtube*
+chave_tts*
 *.key
 .env
 
@@ -37,3 +39,5 @@ viralstick/projects/*_zerado/
 *.zip
 !**/cenas_*.zip
 !viralstick-kit.zip
+publicacao_drive/
+pilotos/

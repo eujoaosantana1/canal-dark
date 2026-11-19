@@ -6,7 +6,8 @@ import { POSES } from './rig2d.js';
 
 export const INK = '#1b1b1f';
 export const SKIN = { light: '#f6d2b0', tan: '#e2a874', brown: '#b9784a', dark: '#7a4a2c' };
-const LW = 5;                      // outline width in local units
+let LW = 5;                        // outline width in local units (padrão 5; setLineWidth muda por projeto)
+export function setLineWidth(v) { LW = v; }
 
 // ---------- outlined primitives ----------
 export function tube(g, pts, w, fill, lw = LW) {
@@ -116,6 +117,11 @@ export function head(g, x, y, r, o = {}) {
   // hats
   if (o.hat === 'chef') { blob(g, g => { g.moveTo(x - r * 0.75, y - r * 0.62); g.lineTo(x - r * 0.8, y - r * 1.2); g.bezierCurveTo(x - r * 1.35, y - r * 1.5, x - r * 0.9, y - r * 2.3, x - r * 0.35, y - r * 2.0); g.bezierCurveTo(x - r * 0.2, y - r * 2.6, x + r * 0.5, y - r * 2.6, x + r * 0.45, y - r * 2.0); g.bezierCurveTo(x + r * 1.0, y - r * 2.3, x + r * 1.35, y - r * 1.5, x + r * 0.8, y - r * 1.2); g.lineTo(x + r * 0.75, y - r * 0.62); g.closePath(); }, '#ffffff', lw); g.strokeStyle = INK; g.lineWidth = lw; g.beginPath(); g.moveTo(x - r * 0.78, y - r * 0.95); g.lineTo(x + r * 0.78, y - r * 0.95); g.stroke(); }
   if (o.hat === 'cap') { blob(g, g => { g.ellipse(x, y - r * 0.45, r * 1.02, r * 0.75, 0, Math.PI, Math.PI * 2); g.closePath(); }, o.hatColor || '#2f5fb3', lw); blob(g, g => g.ellipse(x + r * 0.75 * f, y - r * 0.48, r * 0.65, r * 0.16, 0, 0, Math.PI * 2), o.hatColor || '#2f5fb3', lw); }
+  // chapéu de palha: aba larga + copa + fita (vídeo 12)
+  if (o.hat === 'palha') { const hc = o.hatColor || '#e8c872';
+    blob(g, g => g.ellipse(x, y - r * 0.5, r * 1.55, r * 0.26, 0, 0, Math.PI * 2), hc, lw);
+    blob(g, g => { g.moveTo(x - r * 0.72, y - r * 0.52); g.bezierCurveTo(x - r * 0.75, y - r * 1.25, x + r * 0.75, y - r * 1.25, x + r * 0.72, y - r * 0.52); g.closePath(); }, hc, lw);
+    blob(g, g => g.rect(x - r * 0.73, y - r * 0.72, r * 1.46, r * 0.16), o.hatBand || '#8d4b2a', lw * 0.6); }
   g.restore();
 }
 

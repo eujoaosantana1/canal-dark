@@ -1,0 +1,66 @@
+PEDIDO AO CODE — VÍDEO 12 "SEM VOOS" (aprovado em 14/11/2026)
+
+Roteiro aprovado: 12 - Sem Voos\roteiro_sem_voos.txt
+Modelo a seguir: a pasta 11 - Apagao Nuvem (mesmo fluxo, mesmos .bat, mesmo formato de plano.json).
+Projeto ViralStick novo: viralstick\projects\sem-voos (copiar de apagao-nuvem, que já tem estúdio/telão e o elenco mais recente).
+Apelido para .bat e zip: semvoos  ->  cenas_semvoos.zip
+
+1. ARQUIVOS DA PASTA 12 - Sem Voos
+   - falas.json (a partir do roteiro, ~95 falas), plano.json, musica.json, elenco.json
+   - titulo.txt: "E se todos os voos do Brasil fossem cancelados?"
+     (regra de título ok: não repete apagão/nuvem nem internet)
+   - .bat 1 a 4 e 5_rodar_as_5h.bat / rodar_as_5h.ps1 copiados do vídeo 11, trocando apagao/apagao-nuvem por semvoos/sem-voos
+   - Adicionar a linha "| 12 - Sem Voos | sem-voos | semvoos |" na tabela do CLAUDE.md
+
+2. ELENCO (elenco.json)
+   - NARRADOR: Bodi
+   - SEU VALDEMAR: Ludo (taxista, 58 anos, bigode, camisa polo, boné opcional)
+   - ATENDENTE: voice_dzwwrtu23gc8 (mesmo personagem do Suporte/Técnico da Repartição)
+   - CONTADOR: Mako
+   - NENÊ: Koda (taxista jovem, colega de ponto)
+   - DOUTORA LÚCIA: Sola (jaleco branco)
+   - RAIMUNDO: Fola (morador ribeirinho do Acre, chapéu de palha)
+   - DONA SÔNIA: Kira (esposa do Valdemar)
+   Novos no cast.js: VALDEMAR, NENE, LUCIA, RAIMUNDO, SONIA.
+
+3. CENAS (shots/cenassemvoos.js + sets/semvoos.js)
+   Reaproveitar o que já existe sempre que der:
+   - Seção 1 (gancho EUA): usar a vinheta e o estudio do Jornal do Universo (vídeo 11) com telão "EUA: CÉU PARADO", gráfico "16 MIL VOOS CANCELADOS" e cartela "4h25 SEM DECOLAGEM".
+   - Repartição: cenas e TELA_SUPORTE já existentes. Fixar a tela do Suporte SÓ neste arquivo de cenas:
+     ['PEDIDO 2026/1114','UMA SEMANA','SEM AVIÃO'] e retirar a trava de cenasapagao.js (deixar comentário, como foi feito no vídeo 11).
+   - Sets novos:
+     ponto_taxi (fachada do aeroporto de Guarulhos genérica, fila de táxis, avião passando no céu nos dias normais),
+     painel_voos (painel de embarque com todas as linhas "CANCELADO", piscando),
+     saguao_vazio (Congonhas vazio, esteira parada),
+     rio_acre (rio largo, barco de madeira, pista de terra pequena, floresta),
+     hospital (corredor, caixa térmica de órgão "TRANSPLANTE", relógio contando horas),
+     mapa (Brasil com rotas de voo que somem; Europa com nuvem de cinzas da Islândia; Atlântico com aviões indo para Gander),
+     gander (cidadezinha com ginásio/escola cheia de catres),
+     casa_valdemar (sala simples, noite).
+   - Kinds sugeridos: painel (linhas, piscar), rotas (mapa, apagarEm), contador_voos (número que sobe: 15.000 / 2 milhões / 91), relogio_orgao (horas), barco_lento (dias passando), fila_taxi (n carros, sem passageiro), decolagem (avião sobe + tremor de tela no final).
+   - Não usar logotipos reais de companhias (nada de LATAM/Azul/Gol desenhado). Aviões genéricos brancos.
+   - Testar com stills antes do render (padrão: --stills ... --gl swiftshader) e conferir: texto dentro da tela, personagens sem sobreposição, painel legível.
+
+4. SOM (fabrica\montar_video.py)
+   - SFX_KIND: painel (bip de aeroporto), rotas, contador_voos, relogio_orgao (tique-taque), barco_lento, fila_taxi, decolagem (turbina forte).
+   - AMB_SET: ponto_taxi (turbina distante nas cenas normais / silêncio + passarinho no dia sem voos), saguao_vazio (eco vazio), rio_acre (rio e floresta), hospital, gander, casa_valdemar.
+   - Sons por palavra (PALAVRAS): "turbina", "cancelado", "silêncio" (corte de áudio de 0,5 s), "decolou".
+   - Momento-chave: na fala "o barulho era o meu salário" tirar a música por 2 s.
+   - Final: turbina alta na decolagem de domingo antes da pergunta para os comentários.
+
+5. VOZES
+   - ~95 falas: cabe na cota de 100 do modelo principal se rodar num dia em que a cota não foi usada. Se faltar, o 5_rodar_as_5h.bat cai para o Lite.
+
+6. PUBLICAÇÃO (depois do render)
+   - SEO pelo agente canal-dark-seo (capítulos com os start reais).
+   - Capas pela função capas_12(A) em tools\capas_estilo.py, padrão oficial:
+     A: Valdemar em choque no ponto de táxi + painel "CANCELADO" -> texto "NENHUM / AVIÃO"
+     B: painel de embarque inteiro vermelho -> selo "BRASIL PARADO", caixa "15 MIL VOOS"
+     C: caixa de transplante + relógio -> texto "SEM TEMPO" (curiosidade, sem entregar o final)
+   - Sugestão de títulos para o A/B (conferir 60 caracteres):
+     A: "E se todos os voos do Brasil fossem cancelados?"
+     B: "Uma semana sem aviões no Brasil: o que acontece?"
+     C: "O taxista que pediu o céu em silêncio"
+
+7. AGENDA
+   - Tema com gancho de notícia (EUA, 13/11). Publicar como o PRÓXIMO da fila, antes do vídeo 03, enquanto o assunto está quente. Depois volta a fila 03 a 10, 1 por dia.

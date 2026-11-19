@@ -426,6 +426,77 @@ def cash(dur=0.7, seed=55, **_):
     return normalize(stereo(x, 0, 0.4), -5)
 
 
+# ---------- vídeo 12 (Sem Voos): aeroporto, rio, hospital ----------
+@sfx("turbina de avião decolando: ronco grave + assobio que sobe (forte)", 4.0)
+def turbine(dur=4.0, seed=56, pitch=1.0, **_):
+    n = secs(dur); u = np.linspace(0, 1, n); sw = np.clip(u / 0.35, 0, 1) ** 1.3 * (1 - np.clip((u - 0.8) / 0.2, 0, 1) * 0.6)
+    ronco = sweep_filter(noise(n, seed, "brown"), 120, 500, q=0.7, kind='lp') * 1.6
+    sopro = bp(noise(n, seed + 1, "pink"), 500, 4000) * 0.45
+    assobio = sine(2600 * pitch * (1 + 0.25 * u), n) * 0.07 + sine(3900 * pitch * (1 + 0.25 * u), n) * 0.03
+    x = (ronco + sopro + assobio) * sw
+    return normalize(reverb(stereo(x.astype(np.float32), 0, 1.0), 1.2, 0.15, seed), -2)
+
+
+@sfx("turbina distante: avião passando ao longe (ambiente de aeroporto, loop)", 6.0)
+def turbine_far(dur=6.0, seed=57, **_):
+    n = secs(dur); u = t_axis(n); ond = 0.55 + 0.45 * np.sin(2 * np.pi * u / max(dur, 1e-3)) ** 2
+    x = lp(noise(n, seed, "brown"), 300) * 1.4 * ond + bp(noise(n, seed + 1, "pink"), 600, 2200) * 0.12 * ond
+    return normalize(stereo(x, 0, 1.0), -12)
+
+
+@sfx("bip de aeroporto: ding-dong de aviso (painel, chamada)", 1.6)
+def airport(dur=1.6, seed=58, pitch=1.0, **_):
+    n = secs(dur); x = np.zeros(n, np.float32)
+    for at, f in ((0.0, 659), (0.32, 523), (0.64, 392)):
+        a = secs(at); m = n - a; x[a:] += (sine(f * pitch, m) * 0.7 + sine(f * 2 * pitch, m) * 0.15) * expdec(m, 0.45)
+    return normalize(reverb(stereo(x), 1.4, 0.25, seed), -4)
+
+
+@sfx("passarinhos cantando (silêncio de manhã, loop)", 6.0)
+def birds(dur=6.0, seed=59, **_):
+    n = secs(dur); r = rng(seed); x = lp(noise(n, seed, "pink"), 1500) * 0.03
+    for _k in range(int(dur * 2.2)):
+        at = r.random() * (dur - 0.4); m = secs(0.06 + r.random() * 0.12); f0 = 2800 + r.random() * 2500
+        for rep in range(1 + int(r.random() * 3)):
+            a = secs(at + rep * 0.13)
+            if a + m >= n: break
+            f = f0 * (1 + 0.35 * np.sin(np.linspace(0, np.pi, m)))
+            x[a:a + m] += sine(f, m) * np.sin(np.linspace(0, np.pi, m)) * (0.25 + r.random() * 0.25)
+    return normalize(reverb(stereo(x.astype(np.float32), 0, 1.0), 0.8, 0.2, seed), -10)
+
+
+@sfx("rio correndo / água corrente larga (loop)", 6.0)
+def river(dur=6.0, seed=60, **_):
+    n = secs(dur); u = t_axis(n)
+    x = bp(noise(n, seed, "pink"), 250, 2500) * (0.8 + 0.2 * np.sin(2 * np.pi * 0.3 * u)) + bp(noise(n, seed + 1), 3000, 7000) * 0.08
+    return normalize(stereo(x, 0, 1.0), -12)
+
+
+@sfx("floresta: insetos + passarinho distante (loop)", 6.0)
+def forest(dur=6.0, seed=61, **_):
+    n = secs(dur); u = t_axis(n)
+    grilo = bp(noise(n, seed), 4000, 6000) * (0.5 + 0.5 * (np.sin(2 * np.pi * 18 * u) > 0.2)) * 0.25
+    x = grilo + birds(dur, seed + 1)[:, 0] * 0.35 + lp(noise(n, seed + 2, "brown"), 200) * 0.4
+    return normalize(stereo(x.astype(np.float32), 0, 1.0), -14)
+
+
+@sfx("saguão vazio: ar de salão grande com eco (loop)", 6.0)
+def hall(dur=6.0, seed=62, **_):
+    n = secs(dur); x = lp(noise(n, seed, "brown"), 350) + bp(noise(n, seed + 1, "pink"), 300, 1200) * 0.15
+    for at in (1.3, 4.1):                                            # passos distantes ecoando
+        a = secs(at); m = min(secs(0.15), n - a); x[a:a + m] += bp(noise(m, seed + 3), 300, 2500) * expdec(m, 0.03) * 0.8
+    return normalize(reverb(stereo(x.astype(np.float32), 0, 1.0), 2.5, 0.45, seed), -16)
+
+
+@sfx("hospital: bip de monitor cardíaco + ar condicionado (loop)", 6.0)
+def hospital(dur=6.0, seed=63, **_):
+    n = secs(dur); x = lp(noise(n, seed, "pink"), 1200) * 0.12
+    for k in range(int(dur)):
+        a = secs(k + 0.2); m = min(secs(0.12), n - a)
+        if m > 0: x[a:a + m] += sine(1000, m) * env_adsr(m, 0.005, 0.02, 0.8, 0.03) * 0.35
+    return normalize(stereo(x.astype(np.float32), 0, 1.0), -14)
+
+
 def make(name, **kw):
     if name not in LIB: raise KeyError(f"unknown sfx '{name}'. Available: {', '.join(LIB)}")
     k = {"dur": LIB[name]["dur"], **{a: b for a, b in kw.items() if b is not None}}

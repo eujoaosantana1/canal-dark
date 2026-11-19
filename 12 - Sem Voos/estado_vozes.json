@@ -1,0 +1,653 @@
+{
+ "001": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Na sexta-feira, 13 de novembro, o céu dos Estados Unidos simplesmente parou.",
+  "dur": 4.43,
+  "tent": 1
+ },
+ "002": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Por quatro horas e vinte e cinco minutos, nenhum avião decolou de nenhum aeroporto americano.",
+  "dur": 5.08,
+  "tent": 1
+ },
+ "003": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Foi a parada nacional mais longa em 25 anos. Em dois dias, mais de 16 mil voos foram cancelados.",
+  "dur": 6.53,
+  "tent": 1
+ },
+ "004": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "com motivo uma empresa trocando cabos antigos por fibra ótica e um sistema que o próprio governo chamou de velho demais.",
+  "dur": 7.98,
+  "tent": 1
+ },
+ "005": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Aqui no Brasil, os voos noturnos de Guarulhos para Boston, Nova York, Miami e Los Angeles ficaram no chão.",
+  "dur": 6.0,
+  "tent": 1
+ },
+ "006": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Agora, imagina isso no Brasil inteiro, não por quatro horas, por uma semana.",
+  "dur": 5.2,
+  "tent": 1
+ },
+ "007": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E imagina que quem pediu foi um taxista.",
+  "dur": 2.39,
+  "tent": 1
+ },
+ "008": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Esse é o seu Val de Mar. Há 20 anos, ele trabalha no ponto de táxi do aeroporto de Guarulhos.",
+  "dur": 5.17,
+  "tent": 1
+ },
+ "014": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Naquela noite, irritado, o seu Voldemar fez o que todo brasileiro faz quando cansa. Reclamou para o universo.",
+  "dur": 5.89,
+  "tent": 1
+ },
+ "016": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E o pedido chegou na repartição do universo.",
+  "dur": 2.81,
+  "tent": 1
+ },
+ "025": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E assim, à meia-noite, todos os voos do Brasil foram cancelados.",
+  "dur": 4.62,
+  "tent": 1
+ },
+ "026": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "6 da manhã. O seu Valdemar chega no ponto e escuta uma coisa que nunca tinha escutado ali.",
+  "dur": 4.7,
+  "tent": 1
+ },
+ "030": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Os painéis do aeroporto mostravam uma palavra só, em todas as linhas, cancelado.",
+  "dur": 5.63,
+  "tent": 1
+ },
+ "031": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Em Congonhas, a ponte aérea para o rio, que tem 103 voos por dia, a oitava rota mais movimentada do mundo, ficou vazia.",
+  "dur": 8.27,
+  "tent": 1
+ },
+ "032": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Um executivo, que precisava estar no Rio às 9 da manhã, descobriu que de ônibus eram seis horas, se o trânsito deixasse.",
+  "dur": 7.04,
+  "tent": 1
+ },
+ "037": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No primeiro dia, o seu Val de Mar fez a melhor corrida da vida, e achou que o universo tinha acertado em cheio.",
+  "dur": 6.1,
+  "tent": 1
+ },
+ "038": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas o Brasil não é só São Paulo e Rio, o Brasil é enorme e tem lugar onde o avião não é luxo, é a única porta.",
+  "dur": 7.65,
+  "tent": 1
+ },
+ "039": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Marechal Talmaturgo, no Acre, 17 mil habitantes, nenhuma estrada chega lá.",
+  "dur": 5.48,
+  "tent": 1
+ },
+ "041": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Remédio, combustível, comida que não dá na região, muita coisa chega pelo céu.",
+  "dur": 5.61,
+  "tent": 1
+ },
+ "043": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E não é só a cidade pequena, Manaus tem cerca de 2 milhões de habitantes e nenhuma estrada pavimentada ligando ao resto do país.",
+  "dur": 8.09,
+  "tent": 1
+ },
+ "044": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "peça de fábrica, celular, encomendurgente, tudo que tinha pressa ficou parado no porto ou no galpão.",
+  "dur": 6.65,
+  "tent": 1
+ },
+ "048": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Agora, a parte que quase ninguém lembra quando pensa em avião.",
+  "dur": 3.07,
+  "tent": 1
+ },
+ "051": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No Brasil, uma lei garante que órgãos para a transplante viagem de graça e com prioridade nos voos comerciais.",
+  "dur": 7.43,
+  "tent": 1
+ },
+ "052": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Só em 2025 foram 4.808 voos levando órgãos, mais de 13 por dia.",
+  "dur": 6.48,
+  "tent": 1
+ },
+ "056": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Os aviões da força aérea ajudam nessas horas, mas na nossa história o céu inteiro estava fechado, para todo mundo.",
+  "dur": 7.68,
+  "tent": 1
+ },
+ "057": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso tudo parece exagero? O mundo já viu um pedaço disso acontecer.",
+  "dur": 4.27,
+  "tent": 1
+ },
+ "058": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Em 2010, um vulcão na Islândia soltou uma nuvem de cinza sobre a Europa.",
+  "dur": 4.72,
+  "tent": 1
+ },
+ "059": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Em seis dias, cerca de 100 mil voos foram cancelados. As companhias aéreas perderam mais de 1 bilhão e 700 milhões de dólares.",
+  "dur": 8.71,
+  "tent": 1
+ },
+ "061": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No Brasil da nossa história, os hotéis de fortaleza, natal e fós do Iguaçu começaram a receber cancelamentos em massa.",
+  "dur": 6.98,
+  "tent": 1
+ },
+ "062": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Apousada que vive do turista que chega de avião, ficou com a chave na mão e o quarto arrumado.",
+  "dur": 5.44,
+  "tent": 1
+ },
+ "063": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "É bom ser justo, tem quem ganhe, rodoviária lotada, ônibus com passagens gotada, aluguel de carro sem um carro sobrando no pátio.",
+  "dur": 8.21,
+  "tent": 1
+ },
+ "064": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Mas para cada passagem de ônibus vendida, tinha uma viagem que simplesmente deixou de acontecer.",
+  "dur": 5.03,
+  "tent": 1
+ },
+ "065": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e tem gente que nem estava no Brasil quando o céu fechou.",
+  "dur": 2.81,
+  "tent": 1
+ },
+ "066": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Brasileiros em Lisboa, em Miami, em Buenos Aires, todos com a passagem de volta na mão. E nenhum avião para pousar aqui.",
+  "dur": 7.65,
+  "tent": 1
+ },
+ "067": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso também já aconteceu de verdade. No 11 de setembro de 2001, os Estados Unidos fecharam o espaço aéreo por cerca de quatro dias.",
+  "dur": 7.57,
+  "tent": 1
+ },
+ "068": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "38 aviões foram parar em Gander, uma cidadezinha do Canadá com uns 10 mil moradores.",
+  "dur": 5.45,
+  "tent": 1
+ },
+ "069": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "De repente, chegaram 6.122 passageiros e 473 tripulantes. A cidade quase dobrou de tamanho.",
+  "dur": 8.44,
+  "tent": 1
+ },
+ "070": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e os moradores abriram escola, igreja e até a própria casa para receber desconhecidos.",
+  "dur": 5.32,
+  "tent": 1
+ },
+ "073": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Terceiro dia, o ponto de táxi de guarulho estava cheio, cheio de táxi.",
+  "dur": 5.15,
+  "tent": 1
+ },
+ "077": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Pela primeira vez, o seu Voldemar olhou pro céu vazio e não sentiu alívio.",
+  "dur": 3.98,
+  "tent": 1
+ },
+ "079": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Cada turbina que ele odiava era um passageiro descendo com mala. Cada decolagem era uma corrida no taxímetro.",
+  "dur": 6.43,
+  "tent": 1
+ },
+ "080": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E não era só ele, o carregador de malas, a moça do café, o motorista do ônibus do estacionamento, todos sentados esperando um barulho.",
+  "dur": 8.4,
+  "tent": 1
+ },
+ "083": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Naquela noite, o seu Voldemar fez um novo pedido.",
+  "dur": 3.19,
+  "tent": 1
+ },
+ "087": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No domingo de manhã, a seis em ponto, o primeiro avião decolou de guarulhos.",
+  "dur": 4.76,
+  "tent": 1
+ },
+ "088": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O barulho atravessou o ponto de taxa inteiro, e o seu Valdemar sorriu.",
+  "dur": 4.3,
+  "tent": 1
+ },
+ "091": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Nos Estados Unidos, o céu ficou parado por 4 horas e já virou notícia no mundo inteiro.",
+  "dur": 5.59,
+  "tent": 1
+ },
+ "092": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "No Brasil, seriam 15 mil voos, quase 2 milhões de passageiros, e 91 viagens de órgãos em uma semana.",
+  "dur": 9.12,
+  "tent": 1
+ },
+ "093": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E você, se todos os voos do Brasil fossem cancelados por uma semana, quem você acha que sofreria mais? Deixe aqui nos comentários.",
+  "dur": 7.66,
+  "tent": 1
+ },
+ "009": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "20 anos ouvindo turbina na orelha, 20 anos, eu durmo e sonho com o avião decolando.",
+  "dur": 5.6,
+  "tent": 1
+ },
+ "011": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Queria ouvir eu mesmo pensando nene, uma vez na vida.",
+  "dur": 3.08,
+  "tent": 1
+ },
+ "013": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Porque eu tô, eu vivo do lado de uma turbina.",
+  "dur": 2.61,
+  "tent": 1
+ },
+ "015": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Universo eu só quero uma semana, uma semana de silêncio no céu. Nenhum avião. É pedir muito?",
+  "dur": 6.43,
+  "tent": 1
+ },
+ "027": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Nene, você está ouvindo isso?",
+  "dur": 1.53,
+  "tent": 1
+ },
+ "029": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Exatamente! É isso! É o som do nada! Que coisa linda!",
+  "dur": 4.98,
+  "tent": 1
+ },
+ "034": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "para o rio, de táxi, 430 quilômetros?",
+  "dur": 4.63,
+  "tent": 2
+ },
+ "036": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Olha só, o silêncio ainda dá lucro.",
+  "dur": 2.33,
+  "tent": 2
+ },
+ "072": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Eu sei, Sonia, eu sei.",
+  "dur": 1.46,
+  "tent": 1
+ },
+ "075": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ninguém quer ir pro Rio hoje!",
+  "dur": 1.51,
+  "tent": 1
+ },
+ "078": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "20 anos reclamando do barulho, e o barulho era o meu salário.",
+  "dur": 3.62,
+  "tent": 1
+ },
+ "082": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Quero silêncio em casa, Sônia. No trabalho, eu quero turbina.",
+  "dur": 3.19,
+  "tent": 1
+ },
+ "084": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O universo pode devolver, pode devolver os aviões, eu reclamei sem saber.",
+  "dur": 4.62,
+  "tent": 1
+ },
+ "090": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso aí nené, não é barulho, é freguer chegando.",
+  "dur": 3.14,
+  "tent": 1
+ },
+ "010": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "O Valdemar, mas é aeroporto, queria ouvir passarinho.",
+  "dur": 3.38,
+  "tent": 1
+ },
+ "028": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ouvindo o quê? Não tem barulho nenhum.",
+  "dur": 2.39,
+  "tent": 1
+ },
+ "033": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Valdemar tem uma fila de gente querendo táxi pro Rio de Janeiro.",
+  "dur": 3.69,
+  "tent": 1
+ },
+ "035": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "eles estão pagando o que você pediu.",
+  "dur": 2.12,
+  "tent": 2
+ },
+ "074": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Valdemar, a gente tá aqui desde as 5, nenhum passageiro.",
+  "dur": 3.57,
+  "tent": 1
+ },
+ "076": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Quem precisava ir já foi de ônibus. E ninguém mais chega, não tem avião, não tem passageiro.",
+  "dur": 4.95,
+  "tent": 1
+ },
+ "089": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Olha ele, rindo de turbina!",
+  "dur": 2.66,
+  "tent": 1
+ },
+ "012": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Ele chega em casa falando alto gente, acha que todo mundo está do lado de uma turbina.",
+  "dur": 4.16,
+  "tent": 1
+ },
+ "071": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tá vendo, Valdemar? Quando o céu fecha, quem salva é gente.",
+  "dur": 3.6,
+  "tent": 1
+ },
+ "081": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "E então, ainda quer silêncio?",
+  "dur": 1.86,
+  "tent": 1
+ },
+ "017": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "pedido número 2026 barra 1114 uma semana sem avião no céu do brasil",
+  "dur": 7.85,
+  "tent": 1
+ },
+ "019": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "só do Brasil. Ele foi modesto.",
+  "dur": 2.3,
+  "tent": 1
+ },
+ "022": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Está dentro do limite de pedidos.",
+  "dur": 1.83,
+  "tent": 1
+ },
+ "024": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Então carimba, aprovado.",
+  "dur": 1.79,
+  "tent": 1
+ },
+ "046": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "1% parece pouco.",
+  "dur": 1.42,
+  "tent": 1
+ },
+ "054": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Isso não estava no pedido.",
+  "dur": 1.13,
+  "tent": 1
+ },
+ "085": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "pedido de cancelamento do pedido, prazo mínimo de 7 dias, ele vai ter que esperar até domingo.",
+  "dur": 6.96,
+  "tent": 1
+ },
+ "018": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Só do Brasil, ele não pediu do mundo.",
+  "dur": 2.41,
+  "tent": 1
+ },
+ "020": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Modesto. São 2.150 voos domésticos por dia, vezes 7 dias, 15 mil voos.",
+  "dur": 7.51,
+  "tent": 1
+ },
+ "021": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e 277 mil passageiros por dia, quase 2 milhões de pessoas na semana.",
+  "dur": 5.45,
+  "tent": 1
+ },
+ "023": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Tecnicamente, tá. Não tem nenhuma regra dizendo que não pode.",
+  "dur": 3.26,
+  "tent": 1
+ },
+ "045": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "atualizando. A aviação comercial responde por quase 1% do PIB do Brasil e por mais de 1% dos empregos.",
+  "dur": 7.36,
+  "tent": 1
+ },
+ "047": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "1% do Brasil é muita gente sem trabalhar numa semana.",
+  "dur": 4.17,
+  "tent": 1
+ },
+ "053": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "13 por dia, vezes 7 dias, 91 viagens que não decolaram.",
+  "dur": 5.73,
+  "tent": 1
+ },
+ "055": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Nunca está. Ninguém pede para cancelar a transplante. Pede silêncio. O transplante vem junto.",
+  "dur": 5.94,
+  "tent": 1
+ },
+ "060": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "e isso foi só a conta das companhias. Não entra a hotel vazio, reunião perdida, turista que não veio.",
+  "dur": 6.7,
+  "tent": 1
+ },
+ "086": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Regra é regra!",
+  "dur": 1.11,
+  "tent": 2
+ },
+ "040": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Aqui é assim. Ou é 90 minutos de avião pequeno, de cruzeiro do Sul, ou é barco. E de barco pode levar até duas semanas.",
+  "dur": 7.17,
+  "tent": 1
+ },
+ "042": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Uma semana sem avião a gente aguenta, a gente é acostumado, mas o remédio da farmácia não espera o rio encher.",
+  "dur": 5.63,
+  "tent": 1
+ },
+ "049": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Chegou um coração compatível em Recife, o paciente está aqui em São Paulo.",
+  "dur": 4.04,
+  "tent": 1
+ },
+ "050": {
+  "status": "OK",
+  "problemas": [],
+  "ouvido": "Um coração aguenta poucas horas fora do corpo, de avião da tempo, de estrada, não dá.",
+  "dur": 5.77,
+  "tent": 1
+ }
+}

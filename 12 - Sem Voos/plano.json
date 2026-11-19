@@ -1,0 +1,2218 @@
+[
+[
+"001",
+null,
+"vinheta",
+{
+"sub": "EDIÇÃO EXTRA • 13/11/2026"
+}
+],
+[
+"002",
+null,
+"cartela",
+{
+"linhas": [
+"4H25",
+"SEM DECOLAGEM"
+],
+"cores": [
+"#ffd23f",
+"#fff"
+],
+"fundo": "#0d1b4c",
+"sub": "EUA • SEXTA, 13/11",
+"semPalavras": true
+}
+],
+[
+"003",
+[
+0,
+0
+],
+"estudio",
+{
+"tela": {
+"icone": "aviao",
+"linhas": [
+"EUA:",
+"CÉU PARADO"
+],
+"cores": [
+"#fff",
+"#ff8a80"
+]
+},
+"gc": [
+"JORNAL DO UNIVERSO",
+"EDIÇÃO EXTRA"
+],
+"gcEm": 0.2
+}
+],
+[
+"003",
+[
+1,
+1
+],
+"grafico",
+{
+"titulo": "VOOS CANCELADOS NOS EUA",
+"local": "EUA",
+"ate": 16000,
+"hora": "SEXTA + SÁBADO",
+"rodape": "16 MIL VOOS CANCELADOS",
+"rodapeEm": "mil"
+}
+],
+[
+"004",
+[
+0,
+1
+],
+"estudio",
+{
+"tela": {
+"linhas": [
+"CABO ANTIGO",
+"→ FIBRA ÓPTICA"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+]
+},
+"texto": "O MOTIVO: TROCA DE CABOS",
+"textoEm": "empresa",
+"z": [
+1.05,
+1.12
+],
+"cx": 200
+}
+],
+[
+"004",
+[
+2,
+2
+],
+"cartela",
+{
+"linhas": [
+"SISTEMA",
+"\"VELHO DEMAIS\""
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#263238",
+"sub": "PALAVRAS DO PRÓPRIO GOVERNO"
+}
+],
+[
+"005",
+null,
+"painel",
+{
+"destinos": [
+[
+"22:05",
+"BOSTON"
+],
+[
+"22:30",
+"NOVA YORK"
+],
+[
+"23:10",
+"MIAMI"
+],
+[
+"23:55",
+"LOS ANGELES"
+]
+],
+"em": "guarulhos",
+"texto": "GUARULHOS → EUA",
+"textoEm": 0.3,
+"semPalavras": true
+}
+],
+[
+"006",
+[
+0,
+0
+],
+"rotas",
+{
+"modo": "brasil",
+"apagarEm": 99,
+"rotulos": [
+"SÃO PAULO",
+"MANAUS",
+"RECIFE"
+],
+"texto": "NO BRASIL INTEIRO",
+"textoEm": "brasil"
+}
+],
+[
+"006",
+[
+1,
+2
+],
+"cartela",
+{
+"linhas": [
+"NÃO POR 4 HORAS",
+"POR UMA SEMANA"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "rays_vermelho",
+"em": [
+"quatro",
+"semana"
+]
+}
+],
+[
+"007",
+null,
+"close",
+{
+"k": "VALDEMAR",
+"set": "ponto_taxi",
+"expr": "angry",
+"texto": "UM TAXISTA"
+}
+],
+[
+"008",
+[
+0,
+0
+],
+"cena",
+{
+"set": "ponto_taxi",
+"chars": [
+{
+"k": "VALDEMAR",
+"x": 760,
+"expr": "tired"
+}
+],
+"texto": "SEU VALDEMAR"
+}
+],
+[
+"008",
+[
+1,
+1
+],
+"ficha2",
+{
+"k": "VALDEMAR",
+"nome": "SEU VALDEMAR",
+"linhas": [
+"58 ANOS",
+"TAXISTA",
+"PONTO DO AEROPORTO",
+"20 ANOS DE TURBINA"
+],
+"em": [
+0.3,
+1.0,
+"ponto",
+"guarulhos"
+],
+"cor": "#1565c0",
+"expr": "tired"
+}
+],
+[
+"009",
+[
+0,
+1
+],
+"close",
+{
+"k": "VALDEMAR",
+"set": "ponto_taxi",
+"expr": "angry",
+"texto": "20 ANOS DE TURBINA"
+}
+],
+[
+"009",
+[
+2,
+2
+],
+"cena",
+{
+"set": "ponto_taxi",
+"chars": [
+{
+"k": "VALDEMAR",
+"x": 960,
+"expr": "tired",
+"pose": "handsOnHead"
+}
+],
+"texto": "ATÉ NO SONHO"
+}
+],
+[
+"010",
+null,
+"cena",
+{
+"set": "ponto_taxi",
+"chars": [
+{
+"k": "VALDEMAR",
+"x": 700,
+"expr": "tired"
+},
+{
+"k": "NENE_TAXI",
+"x": 1250,
+"facing": -1,
+"expr": "happy"
+}
+]
+}
+],
+[
+"011",
+null,
+"close",
+{
+"k": "VALDEMAR",
+"set": "ponto_taxi",
+"expr": "sad",
+"texto": "QUERIA OUVIR EU MESMO PENSANDO"
+}
+],
+[
+"012",
+null,
+"cena",
+{
+"set": "casa_valdemar_noite",
+"chars": [
+{
+"k": "SONIA",
+"x": 700,
+"expr": "smug"
+},
+{
+"k": "VALDEMAR",
+"x": 1250,
+"expr": "angry",
+"facing": -1
+}
+],
+"texto": "DONA SÔNIA, A ESPOSA"
+}
+],
+[
+"013",
+null,
+"close",
+{
+"k": "VALDEMAR",
+"set": "casa_valdemar_noite",
+"expr": "angry",
+"side": "R",
+"texto": "EU VIVO DO LADO DE UMA TURBINA"
+}
+],
+[
+"014",
+null,
+"cena",
+{
+"set": "casa_valdemar_noite",
+"chars": [
+{
+"k": "VALDEMAR",
+"x": 960,
+"expr": "angry",
+"pose": "crossArms"
+}
+],
+"texto": "RECLAMOU PRO UNIVERSO"
+}
+],
+[
+"015",
+[
+0,
+0
+],
+"close",
+{
+"k": "VALDEMAR",
+"set": "casa_valdemar_noite",
+"expr": "sad",
+"look": [
+0,
+-0.6
+]
+}
+],
+[
+"015",
+[
+1,
+3
+],
+"pedido",
+{
+"voo": 1,
+"set": "casa_valdemar_noite",
+"linhas": [
+"Universo,",
+"só uma semana",
+"de silêncio no céu.",
+"Nenhum avião.",
+"É pedir muito?",
+"Valdemar"
+]
+}
+],
+[
+"016",
+null,
+"pedido",
+{
+"voo": 0.0,
+"set": "casa_valdemar_noite",
+"linhas": [
+"Universo,",
+"só uma semana",
+"de silêncio no céu.",
+"Valdemar"
+]
+}
+],
+[
+"017",
+null,
+"mesa_ceu",
+{
+"k": "ATENDENTE_UNI",
+"expr": "neutral",
+"texto": "PEDIDO 2026/1114",
+"textoCor": "#283593"
+}
+],
+[
+"018",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "surprised",
+"texto": "SÓ DO BRASIL?"
+}
+],
+[
+"019",
+null,
+"close",
+{
+"k": "ATENDENTE_UNI",
+"set": "suporte",
+"expr": "smile",
+"side": "R",
+"texto": "ELE FOI MODESTO"
+}
+],
+[
+"020",
+[
+0,
+1
+],
+"quadro",
+{
+"linhas": [
+"MODESTO?",
+"2.150 VOOS POR DIA"
+],
+"em": [
+0.2,
+"dois"
+],
+"cores": [
+"#fff59d",
+"#fff"
+],
+"expr": "smug"
+}
+],
+[
+"020",
+[
+2,
+2
+],
+"contador_voos",
+{
+"ate": 15000,
+"suf": " VOOS",
+"rotulo": "EM UMA SEMANA",
+"icone": "aviao",
+"n": 30
+}
+],
+[
+"021",
+[
+0,
+0
+],
+"contador_voos",
+{
+"ate": 277000,
+"rotulo": "PASSAGEIROS POR DIA",
+"icone": "pessoa",
+"n": 20,
+"fundo": "#1b3a2b"
+}
+],
+[
+"021",
+[
+1,
+1
+],
+"contador_voos",
+{
+"ate": 2,
+"pre": "QUASE ",
+"suf": " MILHÕES",
+"rotulo": "DE PESSOAS NA SEMANA",
+"fundo": "rays_vermelho"
+}
+],
+[
+"022",
+null,
+"close",
+{
+"k": "ATENDENTE_UNI",
+"set": "suporte",
+"expr": "confused",
+"side": "R",
+"q": true
+}
+],
+[
+"023",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smug",
+"texto": "NENHUMA REGRA PROÍBE"
+}
+],
+[
+"024",
+null,
+"carimbo",
+{
+"em": "aprovado",
+"txt": "APROVADO",
+"num": "2026/1114",
+"linhas": [
+"REMETENTE: VALDEMAR",
+"GUARULHOS (SP)",
+"PEDIDO: UMA SEMANA",
+"SEM AVIÃO NO CÉU"
+]
+}
+],
+[
+"025",
+null,
+"rotas",
+{
+"modo": "brasil",
+"apagarEm": "cancel",
+"rotulos": [
+"SÃO PAULO",
+"MANAUS",
+"RECIFE"
+],
+"texto": "MEIA-NOITE",
+"textoEm": 0.2,
+"texto2": "TODOS OS VOOS CANCELADOS",
+"texto2Em": "cancel"
+}
+],
+[
+"026",
+[
+0,
+0
+],
+"hora",
+{
+"set": "ponto_taxi_silencio",
+"h": 6,
+"label": "6 DA MANHÃ",
+"chars": [
+{
+"k": "VALDEMAR",
+"x": 1100,
+"expr": "neutral"
+}
+]
+}
+],
+[
+"026",
+[
+1,
+1
+],
+"close",
+{
+"k": "VALDEMAR",
+"set": "ponto_taxi_silencio",
+"expr": "surprised",
+"look": [
+0.3,
+-0.6
+]
+}
+],
+[
+"027",
+null,
+"cena",
+{
+"set": "ponto_taxi_silencio",
+"chars": [
+{
+"k": "VALDEMAR",
+"x": 700,
+"expr": "surprised",
+"look": [
+0.3,
+-0.8
+]
+},
+{
+"k": "NENE_TAXI",
+"x": 1250,
+"facing": -1,
+"expr": "confused"
+}
+]
+}
+],
+[
+"028",
+null,
+"close",
+{
+"k": "NENE_TAXI",
+"set": "ponto_taxi_silencio",
+"expr": "confused",
+"side": "R",
+"texto": "NÃO TEM BARULHO NENHUM"
+}
+],
+[
+"029",
+[
+0,
+1
+],
+"close",
+{
+"k": "VALDEMAR",
+"set": "ponto_taxi_silencio",
+"expr": "surprised"
+}
+],
+[
+"029",
+[
+2,
+3
+],
+"cena",
+{
+"set": "ponto_taxi_silencio",
+"chars": [
+{
+"k": "VALDEMAR",
+"x": 960,
+"expr": "happy",
+"pose": "cheer"
+}
+],
+"texto": "O SOM DO NADA"
+}
+],
+[
+"030",
+null,
+"painel",
+{
+"em": "palavra"
+}
+],
+[
+"031",
+null,
+"cena",
+{
+"set": "saguao_vazio",
+"texto": "PONTE AÉREA: 103 VOOS POR DIA"
+}
+],
+[
+"032",
+[
+0,
+0
+],
+"cena",
+{
+"set": "saguao_vazio",
+"chars": [
+{
+"k": "RAFA",
+"x": 960,
+"expr": "worried",
+"pose": "phone"
+}
+],
+"texto": "NO RIO ÀS 9H"
+}
+],
+[
+"032",
+[
+1,
+1
+],
+"hora",
+{
+"set": "saguao_vazio",
+"h": 6,
+"label": "DE ÔNIBUS: 6 HORAS",
+"chars": [
+{
+"k": "RAFA",
+"x": 1100,
+"expr": "shocked"
+}
+]
+}
+],
+[
+"033",
+null,
+"fila_taxi",
+{
+"set": "ponto_taxi_silencio",
+"n": 3,
+"povo": 7,
+"texto": "FILA PRO RIO DE JANEIRO"
+}
+],
+[
+"034",
+[
+0,
+1
+],
+"close",
+{
+"k": "VALDEMAR",
+"set": "ponto_taxi_silencio",
+"expr": "surprised",
+"texto": "DE TÁXI?"
+}
+],
+[
+"034",
+[
+2,
+2
+],
+"cartela",
+{
+"linhas": [
+"430 KM"
+],
+"cores": [
+"#ffd23f"
+],
+"fundo": "rays_azul",
+"sub": "SÃO PAULO → RIO DE JANEIRO"
+}
+],
+[
+"035",
+null,
+"close",
+{
+"k": "NENE_TAXI",
+"set": "ponto_taxi_silencio",
+"expr": "happy",
+"side": "R",
+"texto": "O QUE VOCÊ PEDIR"
+}
+],
+[
+"036",
+null,
+"close",
+{
+"k": "VALDEMAR",
+"set": "ponto_taxi_silencio",
+"expr": "smug",
+"texto": "O SILÊNCIO DÁ LUCRO"
+}
+],
+[
+"037",
+[
+0,
+0
+],
+"cena",
+{
+"set": "ponto_taxi_silencio",
+"chars": [
+{
+"k": "VALDEMAR",
+"x": 960,
+"expr": "happy",
+"pose": "cheer"
+}
+],
+"texto": "A MELHOR CORRIDA DA VIDA"
+}
+],
+[
+"037",
+[
+1,
+1
+],
+"close",
+{
+"k": "VALDEMAR",
+"set": "ponto_taxi_silencio",
+"expr": "happy",
+"texto": "ACERTOU EM CHEIO"
+}
+],
+[
+"038",
+[
+0,
+1
+],
+"rotas",
+{
+"modo": "brasil",
+"apagado": true,
+"rotulos": [
+"SÃO PAULO",
+"RIO"
+],
+"cidades": [
+"SÃO PAULO",
+"RIO",
+"MANAUS",
+"RECIFE",
+"BRASÍLIA",
+"PORTO ALEGRE",
+"BELÉM",
+"CUIABÁ"
+],
+"texto": "O BRASIL É ENORME",
+"textoEm": "enorme"
+}
+],
+[
+"038",
+[
+2,
+3
+],
+"cartela",
+{
+"linhas": [
+"AVIÃO NÃO É LUXO",
+"É A ÚNICA PORTA"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "rio_acre",
+"em": [
+"luxo",
+"unica"
+]
+}
+],
+[
+"039",
+[
+0,
+0
+],
+"rotas",
+{
+"modo": "brasil",
+"apagado": true,
+"cidades": [
+"MARECHAL THAUMATURGO",
+"CRUZEIRO DO SUL"
+],
+"rotulos": [
+"MARECHAL THAUMATURGO"
+],
+"texto": "ACRE",
+"textoEm": "acre"
+}
+],
+[
+"039",
+[
+1,
+2
+],
+"cena",
+{
+"set": "rio_acre",
+"texto": "17 MIL HABITANTES • NENHUMA ESTRADA"
+}
+],
+[
+"040",
+[
+0,
+1
+],
+"cena",
+{
+"set": "rio_acre",
+"chars": [
+{
+"k": "RAIMUNDO",
+"x": 760,
+"expr": "smile"
+}
+],
+"texto": "AVIÃO PEQUENO: 90 MIN"
+}
+],
+[
+"040",
+[
+2,
+2
+],
+"barco_lento",
+{
+"dias": 14,
+"texto": "DE BARCO: ATÉ 2 SEMANAS",
+"textoEm": 0.3
+}
+],
+[
+"041",
+null,
+"galpao",
+{
+"lugar": "CHEGA PELO CÉU",
+"itens": [
+"REMÉDIO",
+"COMBUSTÍVEL",
+"COMIDA"
+],
+"em": [
+"rem",
+"combust",
+"comida"
+]
+}
+],
+[
+"042",
+[
+0,
+1
+],
+"close",
+{
+"k": "RAIMUNDO",
+"set": "rio_acre",
+"expr": "smile",
+"texto": "A GENTE AGUENTA"
+}
+],
+[
+"042",
+[
+2,
+2
+],
+"close",
+{
+"k": "RAIMUNDO",
+"set": "rio_acre",
+"expr": "worried",
+"side": "R",
+"texto": "O REMÉDIO NÃO ESPERA"
+}
+],
+[
+"043",
+[
+0,
+0
+],
+"cartela",
+{
+"linhas": [
+"NÃO É SÓ",
+"CIDADE PEQUENA"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#263238"
+}
+],
+[
+"043",
+[
+1,
+1
+],
+"rotas",
+{
+"modo": "brasil",
+"apagado": true,
+"cidades": [
+"MANAUS"
+],
+"rotulos": [
+"MANAUS"
+],
+"texto": "2 MILHÕES DE PESSOAS",
+"textoEm": "dois",
+"texto2": "SEM ESTRADA PAVIMENTADA",
+"texto2Em": "estrada"
+}
+],
+[
+"044",
+null,
+"galpao",
+{
+"lugar": "PARADO NO PORTO",
+"itens": [
+"PEÇA DE FÁBRICA",
+"CELULAR",
+"ENCOMENDA"
+],
+"em": [
+"pe",
+"celular",
+"encomenda"
+],
+"urgente": true,
+"stamp": "PARADO",
+"stampEm": "parado"
+}
+],
+[
+"045",
+null,
+"quadro",
+{
+"linhas": [
+"ATUALIZANDO...",
+"AVIAÇÃO: 0,91% DO PIB",
+"1,08% DOS EMPREGOS"
+],
+"em": [
+0.1,
+"pib",
+"empregos"
+],
+"cores": [
+"#b0bec5",
+"#ffd23f",
+"#ffd23f"
+]
+}
+],
+[
+"046",
+null,
+"close",
+{
+"k": "ATENDENTE_UNI",
+"set": "suporte",
+"expr": "smile",
+"side": "R",
+"texto": "SÓ 1%?"
+}
+],
+[
+"047",
+null,
+"cartela",
+{
+"linhas": [
+"1% DO BRASIL",
+"É MUITA GENTE",
+"SEM TRABALHAR"
+],
+"cores": [
+"#ffd23f",
+"#fff",
+"#fff"
+],
+"fundo": "rays_vermelho"
+}
+],
+[
+"048",
+null,
+"cartela",
+{
+"linhas": [
+"A ENCOMENDA QUE",
+"NÃO PODE ESPERAR"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "hospital"
+}
+],
+[
+"049",
+[
+0,
+0
+],
+"relogio_orgao",
+{
+"h0": 0,
+"h1": 0.3,
+"chars": [
+{
+"k": "LUCIA",
+"x": 1500,
+"facing": -1,
+"expr": "worried"
+}
+],
+"texto": "CORAÇÃO COMPATÍVEL EM RECIFE",
+"textoEm": "recife"
+}
+],
+[
+"049",
+[
+1,
+1
+],
+"rotas",
+{
+"modo": "brasil",
+"apagarEm": 99,
+"rotas": [
+[
+"RECIFE",
+"SÃO PAULO"
+]
+],
+"cidades": [
+"RECIFE",
+"SÃO PAULO"
+],
+"rotulos": [
+"RECIFE",
+"SÃO PAULO"
+],
+"texto": "O PACIENTE: SÃO PAULO",
+"textoEm": 0.3
+}
+],
+[
+"050",
+[
+0,
+0
+],
+"relogio_orgao",
+{
+"h0": 0,
+"h1": 4,
+"limite": 3.5,
+"chars": [
+{
+"k": "LUCIA",
+"x": 1500,
+"facing": -1,
+"expr": "worried"
+}
+],
+"texto": "POUCAS HORAS FORA DO CORPO",
+"textoEm": "poucas"
+}
+],
+[
+"050",
+[
+1,
+2
+],
+"relogio_orgao",
+{
+"h0": 4,
+"h1": 4.5,
+"limite": 3.5,
+"estrada": true,
+"estradaEm": "avi",
+"chars": [
+{
+"k": "LUCIA",
+"x": 1500,
+"facing": -1,
+"expr": "sad"
+}
+]
+}
+],
+[
+"051",
+null,
+"cartela",
+{
+"linhas": [
+"LEI 14.858/2024",
+"ÓRGÃO VIAJA DE GRAÇA",
+"E COM PRIORIDADE"
+],
+"cores": [
+"#ffd23f",
+"#fff",
+"#fff"
+],
+"fundo": "#1565c0",
+"tam": 96
+}
+],
+[
+"052",
+[
+0,
+0
+],
+"contador_voos",
+{
+"ate": 4808,
+"rotulo": "VOOS COM ÓRGÃOS EM 2025",
+"icone": "caixa",
+"n": 20
+}
+],
+[
+"052",
+[
+1,
+1
+],
+"contador_voos",
+{
+"ate": 13,
+"pre": "+ DE ",
+"suf": " POR DIA",
+"rotulo": "VOOS COM ÓRGÃOS",
+"fundo": "rays_azul"
+}
+],
+[
+"053",
+null,
+"contador_voos",
+{
+"ate": 91,
+"suf": " VIAGENS",
+"rotulo": "QUE NÃO DECOLARAM",
+"rotuloEm": "noventa",
+"icone": "caixa",
+"n": 20,
+"risca": true,
+"riscaEm": "noventa"
+}
+],
+[
+"054",
+null,
+"close",
+{
+"k": "ATENDENTE_UNI",
+"set": "suporte",
+"expr": "worried",
+"side": "R",
+"texto": "NÃO ESTAVA NO PEDIDO"
+}
+],
+[
+"055",
+[
+0,
+1
+],
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "sad",
+"texto": "NUNCA ESTÁ"
+}
+],
+[
+"055",
+[
+2,
+3
+],
+"cartela",
+{
+"linhas": [
+"PEDE SILÊNCIO",
+"O TRANSPLANTE",
+"VEM JUNTO"
+],
+"cores": [
+"#fff",
+"#ff8a80",
+"#ff8a80"
+],
+"fundo": "#263238",
+"em": [
+"pede",
+"transplante",
+"junto"
+]
+}
+],
+[
+"056",
+[
+0,
+0
+],
+"cartela",
+{
+"linhas": [
+"FORÇA AÉREA",
+"AJUDA NESSAS HORAS"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "rays_azul"
+}
+],
+[
+"056",
+[
+1,
+2
+],
+"rotas",
+{
+"modo": "brasil",
+"apagado": true,
+"texto": "CÉU FECHADO",
+"textoEm": 0.3,
+"texto2": "PARA TODO MUNDO",
+"texto2Em": "todo"
+}
+],
+[
+"057",
+[
+0,
+0
+],
+"voce2",
+{
+"balao": "EXAGERO?"
+}
+],
+[
+"057",
+[
+1,
+1
+],
+"relembre",
+{
+"data": "ABRIL DE 2010",
+"empresa": "VULCÃO NA ISLÂNDIA",
+"cor": "#ff7043",
+"sub": "O CÉU DA EUROPA FECHOU",
+"subEm": 0.8
+}
+],
+[
+"058",
+null,
+"rotas",
+{
+"modo": "europa",
+"texto": "NUVEM DE CINZAS",
+"textoEm": "cinzas",
+"tx": 1400,
+"ty": 980
+}
+],
+[
+"059",
+[
+0,
+0
+],
+"contador_voos",
+{
+"ate": 100000,
+"pre": "≈ ",
+"suf": " VOOS",
+"rotulo": "CANCELADOS EM 6 DIAS",
+"icone": "aviao",
+"n": 30,
+"risca": true,
+"riscaEm": "cancel"
+}
+],
+[
+"059",
+[
+1,
+1
+],
+"contador_voos",
+{
+"ate": 1.7,
+"dec": 1,
+"pre": "US$ ",
+"suf": " BI",
+"rotulo": "+ DE ISSO DE PREJUÍZO (IATA)",
+"fundo": "rays_vermelho"
+}
+],
+[
+"060",
+[
+0,
+0
+],
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "neutral",
+"texto": "SÓ A CONTA DAS COMPANHIAS"
+}
+],
+[
+"060",
+[
+1,
+1
+],
+"cadeia",
+{
+"itens": [
+"HOTEL\nVAZIO",
+"REUNIÃO\nPERDIDA",
+"TURISTA QUE\nNÃO VEIO"
+],
+"em": [
+"hotel",
+"reuni",
+"turista"
+]
+}
+],
+[
+"061",
+null,
+"cena",
+{
+"set": "pousada",
+"texto": "CANCELAMENTOS EM MASSA"
+}
+],
+[
+"062",
+null,
+"cartela",
+{
+"linhas": [
+"A CHAVE NA MÃO",
+"O QUARTO ARRUMADO"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "pousada",
+"em": [
+"chave",
+"quarto"
+]
+}
+],
+[
+"063",
+[
+0,
+0
+],
+"cartela",
+{
+"linhas": [
+"TEM QUEM GANHE"
+],
+"cores": [
+"#69f0ae"
+],
+"fundo": "#1b3a2b"
+}
+],
+[
+"063",
+[
+1,
+1
+],
+"fila",
+{
+"set": "rodoviaria",
+"n": 10,
+"texto": "PASSAGEM ESGOTADA",
+"textoCor": "#ef6c00"
+}
+],
+[
+"064",
+null,
+"cartela",
+{
+"linhas": [
+"1 PASSAGEM VENDIDA",
+"1 VIAGEM QUE",
+"NÃO ACONTECEU"
+],
+"cores": [
+"#69f0ae",
+"#fff",
+"#ff8a80"
+],
+"fundo": "#263238",
+"em": [
+"passagem",
+"viagem",
+"deixou"
+]
+}
+],
+[
+"065",
+null,
+"cartela",
+{
+"linhas": [
+"QUEM FICOU",
+"DO LADO DE FORA"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "#0d1b4c"
+}
+],
+[
+"066",
+null,
+"celular",
+{
+"titulo": "VOO DE VOLTA",
+"cor": "#1565c0",
+"linhas": [
+"LISBOA → SP",
+"MIAMI → SP",
+"B. AIRES → SP"
+],
+"alerta": "CANCELADO",
+"alertaEm": "nenhum",
+"fundo": "saguao_vazio"
+}
+],
+[
+"067",
+[
+0,
+0
+],
+"cartela",
+{
+"linhas": [
+"ISSO JÁ",
+"ACONTECEU"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "rays"
+}
+],
+[
+"067",
+[
+1,
+1
+],
+"relembre",
+{
+"data": "11/09/2001",
+"empresa": "EUA FECHAM O CÉU",
+"cor": "#e53935",
+"sub": "POR CERCA DE 4 DIAS",
+"subEm": "quatro"
+}
+],
+[
+"068",
+null,
+"rotas",
+{
+"modo": "atlantico",
+"texto": "38 AVIÕES",
+"textoEm": "trinta",
+"texto2": "10 MIL MORADORES",
+"texto2Em": "dez",
+"tx": 1300,
+"ty": 880
+}
+],
+[
+"069",
+[
+0,
+0
+],
+"contador_voos",
+{
+"ate": 6122,
+"suf": " PASSAGEIROS",
+"rotulo": "+ 473 TRIPULANTES",
+"rotuloEm": "quatrocentos",
+"icone": "pessoa",
+"n": 30,
+"tam": 150
+}
+],
+[
+"069",
+[
+1,
+1
+],
+"cena",
+{
+"set": "gander_fora",
+"texto": "A CIDADE QUASE DOBROU"
+}
+],
+[
+"070",
+null,
+"cena",
+{
+"set": "gander",
+"texto": "ESCOLA, IGREJA E ATÉ A PRÓPRIA CASA"
+}
+],
+[
+"071",
+null,
+"cena",
+{
+"set": "casa_valdemar_noite",
+"chars": [
+{
+"k": "SONIA",
+"x": 700,
+"expr": "smile"
+},
+{
+"k": "VALDEMAR",
+"x": 1250,
+"expr": "sad",
+"facing": -1
+}
+]
+}
+],
+[
+"072",
+null,
+"close",
+{
+"k": "VALDEMAR",
+"set": "casa_valdemar_noite",
+"expr": "sad",
+"side": "R"
+}
+],
+[
+"073",
+[
+0,
+0
+],
+"cartela",
+{
+"linhas": [
+"TERCEIRO DIA"
+],
+"cores": [
+"#ffd23f"
+],
+"fundo": "ponto_taxi_silencio"
+}
+],
+[
+"073",
+[
+1,
+2
+],
+"fila_taxi",
+{
+"n": 6,
+"texto": "CHEIO DE TÁXI",
+"textoEm": "cheio"
+}
+],
+[
+"074",
+null,
+"fila_taxi",
+{
+"n": 5,
+"chars": [
+{
+"k": "NENE_TAXI",
+"x": 760,
+"facing": 1,
+"expr": "tired",
+"pose": "crossArms"
+},
+{
+"k": "VALDEMAR",
+"x": 1200,
+"expr": "tired",
+"facing": -1
+}
+],
+"texto": "NENHUM PASSAGEIRO",
+"textoEm": "nenhum"
+}
+],
+[
+"075",
+null,
+"close",
+{
+"k": "VALDEMAR",
+"set": "ponto_taxi_silencio",
+"expr": "worried",
+"texto": "NINGUÉM PRO RIO?"
+}
+],
+[
+"076",
+null,
+"close",
+{
+"k": "NENE_TAXI",
+"set": "ponto_taxi_silencio",
+"expr": "sad",
+"side": "R",
+"texto": "SEM AVIÃO, SEM PASSAGEIRO"
+}
+],
+[
+"077",
+null,
+"cena",
+{
+"set": "ponto_taxi_silencio",
+"chars": [
+{
+"k": "VALDEMAR",
+"x": 960,
+"expr": "sad",
+"look": [
+0,
+-0.8
+]
+}
+],
+"z": [
+1.0,
+1.12
+]
+}
+],
+[
+"078",
+null,
+"close",
+{
+"k": "VALDEMAR",
+"set": "ponto_taxi_silencio",
+"expr": "sad",
+"pausaMusica": {
+"em": "barulho",
+"nth": 1,
+"dur": 2.0
+},
+"texto": "O BARULHO ERA O MEU SALÁRIO"
+}
+],
+[
+"079",
+[
+0,
+0
+],
+"cena",
+{
+"set": "ponto_taxi",
+"chars": [
+{
+"k": "CLIENTE",
+"x": 900,
+"expr": "smile",
+"pose": "holdFront"
+},
+{
+"k": "VALDEMAR",
+"x": 1400,
+"expr": "happy",
+"facing": -1
+}
+],
+"texto": "CADA TURBINA, UM PASSAGEIRO"
+}
+],
+[
+"079",
+[
+1,
+1
+],
+"cartela",
+{
+"linhas": [
+"CADA DECOLAGEM",
+"UMA CORRIDA"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "ponto_taxi"
+}
+],
+[
+"080",
+null,
+"cena",
+{
+"set": "saguao_vazio",
+"chars": [
+{
+"k": "MOTORISTA",
+"x": 520,
+"expr": "tired",
+"pose": "crossArms"
+},
+{
+"k": "ATENDENTE",
+"x": 960,
+"expr": "tired"
+},
+{
+"k": "CAIXA",
+"x": 1400,
+"expr": "tired",
+"facing": -1
+}
+],
+"texto": "TODOS ESPERANDO UM BARULHO"
+}
+],
+[
+"081",
+null,
+"cena",
+{
+"set": "casa_valdemar_noite",
+"chars": [
+{
+"k": "SONIA",
+"x": 700,
+"expr": "smug"
+},
+{
+"k": "VALDEMAR",
+"x": 1250,
+"expr": "tired",
+"facing": -1
+}
+]
+}
+],
+[
+"082",
+[
+0,
+0
+],
+"close",
+{
+"k": "VALDEMAR",
+"set": "casa_valdemar_noite",
+"expr": "smile",
+"side": "R",
+"texto": "SILÊNCIO EM CASA"
+}
+],
+[
+"082",
+[
+1,
+1
+],
+"close",
+{
+"k": "VALDEMAR",
+"set": "ponto_taxi",
+"expr": "happy",
+"texto": "NO TRABALHO, TURBINA"
+}
+],
+[
+"083",
+null,
+"cena",
+{
+"set": "casa_valdemar_noite",
+"chars": [
+{
+"k": "VALDEMAR",
+"x": 960,
+"expr": "sad",
+"pose": "think"
+}
+],
+"texto": "UM NOVO PEDIDO"
+}
+],
+[
+"084",
+[
+0,
+1
+],
+"close",
+{
+"k": "VALDEMAR",
+"set": "casa_valdemar_noite",
+"expr": "sad",
+"look": [
+0,
+-0.6
+],
+"texto": "PODE DEVOLVER"
+}
+],
+[
+"084",
+[
+2,
+2
+],
+"pedido",
+{
+"voo": 0.5,
+"set": "casa_valdemar_noite",
+"linhas": [
+"Universo,",
+"pode devolver",
+"os aviões.",
+"Eu reclamei",
+"sem saber.",
+"Valdemar"
+]
+}
+],
+[
+"085",
+[
+0,
+0
+],
+"mesa_ceu",
+{
+"k": "ATENDENTE_UNI",
+"expr": "neutral",
+"texto": "CANCELAMENTO DO PEDIDO"
+}
+],
+[
+"085",
+[
+1,
+2
+],
+"cartela",
+{
+"linhas": [
+"PRAZO MÍNIMO: 7 DIAS",
+"SÓ NO DOMINGO"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+],
+"fundo": "reparticao",
+"em": [
+"prazo",
+"domingo"
+]
+}
+],
+[
+"086",
+null,
+"close",
+{
+"k": "CONTADOR",
+"set": "reparticao",
+"expr": "smug",
+"texto": "REGRA É REGRA"
+}
+],
+[
+"087",
+null,
+"decolagem",
+{
+"em": 0.4,
+"tremorEm": "decolou",
+"chars": [
+{
+"k": "VALDEMAR",
+"x": 600,
+"expr": "surprised",
+"look": [
+0.6,
+-0.8
+]
+},
+{
+"k": "NENE_TAXI",
+"x": 1150,
+"facing": -1,
+"expr": "happy"
+}
+],
+"texto": "DOMINGO, 6H",
+"textoEm": 0.2,
+"semPalavras": true
+}
+],
+[
+"088",
+[
+0,
+0
+],
+"cena",
+{
+"set": "ponto_taxi",
+"chars": [
+{
+"k": "VALDEMAR",
+"x": 760,
+"expr": "happy",
+"look": [
+0.4,
+-0.7
+]
+},
+{
+"k": "NENE_TAXI",
+"x": 1250,
+"facing": -1,
+"expr": "happy"
+}
+]
+}
+],
+[
+"088",
+[
+1,
+1
+],
+"close",
+{
+"k": "VALDEMAR",
+"set": "ponto_taxi",
+"expr": "happy"
+}
+],
+[
+"089",
+null,
+"close",
+{
+"k": "NENE_TAXI",
+"set": "ponto_taxi",
+"expr": "happy",
+"side": "R",
+"texto": "RINDO DE TURBINA!"
+}
+],
+[
+"090",
+null,
+"close",
+{
+"k": "VALDEMAR",
+"set": "ponto_taxi",
+"expr": "happy",
+"texto": "É FREGUÊS CHEGANDO"
+}
+],
+[
+"091",
+null,
+"estudio",
+{
+"tela": {
+"icone": "aviao_ok",
+"linhas": [
+"EUA:",
+"4 HORAS"
+],
+"cores": [
+"#fff",
+"#ffd23f"
+]
+},
+"texto": "VIROU NOTÍCIA NO MUNDO",
+"textoEm": "noticia"
+}
+],
+[
+"092",
+null,
+"cartela",
+{
+"linhas": [
+"15 MIL VOOS",
+"2 MILHÕES DE PASSAGEIROS",
+"91 VIAGENS DE ÓRGÃOS"
+],
+"cores": [
+"#ffd23f",
+"#fff",
+"#ff8a80"
+],
+"fundo": "rays_azul",
+"em": [
+"quinze",
+"milh",
+"noventa"
+],
+"tam": 96
+}
+],
+[
+"093",
+[
+0,
+1
+],
+"comenta2",
+{
+"pergunta": "UMA SEMANA SEM VOOS:\nQUEM SOFRERIA MAIS?"
+}
+],
+[
+"093",
+[
+2,
+2
+],
+"fica2",
+{
+"k": "VALDEMAR",
+"set": "ponto_taxi",
+"txt": "CONTA AÍ EMBAIXO!"
+}
+]
+]

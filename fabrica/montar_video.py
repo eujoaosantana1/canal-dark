@@ -146,6 +146,26 @@ SFX_KIND = {
     # vídeo 10 (escala 6x1)
     'semana': [('pop', -14, 0.2, {}), ('tick', -16, 0.6, {})],
     'arvore': [('shimmer', -18, 0.1, {}), ('applause', -22, 0.6, {'dur': 2.0})],
+    # vídeo 11 (Jornal do Universo: a nuvem caiu)
+    'vinheta': [('whoosh', -12, 0.0, {}), ('ding', -13, 0.5, {}), ('shimmer', -18, 0.6, {})],
+    'tv_close': [('whoosh', -16, 0.0, {})],
+    'aovivo': [('blip', -18, 0.2, {})],
+    'grafico': [('riser', -18, 0.2, {'dur': 1.5}), ('ding', -15, 1.8, {})],
+    'relembre': [('whoosh', -13, 0.0, {}), ('hit', -15, 0.4, {})],
+    'caixas': [('glitch', -16, 1.0, {})],
+    'porteiro': [('buzz', -18, 0.3, {}), ('glitch', -14, 1.6, {})],
+    'lista_dns': [('paper', -13, 0.1, {}), ('glitch', -15, 1.2, {})],
+    'telas_azuis': [('glitch', -12, 0.2, {}), ('glitch', -15, 0.9, {'seed': 41})],
+    'cartao': [('paper', -12, 0.2, {})],
+    'emails': [('ding', -14, 0.3, {}), ('ding', -15, 0.6, {'pitch': 1.2}), ('ding', -15, 0.9, {'pitch': 1.4}), ('ding', -16, 1.2, {'pitch': 1.1})],
+    # vídeo 12 (Sem Voos)
+    'painel': [('airport', -12, 0.1, {}), ('blip', -18, 0.9, {}), ('blip', -18, 1.5, {'pitch': 1.2})],
+    'rotas': [('whoosh', -14, 0.0, {}), ('glitch', -20, 1.2, {})],
+    'contador_voos': [('counter', -15, 0.15, {}), ('ding', -15, 1.7, {})],
+    'relogio_orgao': [('clock', -14, 0.0, {'dur': 4.0}), ('heartbeat', -20, 0.2, {'dur': 3.0})],
+    'barco_lento': [('waves', -24, 0.2, {'dur': 2.5})],
+    'fila_taxi': [('carpass', -24, 0.3, {'dur': 2.5})],
+    'decolagem': [('turbine', -5, 0.1, {'dur': 4.5}), ('impact', -16, 2.2, {})],
 }
 # som ambiente por cenário
 AMB_SET = {'mercado': ('murmur', -26), 'mercadinho': ('roomtone', -27), 'mercadinho_qr': ('roomtone', -27),
@@ -160,8 +180,13 @@ AMB_SET = {'mercado': ('murmur', -26), 'mercadinho': ('roomtone', -27), 'mercadi
            'casa_lurdes': ('roomtone', -30), 'greve': ('murmur', -22),
            'quarto': ('roomtone', -30), 'quarto_noite': ('roomtone', -31), 'loja_cel': ('murmur', -30), 'corredor': ('roomtone', -31), 'call': ('murmur', -28),
            'super_fora': ('city', -26), 'super_fechado': ('wind', -26), 'escola_fora': ('city', -27), 'escola_fechada': ('wind', -26), 'rua_fechada': ('wind', -24),
-           'palco': ('murmur', -27), 'casa_josi': ('roomtone', -30), 'casa_josi_noite': ('roomtone', -31)}
-AMB_KIND = {'fila': ('murmur', -24), 'pessoas': ('murmur', -24), 'conta_fila': ('roomtone', -29), 'ampulheta': ('rain', -22), 'poste_corte': ('city', -26), 'marcao_tomada': ('roomtone', -29), 'tomada': ('roomtone', -31), 'mesa_ceu': ('hum', -30), 'mar': ('wind', -24), 'rede': ('murmur', -28), 'pote': ('roomtone', -30), 'forno': ('hum', -28), 'balcao': ('murmur', -30), 'paris_cena': ('city', -28), 'pao_close': ('roomtone', -31), 'mapa_neve': ('wind', -24), 'isopor': ('city', -30), 'geladeira2': ('hum', -28), 'moedas': ('roomtone', -31)}
+           'palco': ('murmur', -27), 'casa_josi': ('roomtone', -30), 'casa_josi_noite': ('roomtone', -31),
+           'estudio': ('hum', -33), 'nuvem_dc': ('hum', -28), 'home_office': ('roomtone', -30), 'home_office_noite': ('roomtone', -31), 'mercadinho_tv': ('roomtone', -29),
+           # vídeo 12 (Sem Voos): ponto_taxi = dia normal (turbina distante); ponto_taxi_silencio = dia sem voos (passarinho)
+           'ponto_taxi': ('turbine_far', -22), 'ponto_taxi_silencio': ('birds', -24), 'ponto_taxi_noite': ('birds', -30), 'saguao_vazio': ('hall', -22),
+           'painel_voos': ('hall', -24), 'rio_acre': ('river', -22), 'floresta_acre': ('forest', -22), 'hospital': ('hospital', -26), 'gander': ('murmur', -26),
+           'casa_valdemar': ('roomtone', -30), 'casa_valdemar_noite': ('roomtone', -31), 'rodoviaria': ('murmur', -24), 'pousada': ('roomtone', -29)}
+AMB_KIND = {'fila': ('murmur', -24), 'pessoas': ('murmur', -24), 'conta_fila': ('roomtone', -29), 'ampulheta': ('rain', -22), 'poste_corte': ('city', -26), 'marcao_tomada': ('roomtone', -29), 'tomada': ('roomtone', -31), 'mesa_ceu': ('hum', -30), 'mar': ('wind', -24), 'rede': ('murmur', -28), 'pote': ('roomtone', -30), 'forno': ('hum', -28), 'balcao': ('murmur', -30), 'paris_cena': ('city', -28), 'pao_close': ('roomtone', -31), 'mapa_neve': ('wind', -24), 'isopor': ('city', -30), 'geladeira2': ('hum', -28), 'moedas': ('roomtone', -31), 'tv_jura': ('roomtone', -29), 'tv_close': ('roomtone', -30), 'aovivo': ('hum', -28), 'homeoffice': ('roomtone', -30), 'estudio': ('hum', -33), 'porteiro': ('hum', -29)}
 
 
 def efeitos(shots, lines):
@@ -222,10 +247,16 @@ PALAVRAS = [
     (('nota=', 'notas', 'dinheiro', 'cedula', 'grana', 'salario', 'decimo', 'bonus'), ('cash', -15, {})),
     (('aplaus', 'palmas'), ('applause', -18, {'dur': 2.0})),
     (('gol=', 'torcida', 'comemor'), ('cheer', -20, {'dur': 2.0})),
+    # vídeo 12 (Sem Voos)
+    (('turbina',), ('turbine', -17, {'dur': 2.0})),
+    (('cancelad',), ('airport', -17, {})),
+    (('decolou',), ('turbine', -14, {'dur': 2.5})),
 ]
+# palavra que corta o som (música, ambiente e efeitos) por alguns segundos, a voz continua: radical -> duração (s)
+CORTES_PALAVRA = {'silencio': 0.5}
 
 # sons de palavras muito comuns esperam mais antes de repetir (segundos)
-RECARGA = {'cash': 20, 'jingle': 15, 'waves': 15, 'kaching': 10, 'paper': 8}
+RECARGA = {'cash': 20, 'jingle': 15, 'waves': 15, 'kaching': 10, 'paper': 8, 'airport': 20, 'turbine': 12}
 
 
 def _nrm(w):
@@ -239,6 +270,7 @@ def efeitos_palavras(shots, W, max_por_cena=2, espaco=1.2, recarga=5.0):
     ultimo = {}; total = 0
     for s in shots:
         ja = [c for c in s.get('sfx', [])]; usados = []
+        if s['params'].get('semPalavras'): continue      # cena marcada no plano.json para não ganhar som por palavra
         for w in W:
             if w['start'] < s['start'] or w['start'] >= s['end']: continue
             n = _nrm(w['word'])
@@ -253,6 +285,28 @@ def efeitos_palavras(shots, W, max_por_cena=2, espaco=1.2, recarga=5.0):
                 break
         if ja: s['sfx'] = ja
     print(f'Sons por palavra: {total}')
+
+
+def cortes_e_pausas(shots, W):
+    """story['silences'] (palavras de CORTES_PALAVRA) e story['music_gaps'] (param do plano 'pausaMusica': {em, dur, nth})."""
+    sil, gaps = [], []
+    for w in W:
+        n = _nrm(w['word'])
+        for r, d in CORTES_PALAVRA.items():
+            if n.startswith(r) and (not sil or w['start'] - sil[-1]['t'] > 3): sil.append({'t': round(w['start'], 3), 'dur': d})
+    for s in shots:
+        pm = s['params'].get('pausaMusica')
+        if not pm: continue
+        alvo = _nrm(pm.get('em', '')); k = 0; t0 = None
+        for w in W:
+            if w['start'] < s['start'] or w['start'] >= s['end']: continue
+            if alvo and _nrm(w['word']).startswith(alvo):
+                if k == pm.get('nth', 0): t0 = w['start']; break
+                k += 1
+        if t0 is None: t0 = s['start'] + float(pm.get('at', 0))
+        gaps.append({'t': round(t0 - 0.1, 3), 'dur': pm.get('dur', 2.0)})
+    if sil or gaps: print(f'Cortes de silêncio: {len(sil)}; pausas de música: {len(gaps)}')
+    return sil, gaps
 
 
 def main():
@@ -296,7 +350,8 @@ def main():
     for i, (st, clip, kind, params, line) in enumerate(starts):
         s0 = 0 if i == 0 else st; s1 = starts[i + 1][0] if i + 1 < len(starts) else tl['total']
         shots.append(dict(id=f'c{i + 1:03d}', start=round(s0, 3), end=round(s1, 3), line=line, scene=kind, clip=clip, vignette=False, bars='none', params=dict(kind=kind, **params)))
-    if not os.environ.get('SEM_EFEITOS'): efeitos(shots, lines); efeitos_palavras(shots, W)
+    sil, gaps = [], []
+    if not os.environ.get('SEM_EFEITOS'): efeitos(shots, lines); efeitos_palavras(shots, W); sil, gaps = cortes_e_pausas(shots, W)
     curtos = [(s['id'], round(s['end'] - s['start'], 2)) for s in shots if s['end'] - s['start'] < 0.6]
     if curtos: print('AVISO cenas muito curtas:', curtos)
     # música por seção
@@ -311,7 +366,7 @@ def main():
         if mus: mus[0]['start'] = max(0, mus[0]['start']); mus[-1]['end'] = tl['total']
     titulo = open(os.path.join(pasta, 'titulo.txt'), encoding='utf-8').read().strip() if os.path.exists(os.path.join(pasta, 'titulo.txt')) else a.projeto
     for d in ('story', 'timeline', 'input', 'build', 'out'): os.makedirs(os.path.join(proj, d), exist_ok=True)
-    json.dump(dict(title=titulo, duration=tl['total'], shots=shots, music=mus, sfx=[]), open(os.path.join(proj, 'story', 'shots.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    json.dump(dict(title=titulo, duration=tl['total'], shots=shots, music=mus, sfx=[], silences=sil, music_gaps=gaps), open(os.path.join(proj, 'story', 'shots.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     json.dump(W, open(os.path.join(proj, 'timeline', 'words.json'), 'w', encoding='utf-8'), ensure_ascii=False)
     cp = os.path.join(proj, 'config.json'); c = json.load(open(cp, encoding='utf-8')) if os.path.exists(cp) else {}
     c.update(title=titulo, duration=tl['total'], voiceover='input/voiceover.wav'); c.setdefault('aspect', '16:9'); c.setdefault('resolution', '1080p'); c.setdefault('fps', 24)

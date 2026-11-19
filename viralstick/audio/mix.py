@@ -35,6 +35,19 @@ def load_any(path, sr=SR):
     return load_audio(path, sr, mono=False)
 
 
+def cortes(n, itens, fade=0.08):
+    """curva de ganho 0..1 que zera o som nos trechos [{t, dur}] (com rampa curta nas bordas)."""
+    gcur = np.ones(n, np.float32); f = secs(fade)
+    for c in itens or []:
+        a, b = secs(float(c["t"])), secs(float(c["t"]) + float(c.get("dur", 0.5)))
+        a, b = max(0, a), min(n, b)
+        if b <= a: continue
+        gcur[a:b] = 0
+        i0 = max(0, a - f); gcur[i0:a] = np.minimum(gcur[i0:a], np.linspace(1, 0, a - i0))
+        i1 = min(n, b + f); gcur[b:i1] = np.minimum(gcur[b:i1], np.linspace(0, 1, i1 - b))
+    return gcur
+
+
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument("--project", required=True); ap.add_argument("--video"); ap.add_argument("--no-music", action="store_true"); ap.add_argument("--no-sfx", action="store_true"); ap.add_argument("--out")
     a = ap.parse_args(); P = a.project
@@ -60,6 +73,8 @@ def main():
         mus = as_stereo(mus)[:n]; mus = np.concatenate([mus, np.zeros((n - len(mus), 2), np.float32)])
         mus *= db(v_rms + mcfg.get("gainDb", -17) - rms_db(mus))
         mus *= db(-9 * env)[:, None]
+        # story["music_gaps"] = [{t, dur}]: música some nesses trechos; story["silences"]: corte geral (música + ambiente + efeitos)
+        mus *= (cortes(n, story.get("music_gaps")) * cortes(n, story.get("silences"), 0.03))[:, None]
         mix += mus
     # ---- sfx + ambience
     scfg = cfg.get("sfx", {}) or {}
@@ -82,6 +97,7 @@ def main():
             else: snd = SFX.make(nm, dur=c.get("dur"), seed=c.get("seed"), pitch=c.get("pitch"))
             place(hits, snd, secs(c["t"]), db(c.get("gain", -8)))
         bed *= db(-5 * env)[:, None]
+        sil = cortes(n, story.get("silences"), 0.03)[:, None]; bed *= sil; hits *= sil
         g = db(scfg.get("gainDb", -6) + (v_rms + 18))   # SFX levels are relative to the voice level
         mix += (hits + bed) * g
         print(f"sfx: {len(cues)} cue(s), ambience on {sum(1 for s in story['shots'] if s.get('amb'))} shot(s)")

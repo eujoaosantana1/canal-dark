@@ -1,0 +1,749 @@
+{
+ "total": 506.202,
+ "lines": [
+  {
+   "clip": "001",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 0.4,
+   "end": 4.833,
+   "text": "Na sexta-feira, treze de novembro, o céu dos Estados Unidos simplesmente parou."
+  },
+  {
+   "clip": "002",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 5.183,
+   "end": 10.265,
+   "text": "Por quatro horas e vinte e cinco minutos, nenhum avião decolou de nenhum aeroporto americano."
+  },
+  {
+   "clip": "003",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 10.615,
+   "end": 17.15,
+   "text": "Foi a parada nacional mais longa em vinte e cinco anos. Em dois dias, mais de dezesseis mil voos foram cancelados."
+  },
+  {
+   "clip": "004",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 17.5,
+   "end": 25.483,
+   "text": "O motivo? Uma empresa trocando cabos antigos por fibra óptica. E um sistema que o próprio governo chamou de velho demais."
+  },
+  {
+   "clip": "005",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 25.833,
+   "end": 31.836,
+   "text": "Aqui no Brasil, os voos noturnos de Guarulhos para Boston, Nova York, Miami e Los Angeles ficaram no chão."
+  },
+  {
+   "clip": "006",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 32.186,
+   "end": 37.387,
+   "text": "Agora imagina isso no Brasil inteiro. Não por quatro horas. Por uma semana."
+  },
+  {
+   "clip": "007",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 37.737,
+   "end": 40.131,
+   "text": "E imagina que quem pediu foi um taxista."
+  },
+  {
+   "clip": "008",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 41.031,
+   "end": 46.204,
+   "text": "Esse é o Seu Valdemar. Há vinte anos ele trabalha no ponto de táxi do aeroporto de Guarulhos."
+  },
+  {
+   "clip": "009",
+   "who": "SEU VALDEMAR",
+   "sec": 2,
+   "start": 46.654,
+   "end": 52.249,
+   "text": "Vinte anos ouvindo turbina na orelha. Vinte anos! Eu durmo e sonho com avião decolando."
+  },
+  {
+   "clip": "010",
+   "who": "NENÊ",
+   "sec": 2,
+   "start": 52.699,
+   "end": 56.074,
+   "text": "Ô Valdemar, mas é aeroporto. Queria ouvir passarinho?"
+  },
+  {
+   "clip": "011",
+   "who": "SEU VALDEMAR",
+   "sec": 2,
+   "start": 56.524,
+   "end": 59.603,
+   "text": "Queria ouvir eu mesmo pensando, Nenê. Uma vez na vida."
+  },
+  {
+   "clip": "012",
+   "who": "DONA SÔNIA",
+   "sec": 2,
+   "start": 60.053,
+   "end": 64.218,
+   "text": "Ele chega em casa falando alto, gente. Acha que todo mundo tá do lado de uma turbina."
+  },
+  {
+   "clip": "013",
+   "who": "SEU VALDEMAR",
+   "sec": 2,
+   "start": 64.668,
+   "end": 67.282,
+   "text": "Porque eu tô! Eu vivo do lado de uma turbina!"
+  },
+  {
+   "clip": "014",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 67.732,
+   "end": 73.618,
+   "text": "Naquela noite, irritado, o Seu Valdemar fez o que todo brasileiro faz quando cansa. Reclamou pro Universo."
+  },
+  {
+   "clip": "015",
+   "who": "SEU VALDEMAR",
+   "sec": 2,
+   "start": 74.068,
+   "end": 80.499,
+   "text": "Universo, eu só quero uma semana. Uma semana de silêncio no céu. Nenhum avião. É pedir muito?"
+  },
+  {
+   "clip": "016",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 81.399,
+   "end": 84.213,
+   "text": "E o pedido chegou na Repartição do Universo."
+  },
+  {
+   "clip": "017",
+   "who": "ATENDENTE",
+   "sec": 3,
+   "start": 84.663,
+   "end": 92.51,
+   "text": "Pedido número dois mil e vinte e seis barra mil cento e catorze. Uma semana sem avião no céu do Brasil."
+  },
+  {
+   "clip": "018",
+   "who": "CONTADOR",
+   "sec": 3,
+   "start": 92.96,
+   "end": 95.374,
+   "text": "Só do Brasil? Ele não pediu do mundo?"
+  },
+  {
+   "clip": "019",
+   "who": "ATENDENTE",
+   "sec": 3,
+   "start": 95.824,
+   "end": 98.121,
+   "text": "Só do Brasil. Ele foi modesto."
+  },
+  {
+   "clip": "020",
+   "who": "CONTADOR",
+   "sec": 3,
+   "start": 98.571,
+   "end": 106.083,
+   "text": "Modesto. São dois mil cento e cinquenta voos domésticos por dia. Vezes sete dias, quinze mil voos."
+  },
+  {
+   "clip": "021",
+   "who": "CONTADOR",
+   "sec": 3,
+   "start": 106.433,
+   "end": 111.879,
+   "text": "E duzentos e setenta e sete mil passageiros por dia. Quase dois milhões de pessoas na semana."
+  },
+  {
+   "clip": "022",
+   "who": "ATENDENTE",
+   "sec": 3,
+   "start": 112.329,
+   "end": 114.164,
+   "text": "Tá dentro do limite de pedidos?"
+  },
+  {
+   "clip": "023",
+   "who": "CONTADOR",
+   "sec": 3,
+   "start": 114.614,
+   "end": 117.872,
+   "text": "Tecnicamente tá. Não tem nenhuma regra dizendo que não pode."
+  },
+  {
+   "clip": "024",
+   "who": "ATENDENTE",
+   "sec": 3,
+   "start": 118.322,
+   "end": 120.108,
+   "text": "Então carimba. Aprovado."
+  },
+  {
+   "clip": "025",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 120.558,
+   "end": 125.182,
+   "text": "E assim, à meia-noite, todos os voos do Brasil foram cancelados."
+  },
+  {
+   "clip": "026",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 126.082,
+   "end": 130.786,
+   "text": "Seis da manhã. O Seu Valdemar chega no ponto e escuta uma coisa que nunca tinha escutado ali."
+  },
+  {
+   "clip": "027",
+   "who": "SEU VALDEMAR",
+   "sec": 4,
+   "start": 131.236,
+   "end": 132.77,
+   "text": "Nenê... você tá ouvindo isso?"
+  },
+  {
+   "clip": "028",
+   "who": "NENÊ",
+   "sec": 4,
+   "start": 133.22,
+   "end": 135.611,
+   "text": "Ouvindo o quê? Não tem barulho nenhum."
+  },
+  {
+   "clip": "029",
+   "who": "SEU VALDEMAR",
+   "sec": 4,
+   "start": 136.061,
+   "end": 141.043,
+   "text": "Exatamente! É isso! É o som do nada! Que coisa linda!"
+  },
+  {
+   "clip": "030",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 141.493,
+   "end": 147.122,
+   "text": "Os painéis do aeroporto mostravam uma palavra só, em todas as linhas. Cancelado."
+  },
+  {
+   "clip": "031",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 147.472,
+   "end": 155.738,
+   "text": "Em Congonhas, a ponte aérea para o Rio, que tem cento e três voos por dia, a oitava rota mais movimentada do mundo, ficou vazia."
+  },
+  {
+   "clip": "032",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 156.088,
+   "end": 163.131,
+   "text": "Um executivo que precisava estar no Rio às nove da manhã descobriu que de ônibus eram seis horas. Se o trânsito deixasse."
+  },
+  {
+   "clip": "033",
+   "who": "NENÊ",
+   "sec": 4,
+   "start": 163.581,
+   "end": 167.276,
+   "text": "Valdemar, tem uma fila de gente querendo táxi pro Rio de Janeiro."
+  },
+  {
+   "clip": "034",
+   "who": "SEU VALDEMAR",
+   "sec": 4,
+   "start": 167.726,
+   "end": 172.355,
+   "text": "Pro Rio? De táxi? Quatrocentos e trinta quilômetros?"
+  },
+  {
+   "clip": "035",
+   "who": "NENÊ",
+   "sec": 4,
+   "start": 172.805,
+   "end": 174.925,
+   "text": "Eles tão pagando o que você pedir."
+  },
+  {
+   "clip": "036",
+   "who": "SEU VALDEMAR",
+   "sec": 4,
+   "start": 175.375,
+   "end": 177.709,
+   "text": "Olha só. O silêncio ainda dá lucro."
+  },
+  {
+   "clip": "037",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 178.159,
+   "end": 184.257,
+   "text": "No primeiro dia, o Seu Valdemar fez a melhor corrida da vida. E achou que o Universo tinha acertado em cheio."
+  },
+  {
+   "clip": "038",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 185.157,
+   "end": 192.807,
+   "text": "Mas o Brasil não é só São Paulo e Rio. O Brasil é enorme. E tem lugar onde o avião não é luxo. É a única porta."
+  },
+  {
+   "clip": "039",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 193.157,
+   "end": 198.639,
+   "text": "Marechal Thaumaturgo, no Acre. Dezessete mil habitantes. Nenhuma estrada chega lá."
+  },
+  {
+   "clip": "040",
+   "who": "RAIMUNDO",
+   "sec": 5,
+   "start": 199.089,
+   "end": 206.26,
+   "text": "Aqui é assim. Ou é noventa minutos de avião pequeno de Cruzeiro do Sul, ou é barco. E de barco pode levar até duas semanas."
+  },
+  {
+   "clip": "041",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 206.71,
+   "end": 212.316,
+   "text": "Remédio, combustível, comida que não dá na região. Muita coisa chega pelo céu."
+  },
+  {
+   "clip": "042",
+   "who": "RAIMUNDO",
+   "sec": 5,
+   "start": 212.766,
+   "end": 218.392,
+   "text": "Uma semana sem avião a gente aguenta. A gente é acostumado. Mas o remédio da farmácia não espera o rio encher."
+  },
+  {
+   "clip": "043",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 218.842,
+   "end": 226.928,
+   "text": "E não é só cidade pequena. Manaus tem cerca de dois milhões de habitantes e nenhuma estrada pavimentada ligando ao resto do país."
+  },
+  {
+   "clip": "044",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 227.278,
+   "end": 233.926,
+   "text": "Peça de fábrica, celular, encomenda urgente. Tudo que tinha pressa ficou parado no porto ou no galpão."
+  },
+  {
+   "clip": "045",
+   "who": "CONTADOR",
+   "sec": 5,
+   "start": 234.376,
+   "end": 241.739,
+   "text": "Atualizando. A aviação comercial responde por quase um por cento do PIB do Brasil. E por mais de um por cento dos empregos."
+  },
+  {
+   "clip": "046",
+   "who": "ATENDENTE",
+   "sec": 5,
+   "start": 242.189,
+   "end": 243.61,
+   "text": "Um por cento parece pouco."
+  },
+  {
+   "clip": "047",
+   "who": "CONTADOR",
+   "sec": 5,
+   "start": 244.06,
+   "end": 248.226,
+   "text": "Um por cento do Brasil é muita gente sem trabalhar numa semana."
+  },
+  {
+   "clip": "048",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 249.126,
+   "end": 252.2,
+   "text": "Agora a parte que quase ninguém lembra quando pensa em avião."
+  },
+  {
+   "clip": "049",
+   "who": "DOUTORA LÚCIA",
+   "sec": 6,
+   "start": 252.65,
+   "end": 256.688,
+   "text": "Chegou um coração compatível em Recife. O paciente está aqui em São Paulo."
+  },
+  {
+   "clip": "050",
+   "who": "DOUTORA LÚCIA",
+   "sec": 6,
+   "start": 257.038,
+   "end": 262.812,
+   "text": "Um coração aguenta poucas horas fora do corpo. De avião dá tempo. De estrada, não dá."
+  },
+  {
+   "clip": "051",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 263.262,
+   "end": 270.687,
+   "text": "No Brasil, uma lei garante que órgãos para transplante viajem de graça e com prioridade nos voos comerciais."
+  },
+  {
+   "clip": "052",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 271.037,
+   "end": 277.518,
+   "text": "Só em dois mil e vinte e cinco, foram quatro mil oitocentos e oito voos levando órgãos. Mais de treze por dia."
+  },
+  {
+   "clip": "053",
+   "who": "CONTADOR",
+   "sec": 6,
+   "start": 277.968,
+   "end": 283.697,
+   "text": "Treze por dia. Vezes sete dias. Noventa e uma viagens que não decolaram."
+  },
+  {
+   "clip": "054",
+   "who": "ATENDENTE",
+   "sec": 6,
+   "start": 284.147,
+   "end": 285.28,
+   "text": "Isso não estava no pedido."
+  },
+  {
+   "clip": "055",
+   "who": "CONTADOR",
+   "sec": 6,
+   "start": 285.73,
+   "end": 291.668,
+   "text": "Nunca está. Ninguém pede pra cancelar transplante. Pede silêncio. O transplante vem junto."
+  },
+  {
+   "clip": "056",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 292.118,
+   "end": 299.795,
+   "text": "Os aviões da Força Aérea ajudam nessas horas. Mas, na nossa história, o céu inteiro estava fechado. Para todo mundo."
+  },
+  {
+   "clip": "057",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 300.695,
+   "end": 304.967,
+   "text": "Isso tudo parece exagero? O mundo já viu um pedaço disso acontecer."
+  },
+  {
+   "clip": "058",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 305.317,
+   "end": 310.04,
+   "text": "Em dois mil e dez, um vulcão na Islândia soltou uma nuvem de cinzas sobre a Europa."
+  },
+  {
+   "clip": "059",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 310.39,
+   "end": 319.098,
+   "text": "Em seis dias, cerca de cem mil voos foram cancelados. As companhias aéreas perderam mais de um bilhão e setecentos milhões de dólares."
+  },
+  {
+   "clip": "060",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 319.548,
+   "end": 326.252,
+   "text": "E isso foi só a conta das companhias. Não entra hotel vazio, reunião perdida, turista que não veio."
+  },
+  {
+   "clip": "061",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 326.702,
+   "end": 333.68,
+   "text": "No Brasil da nossa história, os hotéis de Fortaleza, Natal e Foz do Iguaçu começaram a receber cancelamentos em massa."
+  },
+  {
+   "clip": "062",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 334.03,
+   "end": 339.473,
+   "text": "A pousada que vive do turista que chega de avião ficou com a chave na mão e o quarto arrumado."
+  },
+  {
+   "clip": "063",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 339.823,
+   "end": 348.036,
+   "text": "É bom ser justo: tem quem ganhe. Rodoviária lotada, ônibus com passagem esgotada, aluguel de carro sem um carro sobrando no pátio."
+  },
+  {
+   "clip": "064",
+   "who": "NARRADOR",
+   "sec": 7,
+   "start": 348.386,
+   "end": 353.411,
+   "text": "Mas pra cada passagem de ônibus vendida, tinha uma viagem que simplesmente deixou de acontecer."
+  },
+  {
+   "clip": "065",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 354.311,
+   "end": 357.123,
+   "text": "E tem gente que nem estava no Brasil quando o céu fechou."
+  },
+  {
+   "clip": "066",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 357.473,
+   "end": 365.125,
+   "text": "Brasileiros em Lisboa, em Miami, em Buenos Aires, todos com a passagem de volta na mão. E nenhum avião pra pousar aqui."
+  },
+  {
+   "clip": "067",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 365.475,
+   "end": 373.044,
+   "text": "Isso também já aconteceu de verdade. No onze de setembro de dois mil e um, os Estados Unidos fecharam o espaço aéreo por cerca de quatro dias."
+  },
+  {
+   "clip": "068",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 373.394,
+   "end": 378.844,
+   "text": "Trinta e oito aviões foram parar em Gander, uma cidadezinha do Canadá com uns dez mil moradores."
+  },
+  {
+   "clip": "069",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 379.194,
+   "end": 387.637,
+   "text": "De repente, chegaram seis mil cento e vinte e dois passageiros e quatrocentos e setenta e três tripulantes. A cidade quase dobrou de tamanho."
+  },
+  {
+   "clip": "070",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 387.987,
+   "end": 393.308,
+   "text": "E os moradores abriram escola, igreja e até a própria casa pra receber desconhecidos."
+  },
+  {
+   "clip": "071",
+   "who": "DONA SÔNIA",
+   "sec": 8,
+   "start": 393.758,
+   "end": 397.355,
+   "text": "Tá vendo, Valdemar? Quando o céu fecha, quem salva é gente."
+  },
+  {
+   "clip": "072",
+   "who": "SEU VALDEMAR",
+   "sec": 8,
+   "start": 397.805,
+   "end": 399.26,
+   "text": "Eu sei, Sônia. Eu sei."
+  },
+  {
+   "clip": "073",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 400.16,
+   "end": 405.311,
+   "text": "Terceiro dia. O ponto de táxi de Guarulhos estava cheio. Cheio de táxi."
+  },
+  {
+   "clip": "074",
+   "who": "NENÊ",
+   "sec": 9,
+   "start": 405.761,
+   "end": 409.334,
+   "text": "Valdemar, a gente tá aqui desde as cinco. Nenhum passageiro."
+  },
+  {
+   "clip": "075",
+   "who": "SEU VALDEMAR",
+   "sec": 9,
+   "start": 409.784,
+   "end": 411.29,
+   "text": "Ninguém quer ir pro Rio hoje?"
+  },
+  {
+   "clip": "076",
+   "who": "NENÊ",
+   "sec": 9,
+   "start": 411.74,
+   "end": 416.691,
+   "text": "Quem precisava ir já foi de ônibus. E ninguém mais chega. Não tem avião, não tem passageiro."
+  },
+  {
+   "clip": "077",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 417.141,
+   "end": 421.12,
+   "text": "Pela primeira vez, o Seu Valdemar olhou pro céu vazio e não sentiu alívio."
+  },
+  {
+   "clip": "078",
+   "who": "SEU VALDEMAR",
+   "sec": 9,
+   "start": 421.57,
+   "end": 425.19,
+   "text": "Vinte anos reclamando do barulho... e o barulho era o meu salário."
+  },
+  {
+   "clip": "079",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 425.64,
+   "end": 432.073,
+   "text": "Cada turbina que ele odiava era um passageiro descendo com mala. Cada decolagem era uma corrida no taxímetro."
+  },
+  {
+   "clip": "080",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 432.423,
+   "end": 440.821,
+   "text": "E não era só ele. O carregador de malas, a moça do café, o motorista do ônibus do estacionamento. Todos sentados, esperando um barulho."
+  },
+  {
+   "clip": "081",
+   "who": "DONA SÔNIA",
+   "sec": 9,
+   "start": 441.271,
+   "end": 443.133,
+   "text": "E então? Ainda quer silêncio?"
+  },
+  {
+   "clip": "082",
+   "who": "SEU VALDEMAR",
+   "sec": 9,
+   "start": 443.583,
+   "end": 446.776,
+   "text": "Quero silêncio em casa, Sônia. No trabalho eu quero turbina."
+  },
+  {
+   "clip": "083",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 447.676,
+   "end": 450.864,
+   "text": "Naquela noite, o Seu Valdemar fez um novo pedido."
+  },
+  {
+   "clip": "084",
+   "who": "SEU VALDEMAR",
+   "sec": 10,
+   "start": 451.314,
+   "end": 455.939,
+   "text": "Universo, pode devolver. Pode devolver os aviões. Eu reclamei sem saber."
+  },
+  {
+   "clip": "085",
+   "who": "ATENDENTE",
+   "sec": 10,
+   "start": 456.389,
+   "end": 463.35,
+   "text": "Pedido de cancelamento do pedido. Prazo mínimo de sete dias. Ele vai ter que esperar até domingo."
+  },
+  {
+   "clip": "086",
+   "who": "CONTADOR",
+   "sec": 10,
+   "start": 463.8,
+   "end": 464.915,
+   "text": "Regra é regra."
+  },
+  {
+   "clip": "087",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 465.365,
+   "end": 470.128,
+   "text": "No domingo de manhã, às seis em ponto, o primeiro avião decolou de Guarulhos."
+  },
+  {
+   "clip": "088",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 470.478,
+   "end": 474.774,
+   "text": "O barulho atravessou o ponto de táxi inteiro. E o Seu Valdemar sorriu."
+  },
+  {
+   "clip": "089",
+   "who": "NENÊ",
+   "sec": 10,
+   "start": 475.224,
+   "end": 477.882,
+   "text": "Olha ele, rindo de turbina!"
+  },
+  {
+   "clip": "090",
+   "who": "SEU VALDEMAR",
+   "sec": 10,
+   "start": 478.332,
+   "end": 481.476,
+   "text": "Isso aí, Nenê, não é barulho. É freguês chegando."
+  },
+  {
+   "clip": "091",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 481.926,
+   "end": 487.513,
+   "text": "Nos Estados Unidos, o céu ficou parado por quatro horas e já virou notícia no mundo inteiro."
+  },
+  {
+   "clip": "092",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 487.863,
+   "end": 496.987,
+   "text": "No Brasil, seriam quinze mil voos, quase dois milhões de passageiros e noventa e uma viagens de órgãos em uma semana."
+  },
+  {
+   "clip": "093",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 497.337,
+   "end": 505.002,
+   "text": "E você? Se todos os voos do Brasil fossem cancelados por uma semana, quem você acha que sofreria mais? Deixa aqui nos comentários."
+  }
+ ]
+}

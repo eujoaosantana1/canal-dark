@@ -1,0 +1,54 @@
+AGENTE ESTRATEGISTA - REPARTIÇÃO DO UNIVERSO
+============================================
+
+O que ele faz
+-------------
+1. TEMAS: para cada tema candidato, busca no YouTube Brasil os vídeos mais vistos
+   dos últimos 120 dias e mostra:
+   - mediana de visualizações (se o tema tem público);
+   - quantos canais PEQUENOS (menos de 50 mil inscritos) passaram de 50 mil views
+     (se dá para um canal novo competir);
+   - uma nota para ordenar os temas.
+2. CANAIS: procura canais parecidos com o nosso e ordena pelos "fora da curva":
+   vídeos com muito mais views do que o tamanho do canal faria esperar.
+   É assim que se acham canais pequenos que estão bombando.
+
+Os relatórios saem na pasta "estrategia" (HTML para ver, CSV para planilha).
+
+
+PASSO ÚNICO: criar a chave da API do YouTube (grátis, ~5 minutos)
+------------------------------------------------------------------
+1. Abra https://console.cloud.google.com e selecione o MESMO projeto que você
+   usa para o Gemini (o que tem o faturamento).
+2. Menu "APIs e serviços" > "Biblioteca" > procure "YouTube Data API v3" > Ativar.
+3. "APIs e serviços" > "Credenciais" > "Criar credenciais" > "Chave de API".
+4. Clique na chave criada > "Restringir chave" > marque só "YouTube Data API v3" > Salvar.
+5. Copie a chave e salve num ARQUIVO chamado chave_youtube.txt na pasta Canal Dark
+   (arquivo, não pasta).
+6. Coloque "chave_youtube.txt" no .gitignore. Essa chave nunca vai para o GitHub.
+
+Custo: zero. O limite grátis é 10.000 unidades por dia; cada busca gasta 100,
+ou seja, uns 90 temas por dia. A API não cobra além disso, só para.
+
+
+Como usar (no Claude Code, ou num terminal dentro da pasta Canal Dark)
+----------------------------------------------------------------------
+Comparar temas candidatos:
+  python tools\estrategista.py temas "conta de luz" "gasolina" "black friday" "13º salário"
+
+Achar canais parecidos (usa uma lista pronta de termos do nicho):
+  python tools\estrategista.py canais
+
+Achar canais com seus próprios termos:
+  python tools\estrategista.py canais "história animada" "e se o brasil"
+
+Opções: --dias 60   --max 50   --duracao long (mais de 20 min) / short / any
+
+
+Como ler o relatório
+--------------------
+- "Fora da curva" 5x ou mais (linha amarela) = vídeo que rendeu 5 vezes o número
+  de inscritos do canal. É o sinal mais forte de tema/título/capa que funciona.
+- Tema com mediana alta mas zero canais pequenos = público existe, mas dominado
+  por canais grandes. Só vale com um ângulo bem diferente.
+- Tema com vários canais pequenos bombando = melhor oportunidade.

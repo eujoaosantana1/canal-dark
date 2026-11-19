@@ -54,5 +54,11 @@ export const STYLES = {
     grade: { contrast: 1.0, sat: 1.0, lift: [0, 0, 0], gamma: [1, 1, 1], gain: [1, 1, 1], vignette: 0, grain: 0, bloom: 0 },
     moods: {},
   },
+  toon_vivo: {
+    name: 'Cartoon Vivo', desc: 'Toon com cores mais saturadas e quentes e brilho leve, mais perto das capas (teste opção 3).',
+    ink: '#1b1b1f', inkFar: '#4a4a52', feature: '#ffffff', rimWidth: 0, ui: { ...UI, gold: '#ffd23f', accent: '#e53935' },
+    grade: { contrast: 1.06, sat: 1.25, lift: [0.01, 0, 0.02], gamma: [1, 1, 1], gain: [1.05, 1.0, 0.95], vignette: 0, grain: 0, bloom: 0.18 },
+    moods: {},
+  },
 };
 export const STYLE_IDS = Object.keys(STYLES);

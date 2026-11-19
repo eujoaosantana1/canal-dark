@@ -1,0 +1,725 @@
+{
+ "total": 567.954,
+ "lines": [
+  {
+   "clip": "001",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 0.4,
+   "end": 5.197,
+   "text": "Quinta-feira, doze de novembro de dois mil e vinte e seis. Sete da noite."
+  },
+  {
+   "clip": "002",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 5.547,
+   "end": 13.621,
+   "text": "O Mercadinho do Seu Jura já baixou metade da porta. O caderninho de fiado tá no balcão, onde sempre esteve desde mil novecentos e oitenta e oito."
+  },
+  {
+   "clip": "003",
+   "who": "SEU JURA",
+   "sec": 1,
+   "start": 14.071,
+   "end": 20.071,
+   "text": "Hoje a internet funcionou, a maquininha funcionou, ninguém pediu fiado. Dia tranquilo."
+  },
+  {
+   "clip": "004",
+   "who": "APRESENTADORA",
+   "sec": 1,
+   "start": 20.521,
+   "end": 23.392,
+   "text": "Boa noite. Está começando o Jornal do Universo."
+  },
+  {
+   "clip": "005",
+   "who": "APRESENTADORA",
+   "sec": 1,
+   "start": 23.742,
+   "end": 33.028,
+   "text": "Hoje, a internet não caiu. Mas milhões de pessoas ficaram sem e-mail, sem reunião e sem os próprios arquivos. A nuvem da Microsoft caiu."
+  },
+  {
+   "clip": "006",
+   "who": "SEU JURA",
+   "sec": 1,
+   "start": 33.478,
+   "end": 35.644,
+   "text": "A nuvem caiu? Choveu onde?"
+  },
+  {
+   "clip": "007",
+   "who": "NARRADOR",
+   "sec": 1,
+   "start": 36.094,
+   "end": 49.78,
+   "text": "E você? Usa Outlook ou Teams no trabalho? Hoje à tarde ele funcionou pra você? Guarda essa resposta. Porque o Seu Jura vai descobrir hoje que o trabalho de meio mundo mora na casa de meia dúzia de empresas."
+  },
+  {
+   "clip": "008",
+   "who": "APRESENTADORA",
+   "sec": 2,
+   "start": 50.68,
+   "end": 59.471,
+   "text": "Começou no início da tarde. O Outlook parou de abrir. O Teams não entrava nas reuniões. Depois vieram o OneDrive, o SharePoint e o Copilot."
+  },
+  {
+   "clip": "009",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 59.921,
+   "end": 67.352,
+   "text": "Isso tudo é o Microsoft trezentos e sessenta e cinco. Programas que rodam nos computadores da própria Microsoft, e não no seu."
+  },
+  {
+   "clip": "010",
+   "who": "APRESENTADORA",
+   "sec": 2,
+   "start": 67.802,
+   "end": 78.584,
+   "text": "Nos Estados Unidos, o site Downdetector, que junta reclamações de usuários, chegou a cento e trinta e oito mil relatos de problema só no Outlook. Isso às três da tarde, no horário de Brasília."
+  },
+  {
+   "clip": "011",
+   "who": "APRESENTADORA",
+   "sec": 2,
+   "start": 78.934,
+   "end": 83.811,
+   "text": "No Brasil, às três e meia, o pico passava de sete mil e oitocentas notificações."
+  },
+  {
+   "clip": "012",
+   "who": "NARRADOR",
+   "sec": 2,
+   "start": 84.261,
+   "end": 94.755,
+   "text": "E no Google, as buscas em alta eram \"Outlook fora do ar\" e \"Teams caiu\". O brasileiro, quando o sistema cai, primeiro pergunta pro Google se caiu mesmo."
+  },
+  {
+   "clip": "013",
+   "who": "APRESENTADORA",
+   "sec": 2,
+   "start": 95.206,
+   "end": 103.356,
+   "text": "Foram mais de cinco horas de problemas. Até a cidade de Nova York avisou a população que o e-mail dos órgãos públicos podia atrasar."
+  },
+  {
+   "clip": "014",
+   "who": "SEU JURA",
+   "sec": 2,
+   "start": 103.806,
+   "end": 107.682,
+   "text": "Até a prefeitura de Nova York ficou no fiado. Olha só."
+  },
+  {
+   "clip": "015",
+   "who": "APRESENTADORA",
+   "sec": 3,
+   "start": 108.582,
+   "end": 112.466,
+   "text": "Nossa reportagem foi ouvir quem passou a tarde sem sistema."
+  },
+  {
+   "clip": "016",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 112.916,
+   "end": 118.624,
+   "text": "Esse é o Rafa. Vinte e sete anos, analista de cobrança, trabalha de casa em São Paulo."
+  },
+  {
+   "clip": "017",
+   "who": "RAFA",
+   "sec": 3,
+   "start": 119.074,
+   "end": 124.893,
+   "text": "Eu tinha onze reuniões marcadas hoje. Uma delas era uma reunião pra marcar as outras reuniões."
+  },
+  {
+   "clip": "018",
+   "who": "RAFA",
+   "sec": 3,
+   "start": 125.243,
+   "end": 130.88,
+   "text": "Aí, umas duas e pouco, o Teams ficou branco. Eu pensei: é hoje. É hoje que eu almoço sentado."
+  },
+  {
+   "clip": "019",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 131.33,
+   "end": 135.567,
+   "text": "Por uns quinze minutos, o Rafa foi a pessoa mais feliz do Brasil."
+  },
+  {
+   "clip": "020",
+   "who": "RAFA",
+   "sec": 3,
+   "start": 136.017,
+   "end": 142.743,
+   "text": "Aí eu fui abrir a planilha da cobrança. Tava no OneDrive. Não abriu. Fui mandar e-mail pro cliente. Outlook. Não foi."
+  },
+  {
+   "clip": "021",
+   "who": "NARRADOR",
+   "sec": 3,
+   "start": 143.193,
+   "end": 146.124,
+   "text": "A tarde sem reunião virou a tarde sem nada."
+  },
+  {
+   "clip": "022",
+   "who": "RAFA",
+   "sec": 3,
+   "start": 146.574,
+   "end": 152.657,
+   "text": "A minha chefe me ligou. De voz. Perguntou se eu tava conseguindo trabalhar. Eu falei: \"Tô conseguindo esperar.\""
+  },
+  {
+   "clip": "023",
+   "who": "SEU JURA",
+   "sec": 3,
+   "start": 153.107,
+   "end": 155.522,
+   "text": "Esse menino precisava de um caderninho."
+  },
+  {
+   "clip": "024",
+   "who": "APRESENTADORA",
+   "sec": 4,
+   "start": 156.422,
+   "end": 161.411,
+   "text": "Mas afinal, o que aconteceu? Vamos ao vivo com o nosso repórter, direto da nuvem."
+  },
+  {
+   "clip": "025",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 161.861,
+   "end": 166.857,
+   "text": "Boa noite. Eu tô aqui na nuvem. E já adianto: a nuvem não é uma nuvem."
+  },
+  {
+   "clip": "026",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 167.207,
+   "end": 173.214,
+   "text": "São prédios enormes, cheios de computadores ligados vinte e quatro horas. Seu e-mail mora num deles."
+  },
+  {
+   "clip": "027",
+   "who": "SEU JURA",
+   "sec": 4,
+   "start": 173.664,
+   "end": 177.324,
+   "text": "E eu achando que era tudo no ar, igual sinal de rádio."
+  },
+  {
+   "clip": "028",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 177.774,
+   "end": 185.817,
+   "text": "Segundo a Microsoft, hoje um monte de servidores saiu do ar de repente. E os que sobraram tiveram que segurar o trabalho de todo mundo."
+  },
+  {
+   "clip": "029",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 186.167,
+   "end": 191.111,
+   "text": "Não foi porque entrou mais gente. O movimento era o de sempre. Faltou foi computador pra atender."
+  },
+  {
+   "clip": "030",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 191.561,
+   "end": 198.769,
+   "text": "É como um supermercado com dez caixas. Cinco quebram ao mesmo tempo. A fila não aumentou. Mas agora ela não anda."
+  },
+  {
+   "clip": "031",
+   "who": "SEU JURA",
+   "sec": 4,
+   "start": 199.219,
+   "end": 202.575,
+   "text": "Isso eu entendo. Aqui é um caixa só, e é eu."
+  },
+  {
+   "clip": "032",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 203.025,
+   "end": 210.6,
+   "text": "E travou justamente a parte que confere quem pode entrar. É o porteiro. O porteiro ficou sobrecarregado. Ninguém entrou."
+  },
+  {
+   "clip": "033",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 210.95,
+   "end": 218.547,
+   "text": "Pra resolver, a Microsoft parou as atualizações, desviou parte do tráfego e foi reiniciando os servidores."
+  },
+  {
+   "clip": "034",
+   "who": "APRESENTADORA",
+   "sec": 4,
+   "start": 218.997,
+   "end": 222.888,
+   "text": "Reiniciando? Tipo desligar e ligar de novo?"
+  },
+  {
+   "clip": "035",
+   "who": "TÉCNICO",
+   "sec": 4,
+   "start": 223.338,
+   "end": 230.462,
+   "text": "Tipo isso. Só que com milhares de computadores. E milhões de pessoas apertando o botão de atualizar do outro lado."
+  },
+  {
+   "clip": "036",
+   "who": "NARRADOR",
+   "sec": 4,
+   "start": 230.912,
+   "end": 239.146,
+   "text": "E aqui vale dizer: até esta noite, a Microsoft explicou o que travou, mas ainda não explicou por que esses servidores caíram."
+  },
+  {
+   "clip": "037",
+   "who": "APRESENTADORA",
+   "sec": 5,
+   "start": 240.046,
+   "end": 242.533,
+   "text": "A falha de hoje não é a primeira. Relembre."
+  },
+  {
+   "clip": "038",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 242.983,
+   "end": 254.226,
+   "text": "Vinte de outubro de dois mil e vinte e cinco. A AWS, a nuvem da Amazon, a maior do mundo, começa a falhar numa região dos Estados Unidos chamada Virgínia do Norte."
+  },
+  {
+   "clip": "039",
+   "who": "TÉCNICO",
+   "sec": 5,
+   "start": 254.676,
+   "end": 262.691,
+   "text": "Eu tava de plantão nesse dia. Foram cerca de quinze horas de problema. Cento e quarenta e dois serviços da Amazon afetados."
+  },
+  {
+   "clip": "040",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 263.141,
+   "end": 273.072,
+   "text": "E junto com eles, empresas que nem eram a Amazon. Snapchat. Roblox. Zoom. Slack. Gente sem conseguir entrar no próprio jogo."
+  },
+  {
+   "clip": "041",
+   "who": "SEU JURA",
+   "sec": 5,
+   "start": 273.522,
+   "end": 276.695,
+   "text": "E lá, o que quebrou? Também foi o porteiro?"
+  },
+  {
+   "clip": "042",
+   "who": "TÉCNICO",
+   "sec": 5,
+   "start": 277.145,
+   "end": 288.222,
+   "text": "Foi a lista telefônica. Na internet, todo endereço é procurado numa lista. Um sistema automático da Amazon apagou, sem querer, um endereço importante dessa lista. Ficou em branco."
+  },
+  {
+   "clip": "043",
+   "who": "NARRADOR",
+   "sec": 5,
+   "start": 288.672,
+   "end": 296.679,
+   "text": "O serviço continuava funcionando. Mas ninguém sabia onde ele estava. Era como mudar de casa e apagar o endereço do cartório."
+  },
+  {
+   "clip": "044",
+   "who": "SEU JURA",
+   "sec": 5,
+   "start": 297.129,
+   "end": 299.753,
+   "text": "No meu tempo, a gente sabia os endereços de cabeça."
+  },
+  {
+   "clip": "045",
+   "who": "APRESENTADORA",
+   "sec": 6,
+   "start": 300.653,
+   "end": 305.425,
+   "text": "Mas o maior apagão de computador da história aconteceu dentro dos próprios computadores."
+  },
+  {
+   "clip": "046",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 305.875,
+   "end": 313.664,
+   "text": "Dezenove de julho de dois mil e vinte e quatro. Uma empresa de segurança chamada CrowdStrike manda uma atualização com defeito pros clientes dela."
+  },
+  {
+   "clip": "047",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 314.014,
+   "end": 319.463,
+   "text": "Os computadores com Windows que receberam mostraram a famosa tela azul. E não voltavam."
+  },
+  {
+   "clip": "048",
+   "who": "CONTADOR",
+   "sec": 6,
+   "start": 319.913,
+   "end": 327.852,
+   "text": "Oito milhões e meio de computadores, segundo a Microsoft. Menos de um por cento de todos os computadores com Windows do mundo."
+  },
+  {
+   "clip": "049",
+   "who": "CONTADOR",
+   "sec": 6,
+   "start": 328.202,
+   "end": 334.79,
+   "text": "O problema é quais eram. Aeroporto. Banco. Hospital. Emissora de televisão."
+  },
+  {
+   "clip": "050",
+   "who": "NARRADOR",
+   "sec": 6,
+   "start": 335.24,
+   "end": 343.72,
+   "text": "Milhares de voos cancelados. Na Índia, a companhia aérea IndiGo voltou a emitir cartão de embarque escrito à mão."
+  },
+  {
+   "clip": "051",
+   "who": "SEU JURA",
+   "sec": 6,
+   "start": 344.17,
+   "end": 348.299,
+   "text": "À mão! Tá vendo? A caneta nunca dá tela azul."
+  },
+  {
+   "clip": "052",
+   "who": "CONTADOR",
+   "sec": 6,
+   "start": 348.749,
+   "end": 356.433,
+   "text": "As seguradoras estimaram cinco bilhões e quatrocentos milhões de dólares de prejuízo. Só nas quinhentas maiores empresas americanas."
+  },
+  {
+   "clip": "053",
+   "who": "SEU JURA",
+   "sec": 6,
+   "start": 356.883,
+   "end": 362.506,
+   "text": "Tudo isso por causa de uma atualização. Eu tenho medo até de atualizar o WhatsApp da minha filha."
+  },
+  {
+   "clip": "054",
+   "who": "APRESENTADORA",
+   "sec": 7,
+   "start": 363.406,
+   "end": 367.159,
+   "text": "Pra entender o que esses apagões têm em comum, nosso comentarista de economia."
+  },
+  {
+   "clip": "055",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 367.609,
+   "end": 376.405,
+   "text": "Boa noite. Repara: Microsoft, Amazon, e no ano passado ainda teve a Cloudflare, que tirou do ar o ChatGPT e o X por algumas horas."
+  },
+  {
+   "clip": "056",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 376.755,
+   "end": 385.635,
+   "text": "Pouquíssimas empresas seguram uma parte gigante do trabalho do mundo. E nenhuma dessas quedas antigas foi ataque hacker. Foi erro de dentro de casa."
+  },
+  {
+   "clip": "057",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 385.985,
+   "end": 395.682,
+   "text": "Isso tem um lado bom. Pra uma empresa, alugar computador na nuvem costuma sair mais barato do que manter servidor próprio. E tem gente cuidando vinte e quatro horas."
+  },
+  {
+   "clip": "058",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 396.032,
+   "end": 401.225,
+   "text": "Na maior parte dos dias do ano, a nuvem funciona melhor do que o computador velho no fundo do escritório."
+  },
+  {
+   "clip": "059",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 401.575,
+   "end": 409.239,
+   "text": "O lado ruim é que, quando cai, cai pra todo mundo junto. A mesma tarde, o mesmo erro, o mesmo prejuízo."
+  },
+  {
+   "clip": "060",
+   "who": "APRESENTADORA",
+   "sec": 7,
+   "start": 409.689,
+   "end": 410.785,
+   "text": "E qual é a saída?"
+  },
+  {
+   "clip": "061",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 411.235,
+   "end": 421.385,
+   "text": "Os especialistas falam em plano B. Cópia dos arquivos importantes em outro lugar. Outro caminho pros sistemas que não podem parar. E testar isso antes do dia da pane."
+  },
+  {
+   "clip": "062",
+   "who": "CONTADOR",
+   "sec": 7,
+   "start": 421.735,
+   "end": 428.728,
+   "text": "Mas plano B custa dinheiro. E toda empresa acha que dá pra deixar pra depois. Até a tarde em que não dá."
+  },
+  {
+   "clip": "063",
+   "who": "SEU JURA",
+   "sec": 7,
+   "start": 429.178,
+   "end": 432.047,
+   "text": "Meu plano B é o plano A. O caderninho."
+  },
+  {
+   "clip": "064",
+   "who": "APRESENTADORA",
+   "sec": 8,
+   "start": 432.947,
+   "end": 438.281,
+   "text": "Interrompemos o noticiário pra um plantão. Um boato tomou conta da Repartição do Universo nesta tarde."
+  },
+  {
+   "clip": "065",
+   "who": "APRESENTADORA",
+   "sec": 8,
+   "start": 438.631,
+   "end": 442.879,
+   "text": "Um pedido feito hoje de manhã, por um morador de São Paulo, teria relação com a queda."
+  },
+  {
+   "clip": "066",
+   "who": "NARRADOR",
+   "sec": 8,
+   "start": 443.329,
+   "end": 444.666,
+   "text": "O pedido dizia assim:"
+  },
+  {
+   "clip": "067",
+   "who": "RAFA",
+   "sec": 8,
+   "start": 445.116,
+   "end": 451.703,
+   "text": "Querido Universo. Só uma tarde sem reunião. Uma só. Prometo usar pra trabalhar de verdade. Rafa."
+  },
+  {
+   "clip": "068",
+   "who": "CONTADOR",
+   "sec": 8,
+   "start": 452.153,
+   "end": 457.173,
+   "text": "A Repartição esclarece que o pedido foi recebido, mas não foi atendido."
+  },
+  {
+   "clip": "069",
+   "who": "CONTADOR",
+   "sec": 8,
+   "start": 457.523,
+   "end": 464.729,
+   "text": "Não porque a gente não quisesse. É que o nosso sistema de pedidos também roda na nuvem. Caiu às duas da tarde."
+  },
+  {
+   "clip": "070",
+   "who": "TÉCNICO",
+   "sec": 8,
+   "start": 465.179,
+   "end": 470.824,
+   "text": "A gente voltou pro carimbo e pro papel. Ficou uma fila de pedidos até o portão do céu."
+  },
+  {
+   "clip": "071",
+   "who": "APRESENTADORA",
+   "sec": 8,
+   "start": 471.274,
+   "end": 473.43,
+   "text": "E como a Repartição está funcionando agora?"
+  },
+  {
+   "clip": "072",
+   "who": "CONTADOR",
+   "sec": 8,
+   "start": 473.88,
+   "end": 477.973,
+   "text": "Pegamos emprestado o sistema de um comerciante do bairro. Um caderninho."
+  },
+  {
+   "clip": "073",
+   "who": "SEU JURA",
+   "sec": 8,
+   "start": 478.423,
+   "end": 479.979,
+   "text": "Opa. Esse aí é meu."
+  },
+  {
+   "clip": "074",
+   "who": "NARRADOR",
+   "sec": 9,
+   "start": 480.879,
+   "end": 485.303,
+   "text": "O telefone do mercadinho toca. O fixo. Que o Seu Jura nunca desligou."
+  },
+  {
+   "clip": "075",
+   "who": "THIAGO",
+   "sec": 9,
+   "start": 485.753,
+   "end": 492.597,
+   "text": "Sogro! O senhor tá vendo o jornal? A agência parou. Todos os contratos tão no OneDrive. Não consigo abrir nem a proposta de amanhã."
+  },
+  {
+   "clip": "076",
+   "who": "SEU JURA",
+   "sec": 9,
+   "start": 493.047,
+   "end": 496.202,
+   "text": "Thiago, o que eu te falei no apagão das setenta e duas horas?"
+  },
+  {
+   "clip": "077",
+   "who": "THIAGO",
+   "sec": 9,
+   "start": 496.652,
+   "end": 498.343,
+   "text": "Anota no papel o que é importante."
+  },
+  {
+   "clip": "078",
+   "who": "SEU JURA",
+   "sec": 9,
+   "start": 498.793,
+   "end": 499.621,
+   "text": "E você anotou?"
+  },
+  {
+   "clip": "079",
+   "who": "THIAGO",
+   "sec": 9,
+   "start": 500.071,
+   "end": 501.766,
+   "text": "Anotei no bloco de notas do celular."
+  },
+  {
+   "clip": "080",
+   "who": "SEU JURA",
+   "sec": 9,
+   "start": 502.216,
+   "end": 503.634,
+   "text": "E o bloco de notas tá onde?"
+  },
+  {
+   "clip": "081",
+   "who": "THIAGO",
+   "sec": 9,
+   "start": 504.084,
+   "end": 504.836,
+   "text": "Na nuvem."
+  },
+  {
+   "clip": "082",
+   "who": "SEU JURA",
+   "sec": 9,
+   "start": 505.286,
+   "end": 507.852,
+   "text": "Então vem amanhã cedo aqui. Eu te empresto uma folha."
+  },
+  {
+   "clip": "083",
+   "who": "APRESENTADORA",
+   "sec": 10,
+   "start": 508.752,
+   "end": 515.232,
+   "text": "Até o fechamento desta edição, a Microsoft dizia que os serviços estavam voltando aos poucos, conforme os servidores eram religados."
+  },
+  {
+   "clip": "084",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 515.682,
+   "end": 521.874,
+   "text": "E foi o que aconteceu com o Rafa. Às nove da noite, chegaram quarenta e sete e-mails ao mesmo tempo."
+  },
+  {
+   "clip": "085",
+   "who": "RAFA",
+   "sec": 10,
+   "start": 522.324,
+   "end": 532.711,
+   "text": "\"Re: alguém tá conseguindo acessar?\" \"Re: Re: alguém tá conseguindo acessar?\" E o último, da minha chefe: \"Reunião amanhã às oito, pra conversar sobre a queda de hoje.\""
+  },
+  {
+   "clip": "086",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 533.161,
+   "end": 537.12,
+   "text": "O Universo, ao que tudo indica, tem senso de humor."
+  },
+  {
+   "clip": "087",
+   "who": "APRESENTADORA",
+   "sec": 10,
+   "start": 537.57,
+   "end": 543.482,
+   "text": "O Jornal do Universo fica por aqui. Boa noite. E guarde os seus arquivos em mais de um lugar."
+  },
+  {
+   "clip": "088",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 543.932,
+   "end": 549.789,
+   "text": "O Seu Jura desliga a televisão. Abre o caderninho. E anota, com a letra de sempre:"
+  },
+  {
+   "clip": "089",
+   "who": "SEU JURA",
+   "sec": 10,
+   "start": 550.239,
+   "end": 554.423,
+   "text": "Doze de novembro. A nuvem choveu. O caderninho não molhou."
+  },
+  {
+   "clip": "090",
+   "who": "NARRADOR",
+   "sec": 10,
+   "start": 554.873,
+   "end": 566.754,
+   "text": "E você? Hoje o Outlook ou o Teams caiu no seu trabalho? Comemorou ou entrou em pânico? E na sua empresa, qual é o plano B quando a nuvem cai? Conta aqui embaixo. A gente lê tudo."
+  }
+ ]
+}

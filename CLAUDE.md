@@ -40,9 +40,27 @@ Responda sempre em português do Brasil.
 | 08 - Decimo Terceiro | decimo-terceiro | decimo |
 | 09 - Doze Vezes | doze-vezes | doze |
 | 10 - Escala 6x1 | escala-6x1 | escala |
+| 11 - Apagao Nuvem | apagao-nuvem | apagao |
+| 12 - Sem Voos | sem-voos | semvoos |
 
 ## Como conferir que deu certo
 - Vozes: fim do `logs\vozes_<apelido>.log` traz `RESUMO {'OK': N, 'ERRO': M}` e `TRILHA PRONTA`. Erros com "virgula", "centavos"
   ou nomes estrangeiros costumam ser só a transcrição da conferência.
 - Vídeo: `logs\<apelido>_montar.log` mostra "Efeitos sonoros" e "Sons por palavra"; `logs\<apelido>_mix.log` termina com
   `FINAL VIDEO`; o arquivo `VIDEO_FINAL_<apelido>.mp4` aparece na pasta do vídeo com data de agora.
+
+## Decisões em vigor (19/11/2026)
+- Publicação: 1 vídeo por dia. Publicados: 01 (11/11), 02 (12/11), 11 (13/11, assunto do dia). Fila: 12 (Sem Voos, gancho de notícia, antes do 03), depois 03 a 10, nessa ordem.
+- Capas (padrão desde 19/11/2026): modelo da capa do 02 (`referencias\capa_modelo_72h.jpg`), feito com `tools\capas_ia.py`.
+  `python tools\capas_ia.py gerar NN A B C` gera a ilustração SEM texto pelo Gemini (`gemini-3-pro-image`, ~US$ 0,13/imagem, cota separada
+  das vozes) com a capa modelo + os recortes de `publicacao\capa_assets` como referência; guarda todas as tentativas em `publicacao\capa_ia\`.
+  `python tools\capas_ia.py montar NN` aplica o título (Luckiest Guy, destaque #FFD23F, resto branco, borda preta, sombra) e grava
+  capa_A/B/C.jpg + comparacao_capas.jpg. A cena de cada capa fica no dicionário `VIDEOS` do script; `ESCOLHA` fixa a tentativa usada.
+  Regras: cena clara e saturada, contorno grosso, título de 2 a 4 palavras no topo direito, informação em placas dentro da cena, sem selo e
+  sem caixa solta. O anjo + diagonal Universo x Terra (`'divisao': True`) é só uma opção: variar a composição entre A/B/C e entre vídeos.
+  Sem logos de marcas reais. Mostrar o comparacao_capas.jpg e esperar aprovação antes do próximo vídeo.
+  Já no padrão novo: 03 a 12. Capas anteriores (estilo `tools\capas_estilo.py`) ficam em `publicacao\capas_antigas\` com final `_estilo`.
+  Cada capa A/B/C combina com o título do `seo_<apelido>.txt` indicado nele (no 09: A=título 2, B=título 3, C=título 1).
+- Formato extra "Jornal do Universo" (telejornal) para assuntos do dia: cenas em `cenasapagao.js` (vinheta, estudio, tv_jura, tv_close, aovivo, homeoffice, grafico, relembre, caixas, porteiro, lista_dns, telas_azuis, cartao, emails); cenários em `sets\apagao.js`.
+- Títulos: não repetir a palavra central de um vídeo recente.
+- Cota de voz: se a cota acabar, o `11 - Apagao Nuvem\5_rodar_as_5h.bat` serve de modelo para gerar vozes + vídeo sozinho depois de um horário (hoje 7h05).

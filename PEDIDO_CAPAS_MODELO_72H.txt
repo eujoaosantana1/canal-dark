@@ -1,0 +1,39 @@
+PEDIDO: REFAZER AS CAPAS NO MODELO DA CAPA DO VÍDEO 02 (72H SEM INTERNET)
+
+Referência: referencias\capa_modelo_72h.jpg (a capa do vídeo 02, feita no Figma).
+Quero que as capas sigam esse modelo daqui pra frente, no lugar do estilo atual do capas_estilo.py (fundo escurecido + recorte à direita + selo + caixa embaixo).
+
+O QUE DEFINE O MODELO (conferir na imagem antes de começar)
+1. Cena ilustrada CLARA e colorida. Nada de escurecer o fundo nem degradê preto. Céu em degradê (lilás, rosa, pôr do sol), cores saturadas.
+2. Tela dividida por uma DIAGONAL com borda preta grossa:
+   - um lado é o "Universo": o Técnico/atendente nas nuvens fazendo a ação absurda (puxando o plugue, carimbando, girando uma chave);
+   - o outro lado é a Terra: cenário brasileiro do vídeo, com a consequência acontecendo (fila, loja fechada, rua cheia).
+3. Texto grande NO TOPO, 2 a 4 palavras, fonte Luckiest Guy: destaque em amarelo #FFD23F, resto em branco, borda preta grossa e sombra. Sem selo colorido no canto.
+4. A informação extra vai DENTRO da cena, em placas e letreiros (ex.: "MERCADINHO DO JURA", "ABERTO"), e não numa caixa solta embaixo.
+5. Muitos personagens quando o tema é "todo mundo" (a fila mostra escala). Expressões exageradas.
+6. Contorno preto grosso em tudo, traço cartoon, sem fotorrealismo.
+7. 1280x720, JPG, menos de 2 MB.
+
+MÉTODO
+- Primeiro teste no vídeo 10 com geração de imagem pela API do Gemini (chave em chave_gemini.txt, modelo de imagem disponível na conta), passando como referência a capa_modelo_72h.jpg (estilo) e os recortes do vídeo em publicacao\capa_assets\ (para os personagens ficarem parecidos com os do vídeo).
+- Gerar a ilustração SEM TEXTO. O texto do topo é aplicado depois em Python (Pillow, Luckiest Guy), para garantir a fonte e a grafia certas.
+- Se a geração de imagem não ficar boa, criar no capas_estilo.py um layout novo "modelo_72h" seguindo os itens 1 a 6 com os recortes que já existem, e me mostrar as duas opções lado a lado.
+- Me avise o custo estimado antes de gerar em lote.
+
+PARA CADA VÍDEO
+- 3 versões (A, B, C), cada uma pareada com um título do seo_<apelido>.txt da pasta publicacao.
+- Antes de gerar, mover as capas atuais para capas_antigas\.
+- Salvar em publicacao\capa_A.jpg, capa_B.jpg, capa_C.jpg e montar o comparacao_capas.jpg.
+- Mostrar o comparacao_capas.jpg e esperar minha aprovação antes de passar para o próximo vídeo.
+
+ORDEM
+1. 10 - Escala 6x1 (sai hoje). Ideias:
+   A) "A ÚLTIMA SEMANA": Técnico nas nuvens arrancando a folha "SÁBADO" de um calendário gigante; embaixo, supermercado com placa "FECHADO POR FOLGA" e a Josi saindo de uniforme.
+   B) "FOLGA PRA TODO MUNDO?!": Técnico carimbando "FOLGA" no Brasil; embaixo, rua cheia de gente parada na porta de lojas fechadas.
+   C) "52 → 104 FOLGAS": Técnico virando uma placa de "6x1" para "5x2"; embaixo, a Josi na plateia da apresentação da escola com a filha vestida de árvore.
+2. Fila ainda não publicada: 05 Pão Francês, 07 Salário Mínimo, 04 Um Feriado por Ano, 08 Décimo Terceiro, 06 Neve no Brasil, 09 Doze Vezes.
+3. Por último, e só se eu aprovar: os já publicados 03, 11 e 12 (dá para trocar a capa no Studio).
+
+NO FIM
+- Atualizar o CLAUDE.md e a seção "Capas" do GUIA_CANAL_DARK.md com o novo padrão.
+- Commit no GitHub (sem as chaves) e capas no Drive.
