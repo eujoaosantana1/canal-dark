@@ -54,7 +54,7 @@ function peca(g, im, jx, jy, ang, k, espelho = false, cima = false) {
 
 // o: { pose:{e,d,acena}, cab:'F'|'L'|'R', expr:'sorri', fala:0..1, pisca, incl, inteiro:bool, passo: fase(rad) ou null, t }
 export function desenhar(g, m, x, cintura, altTronco, o = {}) {
-  const { p, rig } = m, T = p.tronco, s = altTronco / T.height, t = o.t || 0;
+  const { p, rig } = m, T = p.tronco, s = altTronco * (rig.escala || 1) / T.height, t = o.t || 0;
   g.save(); g.translate(x, cintura); g.scale(s, s); g.translate(-T.width / 2, -T.height);   // origem = canto do tronco
   const ombro = l => (l === 'e' ? rig.ombro_e : rig.ombro_d);
   const ku = rig.umero * T.height / p.umero.height;

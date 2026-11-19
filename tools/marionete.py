@@ -26,7 +26,7 @@ VERDE = ("on a perfectly flat pure green (#00FF00) background, no shadows, "
          "in EXACTLY the same cartoon style and colors as the character in the reference image (thick black outlines, flat colors). ")
 
 
-def pedidos(desc):
+def pedidos(desc, mangas=''):
     return {
         'base': ("Single character on a perfectly flat pure green (#00FF00) background, nothing else, chest-up portrait facing the viewer, "
                  "centered, occupying 85% of the image height, in EXACTLY the art style of the reference illustration (thick black outlines, "
@@ -35,7 +35,7 @@ def pedidos(desc):
                   "Draw ONLY: on the LEFT half, the TORSO from the front, from the waist up, WITHOUT head and WITHOUT arms (neck stump on top, "
                   "shoulders with short sleeves ending in open holes, cut flat at the waist); on the RIGHT half, nothing. No head anywhere."),
         'bracos': ("Cutout-animation ARM parts for the character in the reference image, " + VERDE +
-                   "Draw ONLY these 4 separate bare-arm pieces in a single row from left to right, each drawn VERTICALLY (joint end at the TOP), "
+                   "Draw ONLY these 4 separate " + (mangas + " " if mangas else "bare-") + "arm pieces in a single row from left to right, each drawn VERTICALLY (joint end at the TOP), "
                    "with LARGE green gaps, nothing touching: (1) an UPPER ARM only (shoulder to elbow, rounded ends, no hand); "
                    "(2) a FOREARM with a RELAXED hand; (3) a FOREARM with a POINTING hand (index finger straight down in line with the forearm); "
                    "(4) a FOREARM with an OPEN PALM facing the viewer, fingers spread pointing down. Same thickness and skin color for all."),
@@ -75,10 +75,10 @@ def pedir(c, partes, aspect='1:1'):
     raise RuntimeError('sem imagem')
 
 
-def gerar(nome, ref, desc):
+def gerar(nome, ref, desc, mangas=''):
     fonte = os.path.join(VS, 'marionetes', nome, '_fonte'); os.makedirs(fonte, exist_ok=True)
     c = cli(); estilo = Image.open(ESTILO_REF)
-    P = pedidos(desc); f = lambda n: os.path.join(fonte, n + '.png')
+    P = pedidos(desc, mangas); f = lambda n: os.path.join(fonte, n + '.png')
     if not os.path.exists(f('base')):
         r = Image.open(ref).convert('RGBA'); fundo = Image.new('RGBA', r.size, (255, 255, 255, 255)); r = Image.alpha_composite(fundo, r).convert('RGB')
         pedir(c, [estilo, r, P['base']]).save(f('base')); print('ok base')
@@ -113,17 +113,29 @@ def componentes(rgba, minimo=4000):
     return [p for _, p in sorted(out, key=lambda t: t[0])]
 
 
-def cortar_gola(im):
-    """cabeça + pescoço: corta acima da primeira linha (abaixo de 55%) com roupa no centro (cor diferente da pele)."""
-    a = np.asarray(im).astype(np.int16); h, w = a.shape[:2]; x0, x1 = int(w * .3), int(w * .7)
-    pele = np.median(a[int(h * .5):int(h * .6), int(w * .45):int(w * .55), :3].reshape(-1, 3), axis=0)
-    for y in range(int(h * .6), h):
-        lin = a[y, x0:x1]; ok = lin[:, 3] > 200
-        dif = np.abs(lin[:, :3] - pele).sum(1) > 120
-        escuro = lin[:, :3].sum(1) < 120   # contorno preto não conta
-        if ((dif & ~escuro & ok).mean()) > .25:
-            out = im.crop((0, 0, w, y - int(h * .03))); return out.crop(out.getbbox())
+def cortar_gola(im, inicio=0.70):
+    """cabeça + pescoço: corta acima da primeira linha (a partir de 70% da altura) com ROUPA no centro.
+    roupa = branco (gola/jaleco), azul (b > r) ou vermelho forte (g < 0,45 r). Pele tem r > g > b e não é branca."""
+    a = np.asarray(im).astype(np.int16); h, w = a.shape[:2]; x0, x1 = int(w * .15), int(w * .85)
+    seguidas = 0
+    for y in range(int(h * inicio), h):
+        lin = a[y, x0:x1]; r, g, b, al = lin[:, 0], lin[:, 1], lin[:, 2], lin[:, 3]
+        escuro = (r + g + b) < 150
+        roupa = (((np.minimum(np.minimum(r, g), b) > 215) | (b > r + 10) | (g < 0.45 * r)) & ~escuro & (al > 40)) | ((al > 40) & (al < 200))   # meio transparente = sobra do verde na roupa
+        seguidas = seguidas + 1 if roupa.mean() > .35 else 0
+        if seguidas >= 4:
+            out = im.crop((0, 0, w, y - 2 - int(h * .03))); return out.crop(out.getbbox())
     return im
+
+
+def cabeca_inteira(rgba, minimo=1500):
+    """cabeça + peças soltas acima dela (auréola, fone): junta todos os pedaços grandes."""
+    from scipy import ndimage
+    m = np.asarray(rgba)[..., 3] > 128
+    lab, n = ndimage.label(ndimage.binary_closing(m, iterations=2))
+    tam = ndimage.sum(m, lab, range(1, n + 1)); keep = np.isin(lab, [i + 1 for i, v in enumerate(tam) if v >= minimo])
+    a = np.asarray(rgba).copy(); a[..., 3] = np.where(keep, a[..., 3], 0)
+    im = Image.fromarray(a, 'RGBA'); return im.crop(im.getbbox())
 
 
 def salvar(p, dst):
@@ -149,8 +161,9 @@ def pecas(nome):
     if os.path.exists(os.path.join(fonte, 'pernas.png')):
         pe = componentes(alfa(f('pernas'))); print('pernas:', [p.size for p in pe])
         for n, p in zip(['quadril', 'coxa', 'canela'], pe): salvar(p, os.path.join(pasta, n + '.png'))
+    rj0 = os.path.join(pasta, 'rig.json'); ini = json.load(open(rj0)).get('gola', 0.70) if os.path.exists(rj0) else 0.70
     for n in ['cab_frente'] + list(EDICOES):
-        c = max(componentes(alfa(f(n))), key=lambda p: p.width * p.height); salvar(cortar_gola(c), os.path.join(pasta, n + '.png'))
+        salvar(cortar_gola(cabeca_inteira(alfa(f(n))), ini), os.path.join(pasta, n + '.png'))
     rj = os.path.join(pasta, 'rig.json')
     if not os.path.exists(rj): json.dump(RIG_PADRAO, open(rj, 'w'), indent=1)
     fs = sorted(x for x in os.listdir(pasta) if x.endswith('.png'))
@@ -172,8 +185,8 @@ def cenario(projeto, nome, desc):
 
 if __name__ == '__main__':
     ap = argparse.ArgumentParser(); ap.add_argument('acao'); ap.add_argument('args', nargs='*')
-    ap.add_argument('--ref'); ap.add_argument('--desc', default='')
+    ap.add_argument('--ref'); ap.add_argument('--desc', default=''); ap.add_argument('--mangas', default='', help='ex.: "long navy suit sleeve with white shirt cuff (only the hand is skin)"')
     a = ap.parse_args()
-    if a.acao == 'gerar': gerar(a.args[0], a.ref, a.desc)
+    if a.acao == 'gerar': gerar(a.args[0], a.ref, a.desc, a.mangas)
     elif a.acao == 'pecas': pecas(a.args[0])
     elif a.acao == 'cenario': cenario(*a.args)

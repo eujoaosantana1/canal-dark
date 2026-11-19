@@ -1,0 +1,27 @@
+{
+ "ombro_e": [
+  0.22,
+  0.36
+ ],
+ "ombro_d": [
+  0.8,
+  0.34
+ ],
+ "pescoco": [
+  0.5,
+  0.15
+ ],
+ "quadril": [
+  0.5,
+  0.97
+ ],
+ "umero": 0.36,
+ "cotovelo": 0.84,
+ "cabeca": 0.66,
+ "quadril_larg": 0.8,
+ "coxa": 0.42,
+ "joelho": 0.86,
+ "perna_dx": 0.17,
+ "gola": 0.5,
+ "escala": 1.2
+}

@@ -65,8 +65,12 @@ Responda sempre em português do Brasil.
   `python tools\marionete.py gerar NOME --ref recorte.png --desc "..."` (Gemini, ~10 imagens, ~US$ 1,30 por personagem, uma vez só) e
   `python tools\marionete.py pecas NOME` -> `viralstick\marionetes\NOME\` (peças PNG + `rig.json` com pivôs; folhas brutas em `_fonte\`).
   Cenário pintado: `python tools\marionete.py cenario PROJETO NOME "descrição"` -> `projects\PROJETO\cenarios\NOME.jpg`.
+  Roupa de manga comprida: `--mangas "long navy suit sleeve with a white shirt cuff (only the hand is skin)"`.
+  No `rig.json`: `escala` (tamanho do personagem perto dos outros; Técnico 1.2) e `gola` (onde começa o corte do pescoço; Técnico 0.5).
+  Marionetes prontas: josi, tecnico, contador.
   Cena: copiar `viralstick\modelos\shots\marionete.js` para `scenes\shots\` do projeto; no plano, kind `marionete` com
-  m, quem, fundo|set, plano (close|medio|inteiro), x, andar, poses ([t ou '@palavra', nome]), olhar (F|L|R), expr, texto.
+  fundo|set, plano (close|medio|inteiro), texto e `chars: [{m, quem, x, poses ([t ou '@palavra', nome]), olhar (F|L|R), expr, andar, escala}]`
+  (com um personagem só, os campos podem ir direto nos params).
   Poses prontas em `engine\marionete.js` (neutro, explica, explica_d, abre, encolhe, aponta_e, aponta_d, aponta_cima, comemora, cintura, acena).
   Piloto: projeto `escala-6x1-marionete` (trechos 20-30 s e 48-66 s do vídeo 10); vídeos de comparação em `pilotos\`.
 - Formato extra "Jornal do Universo" (telejornal) para assuntos do dia: cenas em `cenasapagao.js` (vinheta, estudio, tv_jura, tv_close, aovivo, homeoffice, grafico, relembre, caixas, porteiro, lista_dns, telas_azuis, cartao, emails); cenários em `sets\apagao.js`.

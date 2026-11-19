@@ -187,6 +187,184 @@
     ]
    ],
    "texto": "FILHA NA ESCOLA"
+  },
+  "c036": {
+   "kind": "marionete",
+   "fundo": "cenarios/reparticao.jpg",
+   "plano": "medio",
+   "chars": [
+    {
+     "m": "contador",
+     "quem": "CONTADOR",
+     "x": 0.5,
+     "expr": "",
+     "poses": [
+      [
+       0,
+       "neutro"
+      ],
+      [
+       0.6,
+       "explica"
+      ]
+     ]
+    }
+   ]
+  },
+  "c037": {
+   "kind": "marionete",
+   "fundo": "cenarios/reparticao.jpg",
+   "plano": "medio",
+   "texto": "É SIMPLES",
+   "chars": [
+    {
+     "m": "contador",
+     "quem": "CONTADOR",
+     "x": 0.3,
+     "olhar": [
+      [
+       0,
+       "R"
+      ]
+     ],
+     "poses": [
+      [
+       0,
+       "neutro"
+      ]
+     ]
+    },
+    {
+     "m": "tecnico",
+     "quem": "TECNICO",
+     "x": 0.72,
+     "olhar": [
+      [
+       0,
+       "L"
+      ]
+     ],
+     "expr": "sorri",
+     "poses": [
+      [
+       0,
+       "neutro"
+      ],
+      [
+       0.4,
+       "explica_d"
+      ]
+     ]
+    }
+   ]
+  },
+  "c038": {
+   "kind": "marionete",
+   "fundo": "cenarios/reparticao.jpg",
+   "plano": "close",
+   "desfoque": 4,
+   "chars": [
+    {
+     "m": "contador",
+     "quem": "CONTADOR",
+     "x": 0.45,
+     "poses": [
+      [
+       0,
+       "neutro"
+      ],
+      [
+       0.3,
+       "encolhe"
+      ]
+     ]
+    }
+   ]
+  },
+  "c040": {
+   "kind": "marionete",
+   "fundo": "cenarios/reparticao.jpg",
+   "plano": "medio",
+   "chars": [
+    {
+     "m": "contador",
+     "quem": "CONTADOR",
+     "x": 0.3,
+     "olhar": [
+      [
+       0,
+       "R"
+      ]
+     ],
+     "poses": [
+      [
+       0,
+       "neutro"
+      ]
+     ]
+    },
+    {
+     "m": "tecnico",
+     "quem": "TECNICO",
+     "x": 0.72,
+     "olhar": [
+      [
+       0,
+       "L"
+      ]
+     ],
+     "poses": [
+      [
+       0,
+       "encolhe"
+      ]
+     ]
+    }
+   ]
+  },
+  "c041": {
+   "kind": "marionete",
+   "fundo": "cenarios/reparticao.jpg",
+   "plano": "close",
+   "desfoque": 4,
+   "chars": [
+    {
+     "m": "contador",
+     "quem": "CONTADOR",
+     "x": 0.5,
+     "expr": "sorri",
+     "poses": [
+      [
+       0,
+       "neutro"
+      ],
+      [
+       "@mesmo",
+       "aponta_cima"
+      ]
+     ]
+    }
+   ]
+  },
+  "c043": {
+   "kind": "marionete",
+   "fundo": "cenarios/reparticao.jpg",
+   "plano": "close",
+   "desfoque": 4,
+   "chars": [
+    {
+     "m": "tecnico",
+     "quem": "TECNICO",
+     "x": 0.5,
+     "poses": [
+      [
+       0,
+       "encolhe"
+      ]
+     ],
+     "cab": "F"
+    }
+   ]
   }
  }
 }
