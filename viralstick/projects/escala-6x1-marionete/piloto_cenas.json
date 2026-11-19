@@ -1,0 +1,192 @@
+{
+ "_leia": "Cenas marionete do piloto (substituem estes ids no story/shots.json copiado do escala-6x1). No plano.json real, use os mesmos params.",
+ "cenas": {
+  "c006": {
+   "kind": "marionete",
+   "m": "josi",
+   "quem": "JOSI",
+   "fundo": "cenarios/mercado.jpg",
+   "desfoque": 4,
+   "plano": "close",
+   "x": 0.5,
+   "poses": [
+    [
+     0,
+     "neutro"
+    ],
+    [
+     0.25,
+     "explica"
+    ],
+    [
+     "@escrit",
+     "aponta_e"
+    ]
+   ],
+   "olhar": [
+    [
+     0,
+     "F"
+    ]
+   ]
+  },
+  "c007": {
+   "kind": "marionete",
+   "m": "josi",
+   "quem": "JOSI",
+   "fundo": "cenarios/mercado.jpg",
+   "plano": "medio",
+   "x": 0.62,
+   "expr": "sorri",
+   "poses": [
+    [
+     0,
+     "neutro"
+    ],
+    [
+     "@caixa",
+     "aponta_e"
+    ]
+   ],
+   "olhar": [
+    [
+     0,
+     "F"
+    ],
+    [
+     "@caixa",
+     "L"
+    ]
+   ],
+   "texto": "CAIXA DE SUPERMERCADO"
+  },
+  "c008": {
+   "kind": "marionete",
+   "m": "josi",
+   "quem": "JOSI",
+   "fundo": "cenarios/mercado.jpg",
+   "desfoque": 4,
+   "plano": "close",
+   "x": 0.42,
+   "poses": [
+    [
+     0,
+     "neutro"
+    ],
+    [
+     "@onze",
+     "encolhe"
+    ]
+   ],
+   "texto": "6x1 HÁ 11 ANOS"
+  },
+  "c013": {
+   "kind": "marionete",
+   "m": "josi",
+   "quem": "JOSI",
+   "fundo": "cenarios/casa.jpg",
+   "plano": "medio",
+   "x": 0.5,
+   "expr": "sorri",
+   "poses": [
+    [
+     0,
+     "acena"
+    ]
+   ],
+   "texto": "JOSI, 31 ANOS, RECIFE"
+  },
+  "c014": {
+   "kind": "marionete",
+   "m": "josi",
+   "quem": "JOSI",
+   "fundo": "cenarios/casa.jpg",
+   "plano": "medio",
+   "x": 0.4,
+   "expr": "sorri",
+   "poses": [
+    [
+     0,
+     "neutro"
+    ],
+    [
+     "@filha",
+     "explica_d"
+    ]
+   ],
+   "olhar": [
+    [
+     0,
+     "F"
+    ],
+    [
+     "@filha",
+     "R"
+    ]
+   ]
+  },
+  "c015": {
+   "kind": "marionete",
+   "m": "josi",
+   "quem": "JOSI",
+   "fundo": "cenarios/ponto.jpg",
+   "plano": "inteiro",
+   "andar": {
+    "de": 0.12,
+    "ate": 0.5
+   },
+   "poses": [
+    [
+     0,
+     "neutro"
+    ]
+   ],
+   "olhar": [
+    [
+     0,
+     "F"
+    ]
+   ],
+   "texto": "6H: SAI DE CASA"
+  },
+  "c017": {
+   "kind": "marionete",
+   "m": "josi",
+   "quem": "JOSI",
+   "fundo": "cenarios/casa.jpg",
+   "plano": "medio",
+   "x": 0.5,
+   "poses": [
+    [
+     0,
+     "abre"
+    ],
+    [
+     "@banco",
+     "aponta_e"
+    ],
+    [
+     "@posto",
+     "aponta_d"
+    ]
+   ],
+   "texto": "BANCO ABERTO"
+  },
+  "c018": {
+   "kind": "marionete",
+   "m": "josi",
+   "quem": "JOSI",
+   "fundo": "cenarios/casa.jpg",
+   "desfoque": 4,
+   "plano": "close",
+   "x": 0.5,
+   "poses": [
+    [
+     0,
+     "encolhe"
+    ]
+   ],
+   "texto": "FILHA NA ESCOLA"
+  }
+ }
+}

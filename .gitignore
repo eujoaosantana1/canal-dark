@@ -41,3 +41,9 @@ viralstick/projects/*_zerado/
 !viralstick-kit.zip
 publicacao_drive/
 pilotos/
+
+# Marionetes (peças recortadas sobem; folhas brutas do Gemini não)
+!viralstick/marionetes/**/*.png
+viralstick/marionetes/**/_fonte/
+# Cenários pintados dos projetos
+!viralstick/projects/*/cenarios/*.jpg

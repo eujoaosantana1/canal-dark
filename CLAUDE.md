@@ -61,6 +61,14 @@ Responda sempre em português do Brasil.
   Sem logos de marcas reais. Mostrar o comparacao_capas.jpg e esperar aprovação antes do próximo vídeo.
   Já no padrão novo: 03 a 12. Capas anteriores (estilo `tools\capas_estilo.py`) ficam em `publicacao\capas_antigas\` com final `_estilo`.
   Cada capa A/B/C combina com o título do `seo_<apelido>.txt` indicado nele (no 09: A=título 2, B=título 3, C=título 1).
+- Marionetes (em teste desde 19/11/2026, ainda não é o padrão dos vídeos): personagens no traço das capas, em peças, animados pelo motor.
+  `python tools\marionete.py gerar NOME --ref recorte.png --desc "..."` (Gemini, ~10 imagens, ~US$ 1,30 por personagem, uma vez só) e
+  `python tools\marionete.py pecas NOME` -> `viralstick\marionetes\NOME\` (peças PNG + `rig.json` com pivôs; folhas brutas em `_fonte\`).
+  Cenário pintado: `python tools\marionete.py cenario PROJETO NOME "descrição"` -> `projects\PROJETO\cenarios\NOME.jpg`.
+  Cena: copiar `viralstick\modelos\shots\marionete.js` para `scenes\shots\` do projeto; no plano, kind `marionete` com
+  m, quem, fundo|set, plano (close|medio|inteiro), x, andar, poses ([t ou '@palavra', nome]), olhar (F|L|R), expr, texto.
+  Poses prontas em `engine\marionete.js` (neutro, explica, explica_d, abre, encolhe, aponta_e, aponta_d, aponta_cima, comemora, cintura, acena).
+  Piloto: projeto `escala-6x1-marionete` (trechos 20-30 s e 48-66 s do vídeo 10); vídeos de comparação em `pilotos\`.
 - Formato extra "Jornal do Universo" (telejornal) para assuntos do dia: cenas em `cenasapagao.js` (vinheta, estudio, tv_jura, tv_close, aovivo, homeoffice, grafico, relembre, caixas, porteiro, lista_dns, telas_azuis, cartao, emails); cenários em `sets\apagao.js`.
 - Títulos: não repetir a palavra central de um vídeo recente.
 - Cota de voz: se a cota acabar, o `11 - Apagao Nuvem\5_rodar_as_5h.bat` serve de modelo para gerar vozes + vídeo sozinho depois de um horário (hoje 7h05).
