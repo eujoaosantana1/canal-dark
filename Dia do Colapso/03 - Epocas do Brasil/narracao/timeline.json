@@ -1,0 +1,418 @@
+{
+ "duracao": 927.07,
+ "falas": [
+  {
+   "n": "001",
+   "secao": "1. GANCHO — 0:00",
+   "texto": "Você fecha os olhos e acorda no Brasil. Só que não no Brasil de hoje. Você acorda em mil e quinhentos, no convés de um navio. E a cada vez que você dormir, acorda numa época diferente.",
+   "start": 0.0,
+   "end": 11.88
+  },
+  {
+   "n": "002",
+   "secao": "1. GANCHO — 0:00",
+   "texto": "Oito épocas. Da frota de Cabral até hoje. Em cada uma, eu vou te mostrar três coisas que tentariam te matar. E no fim de cada uma, um veredito: quanto tempo você duraria.",
+   "start": 12.33,
+   "end": 24.45
+  },
+  {
+   "n": "003",
+   "secao": "1. GANCHO — 0:00",
+   "texto": "Uma regra antes de começar. O veredito é uma estimativa. Eu parto de números que ficaram registrados em cada época: quantos morreram, de quê, e quando. E suponho que você chega lá como uma pessoa comum. Sem dinheiro, sem sobrenome e sem saber o que vai acontecer.",
+   "start": 24.9,
+   "end": 44.1
+  },
+  {
+   "n": "004",
+   "secao": "1. GANCHO — 0:00",
+   "texto": "Uma época é bem mais fácil do que parece. Outra é a pior de todas, e quase ninguém aprendeu sobre ela na escola. E a última é a única em que o veredito depende de você, e do que tem dentro da sua casa agora.",
+   "start": 44.55,
+   "end": 59.27
+  },
+  {
+   "n": "005",
+   "secao": "2. ABRIL DE 1500 — A FROTA DE CABRAL — 1:00",
+   "texto": "Época um. Nove de março de mil e quinhentos. Você acorda num porão escuro, balançando. Cheiro de sal, de suor e de comida estragada. Você está na frota de Pedro Álvares Cabral. São treze navios ao todo. A bordo, cerca de mil e quinhentos homens.",
+   "start": 60.57,
+   "end": 79.81
+  },
+  {
+   "n": "006",
+   "secao": "2. ABRIL DE 1500 — A FROTA DE CABRAL — 1:00",
+   "texto": "Primeira ameaça: a comida. O cardápio é biscoito duro, carne salgada, vinho e água guardada em barril. Nada fresco. E sem fruta e sem verdura, o corpo fica sem vitamina C. Depois de algumas semanas, aparece o escorbuto: cansaço, gengiva inchada e sangrando, dente caindo. Na viagem de Vasco da Gama, poucos anos antes, a doença matou boa parte da tripulação.",
+   "start": 80.26,
+   "end": 107.42
+  },
+  {
+   "n": "007",
+   "secao": "2. ABRIL DE 1500 — A FROTA DE CABRAL — 1:00",
+   "texto": "Segunda ameaça: o mar. Duas semanas depois da partida, perto de Cabo Verde, um dos navios, com cerca de cento e cinquenta homens, simplesmente some. Pero Vaz de Caminha escreveu que não houve vento forte nem contrário que explicasse. Ninguém nunca soube o que aconteceu.",
+   "start": 107.87,
+   "end": 126.59
+  },
+  {
+   "n": "008",
+   "secao": "2. ABRIL DE 1500 — A FROTA DE CABRAL — 1:00",
+   "texto": "Terceira ameaça: o tempo. Se você está num dos navios que chegaram, a terra aparece no dia vinte e dois de abril. Quarenta e quatro dias de viagem. Isso é rápido o bastante para o escorbuto ainda não ter tomado conta de todo mundo.",
+   "start": 127.04,
+   "end": 142.56
+  },
+  {
+   "n": "009",
+   "secao": "2. ABRIL DE 1500 — A FROTA DE CABRAL — 1:00",
+   "texto": "O problema é que a frota não veio para ficar. Ela segue para a Índia. E em maio, perto do Cabo da Boa Esperança, uma tempestade afunda quatro navios de uma vez. Uns quatrocentos homens. Entre eles, Bartolomeu Dias, o primeiro navegador a contornar aquele cabo.",
+   "start": 143.01,
+   "end": 159.49
+  },
+  {
+   "n": "010",
+   "secao": "2. ABRIL DE 1500 — A FROTA DE CABRAL — 1:00",
+   "texto": "A maior parte dos homens que partiram de Lisboa não voltou para casa.",
+   "start": 159.94,
+   "end": 164.7
+  },
+  {
+   "n": "011",
+   "secao": "2. ABRIL DE 1500 — A FROTA DE CABRAL — 1:00",
+   "texto": "Veredito. Você chega ao Brasil. Se tiver juízo, pede para ficar.",
+   "start": 165.15,
+   "end": 171.67
+  },
+  {
+   "n": "012",
+   "secao": "3. 1700 — A FOME NAS MINAS DE OURO — 2:50",
+   "texto": "Época dois. Você acorda com as mãos dentro de um riacho gelado, segurando uma bateia. É mil e setecentos. Alguns anos antes, acharam ouro no interior, onde hoje é Minas Gerais. E metade do Brasil largou tudo e correu para cá.",
+   "start": 172.97,
+   "end": 189.37
+  },
+  {
+   "n": "013",
+   "secao": "3. 1700 — A FOME NAS MINAS DE OURO — 2:50",
+   "texto": "E você acha ouro. Esse é o problema. Porque ouro não se come.",
+   "start": 189.82,
+   "end": 194.94
+  },
+  {
+   "n": "014",
+   "secao": "3. 1700 — A FOME NAS MINAS DE OURO — 2:50",
+   "texto": "Primeira ameaça: a fome. Chegou gente demais, rápido demais, num lugar onde ninguém plantava nada. Entre mil seiscentos e noventa e sete e mil e setecentos e um, a região passou pelas piores fomes da corrida do ouro. O padre jesuíta Antonil escreveu que muitos mineiros foram achados mortos com uma espiga de milho na mão, sem mais nada para comer.",
+   "start": 195.39,
+   "end": 219.83
+  },
+  {
+   "n": "015",
+   "secao": "3. 1700 — A FOME NAS MINAS DE OURO — 2:50",
+   "texto": "Segunda ameaça: o preço. Antonil anotou quanto custava a comida nas minas, poucos anos depois. Um alqueire de farinha de mandioca saía por quarenta oitavas de ouro. Isso dá uns cento e quarenta gramas de ouro por um saco de farinha. Você pode ter o bolso cheio, e mesmo assim passar fome em uma semana.",
+   "start": 220.28,
+   "end": 240.68
+  },
+  {
+   "n": "016",
+   "secao": "3. 1700 — A FOME NAS MINAS DE OURO — 2:50",
+   "texto": "Terceira ameaça: as outras pessoas. Muita gente armada, nenhuma polícia de verdade e ouro solto no chão. Poucos anos depois, paulistas e forasteiros entram em guerra pelas minas. E a Coroa portuguesa quer a parte dela: um quinto de todo o ouro. Em mil setecentos e vinte, quando ela proíbe o ouro em pó de circular e manda fundir tudo nas casas da Coroa, Vila Rica se revolta. O líder, Filipe dos Santos, é executado.",
+   "start": 241.13,
+   "end": 270.21
+  },
+  {
+   "n": "017",
+   "secao": "3. 1700 — A FOME NAS MINAS DE OURO — 2:50",
+   "texto": "Veredito. Quem sobreviveu às minas não foi quem achou mais ouro. Foi quem plantou milho.",
+   "start": 270.66,
+   "end": 276.9
+  },
+  {
+   "n": "018",
+   "secao": "4. 1808 — O RIO DE JANEIRO NA CHEGADA DA CORTE — 4:40",
+   "texto": "Época três. Você acorda numa rua estreita, de terra, no centro do Rio de Janeiro. Março de mil oitocentos e oito. No porto, chegam navios e mais navios. É a família real portuguesa, fugindo de Napoleão. E ela não veio sozinha.",
+   "start": 278.2,
+   "end": 293.96
+  },
+  {
+   "n": "019",
+   "secao": "4. 1808 — O RIO DE JANEIRO NA CHEGADA DA CORTE — 4:40",
+   "texto": "Primeira ameaça: perder a sua casa. Ninguém sabe ao certo quantas pessoas vieram com a corte. A conta mais citada fala em perto de dez mil, numa cidade que tinha entre cinquenta e sessenta mil moradores. E toda essa gente precisava morar em algum lugar.",
+   "start": 294.41,
+   "end": 311.01
+  },
+  {
+   "n": "020",
+   "secao": "4. 1808 — O RIO DE JANEIRO NA CHEGADA DA CORTE — 4:40",
+   "texto": "A solução foi uma lei antiga, das aposentadorias. Um oficial passava pela rua e pintava na porta duas letras: P R. Príncipe Regente. Quer dizer que a casa agora era de alguém da corte. O povo deu outro nome para as duas letras: ponha-se na rua.",
+   "start": 311.46,
+   "end": 329.02
+  },
+  {
+   "n": "021",
+   "secao": "4. 1808 — O RIO DE JANEIRO NA CHEGADA DA CORTE — 4:40",
+   "texto": "Segunda ameaça: a sujeira. O Rio não tinha esgoto. O que as casas produziam ia para barris. E toda noite, depois das dez, pessoas escravizadas levavam esses barris na cabeça até o mar. Eles vazavam, e as marcas que deixavam na pele deram a esses trabalhadores um apelido: tigres. Lixo em terreno vazio, água parada, mosquito e febre.",
+   "start": 329.47,
+   "end": 355.11
+  },
+  {
+   "n": "022",
+   "secao": "4. 1808 — O RIO DE JANEIRO NA CHEGADA DA CORTE — 4:40",
+   "texto": "Terceira ameaça, e é a que mais pesa no veredito: quem você é. Dos cerca de sessenta mil moradores, uns quarenta mil eram negros, e metade deles vivia escravizada. Se você acorda livre, o Rio de mil oitocentos e oito é sujo, lotado e caro, mas dá para viver nele por anos. Se você acorda escravizado, a sua vida não é sua.",
+   "start": 355.56,
+   "end": 377.92
+  },
+  {
+   "n": "023",
+   "secao": "4. 1808 — O RIO DE JANEIRO NA CHEGADA DA CORTE — 4:40",
+   "texto": "Veredito. A época mais fácil até aqui. Mas só para quem acordou do lado certo da porta.",
+   "start": 378.37,
+   "end": 385.45
+  },
+  {
+   "n": "024",
+   "secao": "5. 1865 — VOLUNTÁRIO DA PÁTRIA NA GUERRA DO PARAGUAI — 6:30",
+   "texto": "Época quatro. Janeiro de mil oitocentos e sessenta e cinco. O Brasil está em guerra com o Paraguai. E o imperador acaba de assinar um decreto chamando voluntários. Quem se alistar ganha soldo, um pedaço de terra quando a guerra acabar e, se morrer, uma pensão para a família. Você se alista. No começo, muita gente se alistou de verdade. Depois, muitos foram mandados à força.",
+   "start": 386.75,
+   "end": 411.91
+  },
+  {
+   "n": "025",
+   "secao": "5. 1865 — VOLUNTÁRIO DA PÁTRIA NA GUERRA DO PARAGUAI — 6:30",
+   "texto": "Primeira ameaça: a distância. Do Rio até a frente de batalha são semanas de navio e de marcha. Você chega a um lugar de rio, pântano e calor, e passa meses ali, esperando.",
+   "start": 412.36,
+   "end": 425.8
+  },
+  {
+   "n": "026",
+   "secao": "5. 1865 — VOLUNTÁRIO DA PÁTRIA NA GUERRA DO PARAGUAI — 6:30",
+   "texto": "Segunda ameaça: a batalha. Em maio de mil oitocentos e sessenta e seis, em Tuiuti, acontece uma das maiores batalhas já travadas na América do Sul. Mas ela não é o que mais mata.",
+   "start": 426.25,
+   "end": 438.21
+  },
+  {
+   "n": "027",
+   "secao": "5. 1865 — VOLUNTÁRIO DA PÁTRIA NA GUERRA DO PARAGUAI — 6:30",
+   "texto": "Terceira ameaça, a de verdade: a doença. Água contaminada, acampamento lotado, nenhum saneamento. Disenteria, varíola, malária. E o cólera, que só ele matou pelo menos quatro mil e quinhentos soldados brasileiros. No primeiro semestre de mil oitocentos e sessenta e oito, mais da metade das mortes nas tropas aliadas veio do cólera. A guerra durou mais de cinco anos.",
+   "start": 438.66,
+   "end": 465.06
+  },
+  {
+   "n": "028",
+   "secao": "5. 1865 — VOLUNTÁRIO DA PÁTRIA NA GUERRA DO PARAGUAI — 6:30",
+   "texto": "As estimativas mais aceitas falam em pelo menos cinquenta mil brasileiros mortos, a maioria por doença, não por bala.",
+   "start": 465.51,
+   "end": 473.35
+  },
+  {
+   "n": "029",
+   "secao": "5. 1865 — VOLUNTÁRIO DA PÁTRIA NA GUERRA DO PARAGUAI — 6:30",
+   "texto": "Veredito. Na Guerra do Paraguai, o inimigo mais perigoso não estava do outro lado. Estava no copo de água.",
+   "start": 473.8,
+   "end": 480.64
+  },
+  {
+   "n": "030",
+   "secao": "6. 1877 — A GRANDE SECA NO CEARÁ — 8:20",
+   "texto": "Época cinco. Você acorda no sertão do Ceará. Mil oitocentos e setenta e sete. E não chove.",
+   "start": 481.94,
+   "end": 488.98
+  },
+  {
+   "n": "031",
+   "secao": "6. 1877 — A GRANDE SECA NO CEARÁ — 8:20",
+   "texto": "Não chove em setenta e sete. Não chove em setenta e oito. E quase não chove em setenta e nove. O povo chamou de seca dos três setes. Ela é uma das maiores tragédias da história do Brasil, e quase não aparece nos livros.",
+   "start": 489.43,
+   "end": 505.99
+  },
+  {
+   "n": "032",
+   "secao": "6. 1877 — A GRANDE SECA NO CEARÁ — 8:20",
+   "texto": "Primeira ameaça: a fome. A roça morre, o gado morre. Quem pode, pega a família e sai andando. São os retirantes. E o destino de quase todos é o mesmo: Fortaleza, onde dizem que tem comida do governo.",
+   "start": 506.44,
+   "end": 522.52
+  },
+  {
+   "n": "033",
+   "secao": "6. 1877 — A GRANDE SECA NO CEARÁ — 8:20",
+   "texto": "Segunda ameaça: a cidade. Fortaleza tinha algumas dezenas de milhares de moradores. Recebeu mais de cem mil retirantes. Eles foram postos em abarracamentos, que o povo chamava de currais do governo. Sem água limpa, sem esgoto, todo mundo junto.",
+   "start": 522.97,
+   "end": 539.97
+  },
+  {
+   "n": "034",
+   "secao": "6. 1877 — A GRANDE SECA NO CEARÁ — 8:20",
+   "texto": "Terceira ameaça: a varíola. Num lugar assim, ela se espalha como fogo. Em outubro de mil oitocentos e setenta e sete, quase quinhentos mortos pela doença na capital. Em dezembro de setenta e oito, mais de catorze mil num mês só.",
+   "start": 540.42,
+   "end": 556.06
+  },
+  {
+   "n": "035",
+   "secao": "6. 1877 — A GRANDE SECA NO CEARÁ — 8:20",
+   "texto": "E no dia dez de dezembro de mil oitocentos e setenta e oito, um cemitério de Fortaleza recebeu mil e quatro corpos. Num único dia. Os coveiros eram retirantes contratados, e não deram conta: centenas de corpos ficaram sem enterro naquela noite. A cidade lembra dele até hoje como o Dia dos Mil Mortos.",
+   "start": 556.51,
+   "end": 577.27
+  },
+  {
+   "n": "036",
+   "secao": "6. 1877 — A GRANDE SECA NO CEARÁ — 8:20",
+   "texto": "Pelas contas da época, a seca matou perto de cento e oitenta mil pessoas só no Ceará.",
+   "start": 577.72,
+   "end": 583.64
+  },
+  {
+   "n": "037",
+   "secao": "6. 1877 — A GRANDE SECA NO CEARÁ — 8:20",
+   "texto": "Veredito. A pior época deste vídeo. Não porque alguém quis te matar. Porque não choveu, e ninguém estava preparado para isso.",
+   "start": 584.09,
+   "end": 592.85
+  },
+  {
+   "n": "038",
+   "secao": "7. 1918 — A GRIPE ESPANHOLA EM SÃO PAULO — 10:20",
+   "texto": "Época seis. Você acorda em São Paulo, em outubro de mil novecentos e dezoito. Uma cidade de uns quinhentos mil habitantes, crescendo rápido, cheia de imigrantes e de fábricas. E chega uma gripe.",
+   "start": 594.15,
+   "end": 608.11
+  },
+  {
+   "n": "039",
+   "secao": "7. 1918 — A GRIPE ESPANHOLA EM SÃO PAULO — 10:20",
+   "texto": "Primeira ameaça: pegar. E você vai pegar. Em seis a oito semanas, foram registrados mais de cento e dezesseis mil casos na capital. As estimativas falam que até dois terços da cidade ficou doente.",
+   "start": 608.56,
+   "end": 622.84
+  },
+  {
+   "n": "040",
+   "secao": "7. 1918 — A GRIPE ESPANHOLA EM SÃO PAULO — 10:20",
+   "texto": "Segunda ameaça: a cidade parar. Escolas fechadas, fábricas paradas, comércio sem gente. Faltava médico, faltava remédio, faltava caixão. No pior dia, catorze de novembro, morreram quase trezentas pessoas na cidade.",
+   "start": 623.29,
+   "end": 641.89
+  },
+  {
+   "n": "041",
+   "secao": "7. 1918 — A GRIPE ESPANHOLA EM SÃO PAULO — 10:20",
+   "texto": "Terceira ameaça: as complicações. A gripe em si passa. O que mata é a pneumonia que vem depois, sem antibiótico, que ainda não existia. A espanhola atingiu até o presidente eleito, Rodrigues Alves. Ele morreu em janeiro de mil novecentos e dezenove, sem tomar posse.",
+   "start": 642.34,
+   "end": 661.78
+  },
+  {
+   "n": "042",
+   "secao": "7. 1918 — A GRIPE ESPANHOLA EM SÃO PAULO — 10:20",
+   "texto": "Agora o número que muda o veredito. Em São Paulo, a gripe matou cerca de cinco mil, trezentas e trinta pessoas. É muita gente. Mas é perto de um por cento da cidade.",
+   "start": 662.23,
+   "end": 673.79
+  },
+  {
+   "n": "043",
+   "secao": "7. 1918 — A GRIPE ESPANHOLA EM SÃO PAULO — 10:20",
+   "texto": "Veredito. Você quase certamente adoece. E quase certamente sobrevive. Depois da seca, parece pouco. Para quem perdeu alguém, não foi.",
+   "start": 674.24,
+   "end": 684.52
+  },
+  {
+   "n": "044",
+   "secao": "8. 1957 — CANDANGO NA CONSTRUÇÃO DE BRASÍLIA — 12:00",
+   "texto": "Época sete. Você acorda no meio do cerrado, coberto de poeira vermelha. Mil novecentos e cinquenta e sete. Em volta, nada. Só máquinas e gente. Estão construindo uma capital do zero, e ela tem que ficar pronta em pouco mais de três anos.",
+   "start": 685.82,
+   "end": 702.62
+  },
+  {
+   "n": "045",
+   "secao": "8. 1957 — CANDANGO NA CONSTRUÇÃO DE BRASÍLIA — 12:00",
+   "texto": "Você é um candango. Veio de longe, como milhares de outros, atrás de trabalho. E trabalho não falta.",
+   "start": 703.07,
+   "end": 710.07
+  },
+  {
+   "n": "046",
+   "secao": "8. 1957 — CANDANGO NA CONSTRUÇÃO DE BRASÍLIA — 12:00",
+   "texto": "Primeira ameaça: o cansaço. Os relatos falam em turnos de catorze a dezesseis horas, de dia e de noite, para cumprir o prazo. Meses antes da inauguração, eram mais de quarenta mil operários na obra.",
+   "start": 710.52,
+   "end": 724.44
+  },
+  {
+   "n": "047",
+   "secao": "8. 1957 — CANDANGO NA CONSTRUÇÃO DE BRASÍLIA — 12:00",
+   "texto": "Segunda ameaça: o acidente. Andaime alto, máquina pesada, escavação sem escora. Os acidentes eram frequentes. E até hoje ninguém sabe ao certo quantos operários morreram construindo Brasília.",
+   "start": 724.89,
+   "end": 739.57
+  },
+  {
+   "n": "048",
+   "secao": "8. 1957 — CANDANGO NA CONSTRUÇÃO DE BRASÍLIA — 12:00",
+   "texto": "Terceira ameaça: quem manda. Não havia polícia comum, só uma guarda da própria companhia que construía a cidade. Em fevereiro de mil novecentos e cinquenta e nove, no carnaval, operários de um acampamento reclamaram da comida estragada. Horas depois, a guarda voltou à noite e abriu fogo. O número de mortos nunca foi esclarecido. Um jornal da época falou em nove. Trabalhadores falaram em muito mais.",
+   "start": 740.02,
+   "end": 767.86
+  },
+  {
+   "n": "049",
+   "secao": "8. 1957 — CANDANGO NA CONSTRUÇÃO DE BRASÍLIA — 12:00",
+   "texto": "Veredito. Pela primeira vez neste vídeo, comida e água não são o problema. O problema é o ritmo. E quem ditava o ritmo não era você.",
+   "start": 768.31,
+   "end": 777.79
+  },
+  {
+   "n": "050",
+   "secao": "9. HOJE — 30 DIAS SEM ENERGIA EM SÃO PAULO — 13:30",
+   "texto": "Última época. Você acorda na sua cama. Hoje. Em São Paulo. E a luz não acende.",
+   "start": 779.09,
+   "end": 786.77
+  },
+  {
+   "n": "051",
+   "secao": "9. HOJE — 30 DIAS SEM ENERGIA EM SÃO PAULO — 13:30",
+   "texto": "Isso não é ficção. Em outubro de dois mil e vinte e quatro, um temporal derrubou a energia de mais de dois milhões de imóveis na Grande São Paulo. Parte deles passou dias no escuro. E aí aparece uma coisa que quase ninguém espera.",
+   "start": 787.22,
+   "end": 801.22
+  },
+  {
+   "n": "052",
+   "secao": "9. HOJE — 30 DIAS SEM ENERGIA EM SÃO PAULO — 13:30",
+   "texto": "Primeira ameaça: a água. Para a água chegar ao alto dos bairros e às caixas dos prédios, ela é bombeada. E bomba precisa de energia. Naquele apagão, a Sabesp avisou que estações de bombeamento foram afetadas, e faltou água em várias cidades. Sem energia, a torneira seca em um ou dois dias.",
+   "start": 801.67,
+   "end": 822.19
+  },
+  {
+   "n": "053",
+   "secao": "9. HOJE — 30 DIAS SEM ENERGIA EM SÃO PAULO — 13:30",
+   "texto": "Segunda ameaça: a comida. A geladeira desliga. Em um dia, a carne estraga. O mercado não consegue passar cartão e não tem como manter o freezer. O posto não bombeia combustível sem energia.",
+   "start": 822.64,
+   "end": 836.12
+  },
+  {
+   "n": "054",
+   "secao": "9. HOJE — 30 DIAS SEM ENERGIA EM SÃO PAULO — 13:30",
+   "texto": "Terceira ameaça: a saúde. Hospital tem gerador, mas gerador depende de diesel chegando. E quem precisa de remédio na geladeira, ou de aparelho ligado na tomada, sente primeiro.",
+   "start": 836.57,
+   "end": 849.57
+  },
+  {
+   "n": "055",
+   "secao": "9. HOJE — 30 DIAS SEM ENERGIA EM SÃO PAULO — 13:30",
+   "texto": "Agora, o veredito. Nas outras sete épocas, quase tudo dependia do lugar e do ano em que você acordou. Nesta, depende de uma coisa que você ainda pode mudar hoje.",
+   "start": 850.02,
+   "end": 862.62
+  },
+  {
+   "n": "056",
+   "secao": "9. HOJE — 30 DIAS SEM ENERGIA EM SÃO PAULO — 13:30",
+   "texto": "A Defesa Civil recomenda que cada casa aguente setenta e duas horas por conta própria. Água, comida que não precisa de geladeira, lanterna, pilha, rádio, remédio e um pouco de dinheiro vivo. Com isso, você atravessa os primeiros três dias, que é quando quase todo mundo entra em pânico. Sem isso, a sua casa de hoje começa a parecer com algumas das épocas que a gente viu.",
+   "start": 863.07,
+   "end": 887.71
+  },
+  {
+   "n": "057",
+   "secao": "10. FECHAMENTO — 14:40",
+   "texto": "Oito épocas. Na maioria delas, o que matava não era o que a gente imagina. Não era a guerra, era a água do acampamento. Não era a falta de ouro, era a falta de milho. Não era o vírus, era a pneumonia sem remédio. Quase sempre, era água, comida e saúde. As três coisas que estão no painel deste canal.",
+   "start": 889.01,
+   "end": 909.65
+  },
+  {
+   "n": "058",
+   "secao": "10. FECHAMENTO — 14:40",
+   "texto": "Agora me conta nos comentários: em qual época você acha que duraria mais? E em qual você não passaria do primeiro dia?",
+   "start": 910.1,
+   "end": 918.02
+  },
+  {
+   "n": "059",
+   "secao": "10. FECHAMENTO — 14:40",
+   "texto": "E se você quer saber o que aconteceria se aquele apagão de São Paulo durasse um mês inteiro, dia por dia, o episódio Apagão Total está aqui do lado.",
+   "start": 918.47,
+   "end": 927.07
+  }
+ ]
+}

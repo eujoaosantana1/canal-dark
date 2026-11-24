@@ -1,0 +1,453 @@
+{
+ "duracao": 634.08,
+ "falas": [
+  {
+   "n": "001",
+   "secao": "1. APERTURA — 0:00",
+   "texto": "Debajo de la Ciudad de México hay un lago. Encima de ese lago hubo un imperio. Y antes del imperio, mamuts. Y mucho antes, un asteroide.",
+   "start": 0.0,
+   "end": 8.76
+  },
+  {
+   "n": "002",
+   "secao": "1. APERTURA — 0:00",
+   "texto": "Hoy vas a viajar por ocho épocas de México. En cada una vas a llegar con lo que traes puesto: sin teléfono, sin dinero de la época y sin conocer a nadie.",
+   "start": 9.21,
+   "end": 18.45
+  },
+  {
+   "n": "003",
+   "secao": "1. APERTURA — 0:00",
+   "texto": "Este panel te va a decir cómo vas. Y al final de cada época, una sola pregunta: ¿cuánto tiempo sobrevivirías?",
+   "start": 18.9,
+   "end": 26.86
+  },
+  {
+   "n": "004",
+   "secao": "1. APERTURA — 0:00",
+   "texto": "Empezamos lejos. Muy lejos.",
+   "start": 27.31,
+   "end": 31.67
+  },
+  {
+   "n": "005",
+   "secao": "2. EL DÍA DEL ASTEROIDE — HACE 66 MILLONES DE AÑOS",
+   "texto": "Abres los ojos en una playa caliente y húmeda. No hay pueblos ni caminos. Hay helechos gigantes, insectos enormes y, a lo lejos, algo que camina en dos patas.",
+   "start": 32.97,
+   "end": 44.53
+  },
+  {
+   "n": "006",
+   "secao": "2. EL DÍA DEL ASTEROIDE — HACE 66 MILLONES DE AÑOS",
+   "texto": "Por ahora, el problema son los dinosaurios. Pero mira al cielo. Hay un punto de luz que no estaba ahí hace un minuto.",
+   "start": 44.98,
+   "end": 53.3
+  },
+  {
+   "n": "007",
+   "secao": "2. EL DÍA DEL ASTEROIDE — HACE 66 MILLONES DE AÑOS",
+   "texto": "Es una roca de unos diez kilómetros que viene directo hacia la costa de Yucatán. Cuando toque el suelo, va a abrir un cráter de casi doscientos kilómetros de ancho.",
+   "start": 53.75,
+   "end": 64.47
+  },
+  {
+   "n": "008",
+   "secao": "2. EL DÍA DEL ASTEROIDE — HACE 66 MILLONES DE AÑOS",
+   "texto": "Si estás aquí, no hay carrera posible. El calor y la onda expansiva llegan antes que el sonido. Y si estuvieras lejos, en el centro de México, ganarías un poco de tiempo: lluvia de roca ardiente, incendios y, después, meses de cielo oscuro y frío.",
+   "start": 64.92,
+   "end": 83.28
+  },
+  {
+   "n": "009",
+   "secao": "2. EL DÍA DEL ASTEROIDE — HACE 66 MILLONES DE AÑOS",
+   "texto": "Por cierto: ningún ser humano vio esto. Faltaban sesenta y seis millones de años para nosotros.",
+   "start": 83.73,
+   "end": 91.37
+  },
+  {
+   "n": "010",
+   "secao": "2. EL DÍA DEL ASTEROIDE — HACE 66 MILLONES DE AÑOS",
+   "texto": "Tiempo de supervivencia: segundos.",
+   "start": 91.82,
+   "end": 95.22
+  },
+  {
+   "n": "011",
+   "secao": "3. CAZADORES DE MAMUTS — HACE 15 MIL AÑOS",
+   "texto": "Saltamos sesenta y seis millones de años. Ahora estás en la orilla de un lago enorme, justo donde hoy está el Estado de México. Hace frío en las mañanas y el pasto llega a la rodilla.",
+   "start": 96.52,
+   "end": 109.04
+  },
+  {
+   "n": "012",
+   "secao": "3. CAZADORES DE MAMUTS — HACE 15 MIL AÑOS",
+   "texto": "Y en la orilla, comiendo tranquilos, hay mamuts.",
+   "start": 109.49,
+   "end": 112.69
+  },
+  {
+   "n": "013",
+   "secao": "3. CAZADORES DE MAMUTS — HACE 15 MIL AÑOS",
+   "texto": "Agua tienes de sobra. Comida, depende de ti. Los primeros días vas a sobrevivir con plantas, huevos de aves y lo que sepas atrapar. Pero de noche hay depredadores, y tú no tienes fuego.",
+   "start": 113.14,
+   "end": 127.3
+  },
+  {
+   "n": "014",
+   "secao": "3. CAZADORES DE MAMUTS — HACE 15 MIL AÑOS",
+   "texto": "Tu mejor opción es encontrar gente. Y aquí hay gente.",
+   "start": 127.75,
+   "end": 131.71
+  },
+  {
+   "n": "015",
+   "secao": "3. CAZADORES DE MAMUTS — HACE 15 MIL AÑOS",
+   "texto": "En dos mil diecinueve, en Tultepec, arqueólogos del INAH encontraron dos fosas de casi dos metros de profundidad con más de ochocientos huesos de al menos catorce mamuts. Eran trampas. Los cazadores de esta época cavaban, esperaban y arreaban a los animales hacia ellas.",
+   "start": 132.16,
+   "end": 150.12
+  },
+  {
+   "n": "016",
+   "secao": "3. CAZADORES DE MAMUTS — HACE 15 MIL AÑOS",
+   "texto": "Si te aceptan en el grupo, ganas fuego, ropa de piel y una parte de la carne. Si no, estás solo en una cuenca llena de animales más grandes que tú.",
+   "start": 150.57,
+   "end": 160.25
+  },
+  {
+   "n": "017",
+   "secao": "3. CAZADORES DE MAMUTS — HACE 15 MIL AÑOS",
+   "texto": "Tiempo de supervivencia: tres semanas si estás solo. Años, si te unes a una banda.",
+   "start": 160.7,
+   "end": 167.7
+  },
+  {
+   "n": "018",
+   "secao": "4. TENOCHTITLAN EN SU APOGEO — 1519",
+   "texto": "Ahora despiertas en una canoa. Frente a ti hay una ciudad sobre el agua, con templos blancos, canales y calzadas que la unen a tierra firme. Es Tenochtitlan, y es una de las ciudades más grandes del mundo.",
+   "start": 169.0,
+   "end": 182.6
+  },
+  {
+   "n": "019",
+   "secao": "4. TENOCHTITLAN EN SU APOGEO — 1519",
+   "texto": "El agua potable llega por un acueducto desde Chapultepec. La comida sale de las chinampas, huertos flotantes que dan cosecha casi todo el año.",
+   "start": 183.05,
+   "end": 191.29
+  },
+  {
+   "n": "020",
+   "secao": "4. TENOCHTITLAN EN SU APOGEO — 1519",
+   "texto": "Y en el mercado de Tlatelolco se juntan decenas de miles de personas a intercambiar maíz, frijol, cacao, guajolotes y telas.",
+   "start": 191.74,
+   "end": 201.02
+  },
+  {
+   "n": "021",
+   "secao": "4. TENOCHTITLAN EN SU APOGEO — 1519",
+   "texto": "El problema no es la comida. El problema eres tú.",
+   "start": 201.47,
+   "end": 205.39
+  },
+  {
+   "n": "022",
+   "secao": "4. TENOCHTITLAN EN SU APOGEO — 1519",
+   "texto": "No hablas náhuatl, no perteneces a ningún calpulli, que es el barrio que te da tierra y protección, y nadie sabe de dónde vienes. En esta sociedad, un forastero sin lugar puede terminar como esclavo o como cautivo. Y los cautivos de guerra podían acabar en la piedra del sacrificio.",
+   "start": 205.84,
+   "end": 223.44
+  },
+  {
+   "n": "023",
+   "secao": "4. TENOCHTITLAN EN SU APOGEO — 1519",
+   "texto": "Si aprendes rápido, trabajas y alguien responde por ti, aquí puedes vivir bien.",
+   "start": 223.89,
+   "end": 230.33
+  },
+  {
+   "n": "024",
+   "secao": "4. TENOCHTITLAN EN SU APOGEO — 1519",
+   "texto": "Tiempo de supervivencia: años. Si sigues las reglas.",
+   "start": 230.78,
+   "end": 236.1
+  },
+  {
+   "n": "025",
+   "secao": "4. TENOCHTITLAN EN SU APOGEO — 1519",
+   "texto": "Pero en noviembre de mil quinientos diecinueve entran por la calzada unos extranjeros a caballo. Y lo que traen no se ve.",
+   "start": 236.55,
+   "end": 244.19
+  },
+  {
+   "n": "026",
+   "secao": "5. EL SITIO DE TENOCHTITLAN — 1521",
+   "texto": "Avanzamos dos años. La ciudad que conociste ya no es la misma.",
+   "start": 245.49,
+   "end": 250.49
+  },
+  {
+   "n": "027",
+   "secao": "5. EL SITIO DE TENOCHTITLAN — 1521",
+   "texto": "En mil quinientos veinte llegó la viruela. Los mexicas nunca habían tenido contacto con ella. Murió tanta gente que no alcanzaban a enterrarla. Uno de los muertos fue el propio huey tlatoani, Cuitláhuac.",
+   "start": 250.94,
+   "end": 264.98
+  },
+  {
+   "n": "028",
+   "secao": "5. EL SITIO DE TENOCHTITLAN — 1521",
+   "texto": "Ahora, en mayo de mil quinientos veintiuno, Hernán Cortés y miles de aliados indígenas rodean la isla. Lo primero que hacen es cortar el acueducto. El agua dulce se acaba. Lo que queda es el agua salobre del lago.",
+   "start": 265.43,
+   "end": 281.75
+  },
+  {
+   "n": "029",
+   "secao": "5. EL SITIO DE TENOCHTITLAN — 1521",
+   "texto": "Las canoas con comida ya no pueden entrar. La gente come raíces, lagartijas, hierbas del lago. Y la viruela sigue ahí.",
+   "start": 282.2,
+   "end": 291.08
+  },
+  {
+   "n": "030",
+   "secao": "5. EL SITIO DE TENOCHTITLAN — 1521",
+   "texto": "El sitio dura casi tres meses. El trece de agosto de mil quinientos veintiuno cae Tenochtitlan.",
+   "start": 291.53,
+   "end": 298.57
+  },
+  {
+   "n": "031",
+   "secao": "5. EL SITIO DE TENOCHTITLAN — 1521",
+   "texto": "Tu mejor carta es salir antes de que cierren las calzadas. Si te quedas dentro, entre la sed, el hambre y la enfermedad, tus probabilidades bajan cada día.",
+   "start": 299.02,
+   "end": 309.86
+  },
+  {
+   "n": "032",
+   "secao": "5. EL SITIO DE TENOCHTITLAN — 1521",
+   "texto": "Tiempo de supervivencia: unas semanas.",
+   "start": 310.31,
+   "end": 313.91
+  },
+  {
+   "n": "033",
+   "secao": "6. LA CIUDAD BAJO EL AGUA — 1629",
+   "texto": "Pasan cien años. Sobre las ruinas de Tenochtitlan ya hay una ciudad española, con catedral, palacios y calles rectas. Pero sigue en medio de un lago. Y el lago no se fue.",
+   "start": 315.21,
+   "end": 329.57
+  },
+  {
+   "n": "034",
+   "secao": "6. LA CIUDAD BAJO EL AGUA — 1629",
+   "texto": "Es el veintiuno de septiembre de mil seiscientos veintinueve, día de San Mateo. Empieza a llover. Y no para durante unas treinta y seis horas.",
+   "start": 330.02,
+   "end": 338.86
+  },
+  {
+   "n": "035",
+   "secao": "6. LA CIUDAD BAJO EL AGUA — 1629",
+   "texto": "Cuando por fin deja de llover, el agua llega a más de dos metros en muchas calles. Las casas de adobe se ablandan y se caen. Los granos y la carne guardados se echan a perder.",
+   "start": 339.31,
+   "end": 351.51
+  },
+  {
+   "n": "036",
+   "secao": "6. LA CIUDAD BAJO EL AGUA — 1629",
+   "texto": "Irónicamente, estás rodeado de agua, pero es agua sucia. Beberla sin hervirla es la forma más rápida de enfermarte.",
+   "start": 351.96,
+   "end": 359.8
+  },
+  {
+   "n": "037",
+   "secao": "6. LA CIUDAD BAJO EL AGUA — 1629",
+   "texto": "La gente se mueve en canoa. Hay misas en los balcones para que los vecinos las sigan desde las azoteas. Y lo peor: el agua no baja. La ciudad va a quedar inundada cerca de cinco años, hasta mil seiscientos treinta y cuatro.",
+   "start": 360.25,
+   "end": 375.85
+  },
+  {
+   "n": "038",
+   "secao": "6. LA CIUDAD BAJO EL AGUA — 1629",
+   "texto": "Se calcula que murieron miles de personas. Según el arzobispo de la época, de unas veinte mil familias españolas quedaron unas cuatrocientas. Muchos se fueron a Puebla. Incluso se discutió mudar la capital a otro lugar.",
+   "start": 376.3,
+   "end": 391.46
+  },
+  {
+   "n": "039",
+   "secao": "6. LA CIUDAD BAJO EL AGUA — 1629",
+   "texto": "Si tienes canoa, azotea y fuego para hervir agua, aguantas. Si no, tu mejor decisión es irte en la primera semana.",
+   "start": 391.91,
+   "end": 399.67
+  },
+  {
+   "n": "040",
+   "secao": "6. LA CIUDAD BAJO EL AGUA — 1629",
+   "texto": "Tiempo de supervivencia: meses. Si te quedas.",
+   "start": 400.12,
+   "end": 404.76
+  },
+  {
+   "n": "041",
+   "secao": "7. EL AÑO DEL HAMBRE — 1915",
+   "texto": "Ahora es mil novecientos quince, en plena Revolución. La ciudad ya no está inundada. Tiene tranvías, luz eléctrica en el centro y edificios de piedra. Parece más segura que todo lo anterior.",
+   "start": 406.06,
+   "end": 418.82
+  },
+  {
+   "n": "042",
+   "secao": "7. EL AÑO DEL HAMBRE — 1915",
+   "texto": "No lo es.",
+   "start": 419.27,
+   "end": 420.63
+  },
+  {
+   "n": "043",
+   "secao": "7. EL AÑO DEL HAMBRE — 1915",
+   "texto": "En pocos meses, la capital cambia de manos varias veces. Cada bando imprime su propio dinero, y el billete que aceptó la panadería ayer hoy no vale nada.",
+   "start": 421.08,
+   "end": 431.04
+  },
+  {
+   "n": "044",
+   "secao": "7. EL AÑO DEL HAMBRE — 1915",
+   "texto": "Los trenes que traían maíz y frijol se usan para mover tropas. Las haciendas ya no producen como antes. Hay filas enormes para recibir comida, y a veces la comida no alcanza.",
+   "start": 431.49,
+   "end": 444.37
+  },
+  {
+   "n": "045",
+   "secao": "7. EL AÑO DEL HAMBRE — 1915",
+   "texto": "Y con el hambre llega el tifo, que se transmite por piojos. Solo entre agosto y diciembre de mil novecientos quince se registraron más de seis mil enfermos de tifo en la ciudad.",
+   "start": 444.82,
+   "end": 455.54
+  },
+  {
+   "n": "046",
+   "secao": "7. EL AÑO DEL HAMBRE — 1915",
+   "texto": "Aquí tu enemigo no es una bala. Es la desnutrición lenta y la enfermedad. Si consigues trabajo pagado en especie, o tienes familia en el campo, la libras.",
+   "start": 455.99,
+   "end": 468.03
+  },
+  {
+   "n": "047",
+   "secao": "7. EL AÑO DEL HAMBRE — 1915",
+   "texto": "Tiempo de supervivencia: de tres a seis meses, sin ayuda.",
+   "start": 468.48,
+   "end": 473.16
+  },
+  {
+   "n": "048",
+   "secao": "8. EL TERREMOTO — 19 DE SEPTIEMBRE DE 1985",
+   "texto": "Avanzamos setenta años. Estás en un departamento del centro de la Ciudad de México. Es jueves, son las siete y diecisiete de la mañana y te estás preparando para salir.",
+   "start": 474.46,
+   "end": 485.9
+  },
+  {
+   "n": "049",
+   "secao": "8. EL TERREMOTO — 19 DE SEPTIEMBRE DE 1985",
+   "texto": "Frente a la costa de Michoacán, a cientos de kilómetros, acaba de empezar un sismo de magnitud ocho punto uno.",
+   "start": 486.35,
+   "end": 493.75
+  },
+  {
+   "n": "050",
+   "secao": "8. EL TERREMOTO — 19 DE SEPTIEMBRE DE 1985",
+   "texto": "No hay alerta sísmica. Esa todavía no existe. Las ondas tardan unos dos minutos en llegar.",
+   "start": 494.2,
+   "end": 501.12
+  },
+  {
+   "n": "051",
+   "secao": "8. EL TERREMOTO — 19 DE SEPTIEMBRE DE 1985",
+   "texto": "Y aquí entra el lago otra vez. El centro de la ciudad está construido sobre arcilla blanda del antiguo lago, y esa arcilla amplifica el movimiento. Los edificios de entre seis y quince pisos se mueven al mismo ritmo que el suelo, y muchos colapsan.",
+   "start": 501.57,
+   "end": 517.69
+  },
+  {
+   "n": "052",
+   "secao": "8. EL TERREMOTO — 19 DE SEPTIEMBRE DE 1985",
+   "texto": "En esta época no te mata el hambre ni la sed. Lo que importa son los primeros dos minutos: dónde estás parado y si sabes a dónde ir. Las cifras de muertos van de miles, según los datos oficiales, a más de diez mil, según otras estimaciones.",
+   "start": 518.14,
+   "end": 534.74
+  },
+  {
+   "n": "053",
+   "secao": "8. EL TERREMOTO — 19 DE SEPTIEMBRE DE 1985",
+   "texto": "Y si quedas atrapado, hay algo a tu favor: miles de vecinos salieron a rescatar con sus propias manos. De ahí nacieron los Topos.",
+   "start": 535.19,
+   "end": 544.27
+  },
+  {
+   "n": "054",
+   "secao": "8. EL TERREMOTO — 19 DE SEPTIEMBRE DE 1985",
+   "texto": "Tiempo de supervivencia: los primeros dos minutos lo deciden todo.",
+   "start": 544.72,
+   "end": 549.4
+  },
+  {
+   "n": "055",
+   "secao": "9. LA CDMX DE HOY",
+   "texto": "Última parada: hoy. Tienes agua en la llave casi siempre, comida en cada esquina y alerta sísmica en el teléfono.",
+   "start": 550.7,
+   "end": 559.46
+  },
+  {
+   "n": "056",
+   "secao": "9. LA CDMX DE HOY",
+   "texto": "Aquí sobrevives sin problema. Pero mira la barra del agua. Está en amarillo, y no es por error.",
+   "start": 559.91,
+   "end": 566.59
+  },
+  {
+   "n": "057",
+   "secao": "9. LA CDMX DE HOY",
+   "texto": "Cerca del setenta por ciento del agua de la ciudad sale de pozos, del mismo acuífero que hay debajo de tus pies. Al sacar esa agua, la arcilla del viejo lago se compacta. Y la ciudad se hunde.",
+   "start": 567.04,
+   "end": 580.64
+  },
+  {
+   "n": "058",
+   "secao": "9. LA CDMX DE HOY",
+   "texto": "En algunas zonas, hasta cuarenta o cincuenta centímetros por año. Al Ángel de la Independencia le han tenido que agregar escalones porque el suelo alrededor bajó.",
+   "start": 581.09,
+   "end": 591.53
+  },
+  {
+   "n": "059",
+   "secao": "9. LA CDMX DE HOY",
+   "texto": "No es algo que te vaya a matar mañana. Pero es el mismo lago de siempre, cobrando la factura.",
+   "start": 591.98,
+   "end": 598.18
+  },
+  {
+   "n": "060",
+   "secao": "9. LA CDMX DE HOY",
+   "texto": "Tiempo de supervivencia: indefinido. Pero el suelo sigue bajando.",
+   "start": 598.63,
+   "end": 603.51
+  },
+  {
+   "n": "061",
+   "secao": "10. CIERRE",
+   "texto": "Ocho épocas. Un asteroide, mamuts, un imperio, una conquista, un diluvio, una revolución, un terremoto y una ciudad que se hunde.",
+   "start": 604.81,
+   "end": 616.21
+  },
+  {
+   "n": "062",
+   "secao": "10. CIERRE",
+   "texto": "Y en casi todas, el protagonista fue el mismo: el lago.",
+   "start": 616.66,
+   "end": 621.42
+  },
+  {
+   "n": "063",
+   "secao": "10. CIERRE",
+   "texto": "¿En cuál crees que durarías más? Déjalo en los comentarios.",
+   "start": 621.87,
+   "end": 626.27
+  },
+  {
+   "n": "064",
+   "secao": "10. CIERRE",
+   "texto": "Y si quieres saber qué hay de verdad debajo de la Ciudad de México, y por qué se está hundiendo, ese es el próximo video.",
+   "start": 626.72,
+   "end": 634.08
+  }
+ ]
+}

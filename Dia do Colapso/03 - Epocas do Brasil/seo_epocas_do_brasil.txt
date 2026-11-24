@@ -1,0 +1,56 @@
+TÍTULO (teste A/B com as 3 capas em publicacao\)
+A) Quanto tempo você duraria em cada época do Brasil?        -> capa_A (quatro épocas lado a lado)   [recomendado para a estreia]
+B) Você acorda no Brasil de 1500. Quanto tempo sobrevive?   -> capa_B (caravela x São Paulo apagada)
+C) Quanto tempo você sobreviveria em cada século do Brasil?  -> capa_C (mapa com as 8 épocas)
+
+DESCRIÇÃO
+Você fecha os olhos e acorda no Brasil de 1500, a bordo da frota de Cabral. E a cada vez que dorme, acorda numa época diferente: a fome nas minas de ouro, o Rio da chegada da corte, a Guerra do Paraguai, a Grande Seca de 1877, a gripe espanhola, a construção de Brasília e uma São Paulo de hoje sem energia.
+
+Em cada época, três ameaças reais e um veredito: quanto tempo você duraria. O veredito é uma estimativa do canal, feita a partir de números registrados em cada época (mortes, doenças, fome), supondo que você chega lá como uma pessoa comum. Não é previsão: é uma régua para comparar.
+
+Em qual época você duraria mais? E em qual não passaria do primeiro dia? Conta nos comentários.
+
+CAPÍTULOS
+00:00 Você acorda no Brasil
+01:00 1500: a frota de Cabral
+02:53 1700: a fome nas minas de ouro
+04:38 1808: o Rio na chegada da corte
+06:26 1865: voluntário da pátria
+08:01 1877: a Grande Seca no Ceará
+09:54 1918: a gripe espanhola
+11:25 1957: candango em Brasília
+12:59 Hoje: 30 dias sem energia
+14:49 Oito épocas, oito vereditos
+
+FONTES
+- Carta de Pero Vaz de Caminha (1500); registros da 2ª armada da Índia (Cabral, 1500)
+- André João Antonil, "Cultura e Opulência do Brasil por suas Drogas e Minas" (1711)
+- Laura de Mello e Souza, "Desclassificados do ouro: a pobreza mineira no século XVIII"
+- "Discurso histórico e político sobre a sublevação que nas Minas houve no ano de 1720"
+- Laurentino Gomes, "1808"; Jurandir Malerba, "A corte no exílio"
+- Mary Karasch, "A vida dos escravos no Rio de Janeiro, 1808–1850"
+- Decreto nº 3.371, de 7 de janeiro de 1865 (Voluntários da Pátria)
+- Francisco Doratioto, "Maldita Guerra"; Leonardo Bahiense (UFRJ), sobre o cólera na Guerra do Paraguai
+- Rodolfo Teófilo, "História da Seca do Ceará" e "Varíola e Vacinação no Ceará"
+- Maria Clélia Lustosa da Costa, "Teorias médicas e gestão urbana: a seca de 1877-79 em Fortaleza" (História, Ciências, Saúde – Manguinhos)
+- Revista Brasileira de Estudos de População, gripe espanhola em São Paulo (1918); CPDOC/FGV, verbete "Gripe Espanhola"
+- Memorial da Democracia, "Construção de Brasília – os candangos"; André F. O. Fernandes, "Vida Candanga" (UnB, 2018)
+- DGABC, 11 e 12/10/2024 (apagão na Grande São Paulo; nota da Sabesp sobre bombeamento)
+- Defesa Civil: kit de emergência para 72 horas
+
+Os vereditos são estimativas do canal, baseadas nos dados acima. Imagens geradas por IA.
+
+TAGS
+quanto tempo você duraria, história do brasil, brasil colonial, e se você acordasse em 1500, frota de cabral, corrida do ouro, chegada da família real 1808, guerra do paraguai, seca de 1877, dia dos mil mortos, gripe espanhola 1918, construção de brasília, candangos, apagão são paulo, sobrevivência, kit 72 horas, dia do colapso
+
+COMENTÁRIO FIXADO
+Em qual época você duraria mais? E em qual não passaria do primeiro dia? 👇
+
+CONFIGURAÇÕES DE UPLOAD
+- Conteúdo alterado ou sintético: SIM (imagens geradas por IA)
+- Categoria: Educação
+- Idioma: Português (Brasil)
+- Público: não é conteúdo para crianças
+- Capítulos automáticos: desligados (usar os da descrição)
+- Teste A/B de miniatura: capa_A, capa_B e capa_C
+- Tela final (últimos 20 s): card para o episódio Apagão Total

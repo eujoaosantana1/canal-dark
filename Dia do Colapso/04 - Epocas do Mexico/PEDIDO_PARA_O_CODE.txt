@@ -1,0 +1,29 @@
+PEDIDO PARA O CLAUDE CODE — EPISÓDIO DO MÉXICO (escrito em 24/11/2026)
+
+Pasta: Dia do Colapso\04 - Epocas do Mexico
+Doc mestre do roteiro (com fontes): https://claude.ai/artifact/8cgnVTMZsffmjZmhVysYkj
+
+O que já está aqui
+- roteiro_epocas_mexico.txt  -> roteiro em espanhol no formato do Ep. 03 (linhas NARRADOR:, [CENA], [TELA]).
+                                64 falas, ~1.500 palavras (~10–11 min com pausas).
+- tools\narrar_chirp.py      -> igual ao do Ep. 03, com --idioma (padrão es-US). Voz Algenib.
+- tools\gerar_img.py         -> 29 imagens 16:9 pelo Gemini (gemini-3.1-flash-image). As chaves de cada [CENA: imagen — xxx]
+                                do roteiro batem com as chaves do script.
+- GERAR_NARRACAO_E_IMAGENS.bat -> roda os dois (só gera o que falta).
+
+TAREFA 1: rodar GERAR_NARRACAO_E_IMAGENS.bat (se ainda não rodou) e conferir
+- Ouvir 3 falas com nomes difíceis: Tenochtitlan, Cuitláhuac, Tlatelolco, calpulli, Chicxulub, huey tlatoani.
+  Se alguma sair errada, ajustar a grafia no roteiro (ex.: "Chic-shu-lub") e regerar só aquela fala com --so NNN.
+- Olhar as 29 imagens; regerar as ruins com: cd imagens & python ..\tools\gerar_img.py gemini-3.1-flash-image chave1 chave2
+
+TAREFA 2: render no estilo do Ep. 03
+- Copiar ..\03 - Epocas do Brasil\tools\render_ep.py para tools\ e adaptar:
+  * mapa: trocar o Brasil pelo Valle de México (Yucatán na época 1, Michoacán→CDMX na época 7). Baixar um geojson
+    de México / CDMX e desenhar o lago de Texcoco como polígono aproximado.
+  * painel: AGUA, COMIDA, REFUGIO, PELIGRO (verde/amarelo/vermelho conforme as linhas [TELA] do roteiro) e contador
+    "TIEMPO DE SUPERVIVENCIA" no fim de cada época. Todos os textos na tela em espanhol.
+  * timing pela narracao\timeline.json, como no Ep. 03.
+- Música: pode reaproveitar musica.wav do Ep. 03 se combinar.
+- Saída: ep_mx_epocas.mp4 + 3 capas (texto "¿CUÁNTO DURARÍAS?", placas "66 M", "1521", "HOY").
+
+Regras: nada de sangue ou corpos; marcar "contenido alterado o sintético" no upload; fontes na descrição.

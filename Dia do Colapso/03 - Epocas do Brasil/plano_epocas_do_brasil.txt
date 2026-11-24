@@ -1,0 +1,35 @@
+PLANO — "QUANTO TEMPO VOCÊ DURARIA EM CADA ÉPOCA DO BRASIL?"
+Canal: Dia do Colapso · Formato: um vídeo longo (~15 min) que sobe de época em época, com o espectador como protagonista
+Modelado de: "How Long You'd Last in Every Prehistoric Era" (Fossil, 13,4 mi views, 225x) e da cópia em espanhol
+"Cuánto Tiempo Sobrevivirías en cada Era Prehistórica" (Sebastián Schiller, 3,3 mi views em 31 dias).
+Lacuna em português: só existem Shorts. O vídeo longo mais próximo ("E Se Você ACORDASSE no Brasil de 1500?", 2,5 mil inscritos) fez 302 mil views (121x).
+
+REGRA DO FORMATO (copiar o ritmo, não o conteúdo)
+- Cada época = 1 bloco de 1,5 a 2 min: você "acorda" lá → 3 ameaças concretas → veredito na tela: "VOCÊ DURARIA: X".
+- O veredito é uma estimativa narrativa, apresentada como tal ("provavelmente", "com sorte"), sempre amarrada a fatos históricos verificáveis.
+- Painel do canal na tela: ÁGUA, COMIDA, SAÚDE e o recurso da época (ex.: "LÍNGUA", "DINHEIRO", "FÉ"). Contador "VOCÊ DURARIA" no canto.
+- Dificuldade cresce até o fim ou cai até o fim (decidir no roteiro); o melhor bloco fica por último.
+
+ÉPOCAS CANDIDATAS (escolher 8 para o episódio 1, guardar o resto para o episódio 2)
+ 1. Abril de 1500 — a bordo da frota de Cabral (escorbuto, comida podre, naufrágio).
+ 2. 1550–1600 — vila de São Vicente / litoral paulista (doenças, conflitos, fome).
+ 3. 1640 — engenho de açúcar em Pernambuco, durante o domínio holandês.
+ 4. 1720 — corrida do ouro em Minas Gerais (fome nas minas, violência, impostos da Coroa).
+ 5. 1808 — Rio de Janeiro na chegada da corte (sem esgoto, febre, cidade lotada).
+ 6. 1865 — Guerra do Paraguai, como soldado "voluntário da pátria".
+ 7. 1877 — a Grande Seca no Ceará.
+ 8. 1897 — Canudos.
+ 9. 1904 — Revolta da Vacina, no Rio.
+10. 1918 — gripe espanhola em São Paulo.
+11. 1957 — candango na construção de Brasília.
+12. Hoje — 30 dias sem energia em São Paulo (gancho para o Apagão Total).
+
+TÍTULOS PARA TESTAR
+ A) Quanto tempo você duraria em cada época do Brasil?
+ B) Você acorda no Brasil de 1500. Quanto tempo sobrevive? (e em cada época depois)
+ C) Quanto tempo você sobreviveria em cada século do Brasil? (1500 a hoje)
+
+PRÓXIMOS PASSOS
+ 1. Validar os títulos com o Estrategista (buscas: "quanto tempo você duraria", "brasil colonial", "você acordasse em").
+ 2. Pesquisar e checar fatos das 8 épocas escolhidas (fontes na descrição).
+ 3. Roteiro (~2.500 palavras), narração Algenib, imagens geradas por época, mapa do Brasil mostrando onde cada época acontece.

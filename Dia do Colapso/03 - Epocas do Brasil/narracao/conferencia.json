@@ -1,0 +1,616 @@
+[
+ {
+  "n": "001",
+  "similaridade": 0.944,
+  "faltando": [
+   "mil",
+   "quinhentos"
+  ],
+  "roteiro": "Você fecha os olhos e acorda no Brasil. Só que não no Brasil de hoje. Você acorda em mil e quinhentos, no convés de um navio. E a cada vez que você dormir, acorda numa época diferente.",
+  "ouvido": "Você fecha os olhos e acorda no Brasil. Só que não no Brasil de hoje. Você acorda em 1500, no convés de um navio. E a cada vez que você dormir, acorda numa época diferente."
+ },
+ {
+  "n": "002",
+  "similaridade": 0.939,
+  "faltando": [
+   "oito",
+   "tres"
+  ],
+  "roteiro": "Oito épocas. Da frota de Cabral até hoje. Em cada uma, eu vou te mostrar três coisas que tentariam te matar. E no fim de cada uma, um veredito: quanto tempo você duraria.",
+  "ouvido": "8 épocas, da Frota de Cabral até hoje. Em cada uma, eu vou te mostrar 3 coisas que tentariam te matar. E no fim de cada uma, um veredito. Quanto tempo você duraria."
+ },
+ {
+  "n": "003",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Uma regra antes de começar. O veredito é uma estimativa. Eu parto de números que ficaram registrados em cada época: quantos morreram, de quê, e quando. E suponho que você chega lá como uma pessoa comum. Sem dinheiro, sem sobrenome e sem saber o que vai acontecer.",
+  "ouvido": "Uma regra antes de começar, o veredito é uma estimativa, eu parto de números que ficaram registrados em cada época, quantos morreram, de que e quando. E suponho que você chega lá como uma pessoa comum, sem dinheiro, sem sobrenome, e sem saber o que vai acontecer."
+ },
+ {
+  "n": "004",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Uma época é bem mais fácil do que parece. Outra é a pior de todas, e quase ninguém aprendeu sobre ela na escola. E a última é a única em que o veredito depende de você, e do que tem dentro da sua casa agora.",
+  "ouvido": "Uma época é bem mais fácil do que parece, outra é a pior de todas, e quase ninguém aprendeu sobre ela na escola. E a última é a única em que o veredito depende de você e do que tem dentro da sua casa agora."
+ },
+ {
+  "n": "005",
+  "similaridade": 0.833,
+  "faltando": [
+   "um",
+   "nove",
+   "mil",
+   "quinhentos",
+   "treze",
+   "mil",
+   "quinhentos"
+  ],
+  "roteiro": "Época um. Nove de março de mil e quinhentos. Você acorda num porão escuro, balançando. Cheiro de sal, de suor e de comida estragada. Você está numa das treze embarcações da frota de Pedro Álvares Cabral. A bordo, cerca de mil e quinhentos homens.",
+  "ouvido": "Época 1. 9 de março de 1500. Você acorda num porão escuro balançando, cheiro de sal, de suor e de comida estragada. Você está numa das três embarcações da frota de Pedro Álvares Cabral, a bordo, cerca de 1500 homens."
+ },
+ {
+  "n": "006",
+  "similaridade": 0.967,
+  "faltando": [
+   "escorbuto",
+   "inchada"
+  ],
+  "roteiro": "Primeira ameaça: a comida. O cardápio é biscoito duro, carne salgada, vinho e água guardada em barril. Nada fresco. E sem fruta e sem verdura, o corpo fica sem vitamina C. Depois de algumas semanas, aparece o escorbuto: cansaço, gengiva inchada e sangrando, dente caindo. Na viagem de Vasco da Gama, poucos anos antes, a doença matou boa parte da tripulação.",
+  "ouvido": "Primeira ameaça, a comida. O cardápio é biscoito duro, carne salgada, vinho e água guardada em barril. Nada fresco. E sem fruta e sem verdura, o corpo fica sem vitamina C. Depois de algumas semanas, aparece o escurbuto. Cansaço, gengiva enxada e sangrando, dente caindo. Na viagem de Vasco da Gama, poucos anos antes, a doença matou boa parte da tripulação."
+ },
+ {
+  "n": "007",
+  "similaridade": 0.886,
+  "faltando": [
+   "segunda",
+   "cento",
+   "e",
+   "cinquenta",
+   "pero",
+   "vaz"
+  ],
+  "roteiro": "Segunda ameaça: o mar. Duas semanas depois da partida, perto de Cabo Verde, um dos navios, com cerca de cento e cinquenta homens, simplesmente some. Pero Vaz de Caminha escreveu que não houve vento forte nem contrário que explicasse. Ninguém nunca soube o que aconteceu.",
+  "ouvido": "Segundo a ameaça, o mar, duas semanas depois da partida perto de Cabo Verde, um dos navios, com cerca de 150 homens, simplesmente some. Peruvaz de Caminha escreveu que não houve vento forte nem contrário que explicasse. Ninguém nunca soube o que aconteceu."
+ },
+ {
+  "n": "008",
+  "similaridade": 0.905,
+  "faltando": [
+   "vinte",
+   "dois",
+   "quarenta",
+   "quatro"
+  ],
+  "roteiro": "Terceira ameaça: o tempo. Se você está num dos navios que chegaram, a terra aparece no dia vinte e dois de abril. Quarenta e quatro dias de viagem. Isso é rápido o bastante para o escorbuto ainda não ter tomado conta de todo mundo.",
+  "ouvido": "Terceira ameaça, o tempo. Se você está num dos navios que chegaram, a terra aparece no dia 22 de abril, 44 dias de viagem. Isso é rápido o bastante para o escorbuto ainda não ter tomado conta de todo mundo."
+ },
+ {
+  "n": "009",
+  "similaridade": 0.978,
+  "faltando": [
+   "quatrocentos"
+  ],
+  "roteiro": "O problema é que a frota não veio para ficar. Ela segue para a Índia. E em maio, perto do Cabo da Boa Esperança, uma tempestade afunda quatro navios de uma vez. Uns quatrocentos homens. Entre eles, Bartolomeu Dias, o primeiro navegador a contornar aquele cabo.",
+  "ouvido": "O problema é que a frota não veio para ficar. Ela segue para a Índia. E em maio perto do Cabo da Boa Esperança, uma tempestade afunda quatro navios de uma vez. Uns 400 homens, entre eles Bartolomeu Dias, o primeiro navegador a contornar aquele cabo."
+ },
+ {
+  "n": "010",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "A maior parte dos homens que partiram de Lisboa não voltou para casa.",
+  "ouvido": "A maior parte dos homens que partiram de Lisboa não voltou para casa."
+ },
+ {
+  "n": "011",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Veredito. Você chega ao Brasil. Se tiver juízo, pede para ficar.",
+  "ouvido": "veredito. Você chega ao Brasil. Se tiver juízo, pede para ficar."
+ },
+ {
+  "n": "012",
+  "similaridade": 0.9,
+  "faltando": [
+   "dois",
+   "mil",
+   "setecentos",
+   "para"
+  ],
+  "roteiro": "Época dois. Você acorda com as mãos dentro de um riacho gelado, segurando uma bateia. É mil e setecentos. Alguns anos antes, acharam ouro no interior, onde hoje é Minas Gerais. E metade do Brasil largou tudo e correu para cá.",
+  "ouvido": "Época 2. Você acorda com as mãos dentro de um riacho gelado segurando uma batéia. É 1700. Alguns anos antes acharam ouro no interior, onde hoje é Minas Gerais. E metade do Brasil largou tudo e correu pra cá."
+ },
+ {
+  "n": "013",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "E você acha ouro. Esse é o problema. Porque ouro não se come.",
+  "ouvido": "E você acha ouro? Esse é o problema, porque ouro não se come."
+ },
+ {
+  "n": "014",
+  "similaridade": 0.867,
+  "faltando": [
+   "mil",
+   "seiscentos",
+   "noventa",
+   "sete",
+   "mil",
+   "setecentos",
+   "um",
+   "antonil"
+  ],
+  "roteiro": "Primeira ameaça: a fome. Chegou gente demais, rápido demais, num lugar onde ninguém plantava nada. Entre mil seiscentos e noventa e sete e mil e setecentos e um, a região passou pelas piores fomes da corrida do ouro. O padre jesuíta Antonil escreveu que muitos mineiros foram achados mortos com uma espiga de milho na mão, sem mais nada para comer.",
+  "ouvido": "Primeira ameaça. A fome. Chegou gente demais, rápido demais, num lugar onde ninguém plantava nada. Entre 1697 e 1701, a região passou pelas piores fomes da corrida do ouro. O padre jesuíta Antonio escreveu que muitos mineiros foram achados mortos com uma espiga de milho na mão, sem mais nada para comer."
+ },
+ {
+  "n": "015",
+  "similaridade": 0.887,
+  "faltando": [
+   "antonil",
+   "a",
+   "quarenta",
+   "oitavas",
+   "uns",
+   "cento",
+   "quarenta"
+  ],
+  "roteiro": "Segunda ameaça: o preço. Antonil anotou quanto custava a comida nas minas, poucos anos depois. Um alqueire de farinha de mandioca saía por quarenta oitavas de ouro. Isso dá uns cento e quarenta gramas de ouro por um saco de farinha. Você pode ter o bolso cheio, e mesmo assim passar fome em uma semana.",
+  "ouvido": "Segunda ameaça. O preço. António anotou quanto custava comida nas minas, poucos anos depois. Um alqueire de farinha de mandioca saía por 48ª de ouro. Isso dá um 140 gramas de ouro por um saco de farinha. Você pode ter o bolso cheio e mesmo assim passar fome em uma semana."
+ },
+ {
+  "n": "016",
+  "similaridade": 0.925,
+  "faltando": [
+   "quer",
+   "mil",
+   "setecentos",
+   "vinte",
+   "filipe"
+  ],
+  "roteiro": "Terceira ameaça: as outras pessoas. Muita gente armada, nenhuma polícia de verdade e ouro solto no chão. Poucos anos depois, paulistas e forasteiros entram em guerra pelas minas. E a Coroa portuguesa quer a parte dela: um quinto de todo o ouro. Em mil setecentos e vinte, quando ela proíbe o ouro em pó de circular e manda fundir tudo nas casas da Coroa, Vila Rica se revolta. O líder, Filipe dos Santos, é executado.",
+  "ouvido": "Terceira ameaça, as outras pessoas, muita gente armada, nenhuma polícia de verdade e ouro solto no chão. Poucos anos depois, paulistas e forasteiros entram em guerra pelas minas e a coroa portuguesa que era a parte dela, um quinto de todo ouro. Em 1720, quando ela proíbe o ouro em pó de circular e manda fundir tudo nas casas da coroa, Vila Rica se revolta. O líder, Felipe dos Santos, é executado."
+ },
+ {
+  "n": "017",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Veredito. Quem sobreviveu às minas não foi quem achou mais ouro. Foi quem plantou milho.",
+  "ouvido": "Veredito. Quem sobreviveu as minas não foi quem achou mais ouro. Foi quem plantou milho."
+ },
+ {
+  "n": "018",
+  "similaridade": 0.911,
+  "faltando": [
+   "tres",
+   "mil",
+   "oitocentos",
+   "oito"
+  ],
+  "roteiro": "Época três. Você acorda numa rua estreita, de terra, no centro do Rio de Janeiro. Março de mil oitocentos e oito. No porto, chegam navios e mais navios. É a família real portuguesa, fugindo de Napoleão. E ela não veio sozinha.",
+  "ouvido": "Época 3. Você acorda numa rua estreita de terra no centro do Rio de Janeiro, março de 1808. No Porto chegam navios e mais navios. É a família real portuguesa fugindo de Napoleão. E ela não veio sozinha."
+ },
+ {
+  "n": "019",
+  "similaridade": 0.933,
+  "faltando": [
+   "dez",
+   "cinquenta",
+   "sessenta"
+  ],
+  "roteiro": "Primeira ameaça: perder a sua casa. Ninguém sabe ao certo quantas pessoas vieram com a corte. A conta mais citada fala em perto de dez mil, numa cidade que tinha entre cinquenta e sessenta mil moradores. E toda essa gente precisava morar em algum lugar.",
+  "ouvido": "Primeira ameaça, perder a sua casa. Ninguém sabe ao certo quantas pessoas vieram com a corte. A conta mais citada fala em perto de 10 mil, numa cidade que tinha entre 50 e 60 mil moradores. E toda essa gente precisava morar em algum lugar."
+ },
+ {
+  "n": "020",
+  "similaridade": 0.968,
+  "faltando": [
+   "p",
+   "r"
+  ],
+  "roteiro": "A solução foi uma lei antiga, das aposentadorias. Um oficial passava pela rua e pintava na porta duas letras: P R. Príncipe Regente. Quer dizer que a casa agora era de alguém da corte. O povo deu outro nome para as duas letras: ponha-se na rua.",
+  "ouvido": "A solução foi uma lei antiga das aposentadorias, um oficial passava pela rua e pintava na porta duas letras, PR, Príncipe Regente. Quer dizer que a casa agora era de alguém da corte, o povo deu outro nome para as duas letras, ponha-se na rua."
+ },
+ {
+  "n": "021",
+  "similaridade": 0.957,
+  "faltando": [
+   "segunda",
+   "dez"
+  ],
+  "roteiro": "Segunda ameaça: a sujeira. O Rio não tinha esgoto. O que as casas produziam ia para barris. E toda noite, depois das dez, pessoas escravizadas levavam esses barris na cabeça até o mar. Eles vazavam, e as marcas que deixavam na pele deram a esses trabalhadores um apelido: tigres. Lixo em terreno vazio, água parada, mosquito e febre.",
+  "ouvido": "Segundo a ameaça, a sujeira, o rio não tinha esgoto, o que as casas produziam ia para barris. E toda noite, depois das 10, pessoas escravizadas levavam esses barris na cabeça até o mar. Eles vazavam e as marcas que deixavam na pele deram a esses trabalhadores um apelido. Tigres, lixo em terreno vazio, água parada, mosquito e febre."
+ },
+ {
+  "n": "022",
+  "similaridade": 0.909,
+  "faltando": [
+   "dos",
+   "sessenta",
+   "quarenta",
+   "oitocentos",
+   "oito"
+  ],
+  "roteiro": "Terceira ameaça, e é a que mais pesa no veredito: quem você é. Dos cerca de sessenta mil moradores, uns quarenta mil eram negros, e metade deles vivia escravizada. Se você acorda livre, o Rio de mil oitocentos e oito é sujo, lotado e caro, mas dá para viver nele por anos. Se você acorda escravizado, a sua vida não é sua.",
+  "ouvido": "Terceira ameaça, e é a que mais pesa no veredito, quem você é. Do cerca de 60 mil moradores, uns 40 mil eram negros, e metade deles vivia escravizada. Se você acorda livre, o rio de 1808 é sujo lotado e caro, mas dá para viver nele por anos. Se você acorda escravizado, a sua vida não é sua."
+ },
+ {
+  "n": "023",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Veredito. A época mais fácil até aqui. Mas só para quem acordou do lado certo da porta.",
+  "ouvido": "Veredito, a época mais fácil até aqui, mas só para quem acordou do lado certo da porta."
+ },
+ {
+  "n": "024",
+  "similaridade": 0.929,
+  "faltando": [
+   "quatro",
+   "mil",
+   "oitocentos",
+   "sessenta",
+   "cinco"
+  ],
+  "roteiro": "Época quatro. Janeiro de mil oitocentos e sessenta e cinco. O Brasil está em guerra com o Paraguai. E o imperador acaba de assinar um decreto chamando voluntários. Quem se alistar ganha soldo, um pedaço de terra quando a guerra acabar e, se morrer, uma pensão para a família. Você se alista. No começo, muita gente se alistou de verdade. Depois, muitos foram mandados à força.",
+  "ouvido": "Época 4, janeiro de 1865, o Brasil está em guerra com o Paraguai, e o imperador acaba de assinar um decreto chamando voluntários. Quem se alistar ganha soldo, um pedaço de terra quando a guerra acabar e se morrer uma pensão para a família. Você se alista. No começo muita gente se alistou de verdade. Depois, muitos foram mandados à força."
+ },
+ {
+  "n": "025",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Primeira ameaça: a distância. Do Rio até a frente de batalha são semanas de navio e de marcha. Você chega a um lugar de rio, pântano e calor, e passa meses ali, esperando.",
+  "ouvido": "Primeira ameaça. A distância. Do rio até a frente de batalha são semanas de navio e de marcha. Você chega a um lugar de rio, pântano e calor e passa meses ali, esperando."
+ },
+ {
+  "n": "026",
+  "similaridade": 0.812,
+  "faltando": [
+   "segunda",
+   "mil",
+   "oitocentos",
+   "sessenta",
+   "seis",
+   "tuiuti"
+  ],
+  "roteiro": "Segunda ameaça: a batalha. Em maio de mil oitocentos e sessenta e seis, em Tuiuti, acontece uma das maiores batalhas já travadas na América do Sul. Mas ela não é o que mais mata.",
+  "ouvido": "Segundo a ameaça, a batalha, em maio de 1866 em Tuiti, acontece uma das maiores batalhas já travadas na América do Sul. Mas ela não é o que mais mata."
+ },
+ {
+  "n": "027",
+  "similaridade": 0.847,
+  "faltando": [
+   "disenteria",
+   "quatro",
+   "mil",
+   "quinhentos",
+   "mil",
+   "oitocentos",
+   "sessenta",
+   "oito",
+   "cinco"
+  ],
+  "roteiro": "Terceira ameaça, a de verdade: a doença. Água contaminada, acampamento lotado, nenhum saneamento. Disenteria, varíola, malária. E o cólera, que só ele matou pelo menos quatro mil e quinhentos soldados brasileiros. No primeiro semestre de mil oitocentos e sessenta e oito, mais da metade das mortes nas tropas aliadas veio do cólera. A guerra durou mais de cinco anos.",
+  "ouvido": "Terceira ameaça, a de verdade, a doença. Água contaminada, acampamento lotado, nenhum saneamento. Desenteria, varíola, malária. E o cólera, que só ele matou pelo menos 4.500 soldados brasileiros. No primeiro semestre de 1868, mais da metade das mortes nas tropas aliadas veio do cólera. A guerra durou mais de 5 anos."
+ },
+ {
+  "n": "028",
+  "similaridade": 0.947,
+  "faltando": [
+   "cinquenta"
+  ],
+  "roteiro": "As estimativas mais aceitas falam em pelo menos cinquenta mil brasileiros mortos, a maioria por doença, não por bala.",
+  "ouvido": "As estimativas mais aceitas falam em pelo menos 50 mil brasileiros mortos, a maioria por doença, não por bala."
+ },
+ {
+  "n": "029",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Veredito. Na Guerra do Paraguai, o inimigo mais perigoso não estava do outro lado. Estava no copo de água.",
+  "ouvido": "Veredito. Na guerra do Paraguai o inimigo mais perigoso não estava do outro lado. Estava no copo de água."
+ },
+ {
+  "n": "030",
+  "similaridade": 0.69,
+  "faltando": [
+   "cinco",
+   "mil",
+   "oitocentos",
+   "setenta",
+   "sete"
+  ],
+  "roteiro": "Época cinco. Você acorda no sertão do Ceará. Mil oitocentos e setenta e sete. E não chove.",
+  "ouvido": "Época 5. Você acorda no sertão do Ceará, 1877, e não chove."
+ },
+ {
+  "n": "031",
+  "similaridade": 0.854,
+  "faltando": [
+   "setenta",
+   "sete",
+   "setenta",
+   "oito",
+   "setenta",
+   "nove"
+  ],
+  "roteiro": "Não chove em setenta e sete. Não chove em setenta e oito. E quase não chove em setenta e nove. O povo chamou de seca dos três setes. Ela é uma das maiores tragédias da história do Brasil, e quase não aparece nos livros.",
+  "ouvido": "não chove em 77, não chove em 78 e quase não chove em 79, o povo chamou de seca dos três setes. Ela é uma das maiores tragédias da história do Brasil e quase não aparece nos livros."
+ },
+ {
+  "n": "032",
+  "similaridade": 0.987,
+  "faltando": [],
+  "roteiro": "Primeira ameaça: a fome. A roça morre, o gado morre. Quem pode, pega a família e sai andando. São os retirantes. E o destino de quase todos é o mesmo: Fortaleza, onde dizem que tem comida do governo.",
+  "ouvido": "Primeira ameaça, a fome. A roça morre, o gado morre, quem pode e pega a família e sai andando. São os retirantes. E o destino de quase todos é o mesmo. Fortaleza, onde dizem que tem comida do governo."
+ },
+ {
+  "n": "033",
+  "similaridade": 0.937,
+  "faltando": [
+   "segunda",
+   "cem"
+  ],
+  "roteiro": "Segunda ameaça: a cidade. Fortaleza tinha algumas dezenas de milhares de moradores. Recebeu mais de cem mil retirantes. Eles foram postos em abarracamentos, que o povo chamava de currais do governo. Sem água limpa, sem esgoto, todo mundo junto.",
+  "ouvido": "Segundo a ameaça, a cidade. Fortaleza tinha algumas dezenas de milhares de moradores. Recebeu mais de 100 mil retirantes. Eles foram postos em abarracamentos, que o povo chamava de currais do governo. Sem água limpa, sem esgoto, todo mundo junto."
+ },
+ {
+  "n": "034",
+  "similaridade": 0.773,
+  "faltando": [
+   "oitocentos",
+   "e",
+   "setenta",
+   "e",
+   "sete",
+   "quinhentos",
+   "setenta",
+   "e",
+   "oito",
+   "catorze"
+  ],
+  "roteiro": "Terceira ameaça: a varíola. Num lugar assim, ela se espalha como fogo. Em outubro de mil oitocentos e setenta e sete, quase quinhentos mortos pela doença na capital. Em dezembro de setenta e oito, mais de catorze mil num mês só.",
+  "ouvido": "Terceira ameaça, a varíola. No lugar assim, ela se espalha como fogo, em outubro de 1877 quase 500 mortos pela doença na capital. Em dezembro de 78, mais de 14 mil num mês só."
+ },
+ {
+  "n": "035",
+  "similaridade": 0.843,
+  "faltando": [
+   "dez",
+   "oitocentos",
+   "setenta",
+   "oito",
+   "quatro",
+   "enterro"
+  ],
+  "roteiro": "E no dia dez de dezembro de mil oitocentos e setenta e oito, um cemitério de Fortaleza recebeu mil e quatro corpos. Num único dia. Os coveiros eram retirantes contratados, e não deram conta: centenas de corpos ficaram sem enterro naquela noite. A cidade lembra dele até hoje como o Dia dos Mil Mortos.",
+  "ouvido": "E no dia 10 de dezembro de 1878, um cemitério de fortaleza recebeu 1.004 corpos, num único dia. Os coveiros eram retirantes contratados e não deram conta, centenas de corpos ficaram sem interro naquela noite. A cidade lembra dele até hoje como o dia dos mil mortos."
+ },
+ {
+  "n": "036",
+  "similaridade": 0.875,
+  "faltando": [
+   "cento",
+   "e",
+   "oitenta"
+  ],
+  "roteiro": "Pelas contas da época, a seca matou perto de cento e oitenta mil pessoas só no Ceará.",
+  "ouvido": "Pelas contas da época, a seca matou perto de 180 mil pessoas só no Ceará."
+ },
+ {
+  "n": "037",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Veredito. A pior época deste vídeo. Não porque alguém quis te matar. Porque não choveu, e ninguém estava preparado para isso.",
+  "ouvido": "veredito. A pior época deste vídeo. Não porque alguém quis te matar. Porque não choveu. E ninguém estava preparado para isso."
+ },
+ {
+  "n": "038",
+  "similaridade": 0.857,
+  "faltando": [
+   "seis",
+   "novecentos",
+   "dezoito",
+   "quinhentos"
+  ],
+  "roteiro": "Época seis. Você acorda em São Paulo, em outubro de mil novecentos e dezoito. Uma cidade de uns quinhentos mil habitantes, crescendo rápido, cheia de imigrantes e de fábricas. E chega uma gripe.",
+  "ouvido": "Época 6. Você acorda em São Paulo em outubro de 1918, uma cidade de uns 500 mil habitantes, crescendo rápido, cheia de imigrantes e de fábricas. E chega uma gripe."
+ },
+ {
+  "n": "039",
+  "similaridade": 0.939,
+  "faltando": [
+   "cento",
+   "dezesseis"
+  ],
+  "roteiro": "Primeira ameaça: pegar. E você vai pegar. Em seis a oito semanas, foram registrados mais de cento e dezesseis mil casos na capital. As estimativas falam que até dois terços da cidade ficou doente.",
+  "ouvido": "Primeira ameaça. Pegar. E você vai pegar. Em seis a oito semanas foram registrados mais de 116 mil casos na capital. As estimativas falam que até dois terços da cidade ficou doente."
+ },
+ {
+  "n": "040",
+  "similaridade": 0.933,
+  "faltando": [
+   "catorze",
+   "trezentas"
+  ],
+  "roteiro": "Segunda ameaça: a cidade parar. Escolas fechadas, fábricas paradas, comércio sem gente. Faltava médico, faltava remédio, faltava caixão. No pior dia, catorze de novembro, morreram quase trezentas pessoas na cidade.",
+  "ouvido": "Segunda ameaça, a cidade parar. Escolas fechadas, fábricas paradas, comércio sem gente. Faltava médico, faltava remédio, faltava caixão. No pior dia, 14 de novembro, morreram quase 300 pessoas na cidade."
+ },
+ {
+  "n": "041",
+  "similaridade": 0.943,
+  "faltando": [
+   "mil",
+   "novecentos",
+   "dezenove"
+  ],
+  "roteiro": "Terceira ameaça: as complicações. A gripe em si passa. O que mata é a pneumonia que vem depois, sem antibiótico, que ainda não existia. A espanhola atingiu até o presidente eleito, Rodrigues Alves. Ele morreu em janeiro de mil novecentos e dezenove, sem tomar posse.",
+  "ouvido": "Terceira ameaça, as complicações, a gripe em si passa, o que mata é a pneumonia que vem depois, sem antibiótico, que ainda não existia. A Espanhola atingiu até o presidente eleito, Rodrigues Alves. Ele morreu em janeiro de 1919 sem tomar posse."
+ },
+ {
+  "n": "042",
+  "similaridade": 0.82,
+  "faltando": [
+   "cinco",
+   "mil",
+   "trezentas",
+   "trinta",
+   "um",
+   "por",
+   "cento"
+  ],
+  "roteiro": "Agora o número que muda o veredito. Em São Paulo, a gripe matou cerca de cinco mil, trezentas e trinta pessoas. É muita gente. Mas é perto de um por cento da cidade.",
+  "ouvido": "Agora o número que muda o veredito. Em São Paulo, a gripe matou cerca de 5.330 pessoas. É muita gente, mas é perto de 1% da cidade."
+ },
+ {
+  "n": "043",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Veredito. Você quase certamente adoece. E quase certamente sobrevive. Depois da seca, parece pouco. Para quem perdeu alguém, não foi.",
+  "ouvido": "Veredito, você quase certamente adoece e quase certamente sobrevive. Depois da seca parece pouco. Para quem perdeu alguém, não foi."
+ },
+ {
+  "n": "044",
+  "similaridade": 0.864,
+  "faltando": [
+   "sete",
+   "mil",
+   "novecentos",
+   "cinquenta",
+   "sete",
+   "tres"
+  ],
+  "roteiro": "Época sete. Você acorda no meio do cerrado, coberto de poeira vermelha. Mil novecentos e cinquenta e sete. Em volta, nada. Só máquinas e gente. Estão construindo uma capital do zero, e ela tem que ficar pronta em pouco mais de três anos.",
+  "ouvido": "Época 7. Você acorda no meio do cerrado coberto de poeira vermelha, 1957. Em volta nada. Só máquinas e gente. Estão construindo uma capital do zero e ela tem que ficar pronta em pouco mais de 3 anos."
+ },
+ {
+  "n": "045",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Você é um candango. Veio de longe, como milhares de outros, atrás de trabalho. E trabalho não falta.",
+  "ouvido": "Você é um candango? Veio de longe como milhares de outros atrás de trabalho. E trabalho não falta."
+ },
+ {
+  "n": "046",
+  "similaridade": 0.87,
+  "faltando": [
+   "turnos",
+   "catorze",
+   "dezesseis",
+   "horas",
+   "quarenta"
+  ],
+  "roteiro": "Primeira ameaça: o cansaço. Os relatos falam em turnos de catorze a dezesseis horas, de dia e de noite, para cumprir o prazo. Meses antes da inauguração, eram mais de quarenta mil operários na obra.",
+  "ouvido": "Primeira ameaça, o cansaço. Os relatos falam em torno de 14h a 16h de dia e de noite para cumprir o prazo. Meses antes da inauguração eram mais de 40 mil operários na obra."
+ },
+ {
+  "n": "047",
+  "similaridade": 0.945,
+  "faltando": [
+   "andaime"
+  ],
+  "roteiro": "Segunda ameaça: o acidente. Andaime alto, máquina pesada, escavação sem escora. Os acidentes eram frequentes. E até hoje ninguém sabe ao certo quantos operários morreram construindo Brasília.",
+  "ouvido": "Segunda ameaça, o acidente. Andei-me alto máquina pesada, escavação sem escora. Os acidentes eram frequentes. E até hoje ninguém sabe ao certo quantos operários morreram construindo Brasília."
+ },
+ {
+  "n": "048",
+  "similaridade": 0.929,
+  "faltando": [
+   "mil",
+   "novecentos",
+   "cinquenta",
+   "nove",
+   "nove"
+  ],
+  "roteiro": "Terceira ameaça: quem manda. Não havia polícia comum, só uma guarda da própria companhia que construía a cidade. Em fevereiro de mil novecentos e cinquenta e nove, no carnaval, operários de um acampamento reclamaram da comida estragada. Horas depois, a guarda voltou à noite e abriu fogo. O número de mortos nunca foi esclarecido. Um jornal da época falou em nove. Trabalhadores falaram em muito mais.",
+  "ouvido": "Terceira ameaça. Quem manda. Não havia polícia comum, só uma guarda da própria companhia que construía a cidade. Em fevereiro de 1959, no Carnaval, operários de um acampamento reclamaram da comida estragada. Horas depois, a guarda voltou à noite e abriu fogo. O número de mortos nunca foi esclarecido. Um jornal da época falou em 9. Trabalhadores falaram em muito mais."
+ },
+ {
+  "n": "049",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Veredito. Pela primeira vez neste vídeo, comida e água não são o problema. O problema é o ritmo. E quem ditava o ritmo não era você.",
+  "ouvido": "Veredito. Pela primeira vez neste vídeo, comida e água não são o problema. O problema é o ritmo. E quem ditava o ritmo não era você."
+ },
+ {
+  "n": "050",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Última época. Você acorda na sua cama. Hoje. Em São Paulo. E a luz não acende.",
+  "ouvido": "Última época, você acorda na sua cama, hoje, em São Paulo, e a luz não acende."
+ },
+ {
+  "n": "051",
+  "similaridade": 0.892,
+  "faltando": [
+   "dois",
+   "mil",
+   "vinte",
+   "quatro",
+   "dois"
+  ],
+  "roteiro": "Isso não é ficção. Em outubro de dois mil e vinte e quatro, um temporal derrubou a energia de mais de dois milhões de imóveis na Grande São Paulo. Parte deles passou dias no escuro. E aí aparece uma coisa que quase ninguém espera.",
+  "ouvido": "Isso não é ficção. Em outubro de 2024 um temporal derrubou a energia de mais de 2 milhões de imóveis na Grande São Paulo. Parte deles passou dias no escuro. E aí aparece uma coisa que quase ninguém espera."
+ },
+ {
+  "n": "052",
+  "similaridade": 0.942,
+  "faltando": [
+   "sabesp",
+   "um",
+   "dois"
+  ],
+  "roteiro": "Primeira ameaça: a água. Para a água chegar ao alto dos bairros e às caixas dos prédios, ela é bombeada. E bomba precisa de energia. Naquele apagão, a Sabesp avisou que estações de bombeamento foram afetadas, e faltou água em várias cidades. Sem energia, a torneira seca em um ou dois dias.",
+  "ouvido": "Primeira ameaça. A água. Para a água chegar ao alto dos bairros e as caixas dos prédios, ela é bombeada. E bomba precisa de energia? Naquele apagão, a sabéspia avisou que estações de bombeamento foram afetadas e faltou água em várias cidades. Sem energia, a torneira seca em 1 ou 2 dias."
+ },
+ {
+  "n": "053",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Segunda ameaça: a comida. A geladeira desliga. Em um dia, a carne estraga. O mercado não consegue passar cartão e não tem como manter o freezer. O posto não bombeia combustível sem energia.",
+  "ouvido": "Segunda ameaça, a comida, a geladeira desliga, em um dia a carne estraga. O mercado não consegue passar cartão e não tem como manter o freezer. O posto não bombeia combustível sem energia."
+ },
+ {
+  "n": "054",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Terceira ameaça: a saúde. Hospital tem gerador, mas gerador depende de diesel chegando. E quem precisa de remédio na geladeira, ou de aparelho ligado na tomada, sente primeiro.",
+  "ouvido": "Terceira ameaça, a saúde. Hospital tem gerador, mas gerador depende de diesel chegando. E quem precisa de remédio na geladeira ou de aparelho ligado na tomada, sente primeiro."
+ },
+ {
+  "n": "055",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Agora, o veredito. Nas outras sete épocas, quase tudo dependia do lugar e do ano em que você acordou. Nesta, depende de uma coisa que você ainda pode mudar hoje.",
+  "ouvido": "Agora, o veredito. Nas outras sete épocas, quase tudo dependia do lugar e do ano em que você acordou. Nesta, depende de uma coisa que você ainda pode mudar hoje."
+ },
+ {
+  "n": "056",
+  "similaridade": 0.955,
+  "faltando": [
+   "setenta",
+   "duas",
+   "parecer"
+  ],
+  "roteiro": "A Defesa Civil recomenda que cada casa aguente setenta e duas horas por conta própria. Água, comida que não precisa de geladeira, lanterna, pilha, rádio, remédio e um pouco de dinheiro vivo. Com isso, você atravessa os primeiros três dias, que é quando quase todo mundo entra em pânico. Sem isso, a sua casa de hoje começa a parecer com algumas das épocas que a gente viu.",
+  "ouvido": "A Defesa Civil recomenda que cada casa aguente 72 horas por conta própria. Água, comida que não precisa de geladeira, lanterna, pilha, rádio, remédio, e um pouco de dinheiro vivo. Com isso, você atravessa os primeiros três dias que é quando quase todo mundo entra em pânico. Sem isso, a sua casa de hoje começa a aparecer com algumas das épocas que a gente viu."
+ },
+ {
+  "n": "057",
+  "similaridade": 0.992,
+  "faltando": [],
+  "roteiro": "Oito épocas. Na maioria delas, o que matava não era o que a gente imagina. Não era a guerra, era a água do acampamento. Não era a falta de ouro, era a falta de milho. Não era o vírus, era a pneumonia sem remédio. Quase sempre, era água, comida e saúde. As três coisas que estão no painel deste canal.",
+  "ouvido": "Oito épocas. Na maioria delas, o que matava não era o que a gente imagina. Não era a guerra, era a água do acampamento. Não era a falta de ouro, era a falta de milho. Não era o vírus, era a pneumonia sem remédio. Quase sempre, era a água comida e saúde. As três coisas que estão no painel deste canal."
+ },
+ {
+  "n": "058",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "Agora me conta nos comentários: em qual época você acha que duraria mais? E em qual você não passaria do primeiro dia?",
+  "ouvido": "Agora me conta nos comentários, em qual época você acha que duraria mais e em qual você não passaria do primeiro dia."
+ },
+ {
+  "n": "059",
+  "similaridade": 1.0,
+  "faltando": [],
+  "roteiro": "E se você quer saber o que aconteceria se aquele apagão de São Paulo durasse um mês inteiro, dia por dia, o episódio Apagão Total está aqui do lado.",
+  "ouvido": "E se você quer saber o que aconteceria se aquele apagão de São Paulo durasse um mês inteiro, dia por dia, o episódio apagão total está aqui do lado."
+ }
+]
