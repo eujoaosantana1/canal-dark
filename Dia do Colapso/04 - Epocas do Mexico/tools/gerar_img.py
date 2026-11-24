@@ -49,7 +49,7 @@ P = {
  "capas_valle": "Conceptual cutaway illustration of the Valley of Mexico as stacked geological and historical layers: at the bottom a Cretaceous sea, then an ice age lake with mammoths, then Aztec Tenochtitlan on the water, then a flooded colonial city, then the modern city on top, volcanoes behind, epic lighting.",
 }
 
-# Prompts para o gerador local (SDXL na RX 7600, Canal Dark	ools\gerar_img_local.py). O Gemini ignora estes três.
+# Prompts para o gerador local (SDXL na RX 7600, Canal Dark\tools\gerar_img_local.py). O Gemini ignora estes três.
 # Só ficam aqui as cenas testadas que o SDXL faz bem; as outras usam o P acima. Tenochtitlan NÃO funciona no SDXL (usar o Gemini).
 ESTILO_LOCAL = ", cinematic documentary photograph, photorealistic, full color, natural morning light, highly detailed"
 P_LOCAL = {
