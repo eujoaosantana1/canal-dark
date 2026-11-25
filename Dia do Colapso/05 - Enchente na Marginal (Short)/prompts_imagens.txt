@@ -1,0 +1,45 @@
+DIA DO COLAPSO - SHORT 01 - ENCHENTE NA MARGINAL - PROMPTS DE IMAGEM
+Doc completo (roteiro, HUDs, edição, fontes): https://claude.ai/artifact/P51WUX6BnaC33oUjM4ET4V
+
+Como usar no Gemini: anexe a ficha do personagem (imagens\ficha_personagem.png),
+cole ESTILO + PERSONAGEM e depois o prompt da cena. Salvar como imagens\cena_NN.png (NN = 01 a 28).
+Sem texto nas imagens: legenda e HUD entram na edição.
+
+ESTILO:
+Vertical 9:16 illustration, stylized 3D low-poly cartoon render, faceted skin and clothing, cinematic night lighting, cold blue key light mixed with warm orange sodium streetlights, heavy rain, muddy brown floodwater, dark moody palette, high contrast, shallow depth of field, no text, no letters, no logos, no watermark.
+
+PERSONAGEM:
+Main character: Brazilian man, early 30s, light-brown skin, short dark curly hair, short beard, tired brown eyes, light-blue button-up work shirt with rolled sleeves, dark gray trousers, black sneakers, red lanyard with a blank white ID badge. His car: generic silver compact hatchback, no brand.
+
+FICHA DO PERSONAGEM (gerar primeiro):
+Character reference sheet of the main character: front view, 3/4 view and side profile, neutral expression, plain dark gray background, same low-poly 3D style, full body and close-up of the face.
+
+CENAS:
+01 Extreme close-up of the silver hatchback's front tire, muddy floodwater up to the middle of the wheel, raindrops splashing, street lights reflecting on the water.
+02 Main character seen through the rain-streaked windshield from outside, gripping the steering wheel, terrified wide eyes, water reflections on his face.
+03 Wide view of a big São Paulo riverside highway at dusk, many lanes of slow normal traffic, a canal-like river beside the road, overcast gray sky, city skyline.
+04 Interior of the car, main character driving, exhausted face, badge on his chest, gray evening light through the windshield.
+05 High aerial view at dusk of the riverside highway, the river running parallel to the lanes, one silver hatchback slightly highlighted in the traffic.
+06 Black storm clouds over the São Paulo skyline, a lightning bolt striking, first heavy rain hitting the highway.
+07 Smartphone on a dashboard mount inside the car, screen glowing blank white, raindrops on the windshield behind it.
+08 Close-up of a thumb swiping a notification away on a smartphone screen (blank screen), car interior out of focus.
+09 The river overflowing onto the highway, brown water spreading across the lanes, cars stopped bumper to bumper, headlights in the rain.
+10 Car dashboard going dark, a few red and orange warning lights still glowing, wet steering wheel, gloomy interior.
+11 Close-up of the main character's hand on the ignition key, about to turn it.
+12 Same close-up, hand frozen on the key, tense fingers, focus on the key.
+13 Close-up of the main character's hand pressing the seatbelt buckle release, belt sliding off his chest.
+14 Inside the car, finger pressing the power-window button, the side window halfway down, rain blowing inside.
+15 Side cutaway view of the silver hatchback standing in muddy floodwater that reaches the bottom of the doors.
+16 Main character climbing out through the open side window into the rain, determined face.
+17 Close-up of the main character's sneaker hovering above fast-flowing brown water, debris rushing past.
+18 Side cutaway of a person's legs in shin-deep fast-moving floodwater, visible current lines, about to lose balance.
+19 Underwater cutaway of the flooded street: an open storm drain with no lid, a dark whirlpool pulling water down, murky brown water.
+20 Main character crouching on the roof of the silver hatchback in heavy rain, flooded highway all around, stopped cars.
+21 Neighboring car turning sideways, lifted and pushed by the current, water splashing against it, night rain.
+22 Main character on the car roof shielding a smartphone from the rain with his hand, looking at it.
+23 Close-up of the smartphone in his wet hand, blank glowing screen, rain drops.
+24 In the distance, a strong searchlight beam cutting through the rain from an orange rescue boat on the flooded highway.
+25 Main character leaning over the edge of the car roof looking down at the dark rushing water, as if about to jump.
+26 Firefighter in an orange life vest and helmet in a rescue boat, one arm raised signaling to stay put, no logos, rain.
+27 Main character sitting on the car roof holding on firmly, wet, calm determined look, water higher around the car.
+28 Behind the main character, a big city bus in the flood starting to tilt and slide with the current, headlights glaring, ominous.

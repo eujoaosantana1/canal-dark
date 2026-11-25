@@ -1,0 +1,51 @@
+PEDIDO PARA O CLAUDE CODE — SHORT 01 "ENCHENTE NA MARGINAL" (escrito em 24/11/2026)
+
+Pasta: Dia do Colapso\05 - Enchente na Marginal (Short)
+Doc mestre (roteiro, HUDs, edição, fontes): https://claude.ai/artifact/P51WUX6BnaC33oUjM4ET4V
+Referência de estilo: vídeo vertical "enterrado vivo" (@suavezdesumir) — 3D low poly, legenda curta, HUD de jogo.
+
+O QUE JÁ ESTÁ AQUI (tudo pronto, não precisa gerar nada)
+- imagens\cena_01.jpg … cena_28.jpg -> 28 imagens 9:16 (1536x2752). Ficha do personagem: imagens\ficha_personagem.png
+- narracao\voiceover.wav           -> 83 s, voz Algenib pt-BR, já sem silêncios e a 1,15x.
+- narracao\timeline.json           -> start/end de cada fala. Fala NNN = cena NN (uma fala por cena).
+- cenas.json                       -> para cada cena: imagem, start/end, legenda, palavra em destaque, cor,
+                                      movimento de câmera e HUD. É a fonte de verdade do render.
+- roteiro_enchente_marginal.txt    -> roteiro (linhas NARRADOR:).
+
+TAREFA: renderizar video_enchente_marginal.mp4 (1080x1920, 30 fps, H.264 + AAC)
+Pode ser Remotion ou Python/ffmpeg (aproveitar o que der de ..\03 - Epocas do Brasil\tools\render_ep.py).
+
+1. Imagens
+   - Cada cena fica na tela do "start" da sua fala até o "start" da fala seguinte (a última até o fim + 0,8 s).
+   - Escalar para cobrir 1080x1920 (crop central). Nunca deixar imagem parada: zoom de 5–10% ou o movimento
+     indicado em "movimento" (zoom_in, zoom_out, push_in, pan, tilt_down, tremida, flash_branco, congela 0,3 s,
+     corte_seco_escurece, tremida_forte_corte_preto).
+   - Cenas 20, 22, 25 e 27 são parecidas (ele no teto): variar o enquadramento (zoom/pan diferente em cada uma).
+   - Acabamento: vinheta escura nas bordas, gradiente preto embaixo, overlay leve de chuva nas cenas externas.
+
+2. Legenda (campo "legenda")
+   - Montserrat ExtraBold ou Anton, caixa alta, branca com contorno preto fino, 2–4 palavras por vez, no terço
+     inferior (acima da área dos botões do Shorts, ~y 1350–1500).
+   - A palavra de "destaque" na cor indicada: vermelho #FF4D4D (perigo) ou amarelo #FFC83D (ação).
+   - Se a frase da narração for mais longa que a legenda, dividir em blocos e distribuir no tempo da fala.
+
+3. HUDs (campo "hud") — painel escuro semitransparente, barra fina, texto caixa alta, como na referência
+   - regra: [N, "TÍTULO"] -> "REGRA N" pequeno em vermelho + título branco no canto superior esquerdo (efeito digitação).
+   - nivel_agua: barra "NÍVEL DA ÁGUA" com marcas roda / pé da porta / janela; 20% -> 45% -> 60%; vermelha a partir de 45%.
+   - regua: linha vertical com "15 cm" ou "30 cm", entra deslizando.
+   - relogio "18:30"; mini_mapa (desenhado, sem mapa real/logos); status (pisca 2x); x_vermelho (impacto);
+     circulo_perigo (pulsa); tela_alerta (texto genérico na tela do celular, sem brasão/logo oficial);
+     tela_chamada ("Chamando 193" + checklist marcando item por item).
+   - cartao_final: depois do corte seco da cena 28, 0,5 s de silêncio e cartão preto "REGRA 6?" + "PARTE 2".
+
+4. Áudio
+   - Narração por cima de tudo. Chuva constante de fundo; trovão na cena 6; bipe na 7; motor morrendo na 10;
+     água forte a partir da 15; motor de bote na 24; rangido metálico na 28. Trilha: drone grave e tenso, baixo.
+   - Se não houver SFX na pasta, gerar sons simples ou usar só chuva + drone (sem baixar nada de site desconhecido).
+
+5. Saída
+   - video_enchente_marginal.mp4 na pasta, + 3 quadros de prévia (cenas 1, 13 e 28) em previa\ para conferir.
+   - Capa: depois. SEO: depois.
+
+Regras: nada de sangue ou corpos; nenhuma logo real (Defesa Civil, bombeiros, marcas de carro); marcar
+"conteúdo alterado ou sintético" no upload; fontes da checagem na descrição (estão no doc).

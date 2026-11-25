@@ -1,0 +1,404 @@
+{
+ "formato": "1080x1920 30fps",
+ "duracao_narracao": 83.103,
+ "cores": {
+  "vermelho": "#FF4D4D",
+  "amarelo": "#FFC83D"
+ },
+ "cenas": [
+  {
+   "cena": 1,
+   "imagem": "imagens/cena_01.jpg",
+   "fala": "A água já passou da roda.",
+   "start": 0,
+   "end": 1.646,
+   "legenda": "A ÁGUA JÁ PASSOU DA RODA,",
+   "destaque": "DA RODA",
+   "cor_destaque": "vermelho",
+   "movimento": "zoom_in_tremida",
+   "hud": {
+    "regua": "30 cm"
+   }
+  },
+  {
+   "cena": 2,
+   "imagem": "imagens/cena_02.jpg",
+   "fala": "E você tá preso no carro, na Marginal.",
+   "start": 1.846,
+   "end": 3.934,
+   "legenda": "E VOCÊ TÁ PRESO NO CARRO.",
+   "destaque": "PRESO",
+   "cor_destaque": "vermelho",
+   "movimento": "push_in",
+   "hud": null
+  },
+  {
+   "cena": 3,
+   "imagem": "imagens/cena_03.jpg",
+   "fala": "Dez minutos antes, era só mais um dia.",
+   "start": 4.384,
+   "end": 7.167,
+   "legenda": "DEZ MINUTOS ANTES,",
+   "destaque": null,
+   "cor_destaque": null,
+   "movimento": "pan_lateral",
+   "hud": {
+    "relogio": "18:30"
+   }
+  },
+  {
+   "cena": 4,
+   "imagem": "imagens/cena_04.jpg",
+   "fala": "Saiu do trampo e pegou a Marginal Tietê.",
+   "start": 7.367,
+   "end": 9.384,
+   "legenda": "SAIU DO TRAMPO,",
+   "destaque": "TRAMPO",
+   "cor_destaque": "amarelo",
+   "movimento": "balanco",
+   "hud": null
+  },
+  {
+   "cena": 5,
+   "imagem": "imagens/cena_05.jpg",
+   "fala": "Sentido Penha.",
+   "start": 9.584,
+   "end": 10.764,
+   "legenda": "SENTIDO PENHA.",
+   "destaque": null,
+   "cor_destaque": null,
+   "movimento": "zoom_out",
+   "hud": {
+    "mini_mapa": "Marginal Tietê · sentido Penha"
+   }
+  },
+  {
+   "cena": 6,
+   "imagem": "imagens/cena_06.jpg",
+   "fala": "Aí o céu fechou.",
+   "start": 10.964,
+   "end": 12.378,
+   "legenda": "AÍ O CÉU FECHOU.",
+   "destaque": "FECHOU",
+   "cor_destaque": "vermelho",
+   "movimento": "flash_branco",
+   "hud": null
+  },
+  {
+   "cena": 7,
+   "imagem": "imagens/cena_07.jpg",
+   "fala": "O celular apita: alerta da Defesa Civil.",
+   "start": 12.578,
+   "end": 15.261,
+   "legenda": "ALERTA DA DEFESA CIVIL.",
+   "destaque": "DEFESA CIVIL",
+   "cor_destaque": "amarelo",
+   "movimento": "tremida_vibracao",
+   "hud": {
+    "tela_alerta": "ALERTA SEVERO · Risco de alagamento na sua região. Evite áreas alagadas."
+   }
+  },
+  {
+   "cena": 8,
+   "imagem": "imagens/cena_08.jpg",
+   "fala": "Você ignora. Todo mundo ignora.",
+   "start": 15.461,
+   "end": 17.925,
+   "legenda": "VOCÊ IGNORA.",
+   "destaque": null,
+   "cor_destaque": null,
+   "movimento": "estatico",
+   "hud": null
+  },
+  {
+   "cena": 9,
+   "imagem": "imagens/cena_09.jpg",
+   "fala": "Em minutos, a água toma a pista. O trânsito trava.",
+   "start": 18.125,
+   "end": 21.532,
+   "legenda": "A ÁGUA TOMA A PISTA.",
+   "destaque": null,
+   "cor_destaque": null,
+   "movimento": "zoom_in",
+   "hud": {
+    "nivel_agua": 20
+   }
+  },
+  {
+   "cena": 10,
+   "imagem": "imagens/cena_10.jpg",
+   "fala": "E o carro morre.",
+   "start": 21.732,
+   "end": 22.69,
+   "legenda": "E O CARRO MORRE.",
+   "destaque": "MORRE",
+   "cor_destaque": "vermelho",
+   "movimento": "corte_seco_escurece",
+   "hud": {
+    "status": "MOTOR · DESLIGOU"
+   }
+  },
+  {
+   "cena": 11,
+   "imagem": "imagens/cena_11.jpg",
+   "fala": "O primeiro instinto é virar a chave de novo.",
+   "start": 23.14,
+   "end": 25.491,
+   "legenda": "O PRIMEIRO INSTINTO",
+   "destaque": null,
+   "cor_destaque": null,
+   "movimento": "push_in",
+   "hud": null
+  },
+  {
+   "cena": 12,
+   "imagem": "imagens/cena_12.jpg",
+   "fala": "Não vira.",
+   "start": 25.691,
+   "end": 26.357,
+   "legenda": "NÃO VIRA.",
+   "destaque": "VIRA",
+   "cor_destaque": "vermelho",
+   "movimento": "congela",
+   "hud": {
+    "x_vermelho": true
+   }
+  },
+  {
+   "cena": 13,
+   "imagem": "imagens/cena_13.jpg",
+   "fala": "Regra um: motor desligado, cinto solto. Agora, enquanto ainda tá fácil.",
+   "start": 26.557,
+   "end": 31.648,
+   "legenda": "MOTOR DESLIGADO, CINTO SOLTO.",
+   "destaque": "CINTO SOLTO",
+   "cor_destaque": "amarelo",
+   "movimento": "push_in",
+   "hud": {
+    "regra": [
+     1,
+     "MOTOR DESLIGADO, CINTO SOLTO"
+    ]
+   }
+  },
+  {
+   "cena": 14,
+   "imagem": "imagens/cena_14.jpg",
+   "fala": "Regra dois: abre o vidro. O vidro elétrico pode parar a qualquer momento.",
+   "start": 31.848,
+   "end": 36.014,
+   "legenda": "ABRE O VIDRO.",
+   "destaque": "ABRE O VIDRO",
+   "cor_destaque": "amarelo",
+   "movimento": "tilt_down",
+   "hud": {
+    "regra": [
+     2,
+     "ABRE O VIDRO"
+    ],
+    "status": "VIDRO ELÉTRICO · OK"
+   }
+  },
+  {
+   "cena": 15,
+   "imagem": "imagens/cena_15.jpg",
+   "fala": "A água chega no pé da porta.",
+   "start": 36.214,
+   "end": 37.979,
+   "legenda": "NO PÉ DA PORTA.",
+   "destaque": "PÉ DA PORTA",
+   "cor_destaque": "vermelho",
+   "movimento": "zoom_out",
+   "hud": {
+    "nivel_agua": 45
+   }
+  },
+  {
+   "cena": 16,
+   "imagem": "imagens/cena_16.jpg",
+   "fala": "É a hora de sair.",
+   "start": 38.179,
+   "end": 39.184,
+   "legenda": "É A HORA DE SAIR.",
+   "destaque": "SAIR",
+   "cor_destaque": "amarelo",
+   "movimento": "tremida",
+   "hud": null
+  },
+  {
+   "cena": 17,
+   "imagem": "imagens/cena_17.jpg",
+   "fala": "Regra três: não pisa na correnteza.",
+   "start": 39.384,
+   "end": 41.864,
+   "legenda": "NÃO PISA NA CORRENTEZA.",
+   "destaque": "CORRENTEZA",
+   "cor_destaque": "vermelho",
+   "movimento": "push_in",
+   "hud": {
+    "regra": [
+     3,
+     "NÃO PISA NA CORRENTEZA"
+    ]
+   }
+  },
+  {
+   "cena": 18,
+   "imagem": "imagens/cena_18.jpg",
+   "fala": "Quinze centímetros de água corrente derrubam uma pessoa.",
+   "start": 42.064,
+   "end": 45.198,
+   "legenda": "15 CM DERRUBAM UMA PESSOA.",
+   "destaque": "DERRUBAM",
+   "cor_destaque": "vermelho",
+   "movimento": "estatico",
+   "hud": {
+    "regua": "15 cm"
+   }
+  },
+  {
+   "cena": 19,
+   "imagem": "imagens/cena_19.jpg",
+   "fala": "E embaixo dessa água pode ter um bueiro sem tampa.",
+   "start": 45.398,
+   "end": 48.43,
+   "legenda": "UM BUEIRO SEM TAMPA.",
+   "destaque": "SEM TAMPA",
+   "cor_destaque": "vermelho",
+   "movimento": "zoom_in",
+   "hud": {
+    "circulo_perigo": true
+   }
+  },
+  {
+   "cena": 20,
+   "imagem": "imagens/cena_20.jpg",
+   "fala": "Regra quatro: sobe no teto. É o ponto mais alto que você tem.",
+   "start": 48.63,
+   "end": 52.531,
+   "legenda": "SOBE NO TETO.",
+   "destaque": "SOBE NO TETO",
+   "cor_destaque": "amarelo",
+   "movimento": "zoom_out",
+   "hud": {
+    "regra": [
+     4,
+     "SOBE NO TETO"
+    ]
+   }
+  },
+  {
+   "cena": 21,
+   "imagem": "imagens/cena_21.jpg",
+   "fala": "Lá de cima, você entende: trinta centímetros de água corrente já arrastam um carro. O do lado começa a girar.",
+   "start": 52.731,
+   "end": 59.159,
+   "legenda": "30 CM ARRASTAM UM CARRO.",
+   "destaque": "ARRASTAM",
+   "cor_destaque": "vermelho",
+   "movimento": "pan",
+   "hud": {
+    "regua": "30 cm"
+   }
+  },
+  {
+   "cena": 22,
+   "imagem": "imagens/cena_22.jpg",
+   "fala": "Agora sim, o celular.",
+   "start": 59.359,
+   "end": 60.956,
+   "legenda": "AGORA SIM, O CELULAR.",
+   "destaque": "CELULAR",
+   "cor_destaque": "amarelo",
+   "movimento": "push_in",
+   "hud": null
+  },
+  {
+   "cena": 23,
+   "imagem": "imagens/cena_23.jpg",
+   "fala": "Regra cinco: liga um nove três. Fala a via, o sentido, um ponto de referência e quantas pessoas estão com você.",
+   "start": 61.156,
+   "end": 68.152,
+   "legenda": "LIGA 193.",
+   "destaque": "LIGA 193",
+   "cor_destaque": "amarelo",
+   "movimento": "estatico",
+   "hud": {
+    "regra": [
+     5,
+     "LIGA 193"
+    ],
+    "tela_chamada": [
+     "via",
+     "sentido",
+     "referência",
+     "nº de pessoas"
+    ]
+   }
+  },
+  {
+   "cena": 24,
+   "imagem": "imagens/cena_24.jpg",
+   "fala": "Uma luz corta a chuva. Um bote dos bombeiros.",
+   "start": 68.602,
+   "end": 72.353,
+   "legenda": "UMA LUZ CORTA A CHUVA.",
+   "destaque": null,
+   "cor_destaque": null,
+   "movimento": "zoom_in",
+   "hud": null
+  },
+  {
+   "cena": 25,
+   "imagem": "imagens/cena_25.jpg",
+   "fala": "Você pensa em pular e nadar até eles.",
+   "start": 72.553,
+   "end": 74.729,
+   "legenda": "VOCÊ PENSA EM PULAR.",
+   "destaque": "PULAR",
+   "cor_destaque": "vermelho",
+   "movimento": "tremida",
+   "hud": null
+  },
+  {
+   "cena": 26,
+   "imagem": "imagens/cena_26.jpg",
+   "fala": "Não. Quem entra na água é o bombeiro.",
+   "start": 74.929,
+   "end": 77.024,
+   "legenda": "QUEM ENTRA NA ÁGUA É O BOMBEIRO.",
+   "destaque": "BOMBEIRO",
+   "cor_destaque": "amarelo",
+   "movimento": "estatico",
+   "hud": null
+  },
+  {
+   "cena": 27,
+   "imagem": "imagens/cena_27.jpg",
+   "fala": "Você fica.",
+   "start": 77.224,
+   "end": 78.128,
+   "legenda": "VOCÊ FICA.",
+   "destaque": "FICA",
+   "cor_destaque": "amarelo",
+   "movimento": "push_in",
+   "hud": {
+    "nivel_agua": 60
+   }
+  },
+  {
+   "cena": 28,
+   "imagem": "imagens/cena_28.jpg",
+   "fala": "E aí você ouve um barulho atrás de você... O ônibus começou a se mexer.",
+   "start": 78.328,
+   "end": 82.303,
+   "legenda": "O ÔNIBUS COMEÇOU A SE MEXER.",
+   "destaque": "SE MEXER",
+   "cor_destaque": "vermelho",
+   "movimento": "tremida_forte_corte_preto",
+   "hud": {
+    "cartao_final": "REGRA 6? · PARTE 2"
+   }
+  }
+ ]
+}

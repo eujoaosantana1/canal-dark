@@ -1,0 +1,229 @@
+{
+ "duracao": 83.103,
+ "falas": [
+  {
+   "n": "001",
+   "cena": 1,
+   "secao": "1. Gancho",
+   "texto": "A água já passou da roda.",
+   "start": 0,
+   "end": 1.646
+  },
+  {
+   "n": "002",
+   "cena": 2,
+   "secao": "1. Gancho",
+   "texto": "E você tá preso no carro, na Marginal.",
+   "start": 1.846,
+   "end": 3.934
+  },
+  {
+   "n": "003",
+   "cena": 3,
+   "secao": "2. Como chegou ali",
+   "texto": "Dez minutos antes, era só mais um dia.",
+   "start": 4.384,
+   "end": 7.167
+  },
+  {
+   "n": "004",
+   "cena": 4,
+   "secao": "2. Como chegou ali",
+   "texto": "Saiu do trampo e pegou a Marginal Tietê.",
+   "start": 7.367,
+   "end": 9.384
+  },
+  {
+   "n": "005",
+   "cena": 5,
+   "secao": "2. Como chegou ali",
+   "texto": "Sentido Penha.",
+   "start": 9.584,
+   "end": 10.764
+  },
+  {
+   "n": "006",
+   "cena": 6,
+   "secao": "2. Como chegou ali",
+   "texto": "Aí o céu fechou.",
+   "start": 10.964,
+   "end": 12.378
+  },
+  {
+   "n": "007",
+   "cena": 7,
+   "secao": "2. Como chegou ali",
+   "texto": "O celular apita: alerta da Defesa Civil.",
+   "start": 12.578,
+   "end": 15.261
+  },
+  {
+   "n": "008",
+   "cena": 8,
+   "secao": "2. Como chegou ali",
+   "texto": "Você ignora. Todo mundo ignora.",
+   "start": 15.461,
+   "end": 17.925
+  },
+  {
+   "n": "009",
+   "cena": 9,
+   "secao": "2. Como chegou ali",
+   "texto": "Em minutos, a água toma a pista. O trânsito trava.",
+   "start": 18.125,
+   "end": 21.532
+  },
+  {
+   "n": "010",
+   "cena": 10,
+   "secao": "2. Como chegou ali",
+   "texto": "E o carro morre.",
+   "start": 21.732,
+   "end": 22.69
+  },
+  {
+   "n": "011",
+   "cena": 11,
+   "secao": "3. As regras",
+   "texto": "O primeiro instinto é virar a chave de novo.",
+   "start": 23.14,
+   "end": 25.491
+  },
+  {
+   "n": "012",
+   "cena": 12,
+   "secao": "3. As regras",
+   "texto": "Não vira.",
+   "start": 25.691,
+   "end": 26.357
+  },
+  {
+   "n": "013",
+   "cena": 13,
+   "secao": "3. As regras",
+   "texto": "Regra um: motor desligado, cinto solto. Agora, enquanto ainda tá fácil.",
+   "start": 26.557,
+   "end": 31.648
+  },
+  {
+   "n": "014",
+   "cena": 14,
+   "secao": "3. As regras",
+   "texto": "Regra dois: abre o vidro. O vidro elétrico pode parar a qualquer momento.",
+   "start": 31.848,
+   "end": 36.014
+  },
+  {
+   "n": "015",
+   "cena": 15,
+   "secao": "3. As regras",
+   "texto": "A água chega no pé da porta.",
+   "start": 36.214,
+   "end": 37.979
+  },
+  {
+   "n": "016",
+   "cena": 16,
+   "secao": "3. As regras",
+   "texto": "É a hora de sair.",
+   "start": 38.179,
+   "end": 39.184
+  },
+  {
+   "n": "017",
+   "cena": 17,
+   "secao": "3. As regras",
+   "texto": "Regra três: não pisa na correnteza.",
+   "start": 39.384,
+   "end": 41.864
+  },
+  {
+   "n": "018",
+   "cena": 18,
+   "secao": "3. As regras",
+   "texto": "Quinze centímetros de água corrente derrubam uma pessoa.",
+   "start": 42.064,
+   "end": 45.198
+  },
+  {
+   "n": "019",
+   "cena": 19,
+   "secao": "3. As regras",
+   "texto": "E embaixo dessa água pode ter um bueiro sem tampa.",
+   "start": 45.398,
+   "end": 48.43
+  },
+  {
+   "n": "020",
+   "cena": 20,
+   "secao": "3. As regras",
+   "texto": "Regra quatro: sobe no teto. É o ponto mais alto que você tem.",
+   "start": 48.63,
+   "end": 52.531
+  },
+  {
+   "n": "021",
+   "cena": 21,
+   "secao": "3. As regras",
+   "texto": "Lá de cima, você entende: trinta centímetros de água corrente já arrastam um carro. O do lado começa a girar.",
+   "start": 52.731,
+   "end": 59.159
+  },
+  {
+   "n": "022",
+   "cena": 22,
+   "secao": "3. As regras",
+   "texto": "Agora sim, o celular.",
+   "start": 59.359,
+   "end": 60.956
+  },
+  {
+   "n": "023",
+   "cena": 23,
+   "secao": "3. As regras",
+   "texto": "Regra cinco: liga um nove três. Fala a via, o sentido, um ponto de referência e quantas pessoas estão com você.",
+   "start": 61.156,
+   "end": 68.152
+  },
+  {
+   "n": "024",
+   "cena": 24,
+   "secao": "4. Virada",
+   "texto": "Uma luz corta a chuva. Um bote dos bombeiros.",
+   "start": 68.602,
+   "end": 72.353
+  },
+  {
+   "n": "025",
+   "cena": 25,
+   "secao": "4. Virada",
+   "texto": "Você pensa em pular e nadar até eles.",
+   "start": 72.553,
+   "end": 74.729
+  },
+  {
+   "n": "026",
+   "cena": 26,
+   "secao": "4. Virada",
+   "texto": "Não. Quem entra na água é o bombeiro.",
+   "start": 74.929,
+   "end": 77.024
+  },
+  {
+   "n": "027",
+   "cena": 27,
+   "secao": "4. Virada",
+   "texto": "Você fica.",
+   "start": 77.224,
+   "end": 78.128
+  },
+  {
+   "n": "028",
+   "cena": 28,
+   "secao": "4. Virada",
+   "texto": "E aí você ouve um barulho atrás de você... O ônibus começou a se mexer.",
+   "start": 78.328,
+   "end": 82.303
+  }
+ ]
+}
